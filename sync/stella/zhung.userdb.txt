@@ -2,935 +2,995 @@
 #@/db_name	zhung.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	1670
+#@/tick	1833
 #@/user_id	stella
-an1 ji1 suan1 	氨基酸	c=4 d=2.56029 t=1670
-ba4 	靶	c=0 d=0.0241714 t=1670
-ba4 si4 bau1 	靶細胞	c=2 d=0.681162 t=1670
-ban3 ben3 	版本	c=5 d=4.46205 t=1670
-ban3 ben3 hau4 	版本號	c=1 d=0.955997 t=1670
-ban4 geo4 	半個	c=1 d=0.0295994 t=1670
-ban4 guang1 an1 suan1 	半胱氨酸	c=1 d=0.245367 t=1670
-ban4 shuai1 qi2 	半衰期	c=1 d=0.0471227 t=1670
-bau1 guo1 	包括	c=2 d=0.856361 t=1670
-bau3 hu4 	保護	c=2 d=1.88825 t=1670
-be2 si4 bau1 	白細胞	c=3 d=1.93356 t=1670
-be2 si4 bau1 fen1 hua4 kang2 yuan2 	白細胞分化抗原	c=1 d=0.481909 t=1670
-be2 si4 bau1 jai4 su4 	白細胞介素	c=2 d=0.449621 t=1670
-be2 si4 bau1 jan4 	白細胞間	c=-1 d=0.2334 t=1670
-bei4 	被	c=1 d=1 t=1595
-bei4 cheng1 wui2 	被稱爲	c=1 d=0.137381 t=1670
-ben3 shen1 	本身	c=1 d=1 t=1606
-bi1 	壁	c=0 d=0.0546074 t=1670
-bi3 jau4 	比較	c=2 d=0.946485 t=1670
-bi3 li4 	比例	c=1 d=0.0466538 t=1670
-bi3 rhu2 	比如	c=1 d=0.88692 t=1670
-bi4 mian3 	避免	c=1 d=0.856415 t=1670
-bi4 mian3 hun4 xau2 	避免混淆	c=1 d=0.847894 t=1670
-bian1 ma3 	編碼	c=2 d=1.22593 t=1670
-bian1 ma3 ji1 yin1 	編碼基因	c=2 d=1.06954 t=1670
-bian4 hua4 	變化	c=0 d=0.0847894 t=1670
-bian4 xe2 	便攜	c=1 d=0.932394 t=1670
-biau1 ji4 	標記	c=0 d=0.0470011 t=1670
-biau1 zhy4 	標誌	c=2 d=0.814647 t=1670
-biau3 da1 	表達	c=5 d=1.7411 t=1670
-biau3 da1 te2 dian3 	表達特點	c=1 d=0.733447 t=1670
-biau3 da1 yu1 	表達於	c=1 d=0.496585 t=1670
-biau3 da1 zai4 	表達在	c=2 d=1.72616 t=1670
-biau3 ge1 	表格	c=3 d=0.0723704 t=1670
-biau3 mian4 	表面	c=3 d=1.15731 t=1670
-biau3 wui4 	表位	c=0 d=0.0995012 t=1670
-biau3 xan4 	表現	c=1 d=1 t=1585
-bing4 	並	c=3 d=1.05602 t=1670
-bing4 du2 	病毒	c=2 d=0.389284 t=1670
-bing4 li3 	病理	c=1 d=0.140156 t=1670
-bing4 tung1 guo1 	並通過	c=1 d=0.285076 t=1670
-bing4 yuan2 ti3 	病原體	c=1 d=1 t=1629
-bing4 zai4 	並在	c=1 d=1 t=1667
-bu1 ci2 	不齊	c=0 d=0.00306538 t=1670
-bu1 cing1 chu3 	不清楚	c=0 d=0.0778801 t=1670
-bu1 deng3 	不等	c=0 d=0.0798516 t=1670
-bu1 keo3 	不可	c=1 d=0.852144 t=1670
-bu1 keo3 bi4 mian3 	不可避免	c=0 d=0.0860708 t=1670
-bu1 keo3 bi4 mian3 di4 	不可避免地	c=1 d=0.865022 t=1670
-bu1 neng2 	不能	c=3 d=0.932031 t=1670
-bu1 siang1 yung2 	不相容	c=1 d=0.965605 t=1670
-bu1 tung2 	不同	c=5 d=1.71235 t=1670
-bu1 tung2 di1 	不同的	c=1 d=0.878095 t=1670
-bu1 tung2 jai1 duan4 	不同階段	c=1 d=0.506617 t=1670
-bu1 tung2 le1 	不同的	c=1 d=1 t=1646
-bu1 tung2 pu3 xi4 	不同譜系	c=1 d=0.496585 t=1670
-bu1 yi1 	不易	c=0 d=0.0847894 t=1670
-bu1 yi1 bian4 hua4 	不易變化	c=1 d=0.852144 t=1670
-bu1 zin4 siang1 tung2 	不盡相同	c=1 d=0.826959 t=1670
-bu3 ti3 	補體	c=22 d=2.00145 t=1670
-bu3 ti3 cheng2 fen1 	補體成分	c=4 d=1.30548 t=1670
-bu3 ti3 huo2 hua4 tu2 jing4 	補體活化途徑	c=1 d=0.0916297 t=1670
-bu3 ti3 ji1 huo2 	補體激活	c=1 d=0.151072 t=1670
-bu3 ti3 ji1 huo2 tu2 jing4 	補體激活途徑	c=1 d=0.0816756 t=1670
-bu3 ti3 shou4 ti3 	補體受體	c=1 d=0.071719 t=1670
-bu3 ti3 tiau2 zie1 dan4 be2 	補體調節蛋白	c=1 d=0.0713613 t=1670
-bu4 fen1 	部分	c=1 d=1 t=1656
-bu4 wui4 	部位	c=0 d=0.0834974 t=1670
-bu4 zhou4 	步驟	c=0 d=0.00773047 t=1670
-can1 yu3 	參與	c=6 d=3.45938 t=1670
-cang1 je1 	倉頡	c=0 d=0.097531 t=1670
-cang1 je1 wu3 dai4 	倉頡五代	c=1 d=0.980199 t=1670
-cha1 	差	c=1 d=0.0309618 t=1670
-cha1 bie2 	差別	c=1 d=1 t=1551
-cha1 yi4 	差異	c=0 d=0.1 t=1609
-chan3 sheng1 	產生	c=4 d=0.909373 t=1670
-chan3 wu1 	產物	c=3 d=1.90285 t=1670
-chang2 wui2 	常爲	c=1 d=0.29671 t=1670
-chau1 	超	c=0 d=0.0371111 t=1670
-chau1 min3 fan1 ying1 	超敏反應	c=2 d=0.423162 t=1670
-chen1 zhan3 	伸展	c=1 d=0.918512 t=1670
-chen2 	沉	c=0 d=0.0527292 t=1670
-chen2 jang4 xi4 shu3 	沉降係數	c=1 d=0.529935 t=1670
-cheng1 	稱	c=1 d=0.852144 t=1670
-cheng1 wui2 	稱爲	c=7 d=3.48263 t=1670
-cheng1 zhy1 wui2 	稱之爲	c=3 d=1.77332 t=1670
-cheng2 	呈	c=0 d=0.0355226 t=1670
-cheng2 	成	c=1 d=0.273898 t=1670
-cheng2 fen1 	成分	c=3 d=0.77053 t=1670
-cheng2 gung1 	成功	c=1 d=0.037068 t=1670
-cheng2 shu2 	成熟	c=1 d=0.919709 t=1670
-cheng2 shu2 si4 bau1 	成熟細胞	c=1 d=0.511709 t=1670
-cheng2 sian1 vi3 si4 bau1 	成纖維細胞	c=1 d=0.316637 t=1670
-cheng2 wui2 	成爲	c=1 d=0.891366 t=1670
-chu1 	出	c=0 d=0.1 t=1575
-chu1 cy4 	初次	c=1 d=0.0536647 t=1670
-chu1 shy3 	初始	c=1 d=0.869358 t=1670
-chu1 xan4 	出現	c=2 d=0.555921 t=1670
-chuan1 guo1 	穿過	c=1 d=0.425283 t=1670
-chuang1 shang1 	創傷	c=1 d=0.442639 t=1670
-chung2 die2 	重疊	c=0 d=0.0218712 t=1670
-chung2 die2 sing4 	重疊性	c=1 d=0.219808 t=1670
-chy3 lun2 	齒輪	c=1 d=0.0378169 t=1670
-cian1 yi2 	遷移	c=2 d=1.62149 t=1670
-cian2 	前	c=1 d=0.0655462 t=1670
-cian2 zhe2 	前者	c=1 d=0.951229 t=1670
-cin1 huo2 li1 	親和力	c=1 d=0.901198 t=1670
-cing3 wun4 	請問	c=1 d=0.035437 t=1670
-ciu1 	促	c=0 d=0.00765355 t=1670
-ciu1 	趨	c=0 d=0.0404542 t=1670
-ciu1 fan3 ying4 	促反應	c=1 d=0.0769192 t=1670
-ciu1 hua4 yin1 zy3 	趨化因子	c=1 d=0.40657 t=1670
-ciu1 zin4 	促進	c=6 d=2.02883 t=1670
-ciu3 	取	c=1 d=0.99005 t=1670
-ciung2 el2 	從而	c=1 d=0.798516 t=1670
-cu1 zin4 	粗進	c=-1 d=0 t=1670
-cun2 zai4 	存在	c=3 d=1.0951 t=1670
-cun2 zai4 yu1 	存在於	c=4 d=1.77137 t=1670
-cy4 ji1 	刺激	c=6 d=1.92593 t=1670
-da3 bu1 kai1 	打不開	c=1 d=0.0356146 t=1670
-da4 yuo1 	大約	c=1 d=0.0301974 t=1670
-dan1 	單	c=1 d=0.546074 t=1670
-dan1 he2 	單核	c=1 d=0.29523 t=1670
-dan1 ke1 liung2 	單克隆	c=1 d=0.57695 t=1670
-dan1 ke1 liung2 kang2 ti3 	單克隆抗體	c=1 d=0.904837 t=1670
-dan1 ti3 	單體	c=10 d=2.20458 t=1670
-dan4 be2 	蛋白	c=0 d=0.00710054 t=1670
-dan4 be2 mei2 	蛋白酶	c=1 d=0.349938 t=1670
-dan4 be2 zhy1 	蛋白質	c=1 d=0.0799878 t=1670
-dau4 	到	c=0 d=0.00232837 t=1670
-de1 ming2 	得名	c=1 d=0.268474 t=1670
-deng3 	等	c=3 d=0.937067 t=1670
-deng3 kuan1 zy4 ti3 	等寬字體	c=1 d=0.802519 t=1670
-deng3 wui4 ji1 yin1 	等位基因	c=2 d=1.94176 t=1546
-di1 	低	c=0 d=0.0166127 t=1670
-di1 	的	c=-29 d=10.1936 t=1670
-di1 fen1 zy3 liang2 	低分子量	c=1 d=0.16696 t=1670
-di4 	地	c=2 d=1.92697 t=1670
-di4 zhy3 	地址	c=0 d=0.0895834 t=1670
-dian3 	點	c=1 d=0.0359725 t=1670
-diau1 wang2 	凋亡	c=1 d=0.431711 t=1670
-ding4 xang4 	定向	c=1 d=0.790571 t=1670
-dou3 	都	c=2 d=0.0623811 t=1670
-dou3 shy4 	都是	c=2 d=0.965605 t=1670
-du2 	毒	c=0 d=0.0414783 t=1670
-du2 su4 	毒素	c=1 d=0.960789 t=1670
-du2 te2 	獨特	c=0 d=0.0369723 t=1670
-du2 te2 xing2 	獨特型	c=1 d=0.371577 t=1670
-du2 zuo1 yung4 	毒作用	c=1 d=0.416862 t=1670
-du4 	度	c=0 d=0.18233 t=1670
-duan4 	段	c=1 d=0.396531 t=1670
-dui4 	對	c=5 d=2.36379 t=1670
-dui4 bu1 ci2 	對不齊	c=1 d=0.0308074 t=1670
-dui4 ci2 	對齊	c=2 d=0.0485868 t=1670
-duo1 	多	c=0 d=0.0382893 t=1670
-duo1 geo4 	多個	c=1 d=1 t=1533
-duo1 neng2 zau4 xe1 gan4 si4 bau1 	多能造血幹細胞	c=1 d=0.384812 t=1670
-duo1 tai4 	多肽	c=1 d=0.19205 t=1670
-duo1 tai4 lian2 	多肽鏈	c=2 d=0.869358 t=1670
-duo1 tai4 sing4 	多態性	c=2 d=1.95123 t=1536
-duo1 wui2 	多爲	c=1 d=0.190139 t=1670
-duo1 xau4 sing4 	多效性	c=1 d=0.218712 t=1670
-duo1 ziu4 ti3 	多聚體	c=1 d=0.264477 t=1670
-el2 	而	c=3 d=1.01807 t=1670
-el4 cy4 	二次	c=1 d=0.0547488 t=1670
-el4 liou2 jan4 	二硫鍵	c=2 d=0.568744 t=1670
-el4 ziu4 ti3 	二聚體	c=5 d=1.5303 t=1670
-eo1 di2 	阿迪	c=0 d=0.0932394 t=1670
-fa1 hui1 	發揮	c=3 d=1.44335 t=1670
-fa1 hui1 tiau2 zie1 zuo1 yung4 	發揮調節作用	c=1 d=0.23457 t=1670
-fa1 hui1 zuo1 yung4 	發揮作用	c=2 d=1.10487 t=1670
-fa1 sheng1 	發生	c=1 d=0.86726 t=1670
-fa1 sheng1 gan3 rhan3 	發生感染	c=1 d=0.57695 t=1670
-fa1 xan4 	發現	c=1 d=0.759572 t=1670
-fa1 yu1 	發育	c=0 d=0.0802519 t=1670
-fa1 yu1 cheng2 shu2 	發育成熟	c=1 d=0.806541 t=1670
-fa1 yu1 fen1 hua4 jai1 duan4 	發育分化階段	c=1 d=0.390628 t=1670
-fan1 dau3 shy4 	反倒是	c=1 d=0.0366992 t=1670
-fan3 ying4 	反應	c=0 d=0.114396 t=1670
-fan3 ying4 xi4 tung3 	反應系統	c=1 d=0.063609 t=1670
-fang1 an4 	方案	c=4 d=3.30792 t=1670
-fang1 fa1 	方法	c=3 d=2.02554 t=1670
-fang2 yu3 	防禦	c=0 d=0.00558548 t=1670
-fen1 bi2 	分泌	c=0 d=0.0932394 t=1670
-fen1 bi2 xing2 	分泌型	c=1 d=0.937067 t=1670
-fen1 bie2 	分別	c=1 d=0.80792 t=1670
-fen1 bie2 wui2 	分別爲	c=2 d=0.941765 t=1670
-fen1 bie2 yung4 	分別用	c=1 d=0.733447 t=1670
-fen1 bu4 	分佈	c=0 d=0.0733447 t=1670
-fen1 hua4 	分化	c=7 d=2.34383 t=1670
-fen1 hua4 cheng2 shu2 	分化成熟	c=1 d=0.491644 t=1670
-fen1 hua4 qun2 	分化羣	c=1 d=0.606531 t=1670
-fen1 lui4 	分類	c=1 d=0.453845 t=1670
-fen1 mi1 	分泌	c=4 d=1.18283 t=1670
-fen1 mi1 cheng2 fen1 	分泌成分	c=1 d=0.307279 t=1670
-fen1 mi1 pian4 	分泌片	c=2 d=0.606924 t=1670
-fen1 mi1 xing2 	分泌型	c=6 d=2.86496 t=1670
-fen1 mi1 yi2 	分泌液	c=1 d=0.767792 t=1670
-fen1 si1 	分析	c=0 d=0.0752014 t=1670
-fen1 wui2 	分爲	c=5 d=2.55301 t=1670
-fen1 zy3 	分子	c=18 d=4.50508 t=1670
-fen1 zy3 je1 gou4 	分子結構	c=1 d=0.726149 t=1670
-fen1 zy3 ji1 chu3 	分子基礎	c=1 d=0.83527 t=1670
-fen1 zy3 liang2 	分子量	c=4 d=1.78747 t=1670
-feng1 fu4 	豐富	c=1 d=0.895834 t=1670
-fi1 	非	c=0 d=0.097531 t=1670
-fi1 jing1 dian3 	非經典	c=2 d=1.3184 t=1670
-fi2 da4 	肥大	c=0 d=0.00500366 t=1670
-fi2 da4 si4 bau1 	肥大細胞	c=1 d=0.0502874 t=1670
-fu1 heo2 ti3 	複合體	c=0 d=0.192275 t=1670
-fu1 heo2 wu1 	複合物	c=0 d=0.010435 t=1670
-fu1 zhy4 	複製	c=1 d=0.263158 t=1670
-fu2 hau4 	符號	c=2 d=0.0517694 t=1670
-fu3 an1 suan1 	脯氨酸	c=1 d=0.904837 t=1670
-fu3 zhu4 	輔助	c=1 d=0.111255 t=1670
-fu3 zhu4 cheng2 fen1 	輔助成分	c=1 d=0.316637 t=1670
-fu3 zhu4 shou4 ti3 	輔助受體	c=3 d=2.24549 t=1670
-fu3 zhu4 sing4 	輔助性	c=1 d=0.183599 t=1670
-fu4 han2 	富含	c=1 d=0.244143 t=1670
-fu4 zhe1 	負責	c=1 d=0.778801 t=1670
-gai1 	該	c=1 d=0.0349094 t=1670
-gai3 bian4 	改變	c=1 d=0.932394 t=1670
-gai4 nian4 	概念	c=3 d=1.01745 t=1670
-gan1 rhau3 	干擾	c=1 d=0.256661 t=1670
-gan1 rhau3 su4 	干擾素	c=6 d=1.70146 t=1670
-gan3 rhan3 	感染	c=2 d=0.640155 t=1670
-gan3 rhan3 sing4 	感染性	c=0 d=0.0147342 t=1670
-gan3 rhan3 sing4 zi2 bing4 	感染性疾病	c=1 d=0.14808 t=1670
-gau1 	高	c=0 d=0.0202909 t=1670
-gau1 bian4 qu1 	高變區	c=1 d=0.718924 t=1670
-gau1 cin1 huo2 li1 shou4 ti3 	高親和力受體	c=1 d=0.203926 t=1670
-gau1 du4 	高度	c=0 d=0.070822 t=1670
-gau1 du4 keo3 bian4 	高度可變	c=1 d=0.71177 t=1670
-geng1 gai3 	更改	c=0 d=0.0037068 t=1670
-geng1 gai3 leo1 	更改了	c=1 d=0.0372538 t=1670
-geo1 	各	c=2 d=0.786628 t=1670
-geo1 geo4 	各個	c=1 d=0.499074 t=1670
-geo1 lui4 	各類	c=1 d=0.786628 t=1670
-geo1 you3 	各有	c=1 d=0.683861 t=1670
-geo1 zhung3 	各種	c=0 d=0.0995012 t=1670
-geo1 zhung3 gung1 neng2 	各種功能	c=1 d=1 t=1670
-geo4 	個	c=3 d=0.748264 t=1670
-geo4 ti3 	個體	c=1 d=0.822527 t=1609
-geo4 ti3 cha1 yi4 	個體差異	c=1 d=1 t=1610
-geo4 yue1 	個月	c=2 d=0.0900995 t=1670
-gou4 cheng2 	構成	c=4 d=1.46828 t=1670
-gu1 ja4 	骨架	c=0 d=0.0856415 t=1670
-gu1 ja4 qu1 	骨架區	c=1 d=0.860708 t=1670
-gu4 you3 	固有	c=0 d=0.0241486 t=1670
-gu4 you3 cheng2 fen1 	固有成分	c=1 d=0.0706512 t=1670
-gu4 you3 mian3 yi1 	固有免疫	c=1 d=0.213523 t=1670
-gu4 you3 mian3 yi1 ying1 da1 	固有免疫應答	c=1 d=0.416862 t=1670
-guang3 fan4 	廣泛	c=0 d=0.00587185 t=1670
-guang3 fan4 cun2 zai4 	廣泛存在	c=1 d=0.0590129 t=1670
-gui1 chau2 	歸巢	c=0 d=0.0767206 t=1670
-gui1 wui2 	歸爲	c=1 d=0.600496 t=1670
-gung1 	攻	c=0 d=0.010435 t=1670
-gung1 muo2 fu1 heo2 wu1 	攻膜複合物	c=2 d=0.221357 t=1670
-gung1 neng2 	功能	c=10 d=2.59622 t=1670
-gung1 neng2 te2 dian3 	功能特點	c=1 d=0.774916 t=1670
-gung1 shy1 	公式	c=2 d=0.0515112 t=1670
-gung4 	共	c=0 d=0.0782705 t=1670
-gung4 meng4 	共夢	c=-1 d=0 t=1573
-gung4 tung2 	共同	c=2 d=0.234975 t=1670
-gung4 tung2 zu3 cheng2 	共同組成	c=1 d=0.752014 t=1670
-gung4 tung2 zu3 fen1 	共同組分	c=1 d=0.0824965 t=1670
-gung4 xan3 sing4 	共顯性	c=2 d=1.65165 t=1670
-guo1 cheng2 	過程	c=3 d=1.37087 t=1670
-guo1 min3 	過敏	c=0 d=0.0137381 t=1670
-guo1 min3 du2 su4 	過敏毒素	c=1 d=0.138069 t=1670
-han2 	含	c=1 d=0.66365 t=1670
-han2 liang2 	含量	c=1 d=0.891366 t=1670
-han2 tang2 	含糖	c=1 d=0.321422 t=1670
-han2 you3 	含有	c=2 d=1.45407 t=1670
-han4 yu3 pin1 yin1 	漢語拼音	c=1 d=1 t=1670
-he1 ti3 	黑體	c=0 d=0.00320647 t=1670
-hen3 	很	c=1 d=0.0306538 t=1670
-hen3 di1 	很低	c=2 d=0.752014 t=1670
-heng2 ding4 	恆定	c=1 d=0.897027 t=1670
-heng2 ding4 qu1 	恆定區	c=2 d=1.51228 t=1670
-heo2 cheng2 	合成	c=4 d=1.25647 t=1670
-heo2 cheng2 liu1 	合成率	c=1 d=0.04573 t=1670
-heo2 yi3 	何以	c=0 d=0.0932394 t=1670
-hou4 	後	c=1 d=0.882497 t=1670
-hou4 qi2 	後期	c=1 d=0.0439369 t=1670
-hou4 zhe2 	後者	c=1 d=0.726149 t=1670
-hu1 xi1 dau4 	呼吸道	c=1 d=0.453845 t=1670
-hu3 bu3 	互補	c=1 d=0.726149 t=1670
-hua4 	化	c=0 d=0.0404542 t=1670
-hua4 xuo2 	化學	c=0 d=0.0878095 t=1670
-hua4 xuo2 je1 gou4 	化學結構	c=1 d=0.882497 t=1670
-huai2 	或	c=12 d=2.78612 t=1670
-huai4 sy3 	壞死	c=0 d=0.0733923 t=1670
-hui4 you3 	會有	c=1 d=0.869358 t=1670
-hui4 yung4 	會用	c=0 d=0.00232837 t=1670
-hui4 yung4 dau4 	會用到	c=1 d=0.0234005 t=1670
-hun4 xau2 	混淆	c=0 d=0.0843665 t=1670
-huo2 	和	c=54 d=10.6699 t=1670
-huo2 hua4 	活化	c=6 d=1.71783 t=1670
-huo2 hua4 guo1 cheng2 	活化過程	c=1 d=0.0889216 t=1670
-huo2 sing4 	活性	c=2 d=1.4284 t=1670
-ja1 gung1 	加工	c=1 d=0.965605 t=1670
-ja1 zu2 	家族	c=2 d=0.691086 t=1670
-ja4 	價	c=1 d=0.0480747 t=1670
-jai1 duan4 	階段	c=0 d=0.038868 t=1670
-jai4 	介	c=0 d=0.022313 t=1670
-jai4 dau4 	介導	c=6 d=1.02359 t=1670
-jai4 zhy1 	介質	c=0 d=0.0135335 t=1670
-jan1 ding4 	鑑定	c=1 d=0.554327 t=1670
-jan3 cheng1 	簡稱	c=2 d=1.55133 t=1670
-jan3 chu1 	檢出	c=1 d=0.56836 t=1670
-jan4 	鍵	c=1 d=0.818731 t=1670
-jan4 	間	c=2 d=0.794534 t=1670
-jan4 el4 liou2 	間二硫	c=1 d=0.814647 t=1670
-jan4 pan2 	鍵盤	c=0 d=0.0970446 t=1670
-jan4 pan2 kung3 	鍵盤控	c=1 d=0.97531 t=1670
-jang4 	降	c=0 d=0.0527292 t=1670
-jau1 cha1 	交叉	c=0 d=0.0100259 t=1670
-jau1 cha1 ciu1 zin4 	交叉促進	c=1 d=0.100761 t=1670
-jau4 da4 	較大	c=1 d=0.882497 t=1670
-jau4 di1 	較低	c=1 d=0.19398 t=1670
-jau4 lian4 	鉸鍊	c=0 d=0.0865022 t=1670
-jau4 lian4 qu1 	鉸鍊區	c=2 d=1.74307 t=1670
-jau4 siau3 	較小	c=1 d=0.913931 t=1670
-jau4 sin1 	較新	c=1 d=0.995012 t=1670
-jau4 wan3 	較晚	c=1 d=0.045502 t=1670
-je1 gou4 	結構	c=1 d=0.862558 t=1670
-je1 gou4 fen1 si1 	結構分析	c=1 d=0.755784 t=1670
-je1 gou4 shang4 	結構上	c=1 d=0.99005 t=1670
-je1 gou4 yu1 	結構域	c=2 d=0.238742 t=1670
-je1 heo2 	結合	c=19 d=4.27525 t=1670
-je1 kang4 	拮抗	c=1 d=0.487316 t=1670
-je1 kang4 sing4 	拮抗性	c=1 d=0.22091 t=1670
-ji1 	及	c=4 d=1.42107 t=1670
-ji1 chu3 	基礎	c=0 d=0.0831104 t=1670
-ji1 huo2 	激活	c=11 d=1.65236 t=1670
-ji1 huo2 sing4 	激活性	c=1 d=1 t=1649
-ji1 huo2 tu2 jing4 	激活途徑	c=1 d=0.0930145 t=1670
-ji1 huo2 wu1 	激活物	c=3 d=1.12711 t=1670
-ji1 liuan2 	級聯	c=0 d=0.00761538 t=1670
-ji1 liuan2 mei2 	級聯酶	c=1 d=0.0765355 t=1670
-ji1 qi2 	及其	c=2 d=0.895834 t=1670
-ji1 yin1 	基因	c=6 d=3.99812 t=1670
-ji1 yin1 chan3 wu1 	基因產物	c=1 d=0.839457 t=1670
-ji1 yin1 fu1 heo2 ti3 	基因複合體	c=2 d=1.65642 t=1670
-ji1 yin1 je1 gou4 	基因結構	c=1 d=1 t=1617
-ji1 zhy1 	基質	c=0 d=0.0640824 t=1670
-ji1 zhy4 	機制	c=1 d=0.062662 t=1670
-ji4 	計	c=0 d=0.0909373 t=1670
-ji4 sheng1 chung2 	寄生蟲	c=1 d=0.0569831 t=1670
-jin1 yung4 	禁用	c=1 d=0.826959 t=1670
-jin3 	僅	c=1 d=0.831104 t=1670
-jin3 zhan4 	僅佔	c=1 d=0.628135 t=1670
-jing1 	經	c=1 d=0.680451 t=1670
-jing1 dian3 	經典	c=5 d=0.801124 t=1670
-jing1 dian3 ji1 huo2 tu2 jing4 	經典激活途徑	c=1 d=0.0720785 t=1670
-jing1 dian3 le1 	經典的	c=1 d=1 t=1620
-ju2 bu4 	局部	c=1 d=0.542989 t=1670
-ju2 bu4 mian3 yi1 	局部免疫	c=1 d=0.733447 t=1670
-ju3 li2 	距離	c=1 d=0.970446 t=1670
-ju4 	巨	c=0 d=0.0535261 t=1670
-ju4 cy3 	據此	c=1 d=0.960789 t=1670
-ju4 qou2 dan4 be2 	巨球蛋白	c=1 d=0.537944 t=1670
-ju4 shy4 si4 bau1 	巨噬細胞	c=2 d=0.643167 t=1670
-ju4 you3 	具有	c=8 d=2.67693 t=1670
-jue1 ding4 	決定	c=0 d=0.148572 t=1670
-jue1 ding4 qu1 	決定區	c=1 d=0.729789 t=1670
-jue1 ding4 zhe2 	決定者	c=1 d=1 t=1613
-jue1 ding4 zhuo2 	決定着	c=1 d=0.763379 t=1670
-jun1 	均	c=1 d=0.856415 t=1670
-jun4 	菌	c=1 d=0.130029 t=1670
-juo1 du4 	角度	c=1 d=0.687289 t=1670
-kai1 shy3 	開始	c=1 d=0.0430669 t=1670
-kang2 	抗	c=1 d=0.0941345 t=1670
-kang2 bing4 du2 	抗病毒	c=3 d=0.964615 t=1670
-kang2 du2 su4 	抗毒素	c=1 d=0.995012 t=1670
-kang2 gan3 rhan3 	抗感染	c=1 d=0.0564161 t=1670
-kang2 si4 bau1 zeng1 zhy2 	抗細胞增殖	c=1 d=0.319819 t=1670
-kang2 ti3 	抗體	c=9 d=3.43717 t=1670
-kang2 yuan2 	抗原	c=14 d=5.62935 t=1670
-kang2 yuan2 biau3 wui4 	抗原表位	c=1 d=1 t=1670
-kang2 yuan2 je1 heo2 bu4 wui4 	抗原結合部位	c=1 d=0.759572 t=1670
-kang2 yuan2 shou4 ti3 	抗原受體	c=1 d=0.744532 t=1670
-kang2 yuan2 sing4 	抗原性	c=1 d=0.839457 t=1670
-kang2 yuan2 tai4 	抗原肽	c=5 d=2.40776 t=1670
-kang2 yuan2 ti2 cheng2 	抗原提呈	c=1 d=0.357007 t=1670
-kang2 yuan2 ti2 cheng2 fen1 zy3 	抗原提呈分子	c=1 d=1 t=1568
-kau3 liu4 	考慮	c=1 d=0.932394 t=1670
-ke1 liung2 	克隆	c=1 d=0.548812 t=1670
-keo3 	可	c=3 d=1.4056 t=1670
-keo3 bian4 	可變	c=0 d=0.134585 t=1670
-keo3 bian4 qu1 	可變區	c=2 d=1.37795 t=1670
-keo3 tung1 guo1 	可通過	c=1 d=0.451581 t=1670
-keo3 yi3 	可以	c=1 d=0.941765 t=1670
-keo3 yi3 shy4 	可以是	c=1 d=1 t=1602
-keo3 yung2 	可溶	c=0 d=0.0453845 t=1670
-keo3 yung2 sing4 	可溶性	c=0 d=0.016696 t=1670
-keo3 yung2 sing4 dan4 be2 zhy1 	可溶性蛋白質	c=1 d=0.167797 t=1670
-keo3 yung2 xing2 	可溶型	c=1 d=0.45612 t=1670
-keo3 yung4 yu1 	可用於	c=1 d=0.579842 t=1670
-keo3 ziang1 	可將	c=2 d=1.8135 t=1670
-kuan1 	寬	c=0 d=0.0798516 t=1670
-kuan1 du4 	寬度	c=1 d=0.0300468 t=1670
-kung1 ge1 	空格	c=1 d=0.0305009 t=1670
-kung1 geo4 	空個	c=2 d=0.0589066 t=1670
-kung3 	控	c=0 d=0.0970446 t=1670
-lai2 	來	c=1 d=0.690734 t=1670
-lai2 zy4 	來自	c=1 d=0.565525 t=1670
-le1 	的	c=85 d=14.5757 t=1670
-le1 shy4 	的是	c=0 d=0.00319048 t=1670
-leo1 	了	c=3 d=0.899169 t=1670
-li3 	裏	c=2 d=0.0623519 t=1670
-li3 hua4 	理化	c=0 d=0.097531 t=1670
-li3 hua4 sing4 zhy1 	理化性質	c=1 d=0.980199 t=1670
-lian2 	鏈	c=22 d=10.0196 t=1670
-lian2 zie1 	連接	c=4 d=1.51263 t=1670
-liang2 	量	c=1 d=0.0464212 t=1670
-liang3 bei4 	兩臂	c=1 d=0.980199 t=1670
-liang3 geo4 	兩個	c=4 d=2.47543 t=1670
-liang3 tiau2 	兩條	c=1 d=0.960789 t=1670
-liang3 xing2 	兩型	c=3 d=1.59226 t=1670
-liang3 zhung3 	兩種	c=1 d=0.937067 t=1670
-lin2 ba1 	淋巴	c=0 d=0.0373439 t=1670
-lin2 ba1 du2 su4 	淋巴毒素	c=1 d=0.375311 t=1670
-lin2 ba1 si4 bau1 	淋巴細胞	c=7 d=3.2996 t=1670
-lin2 ba1 si4 bau1 gui1 chau2 	淋巴細胞歸巢	c=3 d=2.40668 t=1670
-ling4 yi1 geo4 	另一個	c=1 d=0.900325 t=1670
-liu1 	率	c=0 d=0.0086264 t=1670
-lui4 	類	c=14 d=5.19058 t=1670
-lui4 bie2 	類別	c=2 d=1.23938 t=1670
-lui4 sy4 	類似	c=1 d=0.0273237 t=1670
-lui4 xing2 	類型	c=2 d=0.550569 t=1670
-luo1 	落	c=0 d=0.0375311 t=1670
-mei1 rhen4 	默認	c=1 d=0.970446 t=1670
-mei2 	酶	c=0 d=0.00761538 t=1670
-mian3 yi1 	免疫	c=1 d=0.588775 t=1670
-mian3 yi1 bu1 yau4 	免疫不要	c=-1 d=0 t=1670
-mian3 yi1 gan4 	免疫幹	c=-1 d=0 t=1670
-mian3 yi1 geo1 	免疫各	c=-1 d=0 t=1670
-mian3 yi1 nian2 fu4 	免疫黏附	c=1 d=0.135335 t=1670
-mian3 yi1 qou2 dan4 be2 	免疫球蛋白	c=11 d=4.12369 t=1670
-mian3 yi1 qou2 dan4 be2 chau1 ja1 zu2 	免疫球蛋白超家族	c=2 d=0.475101 t=1670
-mian3 yi1 si4 bau1 	免疫細胞	c=2 d=0.886865 t=1670
-mian3 yi1 sing4 	免疫性	c=0 d=0.1 t=1632
-mian3 yi1 sing4 zi2 bing4 	免疫性疾病	c=1 d=1 t=1633
-mian3 yi1 tiau2 zie1 	免疫調節	c=2 d=0.621113 t=1670
-mian3 yi1 xau4 ying1 	免疫效應	c=1 d=0.806541 t=1670
-mian3 yi1 ying1 da1 	免疫應答	c=1 d=0.639661 t=1670
-mian3 yi1 yuan2 	免疫原	c=1 d=0.159614 t=1670
-ming2 cheng1 	名稱	c=1 d=0.276651 t=1670
-ming4 ming2 	命名	c=2 d=0.76506 t=1670
-ming4 ming2 wui2 	命名爲	c=1 d=0.913931 t=1670
-mu1 gua1 	木瓜	c=1 d=0.348192 t=1670
-mu2 	沒	c=0 d=0.0036334 t=1670
-mu2 fan3 ying4 	沒反應	c=1 d=0.0365162 t=1670
-muo2 	膜	c=0 d=0.0491644 t=1670
-muo2 je1 heo2 xing2 	膜結合型	c=2 d=1.28074 t=1670
-muo2 shy1 	模式	c=0 d=0.0609571 t=1670
-muo2 shy1 shy1 bie2 shou4 ti3 	模式識別受體	c=1 d=0.612626 t=1670
-muo2 xing2 	膜型	c=1 d=0.946485 t=1670
-neng2 	能	c=2 d=0.927743 t=1670
-neng2 gou4 	能夠	c=1 d=0.380983 t=1670
-nian2 fu4 	黏附	c=1 d=0.841932 t=1670
-nian2 fu4 fen1 zy3 	黏附分子	c=4 d=3.13523 t=1670
-nian2 muo2 	黏膜	c=4 d=2.1248 t=1670
-nian2 muo2 mian3 yi1 	黏膜免疫	c=1 d=0.055299 t=1670
-nian2 muo2 shang4 pi2 	黏膜上皮	c=1 d=0.327915 t=1670
-niung2 du4 	濃度	c=4 d=0.748264 t=1670
-nui4 fen1 mi1 	內分泌	c=1 d=0.214381 t=1670
-nui4 pi2 	內皮	c=1 d=0.847822 t=1670
-nui4 pi2 si4 bau1 	內皮細胞	c=1 d=0.88692 t=1670
-nui4 yuan2 	內源	c=0 d=0.0810584 t=1670
-nui4 yuan2 sing4 	內原性	c=-1 d=0 t=1670
-nui4 yuan2 sing4 	內源性	c=1 d=0.814647 t=1670
-nui4 zhy4 	內置	c=1 d=0.839457 t=1670
-pai2 chy1 	排斥	c=0 d=0.0970446 t=1670
-pai2 lie1 	排列	c=0 d=0.0818731 t=1670
-pai2 lie1 shun4 siu4 	排列順序	c=3 d=2.08983 t=1670
-pai4 sheng1 	派生	c=0 d=0.1 t=1575
-pai4 sheng1 chu1 	派生出	c=1 d=1 t=1576
-pang2 	旁	c=1 d=0.211189 t=1670
-pang2 lu4 	旁路	c=1 d=0.0699075 t=1670
-pang2 lu4 ji1 huo2 tu2 jing4 	旁路激活途徑	c=1 d=0.0893673 t=1670
-pang2 lu4 tu2 jing4 	旁路途徑	c=3 d=0.302685 t=1670
-pei1 tai1 	胚胎	c=1 d=0.0437178 t=1670
-pei4 ti3 	配體	c=1 d=0.923116 t=1670
-pei4 ti3 fen1 zy3 	配體分子	c=1 d=1 t=1644
-pian4 	片	c=0 d=0.0301194 t=1670
-pian4 duan4 	片段	c=1 d=0.388976 t=1670
-piau4 fang2 	票房	c=0 d=0.0951229 t=1670
-pu3 xi4 	譜系	c=1 d=0.550986 t=1670
-qi2 	其	c=4 d=1.16188 t=1670
-qi2 ta3 	其他	c=4 d=0.891337 t=1670
-qi2 ta3 si4 bau1 	其他細胞	c=1 d=0.239309 t=1670
-qi2 zhu3 yau1 zuo1 yung4 	其主要作用	c=-1 d=0 t=1670
-qi2 zhung1 	其中	c=1 d=0.873716 t=1670
-qi3 	起	c=2 d=1.91032 t=1670
-qi3 dung4 	啓動	c=2 d=1.43797 t=1670
-qi3 zhu3 yau1 zuo1 yung4 	起主要作用	c=1 d=0.985112 t=1670
-qi3 zhung4 yau1 zuo1 yung4 	起重要作用	c=1 d=0.99005 t=1670
-qi4 cheo1 zhan4 	汽車站	c=1 d=0.0850088 t=1670
-qi4 guan1 yi2 zhy1 	器官移植	c=0 d=0.0156453 t=1670
-qing1 lian2 	輕鏈	c=5 d=3.22064 t=1670
-qou2 dan4 be2 	球蛋白	c=1 d=0.996231 t=1670
-qu1 	區	c=6 d=3.68277 t=1670
-qu1 yu1 	區域	c=2 d=1.51357 t=1670
-que1 siun3 	缺損	c=1 d=0.143704 t=1670
-que1 sun1 	缺孫	c=-1 d=0 t=1670
-qun2 	羣	c=0 d=0.0603506 t=1670
-qun2 ti3 	羣體	c=2 d=1.98511 t=1541
-rhen2 	人	c=2 d=1.40268 t=1670
-rhen2 be2 si4 bau1 fen1 hua4 kang2 yuan2 	人白細胞分化抗原	c=1 d=0.474734 t=1670
-rhen2 lui4 	人類	c=1 d=0.960789 t=1670
-rhen2 lui4 be2 si4 bau1 kang2 yuan2 	人類白細胞抗原	c=1 d=0.83527 t=1670
-rhen2 ti3 	人體	c=1 d=0.856415 t=1670
-rhen4 heo2 	任何	c=2 d=0.83527 t=1670
-rhu2 guo3 	如果	c=2 d=0.960789 t=1670
-rhu2 heo2 	如何	c=2 d=0.0575671 t=1670
-san1 geo4 	三個	c=1 d=0.687289 t=1670
-san1 tiau2 	三條	c=2 d=0.186667 t=1670
-sha1 shang1 	殺傷	c=2 d=1.12726 t=1670
-sha1 shang1 si4 bau1 	殺傷細胞	c=1 d=1 t=1657
-shang4 	上	c=8 d=2.0228 t=1670
-shang4 	尚	c=0 d=0.0778801 t=1670
-shang4 bu1 cing1 chu3 	尚不清楚	c=1 d=0.782705 t=1670
-shang4 le1 	上的	c=1 d=0.313486 t=1670
-shang4 leo1 	上了	c=1 d=0.782705 t=1670
-shang4 pi2 	上皮	c=0 d=0.032628 t=1670
-shang4 pi2 si4 bau1 	上皮細胞	c=2 d=1.35418 t=1670
-shau3 	少	c=1 d=0.0290133 t=1670
-shen4 zhy4 	甚至	c=0 d=0.1 t=1603
-shen4 zhy4 shy4 	甚至是	c=1 d=1 t=1604
-sheng1 hou4 	生後	c=2 d=0.0896502 t=1670
-sheng1 li3 xuo2 	生理學	c=1 d=0.140858 t=1670
-sheng1 wu1 	生物	c=0 d=0.0287476 t=1670
-sheng1 wu1 gung1 neng2 	生物功能	c=1 d=0.119433 t=1670
-sheng1 wu1 heo2 cheng2 	生物合成	c=1 d=0.0699482 t=1670
-sheng1 wu1 sin4 si1 fen1 zy3 	生物信息分子	c=1 d=0.169483 t=1670
-sheng1 wu1 xuo2 	生物學	c=5 d=1.76496 t=1670
-sheng1 wu1 xuo2 huo2 sing4 	生物學活性	c=1 d=0.198891 t=1670
-sheo1 zhy4 	設置	c=5 d=0.923158 t=1670
-sheo1 zhy4 leo1 	設置了	c=1 d=0.0330412 t=1670
-sheo4 sian4 	射線	c=1 d=0.748264 t=1670
-shou3 biau3 	手錶	c=1 d=0.923116 t=1670
-shou4 ti3 	受體	c=4 d=1.4413 t=1670
-shu1 rhu1 fa1 	輸入法	c=1 d=0.937067 t=1670
-shu3 	數	c=1 d=0.0395575 t=1670
-shu4 tu2 zhuang4 si4 bau1 	樹突狀細胞	c=2 d=0.719707 t=1670
-shua1 tou2 	刷頭	c=1 d=0.937067 t=1670
-shuang1 chung2 	雙重	c=0 d=0.1 t=1593
-shuang1 chung2 shy1 bie2 	雙重識別	c=1 d=1 t=1594
-shui3 je3 	水解	c=1 d=0.387215 t=1670
-shui3 je3 pian4 duan4 	水解片段	c=1 d=0.357007 t=1670
-shun4 siu4 	順序	c=0 d=0.0818731 t=1670
-shuo1 liang2 	數量	c=0 d=0.0798516 t=1670
-shuo1 liang2 bu1 deng3 	數量不等	c=1 d=0.802519 t=1670
-shuo3 	所	c=3 d=0.904837 t=1670
-shuo3 chan3 sheng1 	所產生	c=1 d=0.165299 t=1670
-shuo3 you3 	所有	c=1 d=0.790571 t=1670
-shuo3 zai4 	所在	c=1 d=0.0253494 t=1670
-shy1 bie2 	識別	c=8 d=4.43724 t=1670
-shy1 ying1 sing4 	適應性	c=0 d=0.0172907 t=1670
-shy1 ying1 sing4 mian3 yi1 ying1 da1 	適應性免疫應答	c=4 d=1.44577 t=1670
-shy2 hou4 	時候	c=3 d=0.918512 t=1670
-shy2 jan1 	時間	c=2 d=0.0878783 t=1670
-shy2 shy1 	實施	c=1 d=0.985112 t=1670
-shy2 shy2 	實時	c=0 d=0.0951229 t=1670
-shy2 shy2 piau4 fang2 	實時票房	c=2 d=1.5548 t=1670
-shy2 xan4 	實現	c=1 d=1 t=1588
-shy2 yan4 shy2 	實驗室	c=1 d=0.571209 t=1670
-shy2 yi1 geo4 	十一個	c=-1 d=0 t=1536
-shy3 qi2 	使其	c=0 d=0.0343009 t=1670
-shy3 qi2 cheng2 wui2 	使其成爲	c=1 d=0.344728 t=1670
-shy3 yung4 	使用	c=1 d=0.818731 t=1670
-shy4 	是	c=28 d=4.43837 t=1670
-shy4 bu1 shy4 	是不是	c=1 d=0.927743 t=1670
-shy4 ciung2 	是從	c=1 d=0.680451 t=1670
-shy4 jan3 sing4 li1 si4 bau1 	嗜鹼性粒細胞	c=1 d=0.0492917 t=1670
-shy4 jan4 	事件	c=0 d=0.0154124 t=1670
-shy4 shy4 	試試	c=1 d=0.0985112 t=1670
-shy4 yi1 geo4 	是一個	c=1 d=1 t=1537
-shy4 you2 	是由	c=1 d=0.158817 t=1670
-shy4 zai4 	是在	c=2 d=0.148165 t=1670
-shy4 zhy3 	是指	c=2 d=0.606722 t=1670
-si4 bau1 	細胞	c=23 d=5.70139 t=1670
-si4 bau1 biau3 mian4 	細胞表面	c=1 d=0.302903 t=1670
-si4 bau1 biau3 mian4 biau1 ji4 	細胞表面標記	c=1 d=0.472367 t=1670
-si4 bau1 biau3 mian4 fen1 zy3 	細胞表面分子	c=1 d=0.532592 t=1670
-si4 bau1 du2 zuo1 yung4 	細胞毒作用	c=1 d=0.133989 t=1670
-si4 bau1 fen1 hua4 	細胞分化	c=1 d=0.366045 t=1670
-si4 bau1 huo2 hua4 	細胞活化	c=1 d=0.178173 t=1670
-si4 bau1 jan4 	細胞間	c=1 d=0.631284 t=1670
-si4 bau1 muo2 	細胞膜	c=3 d=0.733447 t=1670
-si4 bau1 nian2 fu4 fen1 zy3 	細胞黏附分子	c=1 d=0.618783 t=1670
-si4 bau1 wai4 ji1 zhy1 	細胞外基質	c=1 d=0.644036 t=1670
-si4 bau1 yin1 zy3 	細胞因子	c=6 d=1.6958 t=1670
-si4 bau1 yin1 zy3 shou4 ti3 	細胞因子受體	c=3 d=1.37075 t=1670
-si4 jun4 	細菌	c=0 d=0.00483156 t=1670
-si4 jun4 zuo1 yung4 	細菌作用	c=1 d=0.0485578 t=1670
-sian1 	先	c=1 d=0.955997 t=1670
-sian1 vi3 si4 bau1 	纖維細胞	c=0 d=0.0315058 t=1670
-siang1 dui4 	相對	c=1 d=0.847894 t=1670
-siang1 guan1 	相關	c=3 d=0.774112 t=1670
-siang1 guan1 ji1 yin1 	相關基因	c=3 d=1.97531 t=1670
-siang1 guan1 zi2 yin4 	相關輯印	c=-1 d=0 t=1660
-siang1 hu3 	相互	c=0 d=0.065333 t=1670
-siang1 hu3 lian2 zie1 	相互連接	c=1 d=0.283654 t=1670
-siang1 hu3 zie1 zhu1 	相互接觸	c=1 d=0.650509 t=1670
-siang1 hu3 zuo1 yung4 	相互作用	c=1 d=0.927743 t=1670
-siang1 sy4 	相似	c=1 d=0.895834 t=1670
-siang1 tung2 	相同	c=1 d=1 t=1670
-siang1 ying1 	相應	c=3 d=1.63076 t=1670
-siang1 yung2 sing4 	相容性	c=0 d=0.0927743 t=1670
-siau1 hua4 dau4 	消化道	c=1 d=0.458406 t=1670
-siau1 shy1 	消失	c=1 d=0.527292 t=1670
-siau3 	小	c=0 d=0.0190139 t=1670
-siau3 fen1 zy3 	小分子	c=1 d=0.191092 t=1670
-sie4 	謝	c=0 d=0.0198891 t=1670
-sie4 yuan2 chen2 	謝元辰	c=1 d=0.199888 t=1670
-sin1 jin4 	新近	c=1 d=0.574072 t=1670
-sin4 hau4 	信號	c=1 d=0.733447 t=1670
-sin4 si1 	信息	c=0 d=0.0168638 t=1670
-sing3 lai2 	醒來	c=1 d=0.951229 t=1670
-sing4 	性	c=0 d=0.291435 t=1670
-sing4 zhy1 	性質	c=1 d=1.09753 t=1670
-siou1 fu2 	修復	c=1 d=0.447088 t=1670
-siou1 shy1 	修飾	c=0 d=0.00407622 t=1670
-siou1 shy1 liu1 	修飾率	c=1 d=0.0409665 t=1670
-siu1 yau1 yung4 	需要用	c=1 d=0.0281559 t=1670
-siun2 huan2 	循環	c=0 d=0.0802519 t=1670
-su4 	素	c=1 d=0.927151 t=1670
-sy1 an1 suan1 	絲氨酸	c=0 d=0.00944202 t=1670
-sy1 an1 suan1 dan4 be2 mei2 	絲氨酸蛋白酶	c=1 d=0.0948935 t=1670
-sy1 lie1 yuan2 	絲裂原	c=1 d=0.160414 t=1670
-sy1 yuan2 	思源	c=0 d=0.00320647 t=1670
-sy1 yuan2 he1 ti3 	思源黑體	c=1 d=0.0322254 t=1670
-sy4 hu2 	似乎	c=1 d=0.0293049 t=1670
-sy4 tai4 	四肽	c=1 d=0.771052 t=1670
-sy4 tiau2 	四條	c=1 d=0.865022 t=1670
-tai1 pan2 	胎盤	c=2 d=0.870056 t=1670
-tai1 pan2 zhuan3 yun4 	胎盤轉運	c=1 d=0.0488012 t=1670
-tai4 	肽	c=0 d=0.139983 t=1670
-tai4 je1 heo2 je1 gou4 yu1 	肽結合結構域	c=1 d=0.729789 t=1670
-tai4 lian2 	肽鏈	c=3 d=1.56549 t=1670
-tang2 dan4 be2 	糖蛋白	c=1 d=0.918512 t=1670
-tang2 ji1 hua4 	糖基化	c=1 d=0.0407622 t=1670
-te2 dian3 	特點	c=2 d=1.0593 t=1670
-te2 yi4 sing4 	特異性	c=4 d=1.40936 t=1670
-ti2 	提	c=0 d=0.0355226 t=1670
-ti2 cheng2 	提呈	c=6 d=3.34272 t=1670
-ti2 shy4 	提示	c=1 d=0.571209 t=1670
-ti3 yi2 	體液	c=1 d=1.02571 t=1670
-ti3 yi2 mian3 yi1 	體液免疫	c=2 d=1.82878 t=1670
-ti4 dai4 	替代	c=0 d=0.0092089 t=1670
-ti4 dai4 ji1 huo2 tu2 jing4 	替代激活途徑	c=1 d=0.0925506 t=1670
-tian1 	天	c=1 d=0.0473589 t=1670
-tian1 rhan3 	天然	c=2 d=1.78543 t=1670
-tiau2 kung3 	調控	c=4 d=1.11338 t=1670
-tiau2 li3 	調理	c=0 d=0.0398519 t=1670
-tiau2 li3 zuo1 yung4 	調理作用	c=2 d=0.400517 t=1670
-tiau2 zie1 	調節	c=4 d=1.4231 t=1670
-tiau2 zie1 zuo1 yung4 	調節作用	c=1 d=0.140995 t=1670
-tu2 jin1 	塗金	c=-1 d=0 t=1670
-tu2 jing4 	途徑	c=8 d=0.755331 t=1670
-tun1 shy4 si4 bau1 	吞噬細胞	c=1 d=0.0497871 t=1670
-tung1 chang2 	通常	c=1 d=0.386741 t=1670
-tung1 guo1 	通過	c=5 d=1.27961 t=1670
-tung2 bu4 	同步	c=2 d=1.70391 t=1670
-tung2 shy2 	同時	c=3 d=1.5177 t=1670
-tung2 yi1 	同一	c=1 d=0.937067 t=1670
-tung2 yi1 geo4 	同一個	c=1 d=0.603506 t=1670
-tung2 yi1 zhung3 	同一種	c=1 d=0.591555 t=1670
-tung2 zhung3 	同種	c=0 d=0.0869358 t=1670
-tung2 zhung3 xing2 	同種型	c=2 d=0.873716 t=1670
-tung2 zhung3 yi4 xing2 	同種異型	c=1 d=0.369723 t=1670
-tung3 cheng1 	統稱	c=1 d=0.666977 t=1670
-tung3 yi1 	統一	c=1 d=0.909373 t=1670
-vi4 cheng2 shu2 	未成熟	c=1 d=0.818731 t=1670
-wai4 	外	c=1 d=0.764314 t=1670
-wai4 fen1 mi1 yi2 	外分泌液	c=1 d=0.704688 t=1670
-wai4 yuan2 	外源	c=0 d=0.0891366 t=1670
-wai4 yuan2 sing4 	外源性	c=1 d=0.895834 t=1670
-wan1 qu1 	彎曲	c=1 d=0.923116 t=1670
-wan2 ciuan2 	完全	c=1 d=0.995012 t=1670
-wo3 	我	c=1 d=0.886163 t=1670
-wo3 shy4 shy4 	我試試	c=1 d=0.99005 t=1670
-wo3 siang3 	我想	c=1 d=0.0337087 t=1670
-wo3 ye3 	我也	c=1 d=0.0270518 t=1670
-wo3 yung4 	我用	c=1 d=0.0299732 t=1670
-wo3 yung4 le1 shy4 	我用的是	c=1 d=0.0320647 t=1670
-wo3 zai4 	我在	c=1 d=0.0227089 t=1670
-wu1 	物	c=0 d=0.105294 t=1670
-wu1 zhy1 	物質	c=1 d=0.97531 t=1670
-wu2 	無	c=7 d=0.299692 t=1670
-wu3 dai4 	五代	c=0 d=0.097531 t=1670
-wu3 geo4 	五個	c=1 d=0.869358 t=1670
-wu3 lui4 	五類	c=1 d=0.860708 t=1670
-wu3 ziu4 ti3 	五聚體	c=3 d=0.814672 t=1670
-wui2 	爲	c=15 d=4.24654 t=1670
-wui2 yi1 	唯一	c=1 d=0.436049 t=1670
-wui2 zhu3 	爲主	c=1 d=0.557106 t=1670
-wui4 dan4 be2 mei2 	胃蛋白酶	c=1 d=0.355226 t=1670
-wui4 yu1 	位於	c=1 d=0.878095 t=1670
-wun1 shy1 	溫溼	c=0 d=0.18233 t=1670
-wun1 shy1 du4 	溫溼度	c=1 d=0.918512 t=1670
-wun1 shy1 du4 ji4 	溫溼度計	c=3 d=2.7929 t=1670
-wun4 ti2 	問題	c=3 d=0.806541 t=1670
-xa4 	下	c=1 d=0.19593 t=1670
-xa4 mian4 	下面	c=1 d=0.0380064 t=1670
-xa4 shou3 	下手	c=1 d=0.0352602 t=1670
-xan3 shy4 	顯示	c=1 d=0.0314298 t=1670
-xan3 sing4 	顯性	c=0 d=0.0782705 t=1670
-xan4 su1 	限速	c=0 d=0.00773047 t=1670
-xan4 su1 bu4 zhou4 	限速步驟	c=1 d=0.0776922 t=1670
-xan4 zhy4 	限制	c=0 d=0.0847894 t=1670
-xan4 zhy4 zuo1 yung4 	限制作用	c=2 d=1.79391 t=1670
-xang4 	向	c=1 d=0.818731 t=1670
-xau4 ying1 	效應	c=3 d=0.461734 t=1670
-xau4 ying1 fen1 zy3 	效應分子	c=1 d=0.856415 t=1670
-xe1 cing1 	血清	c=11 d=4.96663 t=1670
-xe1 cing1 han2 liang2 	血清含量	c=1 d=0.0468877 t=1670
-xe1 cing1 xing2 	血清型	c=2 d=1.20105 t=1670
-xe1 guan3 	血管	c=1 d=0.846538 t=1670
-xe1 guan3 bi1 	血管壁	c=1 d=0.548812 t=1670
-xe1 guan3 di4 zhy3 	血管地址	c=1 d=0.900325 t=1670
-xe1 tang2 	血糖	c=0 d=0.0232236 t=1670
-xe1 tang2 yi2 	血糖儀	c=1 d=0.2334 t=1670
-xe1 yi2 	血液	c=2 d=0.965605 t=1670
-xe1 ziang1 	血漿	c=3 d=0.216674 t=1670
-xe2 tung2 	協同	c=1 d=0.741124 t=1670
-xe2 tung2 sing4 	協同性	c=1 d=0.22313 t=1670
-xi1 la1 	希臘	c=1 d=0.031117 t=1670
-xi1 la1 zy4 mu3 	希臘字母	c=8 d=0.95361 t=1670
-xi4 shu3 	係數	c=0 d=0.0527292 t=1670
-xi4 tung3 	系統	c=2 d=0.13109 t=1670
-xing2 	型	c=6 d=1.05862 t=1670
-xing2 	形	c=1 d=0.955997 t=1670
-xing2 cheng2 	形成	c=2 d=0.569029 t=1670
-xing2 shy1 	形式	c=2 d=0.257041 t=1670
-xu1 yi3 eo1 di2 	虛擬阿迪	c=-1 d=0 t=1670
-xu1 yi3 eo1 di2 ha1 	虛擬阿迪哈	c=-1 d=0 t=1670
-ya4 lui4 	亞類	c=2 d=0.362402 t=1670
-ya4 xing2 	亞型	c=1 d=0.366045 t=1670
-yan2 zheng1 	炎症	c=3 d=1.72683 t=1670
-yan2 zheng1 bu4 wui4 	炎症部位	c=1 d=0.822835 t=1670
-yan2 zheng1 fan3 ying4 	炎症反應	c=3 d=1.86064 t=1670
-yan2 zheng1 jai4 zhy1 zuo1 yung4 	炎症介質作用	c=1 d=0.136014 t=1670
-yan2 zheng1 sing4 	炎症性	c=0 d=0.0149569 t=1670
-yan2 zheng1 sing4 zi2 bing4 	炎症性疾病	c=1 d=0.150318 t=1670
-yan3 sheo4 	衍射	c=0 d=0.0748264 t=1670
-yang4 	樣	c=1 d=0.290835 t=1670
-ye3 	也	c=0 d=0.0839457 t=1670
-ye3 bu1 tung2 	也不同	c=1 d=0.843665 t=1670
-yi1 	一	c=1 d=0.242926 t=1670
-yi1 	易	c=1 d=0.913931 t=1670
-yi1 ban1 	一般	c=1 d=0.540641 t=1670
-yi1 gan3 sing4 	易感性	c=1 d=1 t=1609
-yi1 geo4 	一個	c=5 d=1.63218 t=1670
-yi1 hang2 	一行	c=1 d=0.0256042 t=1670
-yi1 jau4 	一覺	c=1 d=0.946485 t=1670
-yi1 lai4 	依賴	c=1 d=0.404542 t=1670
-yi1 lui4 	一類	c=1 d=0.839457 t=1670
-yi1 pai2 	一排	c=1 d=0.0381969 t=1670
-yi1 sie1 	一些	c=2 d=0.0506738 t=1670
-yi1 xa4 	一下	c=2 d=1.8883 t=1670
-yi1 xi4 lie1 	一系列	c=1 d=1 t=1584
-yi1 zhung3 	一種	c=1 d=0.319819 t=1670
-yi1 zhy4 	抑制	c=2 d=1.094 t=1670
-yi1 zhy4 sing4 	抑制性	c=1 d=1 t=1651
-yi2 	儀	c=0 d=0.0232236 t=1670
-yi2 	液	c=0 d=0.0694197 t=1670
-yi2 chuan2 sing4 	遺傳性	c=1 d=0.142274 t=1670
-yi2 zhy1 	移植	c=0 d=0.0970446 t=1670
-yi2 zhy1 wu1 pai2 chy1 	移植物排斥	c=1 d=0.97531 t=1670
-yi3 	以	c=4 d=1.25153 t=1670
-yi3 ji1 	以及	c=2 d=0.685559 t=1670
-yi3 jing1 	已經	c=3 d=0.995012 t=1670
-yi3 qi2 	以其	c=2 d=1.10967 t=1670
-yi4 ti3 	異體	c=0 d=0.0156453 t=1670
-yi4 ti3 qi4 guan1 yi2 zhy1 	異體器官移植	c=1 d=0.157237 t=1670
-yi4 xing2 	異型	c=0 d=0.0367879 t=1670
-yi4 yi4 	意義	c=1 d=0.141564 t=1670
-yi4 zhy1 sing4 	異質性	c=2 d=0.948692 t=1670
-yin1 	因	c=1 d=0.25284 t=1670
-yin1 cy3 	因此	c=1 d=0.909373 t=1670
-yin1 el2 	因而	c=3 d=1.61611 t=1670
-yin1 zy3 	因子	c=1 d=0.314216 t=1670
-yin3 qi3 	引起	c=0 d=0.0965605 t=1670
-yin3 qi3 le1 	引起的	c=1 d=0.970446 t=1670
-ying1 da1 	應答	c=2 d=0.150435 t=1670
-ying1 ji1 	應激	c=0 d=0.1 t=1667
-ying1 ji1 fan3 ying4 	應激反應	c=1 d=1 t=1668
-ying1 wun2 	英文	c=1 d=0.036663 t=1670
-ying1 wun2 zy4 ti3 	英文字體	c=1 d=0.0347353 t=1670
-ying1 yung4 	應用	c=1 d=0.540641 t=1670
-ying2 zi1 su4 	凝集素	c=1 d=0.0939493 t=1670
-you2 	由	c=8 d=2.62403 t=1670
-you2 cy3 	由此	c=1 d=1 t=1575
-you3 	有	c=5 d=1.55428 t=1670
-you3 he2 	有核	c=0 d=0.0790571 t=1670
-you3 he2 si4 bau1 	有核細胞	c=1 d=0.794534 t=1670
-you3 li4 yu1 	有利於	c=1 d=0.97531 t=1670
-you4 cheng1 	又稱	c=2 d=0.18557 t=1670
-you4 cheng1 wui2 	又稱爲	c=1 d=0.305746 t=1670
-you4 dau4 	誘導	c=1 d=0.358796 t=1670
-you4 zai4 	又在	c=1 d=0.232236 t=1670
-yu1 	域	c=0 d=0.0231078 t=1670
-yu1 	於	c=4 d=1.04831 t=1670
-yu2 zhung3 	餘種	c=1 d=0.0581343 t=1670
-yu3 	與	c=12 d=4.30074 t=1670
-yu3 heo2 yi3 eo1 di2 	與何以阿迪	c=-1 d=0.937067 t=1670
-yu4 dau4 	遇到	c=0 d=0.00270518 t=1670
-yu4 dau4 leo1 	遇到了	c=1 d=0.0271874 t=1670
-yuan2 	原	c=0 d=0.0158817 t=1670
-yuan2 chen2 	元辰	c=0 d=0.0198891 t=1670
-yung2 	溶	c=2 d=0.177696 t=1670
-yung2 je3 	溶解	c=2 d=0.258773 t=1670
-yung3 you3 	擁有	c=1 d=1 t=1547
-yung4 	用	c=2 d=0.778801 t=1670
-yung4 hu4 shuo1 ju4 	用戶數據	c=1 d=0.923116 t=1670
-yung4 shang4 	用上	c=0 d=0.0995012 t=1670
-yung4 shang4 leo1 	用上了	c=1 d=1 t=1670
-yuo1 	約	c=1 d=0.755784 t=1670
-yuo1 zhan4 	約佔	c=1 d=0.479505 t=1670
-zai4 	再	c=0 d=0.0802519 t=1670
-zai4 	在	c=7 d=2.35368 t=1670
-zai4 bei4 	在被	c=1 d=0.064894 t=1670
-zai4 siun2 huan2 	再循環	c=1 d=0.806541 t=1670
-zau3 qi2 	早期	c=0 d=0.0585669 t=1670
-zau3 qi2 fang2 yu3 	早期防禦	c=1 d=0.0561348 t=1670
-zau3 qi2 shy4 jan4 	早期事件	c=1 d=0.154896 t=1670
-zau3 qi2 zhen3 duan4 	早期診斷	c=1 d=0.588605 t=1670
-zau4 xe1 	造血	c=3 d=1.03481 t=1670
-zau4 xe1 gan4 si4 bau1 	造血幹細胞	c=1 d=0.52504 t=1670
-zau4 xe1 zu3 si4 bau1 	造血祖細胞	c=1 d=0.396531 t=1670
-zen3 muo3 	怎麼	c=1 d=0.0340475 t=1670
-zeng1 zhy2 	增殖	c=3 d=0.88692 t=1670
-zhan4 	佔	c=1 d=0.0459593 t=1670
-zhe2 	者	c=0 d=0.1 t=1612
-zhen1 dui4 	針對	c=1 d=0.115903 t=1670
-zhen3 duan4 	診斷	c=0 d=0.0585669 t=1670
-zheng3 li3 	整理	c=1 d=0.0228227 t=1670
-zheng4 chang2 	正常	c=1 d=0.737123 t=1670
-zheng4 chang2 rhen2 	正常人	c=1 d=0.878095 t=1670
-zheng4 zhou1 	鄭州	c=1 d=0.0845849 t=1670
-zheo1 die2 	摺疊	c=1 d=0.235746 t=1670
-zheo4 geo4 	這個	c=2 d=0.995012 t=1670
-zheo4 shy4 	這是	c=1 d=1 t=1571
-zheo4 yi1 	這一	c=0 d=0.1 t=1580
-zheo4 yi1 gung1 neng2 	這一功能	c=1 d=1 t=1581
-zhu3 yau1 	主要	c=11 d=3.4696 t=1670
-zhu3 yau1 gung1 neng2 	主要功能	c=2 d=0.280705 t=1670
-zhu3 yau1 le1 	主要的	c=1 d=1 t=1572
-zhu3 yau1 shy4 	主要是	c=1 d=0.0862936 t=1670
-zhu3 yau1 shy4 zhy3 	主要是指	c=1 d=0.484325 t=1670
-zhu3 yau1 yin1 su4 	主要因素	c=0 d=0.0474734 t=1670
-zhu3 yau1 zu3 zhy1 siang1 yung2 sing4 fu1 heo2 ti3 	主要組織相容性複合體	c=1 d=0.932394 t=1670
-zhuan3 hua4 mei2 	轉化酶	c=4 d=0.453338 t=1670
-zhuan3 yun4 	轉運	c=0 d=0.00485578 t=1670
-zhuang4 tai4 	狀態	c=1 d=1 t=1548
-zhun3 hua4 mei2 	準話酶	c=-1 d=0 t=1670
-zhung1 	中	c=22 d=4.10273 t=1670
-zhung1 duo1 	衆多	c=1 d=0.625002 t=1670
-zhung1 huo2 	中和	c=1 d=0.955997 t=1670
-zhung1 muo1 	終末	c=2 d=0.226286 t=1670
-zhung1 wun2 	中文	c=2 d=0.0652781 t=1670
-zhung1 ying1 wun2 	中英文	c=1 d=0.798516 t=1670
-zhung1 yu1 	終於	c=1 d=0.771052 t=1670
-zhung1 zhou1 	中州	c=1 d=0.786628 t=1670
-zhung1 zhou1 luo2 ma3 zy4 	中州羅馬字	c=3 d=2.23627 t=1670
-zhung3 liou2 	腫瘤	c=0 d=0.0733923 t=1670
-zhung3 liou2 huai4 sy3 yin1 zy3 	腫瘤壞死因子	c=1 d=0.369723 t=1670
-zhung3 liou2 huai4 sy3 yin1 zy3 chau1 ja1 zu2 	腫瘤壞死因子超家族	c=1 d=0.367879 t=1670
-zhung3 qun2 	種羣	c=1 d=1 t=1616
-zhung4 lian2 	重鏈	c=7 d=3.80711 t=1670
-zhung4 yau1 	重要	c=1 d=0.852144 t=1670
-zhung4 yau1 le1 	重要的	c=1 d=0.154124 t=1670
-zhung4 yau1 zuo1 yung4 	重要作用	c=0 d=0.0985112 t=1670
-zhuo2 	着	c=0 d=0.0759572 t=1670
-zhy1 jan1 	之間	c=2 d=1.84771 t=1670
-zhy1 wai4 	之外	c=1 d=0.818731 t=1670
-zhy2 zie1 	直接	c=1 d=0.433874 t=1670
-zhy3 	指	c=2 d=1.93707 t=1540
-zhy4 	至	c=1 d=0.690734 t=1670
-zi1 	即	c=2 d=0.878095 t=1670
-zi1 	集	c=0 d=0.0375311 t=1670
-zi1 luo1 cy4 ji1 yin1 zy3 	集落刺激因子	c=1 d=0.377192 t=1670
-zi2 bing4 	疾病	c=2 d=0.90117 t=1670
-zi4 	劑	c=1 d=0.467666 t=1670
-ziang1 	將	c=1 d=0.255381 t=1670
-ziang1 qi2 	將其	c=1 d=0.878095 t=1670
-ziang1 si4 bau1 	漿細胞	c=3 d=0.900325 t=1670
-zie1 shou4 	接受	c=1 d=0.869358 t=1670
-zie1 zhu1 	接觸	c=0 d=0.0647265 t=1670
-zin4 el2 	進而	c=1 d=0.951229 t=1670
-zing1 mi1 	精密	c=1 d=0.0620385 t=1670
-zing1 ti3 	晶體	c=0 d=0.0748264 t=1670
-zing1 ti3 yan3 sheo4 	晶體衍射	c=1 d=0.752014 t=1670
-ziou4 hui4 	就會	c=1 d=0.024972 t=1670
-zu3 	祖	c=0 d=0.0394554 t=1670
-zu3 cheng2 	組成	c=6 d=3.04646 t=1670
-zu3 fen1 	組分	c=1 d=0.0666341 t=1670
-zu3 zhuang1 	組裝	c=1 d=0.125556 t=1670
-zu3 zhy1 	組織	c=1 d=1.05356 t=1670
-zu3 zhy1 fen1 bu4 	組織分佈	c=2 d=1.50433 t=1670
-zu3 zhy1 yi2 	組織液	c=2 d=0.97531 t=1670
-zu4 leo1 	做了	c=1 d=0.960789 t=1670
-zui4 	最	c=0 d=0.0474734 t=1670
-zui4 chu1 	最初	c=1 d=0.226502 t=1670
-zui4 da4 di1 	最大的	c=1 d=0.527292 t=1670
-zui4 duo1 le1 	最多的	c=1 d=0.188247 t=1670
-zui4 gau1 	最高	c=1 d=0.079659 t=1670
-zui4 shau3 	最少	c=1 d=0.895834 t=1670
-zui4 zau3 	最早	c=0 d=0.0338099 t=1670
-zui4 zau3 chu1 xan4 	最早出現	c=1 d=0.090718 t=1670
-zui4 zau3 fa1 xan4 	最早發現	c=1 d=0.249075 t=1670
-zui4 zhu3 yau1 yin1 su4 	最主要因素	c=1 d=0.477114 t=1670
-zung3 	總	c=1 d=0.484325 t=1670
-zung3 liang2 	總量	c=1 d=0.637628 t=1670
-zuo1 wui2 	作爲	c=1 d=1 t=1643
-zuo1 yung4 	作用	c=3 d=0.965605 t=1670
-zuo4 wui4 	座位	c=1 d=1 t=1530
-zy1 liau4 	資料	c=1 d=0.0230521 t=1670
-zy3 	只	c=1 d=0.900325 t=1670
-zy3 you3 	只有	c=1 d=0.0303487 t=1670
-zy4 	自	c=1 d=0.209088 t=1670
-zy4 mu3 	字母	c=1 d=0.031273 t=1670
-zy4 shen1 	自身	c=0 d=0.1 t=1602
-zy4 shen1 kang2 yuan2 	自身抗原	c=1 d=1 t=1603
-zy4 ti3 	字體	c=1 d=0.901292 t=1670
+an1 ji1 suan1 	氨基酸	c=4 d=2.56029 t=1833
+ba4 	靶	c=0 d=0.0241714 t=1833
+ba4 si4 bau1 	靶細胞	c=2 d=0.681162 t=1833
+ban3 	版	c=1 d=0.467666 t=1833
+ban3 ben3 	版本	c=5 d=4.46205 t=1833
+ban3 ben3 hau4 	版本號	c=1 d=0.955997 t=1833
+ban4 geo4 	半個	c=1 d=0.0295994 t=1833
+ban4 guang1 an1 suan1 	半胱氨酸	c=1 d=0.245367 t=1833
+ban4 shuai1 qi2 	半衰期	c=1 d=0.0471227 t=1833
+bau1 guo1 	包括	c=2 d=0.856361 t=1833
+bau3 hu4 	保護	c=2 d=1.88825 t=1833
+be2 si4 bau1 	白細胞	c=3 d=1.93356 t=1833
+be2 si4 bau1 fen1 hua4 kang2 yuan2 	白細胞分化抗原	c=1 d=0.481909 t=1833
+be2 si4 bau1 jai4 su4 	白細胞介素	c=2 d=0.449621 t=1833
+be2 si4 bau1 jan4 	白細胞間	c=-1 d=0.2334 t=1833
+bei4 	被	c=1 d=0.687289 t=1833
+bei4 cheng1 wui2 	被稱爲	c=1 d=0.137381 t=1833
+ben3 shen1 	本身	c=1 d=0.726149 t=1833
+bi1 	壁	c=0 d=0.0546074 t=1833
+bi3 jau4 	比較	c=2 d=0.946485 t=1833
+bi3 li4 	比例	c=1 d=0.0466538 t=1833
+bi3 rhu2 	比如	c=1 d=0.88692 t=1833
+bi4 mian3 	避免	c=1 d=0.856415 t=1833
+bi4 mian3 hun4 xau2 	避免混淆	c=1 d=0.847894 t=1833
+bian1 ma3 	編碼	c=3 d=1.27451 t=1833
+bian1 ma3 ji1 yin1 	編碼基因	c=2 d=1.06954 t=1833
+bian4 hua4 	變化	c=0 d=0.0847894 t=1833
+bian4 xe2 	便攜	c=1 d=0.932394 t=1833
+biau1 ji4 	標記	c=0 d=0.0470011 t=1833
+biau1 zhy4 	標誌	c=2 d=0.814647 t=1833
+biau3 da1 	表達	c=7 d=2.50673 t=1833
+biau3 da1 te2 dian3 	表達特點	c=1 d=0.733447 t=1833
+biau3 da1 yu1 	表達於	c=2 d=0.91724 t=1833
+biau3 da1 zai4 	表達在	c=2 d=1.72616 t=1833
+biau3 ge1 	表格	c=3 d=0.0723704 t=1833
+biau3 mian4 	表面	c=5 d=1.75549 t=1833
+biau3 wui4 	表位	c=0 d=0.0995012 t=1833
+biau3 xan4 	表現	c=1 d=0.65377 t=1833
+bing4 	並	c=3 d=1.05602 t=1833
+bing4 du2 	病毒	c=2 d=0.389284 t=1833
+bing4 li3 	病理	c=1 d=0.140156 t=1833
+bing4 tung1 guo1 	並通過	c=1 d=0.285076 t=1833
+bing4 yuan2 ti3 	病原體	c=1 d=0.814647 t=1833
+bing4 zai4 	並在	c=1 d=0.985112 t=1833
+bu1 ci2 	不齊	c=0 d=0.00306538 t=1833
+bu1 cing1 chu3 	不清楚	c=0 d=0.0778801 t=1833
+bu1 deng3 	不等	c=0 d=0.0798516 t=1833
+bu1 jin3 	不僅	c=1 d=0.571209 t=1833
+bu1 keo3 	不可	c=1 d=0.852144 t=1833
+bu1 keo3 bi4 mian3 	不可避免	c=0 d=0.0860708 t=1833
+bu1 keo3 bi4 mian3 di4 	不可避免地	c=1 d=0.865022 t=1833
+bu1 neng2 	不能	c=3 d=0.932031 t=1833
+bu1 siang1 yung2 	不相容	c=1 d=0.965605 t=1833
+bu1 tung2 	不同	c=5 d=1.71235 t=1833
+bu1 tung2 di1 	不同的	c=1 d=0.878095 t=1833
+bu1 tung2 jai1 duan4 	不同階段	c=1 d=0.506617 t=1833
+bu1 tung2 le1 	不同的	c=1 d=0.88692 t=1833
+bu1 tung2 pu3 xi4 	不同譜系	c=1 d=0.496585 t=1833
+bu1 yi1 	不易	c=0 d=0.0847894 t=1833
+bu1 yi1 bian4 hua4 	不易變化	c=1 d=0.852144 t=1833
+bu1 zin4 siang1 tung2 	不盡相同	c=1 d=0.826959 t=1833
+bu3 ding1 	補丁	c=1 d=0.496585 t=1833
+bu3 ti3 	補體	c=22 d=2.00145 t=1833
+bu3 ti3 cheng2 fen1 	補體成分	c=4 d=1.30548 t=1833
+bu3 ti3 huo2 hua4 tu2 jing4 	補體活化途徑	c=1 d=0.0916297 t=1833
+bu3 ti3 ji1 huo2 	補體激活	c=1 d=0.151072 t=1833
+bu3 ti3 ji1 huo2 tu2 jing4 	補體激活途徑	c=1 d=0.0816756 t=1833
+bu3 ti3 shou4 ti3 	補體受體	c=1 d=0.071719 t=1833
+bu3 ti3 tiau2 zie1 dan4 be2 	補體調節蛋白	c=1 d=0.0713613 t=1833
+bu4 fen1 	部分	c=1 d=0.932394 t=1833
+bu4 wui4 	部位	c=0 d=0.0834974 t=1833
+bu4 zhou4 	步驟	c=0 d=0.00773047 t=1833
+can1 yu3 	參與	c=6 d=3.45938 t=1833
+cang1 je1 	倉頡	c=0 d=0.097531 t=1833
+cang1 je1 wu3 dai4 	倉頡五代	c=1 d=0.980199 t=1833
+cha1 	差	c=1 d=0.0309618 t=1833
+cha1 bie2 	差別	c=1 d=0.551563 t=1833
+cha1 yi4 	差異	c=0 d=0.0737123 t=1833
+chan3 sheng1 	產生	c=6 d=1.85965 t=1833
+chan3 wu1 	產物	c=3 d=1.90285 t=1833
+chang2 wui2 	常爲	c=1 d=0.29671 t=1833
+chau1 	超	c=0 d=0.0371111 t=1833
+chau1 min3 fan1 ying1 	超敏反應	c=2 d=0.423162 t=1833
+chen1 zhan3 	伸展	c=1 d=0.918512 t=1833
+chen2 	沉	c=0 d=0.0527292 t=1833
+chen2 jang4 xi4 shu3 	沉降係數	c=1 d=0.529935 t=1833
+cheng1 	稱	c=1 d=0.852144 t=1833
+cheng1 wui2 	稱爲	c=7 d=3.48263 t=1833
+cheng1 zhy1 wui2 	稱之爲	c=3 d=1.77332 t=1833
+cheng2 	呈	c=0 d=0.0355226 t=1833
+cheng2 	成	c=1 d=0.273898 t=1833
+cheng2 fen1 	成分	c=3 d=0.77053 t=1833
+cheng2 gung1 	成功	c=1 d=0.037068 t=1833
+cheng2 shu2 	成熟	c=2 d=1.36599 t=1833
+cheng2 shu2 si4 bau1 	成熟細胞	c=1 d=0.511709 t=1833
+cheng2 sian1 vi3 si4 bau1 	成纖維細胞	c=1 d=0.316637 t=1833
+cheng2 wui2 	成爲	c=1 d=0.891366 t=1833
+chu1 	出	c=0 d=0.0621885 t=1833
+chu1 cy4 	初次	c=1 d=0.0536647 t=1833
+chu1 shy3 	初始	c=2 d=1.35253 t=1833
+chu1 xan4 	出現	c=2 d=0.555921 t=1833
+chuan1 guo1 	穿過	c=1 d=0.425283 t=1833
+chuang1 shang1 	創傷	c=1 d=0.442639 t=1833
+chun1 zai4 	春在	c=-1 d=0 t=1833
+chung2 die2 	重疊	c=0 d=0.0218712 t=1833
+chung2 die2 sing4 	重疊性	c=1 d=0.219808 t=1833
+chung2 pai2 	重排	c=2 d=1.46657 t=1833
+chy3 lun2 	齒輪	c=1 d=0.0378169 t=1833
+cian1 yi2 	遷移	c=2 d=1.62149 t=1833
+cian2 	前	c=2 d=0.957645 t=1833
+cian2 zhe2 	前者	c=1 d=0.951229 t=1833
+cin1 huo2 li1 	親和力	c=1 d=0.901198 t=1833
+cing3 wun4 	請問	c=1 d=0.035437 t=1833
+ciu1 	促	c=0 d=0.00765355 t=1833
+ciu1 	趨	c=0 d=0.0404542 t=1833
+ciu1 fan3 ying4 	促反應	c=1 d=0.0769192 t=1833
+ciu1 hua4 yin1 zy3 	趨化因子	c=1 d=0.40657 t=1833
+ciu1 zin4 	促進	c=6 d=2.02883 t=1833
+ciu3 	取	c=1 d=0.99005 t=1833
+ciuan2 pin1 	全拼	c=0 d=0.0995012 t=1833
+ciung2 el2 	從而	c=1 d=0.798516 t=1833
+cu1 zin4 	粗進	c=-1 d=0 t=1833
+cun2 zai4 	存在	c=4 d=1.26287 t=1833
+cun2 zai4 yu1 	存在於	c=4 d=1.77137 t=1833
+cy4 ji1 	刺激	c=6 d=1.92593 t=1833
+da3 bu1 kai1 	打不開	c=1 d=0.0356146 t=1833
+da4 yuo1 	大約	c=1 d=0.0301974 t=1833
+dan1 	單	c=1 d=0.546074 t=1833
+dan1 he2 	單核	c=1 d=0.29523 t=1833
+dan1 ke1 liung2 	單克隆	c=1 d=0.57695 t=1833
+dan1 ke1 liung2 kang2 ti3 	單克隆抗體	c=1 d=0.904837 t=1833
+dan1 ti3 	單體	c=10 d=2.20458 t=1833
+dan4 be2 	蛋白	c=0 d=0.00710054 t=1833
+dan4 be2 mei2 	蛋白酶	c=1 d=0.349938 t=1833
+dan4 be2 zhy1 	蛋白質	c=1 d=0.0799878 t=1833
+dau4 	到	c=0 d=0.00232837 t=1833
+de1 ming2 	得名	c=1 d=0.268474 t=1833
+deng3 	等	c=3 d=0.937067 t=1833
+deng3 kuan1 zy4 ti3 	等寬字體	c=1 d=0.802519 t=1833
+deng3 wui4 ji1 yin1 	等位基因	c=3 d=1.27098 t=1833
+di1 	低	c=0 d=0.0166127 t=1833
+di1 	的	c=-29 d=10.1936 t=1833
+di1 fen1 zy3 liang2 	低分子量	c=1 d=0.16696 t=1833
+di4 	地	c=2 d=1.92697 t=1833
+di4 zhy3 	地址	c=0 d=0.0895834 t=1833
+dian3 	點	c=1 d=0.0359725 t=1833
+diau1 wang2 	凋亡	c=1 d=0.431711 t=1833
+ding4 xang4 	定向	c=1 d=0.790571 t=1833
+dou3 	都	c=2 d=0.0623811 t=1833
+dou3 shy4 	都是	c=2 d=0.965605 t=1833
+du2 	毒	c=0 d=0.0414783 t=1833
+du2 su4 	毒素	c=1 d=0.960789 t=1833
+du2 te2 	獨特	c=0 d=0.0369723 t=1833
+du2 te2 xing2 	獨特型	c=1 d=0.371577 t=1833
+du2 zuo1 yung4 	毒作用	c=1 d=0.416862 t=1833
+du4 	度	c=0 d=0.18233 t=1833
+duan4 	段	c=1 d=0.396531 t=1833
+dui4 	對	c=5 d=2.36379 t=1833
+dui4 bu1 ci2 	對不齊	c=1 d=0.0308074 t=1833
+dui4 ci2 	對齊	c=2 d=0.0485868 t=1833
+dui4 ying1 	對應	c=1 d=0.499074 t=1833
+duo1 	多	c=0 d=0.0382893 t=1833
+duo1 geo4 	多個	c=1 d=0.50409 t=1833
+duo1 neng2 zau4 xe1 gan4 si4 bau1 	多能造血幹細胞	c=1 d=0.384812 t=1833
+duo1 tai4 	多肽	c=1 d=0.19205 t=1833
+duo1 tai4 lian2 	多肽鏈	c=2 d=0.869358 t=1833
+duo1 tai4 sing4 	多態性	c=2 d=0.998461 t=1833
+duo1 wui2 	多爲	c=1 d=0.190139 t=1833
+duo1 xau4 sing4 	多效性	c=1 d=0.218712 t=1833
+duo1 yang4 sing4 	多樣性	c=1 d=1.03589 t=1833
+duo1 zhung3 	多種	c=1 d=0.535261 t=1833
+duo1 ziu4 ti3 	多聚體	c=1 d=0.264477 t=1833
+el2 	而	c=3 d=1.01807 t=1833
+el4 cy4 	二次	c=1 d=0.0547488 t=1833
+el4 liou2 jan4 	二硫鍵	c=2 d=0.568744 t=1833
+el4 ziu4 ti3 	二聚體	c=5 d=1.5303 t=1833
+eo1 di2 	阿迪	c=0 d=0.0932394 t=1833
+fa1 hui1 	發揮	c=4 d=1.44335 t=1833
+fa1 hui1 tiau2 zie1 zuo1 yung4 	發揮調節作用	c=1 d=0.23457 t=1833
+fa1 hui1 zuo1 yung4 	發揮作用	c=2 d=1.10487 t=1833
+fa1 sheng1 	發生	c=1 d=0.86726 t=1833
+fa1 sheng1 gan3 rhan3 	發生感染	c=1 d=0.57695 t=1833
+fa1 sheng1 le1 	發生的	c=1 d=0.625002 t=1833
+fa1 xan4 	發現	c=1 d=0.759572 t=1833
+fa1 yu1 	發育	c=0 d=0.0981741 t=1833
+fa1 yu1 cheng2 shu2 	發育成熟	c=1 d=0.806541 t=1833
+fa1 yu1 fen1 hua4 jai1 duan4 	發育分化階段	c=1 d=0.390628 t=1833
+fan1 dau3 shy4 	反倒是	c=1 d=0.0366992 t=1833
+fan3 ying4 	反應	c=0 d=0.114396 t=1833
+fan3 ying4 xi4 tung3 	反應系統	c=1 d=0.063609 t=1833
+fang1 an4 	方案	c=5 d=3.30792 t=1833
+fang1 fa1 	方法	c=3 d=2.02554 t=1833
+fang2 yu3 	防禦	c=0 d=0.00558548 t=1833
+fen1 bi2 	分泌	c=0 d=0.0932394 t=1833
+fen1 bi2 xing2 	分泌型	c=1 d=0.937067 t=1833
+fen1 bie2 	分別	c=1 d=0.80792 t=1833
+fen1 bie2 wui2 	分別爲	c=2 d=0.941765 t=1833
+fen1 bie2 yung4 	分別用	c=1 d=0.733447 t=1833
+fen1 bu4 	分佈	c=0 d=0.0733447 t=1833
+fen1 ge1 	分隔	c=1 d=0.737123 t=1833
+fen1 hua4 	分化	c=8 d=2.34383 t=1833
+fen1 hua4 cheng2 shu2 	分化成熟	c=1 d=0.491644 t=1833
+fen1 hua4 fa1 yu1 	分化發育	c=2 d=1.53272 t=1833
+fen1 hua4 qun2 	分化羣	c=1 d=0.606531 t=1833
+fen1 lui4 	分類	c=1 d=0.453845 t=1833
+fen1 mi1 	分泌	c=5 d=1.37478 t=1833
+fen1 mi1 cheng2 fen1 	分泌成分	c=1 d=0.307279 t=1833
+fen1 mi1 pian4 	分泌片	c=2 d=0.606924 t=1833
+fen1 mi1 xing2 	分泌型	c=6 d=2.86496 t=1833
+fen1 mi1 yi2 	分泌液	c=1 d=0.767792 t=1833
+fen1 si1 	分析	c=0 d=0.0752014 t=1833
+fen1 wui2 	分爲	c=5 d=2.55301 t=1833
+fen1 zy3 	分子	c=18 d=4.50508 t=1833
+fen1 zy3 je1 gou4 	分子結構	c=1 d=0.726149 t=1833
+fen1 zy3 ji1 chu3 	分子基礎	c=1 d=0.83527 t=1833
+fen1 zy3 liang2 	分子量	c=4 d=1.78747 t=1833
+feng1 fu4 	豐富	c=1 d=0.895834 t=1833
+fi1 	非	c=0 d=0.097531 t=1833
+fi1 jing1 dian3 	非經典	c=2 d=1.3184 t=1833
+fi2 da4 	肥大	c=0 d=0.00500366 t=1833
+fi2 da4 si4 bau1 	肥大細胞	c=1 d=0.0502874 t=1833
+fu1 heo2 ti3 	複合體	c=0 d=0.192275 t=1833
+fu1 heo2 wu1 	複合物	c=0 d=0.010435 t=1833
+fu1 zhy4 	複製	c=1 d=0.263158 t=1833
+fu2 hau4 	符號	c=2 d=0.0517694 t=1833
+fu3 an1 suan1 	脯氨酸	c=1 d=0.904837 t=1833
+fu3 zhu4 	輔助	c=1 d=0.111255 t=1833
+fu3 zhu4 cheng2 fen1 	輔助成分	c=1 d=0.316637 t=1833
+fu3 zhu4 shou4 ti3 	輔助受體	c=3 d=2.24549 t=1833
+fu3 zhu4 sing4 	輔助性	c=1 d=0.183599 t=1833
+fu4 han2 	富含	c=1 d=0.244143 t=1833
+fu4 zhe1 	負責	c=1 d=0.778801 t=1833
+gai1 	該	c=1 d=0.0349094 t=1833
+gai3 bian4 	改變	c=1 d=0.932394 t=1833
+gai4 nian4 	概念	c=3 d=1.01745 t=1833
+gan1 rhau3 	干擾	c=1 d=0.256661 t=1833
+gan1 rhau3 su4 	干擾素	c=6 d=1.70146 t=1833
+gan3 rhan3 	感染	c=2 d=0.640155 t=1833
+gan3 rhan3 sing4 	感染性	c=0 d=0.0147342 t=1833
+gan3 rhan3 sing4 zi2 bing4 	感染性疾病	c=1 d=0.14808 t=1833
+gau1 	高	c=0 d=0.0202909 t=1833
+gau1 bian4 qu1 	高變區	c=1 d=0.718924 t=1833
+gau1 cin1 huo2 li1 shou4 ti3 	高親和力受體	c=1 d=0.203926 t=1833
+gau1 du4 	高度	c=0 d=0.070822 t=1833
+gau1 du4 keo3 bian4 	高度可變	c=1 d=0.71177 t=1833
+gau1 pin2 	高頻	c=0 d=0.0882497 t=1833
+geng1 gai3 	更改	c=0 d=0.0037068 t=1833
+geng1 gai3 leo1 	更改了	c=1 d=0.0372538 t=1833
+geo1 	各	c=2 d=0.786628 t=1833
+geo1 geo4 	各個	c=1 d=0.499074 t=1833
+geo1 lui4 	各類	c=1 d=0.786628 t=1833
+geo1 you3 	各有	c=1 d=0.683861 t=1833
+geo1 zhung3 	各種	c=1 d=1.09352 t=1833
+geo1 zhung3 gung1 neng2 	各種功能	c=1 d=1 t=1833
+geo4 	個	c=3 d=0.748264 t=1833
+geo4 ti3 	個體	c=1 d=0.606304 t=1833
+geo4 ti3 cha1 yi4 	個體差異	c=1 d=0.740818 t=1833
+geo4 yue1 	個月	c=2 d=0.0900995 t=1833
+gou4 cheng2 	構成	c=4 d=1.46828 t=1833
+gu1 ja4 	骨架	c=0 d=0.0856415 t=1833
+gu1 ja4 qu1 	骨架區	c=1 d=0.860708 t=1833
+gu4 you3 	固有	c=0 d=0.0241486 t=1833
+gu4 you3 cheng2 fen1 	固有成分	c=1 d=0.0706512 t=1833
+gu4 you3 mian3 yi1 	固有免疫	c=1 d=0.213523 t=1833
+gu4 you3 mian3 yi1 ying1 da1 	固有免疫應答	c=1 d=0.416862 t=1833
+guang3 fan4 	廣泛	c=0 d=0.00587185 t=1833
+guang3 fan4 cun2 zai4 	廣泛存在	c=1 d=0.0590129 t=1833
+gui1 chau2 	歸巢	c=0 d=0.0767206 t=1833
+gui1 wui2 	歸爲	c=1 d=0.600496 t=1833
+gung1 	攻	c=0 d=0.010435 t=1833
+gung1 muo2 fu1 heo2 wu1 	攻膜複合物	c=2 d=0.221357 t=1833
+gung1 neng2 	功能	c=12 d=2.59622 t=1833
+gung1 neng2 sing4 	功能性	c=1 d=0.634448 t=1833
+gung1 neng2 te2 dian3 	功能特點	c=1 d=0.774916 t=1833
+gung1 shy1 	公式	c=2 d=0.0515112 t=1833
+gung4 	共	c=0 d=0.0782705 t=1833
+gung4 meng4 	共夢	c=-1 d=0 t=1833
+gung4 tung2 	共同	c=2 d=0.234975 t=1833
+gung4 tung2 zu3 cheng2 	共同組成	c=1 d=0.752014 t=1833
+gung4 tung2 zu3 fen1 	共同組分	c=1 d=0.0824965 t=1833
+gung4 xan3 sing4 	共顯性	c=2 d=1.65165 t=1833
+guo1 cheng2 	過程	c=3 d=1.37087 t=1833
+guo1 cheng2 zhung1 	過程中	c=1 d=0.621885 t=1833
+guo1 min3 	過敏	c=0 d=0.0137381 t=1833
+guo1 min3 du2 su4 	過敏毒素	c=1 d=0.138069 t=1833
+han2 	含	c=1 d=0.66365 t=1833
+han2 liang2 	含量	c=1 d=0.891366 t=1833
+han2 tang2 	含糖	c=1 d=0.321422 t=1833
+han2 you3 	含有	c=2 d=1.45407 t=1833
+han4 yu3 pin1 yin1 	漢語拼音	c=1 d=1 t=1833
+he1 ti3 	黑體	c=0 d=0.00320647 t=1833
+hen3 	很	c=1 d=0.0306538 t=1833
+hen3 di1 	很低	c=2 d=0.752014 t=1833
+heng2 ding4 	恆定	c=1 d=0.897027 t=1833
+heng2 ding4 qu1 	恆定區	c=2 d=1.51228 t=1833
+heo2 cheng2 	合成	c=4 d=1.25647 t=1833
+heo2 cheng2 liu1 	合成率	c=1 d=0.04573 t=1833
+heo2 yi3 	何以	c=0 d=0.0932394 t=1833
+hou4 	後	c=1 d=0.882497 t=1833
+hou4 qi2 	後期	c=1 d=0.0439369 t=1833
+hou4 zhe2 	後者	c=1 d=0.726149 t=1833
+hu1 xi1 dau4 	呼吸道	c=1 d=0.453845 t=1833
+hu3 bu3 	互補	c=1 d=0.726149 t=1833
+hua4 	化	c=0 d=0.0404542 t=1833
+hua4 xuo2 	化學	c=0 d=0.0878095 t=1833
+hua4 xuo2 je1 gou4 	化學結構	c=1 d=0.882497 t=1833
+huai2 	或	c=12 d=2.78612 t=1833
+huai4 sy3 	壞死	c=0 d=0.0733923 t=1833
+hui4 you3 	會有	c=1 d=0.869358 t=1833
+hui4 yung4 	會用	c=0 d=0.00232837 t=1833
+hui4 yung4 dau4 	會用到	c=1 d=0.0234005 t=1833
+hun4 xau2 	混淆	c=0 d=0.0843665 t=1833
+huo2 	和	c=57 d=10.6699 t=1833
+huo2 hua4 	活化	c=6 d=1.71783 t=1833
+huo2 hua4 guo1 cheng2 	活化過程	c=1 d=0.0889216 t=1833
+huo2 sing4 	活性	c=2 d=1.4284 t=1833
+ja1 gung1 	加工	c=1 d=0.965605 t=1833
+ja1 zu2 	家族	c=2 d=0.691086 t=1833
+ja4 	價	c=1 d=0.0480747 t=1833
+jai1 duan4 	階段	c=0 d=0.0903431 t=1833
+jai4 	介	c=0 d=0.022313 t=1833
+jai4 dau4 	介導	c=6 d=1.02359 t=1833
+jai4 zhy1 	介質	c=0 d=0.0135335 t=1833
+jan1 ding4 	鑑定	c=1 d=0.554327 t=1833
+jan3 cheng1 	簡稱	c=3 d=1.55133 t=1833
+jan3 chu1 	檢出	c=1 d=0.56836 t=1833
+jan4 	鍵	c=1 d=0.818731 t=1833
+jan4 	間	c=2 d=0.794534 t=1833
+jan4 el4 liou2 	間二硫	c=1 d=0.814647 t=1833
+jan4 pan2 	鍵盤	c=0 d=0.0970446 t=1833
+jan4 pan2 kung3 	鍵盤控	c=2 d=0.97531 t=1833
+jang4 	降	c=0 d=0.0527292 t=1833
+jau1 cha1 	交叉	c=0 d=0.0100259 t=1833
+jau1 cha1 ciu1 zin4 	交叉促進	c=1 d=0.100761 t=1833
+jau4 	叫	c=1 d=0.491644 t=1833
+jau4 da4 	較大	c=1 d=0.882497 t=1833
+jau4 di1 	較低	c=1 d=0.19398 t=1833
+jau4 lian4 	鉸鍊	c=0 d=0.0865022 t=1833
+jau4 lian4 qu1 	鉸鍊區	c=2 d=1.74307 t=1833
+jau4 siau3 	較小	c=1 d=0.913931 t=1833
+jau4 sin1 	較新	c=1 d=0.995012 t=1833
+jau4 wan3 	較晚	c=1 d=0.045502 t=1833
+je1 gou4 	結構	c=2 d=1.16448 t=1833
+je1 gou4 fen1 si1 	結構分析	c=1 d=0.755784 t=1833
+je1 gou4 shang4 	結構上	c=1 d=0.99005 t=1833
+je1 gou4 yu1 	結構域	c=2 d=0.238742 t=1833
+je1 heo2 	結合	c=19 d=4.27525 t=1833
+je1 kang4 	拮抗	c=1 d=0.487316 t=1833
+je1 kang4 sing4 	拮抗性	c=1 d=0.22091 t=1833
+ji1 	及	c=5 d=1.42107 t=1833
+ji1 chu3 	基礎	c=0 d=0.0831104 t=1833
+ji1 huo2 	激活	c=11 d=1.65236 t=1833
+ji1 huo2 sing4 	激活性	c=1 d=0.900325 t=1833
+ji1 huo2 tu2 jing4 	激活途徑	c=1 d=0.0930145 t=1833
+ji1 huo2 wu1 	激活物	c=3 d=1.12711 t=1833
+ji1 liuan2 	級聯	c=0 d=0.00761538 t=1833
+ji1 liuan2 mei2 	級聯酶	c=1 d=0.0765355 t=1833
+ji1 qi2 	及其	c=4 d=1.87569 t=1833
+ji1 yin1 	基因	c=8 d=3.99812 t=1833
+ji1 yin1 chan3 wu1 	基因產物	c=1 d=0.839457 t=1833
+ji1 yin1 fu1 heo2 ti3 	基因複合體	c=2 d=1.65642 t=1833
+ji1 yin1 je1 gou4 	基因結構	c=2 d=1.02362 t=1833
+ji1 yin1 pian4 duan4 	基因片段	c=1 d=0.752014 t=1833
+ji1 zhy1 	基質	c=0 d=0.0640824 t=1833
+ji1 zhy4 	機制	c=3 d=1.69287 t=1833
+ji4 	計	c=0 d=0.0909373 t=1833
+ji4 sheng1 chung2 	寄生蟲	c=1 d=0.0569831 t=1833
+jin1 yung4 	禁用	c=1 d=0.826959 t=1833
+jin3 	僅	c=1 d=0.831104 t=1833
+jin3 zhan4 	僅佔	c=1 d=0.628135 t=1833
+jing1 	經	c=1 d=0.680451 t=1833
+jing1 dian3 	經典	c=5 d=0.801124 t=1833
+jing1 dian3 ji1 huo2 tu2 jing4 	經典激活途徑	c=1 d=0.0720785 t=1833
+jing1 dian3 le1 	經典的	c=1 d=0.778801 t=1833
+ju2 bu4 	局部	c=1 d=0.542989 t=1833
+ju2 bu4 mian3 yi1 	局部免疫	c=1 d=0.733447 t=1833
+ju3 li2 	距離	c=1 d=0.970446 t=1833
+ju4 	巨	c=0 d=0.0535261 t=1833
+ju4 cy3 	據此	c=1 d=0.960789 t=1833
+ju4 qou2 dan4 be2 	巨球蛋白	c=1 d=0.537944 t=1833
+ju4 shy4 si4 bau1 	巨噬細胞	c=2 d=0.643167 t=1833
+ju4 you3 	具有	c=8 d=2.67693 t=1833
+jue1 ding4 	決定	c=0 d=0.148572 t=1833
+jue1 ding4 qu1 	決定區	c=1 d=0.729789 t=1833
+jue1 ding4 zhe2 	決定者	c=1 d=0.752014 t=1833
+jue1 ding4 zhuo2 	決定着	c=1 d=0.763379 t=1833
+jun1 	均	c=1 d=0.856415 t=1833
+jun4 	菌	c=1 d=0.130029 t=1833
+juo1 du4 	角度	c=1 d=0.687289 t=1833
+kai1 shy3 	開始	c=1 d=0.0430669 t=1833
+kang2 	抗	c=1 d=0.0941345 t=1833
+kang2 bing4 du2 	抗病毒	c=3 d=0.964615 t=1833
+kang2 du2 su4 	抗毒素	c=1 d=0.995012 t=1833
+kang2 gan3 rhan3 	抗感染	c=1 d=0.0564161 t=1833
+kang2 si4 bau1 zeng1 zhy2 	抗細胞增殖	c=1 d=0.319819 t=1833
+kang2 ti3 	抗體	c=11 d=3.43717 t=1833
+kang2 yuan2 	抗原	c=16 d=5.62935 t=1833
+kang2 yuan2 biau3 wui4 	抗原表位	c=1 d=1 t=1833
+kang2 yuan2 je1 heo2 bu4 wui4 	抗原結合部位	c=1 d=0.759572 t=1833
+kang2 yuan2 shou4 ti3 	抗原受體	c=1 d=0.744532 t=1833
+kang2 yuan2 sing4 	抗原性	c=1 d=0.839457 t=1833
+kang2 yuan2 tai4 	抗原肽	c=5 d=2.40776 t=1833
+kang2 yuan2 ti2 cheng2 	抗原提呈	c=1 d=0.357007 t=1833
+kang2 yuan2 ti2 cheng2 fen1 zy3 	抗原提呈分子	c=1 d=0.600496 t=1833
+kang2 yuan2 ti2 cheng2 si4 bau1 	抗原提呈細胞	c=1 d=0.600496 t=1833
+kau3 liu4 	考慮	c=1 d=0.932394 t=1833
+ke1 liung2 	克隆	c=1 d=0.548812 t=1833
+keo3 	可	c=3 d=1.4056 t=1833
+keo3 bian4 	可變	c=0 d=0.134585 t=1833
+keo3 bian4 qu1 	可變區	c=2 d=1.37795 t=1833
+keo3 tung1 guo1 	可通過	c=1 d=0.451581 t=1833
+keo3 yi3 	可以	c=2 d=1.40487 t=1833
+keo3 yi3 shy4 	可以是	c=1 d=0.71177 t=1833
+keo3 yung2 	可溶	c=0 d=0.0453845 t=1833
+keo3 yung2 sing4 	可溶性	c=0 d=0.016696 t=1833
+keo3 yung2 sing4 dan4 be2 zhy1 	可溶性蛋白質	c=1 d=0.167797 t=1833
+keo3 yung2 xing2 	可溶型	c=1 d=0.45612 t=1833
+keo3 yung4 yu1 	可用於	c=1 d=0.579842 t=1833
+keo3 ziang1 	可將	c=2 d=1.8135 t=1833
+kuan1 	寬	c=0 d=0.0798516 t=1833
+kuan1 du4 	寬度	c=1 d=0.0300468 t=1833
+kung1 ge1 	空格	c=1 d=0.0305009 t=1833
+kung1 geo4 	空個	c=2 d=0.0589066 t=1833
+kung3 	控	c=0 d=0.0970446 t=1833
+lai2 	來	c=1 d=0.690734 t=1833
+lai2 zy4 	來自	c=1 d=0.565525 t=1833
+le1 	的	c=101 d=17.631 t=1833
+le1 shy4 	的是	c=0 d=0.00319048 t=1833
+leo1 	了	c=5 d=1.34795 t=1833
+li3 	裏	c=2 d=0.0623519 t=1833
+li3 hua4 	理化	c=0 d=0.097531 t=1833
+li3 hua4 sing4 zhy1 	理化性質	c=1 d=0.980199 t=1833
+lian2 	鏈	c=22 d=10.0196 t=1833
+lian2 zie1 	連接	c=4 d=1.51263 t=1833
+lian2 zie1 duo1 yang4 sing4 	連接多樣性	c=1 d=0.882497 t=1833
+liang2 	量	c=1 d=0.0464212 t=1833
+liang3 bei4 	兩臂	c=1 d=0.980199 t=1833
+liang3 geo4 	兩個	c=4 d=2.47543 t=1833
+liang3 tiau2 	兩條	c=1 d=0.960789 t=1833
+liang3 xing2 	兩型	c=3 d=1.59226 t=1833
+liang3 zhung3 	兩種	c=1 d=0.937067 t=1833
+lin2 ba1 	淋巴	c=0 d=0.0373439 t=1833
+lin2 ba1 du2 su4 	淋巴毒素	c=1 d=0.375311 t=1833
+lin2 ba1 si4 bau1 	淋巴細胞	c=8 d=3.2996 t=1833
+lin2 ba1 si4 bau1 gui1 chau2 	淋巴細胞歸巢	c=3 d=2.40668 t=1833
+ling4 yi1 geo4 	另一個	c=1 d=0.900325 t=1833
+liu1 	率	c=0 d=0.0086264 t=1833
+lui4 	類	c=14 d=5.19058 t=1833
+lui4 bie2 	類別	c=2 d=1.23938 t=1833
+lui4 sy4 	類似	c=1 d=0.0273237 t=1833
+lui4 xing2 	類型	c=2 d=0.550569 t=1833
+luo1 	落	c=0 d=0.0375311 t=1833
+mei1 rhen4 	默認	c=1 d=0.970446 t=1833
+mei2 	酶	c=0 d=0.00761538 t=1833
+mian3 yi1 	免疫	c=1 d=0.588775 t=1833
+mian3 yi1 bu1 yau4 	免疫不要	c=-1 d=0 t=1833
+mian3 yi1 gan4 	免疫幹	c=-1 d=0 t=1833
+mian3 yi1 geo1 	免疫各	c=-1 d=0 t=1833
+mian3 yi1 nai4 shou4 	免疫耐受	c=2 d=1.66034 t=1833
+mian3 yi1 nian2 fu4 	免疫黏附	c=1 d=0.135335 t=1833
+mian3 yi1 qou2 dan4 be2 	免疫球蛋白	c=12 d=4.12369 t=1833
+mian3 yi1 qou2 dan4 be2 chau1 ja1 zu2 	免疫球蛋白超家族	c=2 d=0.475101 t=1833
+mian3 yi1 si4 bau1 	免疫細胞	c=2 d=0.886865 t=1833
+mian3 yi1 sing4 	免疫性	c=0 d=0.0826959 t=1833
+mian3 yi1 sing4 zi2 bing4 	免疫性疾病	c=1 d=0.831104 t=1833
+mian3 yi1 tiau2 zie1 	免疫調節	c=2 d=0.621113 t=1833
+mian3 yi1 xau4 ying1 	免疫效應	c=1 d=0.806541 t=1833
+mian3 yi1 ying1 da1 	免疫應答	c=1 d=0.639661 t=1833
+mian3 yi1 yuan2 	免疫原	c=1 d=0.159614 t=1833
+ming2 cheng1 	名稱	c=1 d=0.276651 t=1833
+ming4 ming2 	命名	c=2 d=0.76506 t=1833
+ming4 ming2 wui2 	命名爲	c=1 d=0.913931 t=1833
+mu1 gua1 	木瓜	c=1 d=0.348192 t=1833
+mu2 	沒	c=0 d=0.0036334 t=1833
+mu2 fan3 ying4 	沒反應	c=1 d=0.0365162 t=1833
+muo2 	膜	c=0 d=0.0759509 t=1833
+muo2 fen1 zy3 	膜分子	c=1 d=0.537944 t=1833
+muo2 je1 heo2 xing2 	膜結合型	c=2 d=1.28074 t=1833
+muo2 shy1 	模式	c=0 d=0.0609571 t=1833
+muo2 shy1 shy1 bie2 shou4 ti3 	模式識別受體	c=1 d=0.612626 t=1833
+muo2 xing2 	膜型	c=1 d=0.946485 t=1833
+muo2 xing2 mian3 yi1 qou2 dan4 be2 	膜型免疫球蛋白	c=1 d=0.71177 t=1833
+na3 geo4 	哪個	c=1 d=0.506617 t=1833
+na3 sie1 	哪些	c=1 d=0.479505 t=1833
+nai4 shou4 	耐受	c=0 d=0.0657047 t=1833
+neng2 	能	c=3 d=0.997232 t=1833
+neng2 gou4 	能夠	c=1 d=0.380983 t=1833
+ni3 	你	c=1 d=0.484325 t=1833
+nian2 fu4 	黏附	c=1 d=0.841932 t=1833
+nian2 fu4 fen1 zy3 	黏附分子	c=4 d=3.13523 t=1833
+nian2 muo2 	黏膜	c=4 d=2.1248 t=1833
+nian2 muo2 mian3 yi1 	黏膜免疫	c=1 d=0.055299 t=1833
+nian2 muo2 shang4 pi2 	黏膜上皮	c=1 d=0.327915 t=1833
+niung2 du4 	濃度	c=4 d=0.748264 t=1833
+nui4 fen1 mi1 	內分泌	c=1 d=0.214381 t=1833
+nui4 pi2 	內皮	c=1 d=0.847822 t=1833
+nui4 pi2 si4 bau1 	內皮細胞	c=1 d=0.88692 t=1833
+nui4 yuan2 	內源	c=0 d=0.0810584 t=1833
+nui4 yuan2 sing4 	內原性	c=-1 d=0 t=1833
+nui4 yuan2 sing4 	內源性	c=1 d=0.814647 t=1833
+nui4 zhy4 	內置	c=1 d=0.839457 t=1833
+pai2 chy1 	排斥	c=2 d=1.65336 t=1833
+pai2 lie1 	排列	c=0 d=0.0818731 t=1833
+pai2 lie1 shun4 siu4 	排列順序	c=3 d=2.08983 t=1833
+pai4 sheng1 	派生	c=0 d=0.0621885 t=1833
+pai4 sheng1 chu1 	派生出	c=1 d=0.625002 t=1833
+pang2 	旁	c=1 d=0.211189 t=1833
+pang2 lu4 	旁路	c=1 d=0.0699075 t=1833
+pang2 lu4 ji1 huo2 tu2 jing4 	旁路激活途徑	c=1 d=0.0893673 t=1833
+pang2 lu4 tu2 jing4 	旁路途徑	c=3 d=0.302685 t=1833
+pei1 	胚	c=0 d=0.148953 t=1833
+pei1 tai1 	胚胎	c=1 d=0.0437178 t=1833
+pei1 xi4 jai1 duan4 	胚系階段	c=1 d=0.729789 t=1833
+pei1 xi4 ji1 yin1 	胚系基因	c=1 d=0.767206 t=1833
+pei4 ti3 	配體	c=1 d=0.923116 t=1833
+pei4 ti3 fen1 zy3 	配體分子	c=1 d=0.878095 t=1833
+pian4 	片	c=0 d=0.0301194 t=1833
+pian4 duan4 	片段	c=1 d=0.388976 t=1833
+piau4 fang2 	票房	c=0 d=0.0951229 t=1833
+pu3 xi4 	譜系	c=1 d=0.550986 t=1833
+qi2 	其	c=4 d=1.16188 t=1833
+qi2 ta3 	其他	c=4 d=0.891337 t=1833
+qi2 ta3 si4 bau1 	其他細胞	c=1 d=0.239309 t=1833
+qi2 zhu3 yau1 zuo1 yung4 	其主要作用	c=-1 d=0 t=1833
+qi2 zhung1 	其中	c=1 d=0.873716 t=1833
+qi3 	起	c=2 d=1.91032 t=1833
+qi3 dung4 	啓動	c=2 d=1.43797 t=1833
+qi3 zhu3 yau1 zuo1 yung4 	起主要作用	c=1 d=0.985112 t=1833
+qi3 zhung4 yau1 zuo1 yung4 	起重要作用	c=1 d=0.99005 t=1833
+qi4 cheo1 zhan4 	汽車站	c=1 d=0.0850088 t=1833
+qi4 guan1 	器官	c=0 d=0.0606531 t=1833
+qi4 guan1 yi2 zhy1 	器官移植	c=0 d=0.0156453 t=1833
+qing1 lian2 	輕鏈	c=5 d=3.22064 t=1833
+qou2 dan4 be2 	球蛋白	c=1 d=0.996231 t=1833
+qu1 	區	c=6 d=3.68277 t=1833
+qu1 yu1 	區域	c=2 d=1.51357 t=1833
+que1 siun3 	缺損	c=1 d=0.143704 t=1833
+que1 sun1 	缺孫	c=-1 d=0 t=1833
+qun2 	羣	c=0 d=0.0603506 t=1833
+qun2 ti3 	羣體	c=2 d=1.04151 t=1833
+rhen2 	人	c=2 d=1.40268 t=1833
+rhen2 be2 si4 bau1 fen1 hua4 kang2 yuan2 	人白細胞分化抗原	c=1 d=0.474734 t=1833
+rhen2 lui4 	人類	c=1 d=0.960789 t=1833
+rhen2 lui4 be2 si4 bau1 kang2 yuan2 	人類白細胞抗原	c=1 d=0.83527 t=1833
+rhen2 ti3 	人體	c=1 d=0.856415 t=1833
+rhen4 heo2 	任何	c=2 d=0.83527 t=1833
+rhu2 guo3 	如果	c=2 d=0.960789 t=1833
+rhu2 heo2 	如何	c=2 d=0.0575671 t=1833
+san1 geo4 	三個	c=1 d=0.687289 t=1833
+san1 tiau2 	三條	c=2 d=0.186667 t=1833
+sha1 shang1 	殺傷	c=2 d=1.12726 t=1833
+sha1 shang1 si4 bau1 	殺傷細胞	c=1 d=0.937067 t=1833
+shang4 	上	c=8 d=2.0228 t=1833
+shang4 	尚	c=0 d=0.0778801 t=1833
+shang4 bu1 cing1 chu3 	尚不清楚	c=1 d=0.782705 t=1833
+shang4 le1 	上的	c=1 d=0.313486 t=1833
+shang4 leo1 	上了	c=1 d=0.782705 t=1833
+shang4 pi2 	上皮	c=0 d=0.032628 t=1833
+shang4 pi2 si4 bau1 	上皮細胞	c=2 d=1.35418 t=1833
+shau3 	少	c=1 d=0.0290133 t=1833
+shen4 muo3 	甚麼	c=1 d=0.494109 t=1833
+shen4 zhy4 	甚至	c=0 d=0.0715338 t=1833
+shen4 zhy4 shy4 	甚至是	c=1 d=0.718924 t=1833
+sheng1 hou4 	生後	c=2 d=0.0896502 t=1833
+sheng1 li3 xuo2 	生理學	c=1 d=0.140858 t=1833
+sheng1 wu1 	生物	c=0 d=0.0287476 t=1833
+sheng1 wu1 gung1 neng2 	生物功能	c=1 d=0.119433 t=1833
+sheng1 wu1 heo2 cheng2 	生物合成	c=1 d=0.0699482 t=1833
+sheng1 wu1 sin4 si1 fen1 zy3 	生物信息分子	c=1 d=0.169483 t=1833
+sheng1 wu1 xuo2 	生物學	c=5 d=1.76496 t=1833
+sheng1 wu1 xuo2 huo2 sing4 	生物學活性	c=1 d=0.198891 t=1833
+sheo1 zhy4 	設置	c=5 d=0.923158 t=1833
+sheo1 zhy4 leo1 	設置了	c=1 d=0.0330412 t=1833
+sheo4 sian4 	射線	c=1 d=0.748264 t=1833
+shou3 biau3 	手錶	c=1 d=0.923116 t=1833
+shou4 ti3 	受體	c=6 d=2.15786 t=1833
+shu1 rhu1 fa1 	輸入法	c=1 d=0.937067 t=1833
+shu3 	數	c=1 d=0.0395575 t=1833
+shu4 tu2 zhuang4 si4 bau1 	樹突狀細胞	c=2 d=0.719707 t=1833
+shua1 tou2 	刷頭	c=1 d=0.937067 t=1833
+shuang1 chung2 	雙重	c=0 d=0.0680451 t=1833
+shuang1 chung2 shy1 bie2 	雙重識別	c=1 d=0.683861 t=1833
+shui3 je3 	水解	c=1 d=0.387215 t=1833
+shui3 je3 pian4 duan4 	水解片段	c=1 d=0.357007 t=1833
+shun4 siu4 	順序	c=0 d=0.0818731 t=1833
+shuo1 liang2 	數量	c=0 d=0.110503 t=1833
+shuo1 liang2 bu1 deng3 	數量不等	c=1 d=0.802519 t=1833
+shuo1 liang2 zhung1 duo1 	數量衆多	c=1 d=0.744532 t=1833
+shuo3 	所	c=3 d=0.904837 t=1833
+shuo3 chan3 sheng1 	所產生	c=1 d=0.165299 t=1833
+shuo3 you3 	所有	c=1 d=0.790571 t=1833
+shuo3 zai4 	所在	c=1 d=0.0253494 t=1833
+shy1 bie2 	識別	c=9 d=4.43724 t=1833
+shy1 ying1 sing4 	適應性	c=0 d=0.0172907 t=1833
+shy1 ying1 sing4 mian3 yi1 ying1 da1 	適應性免疫應答	c=4 d=1.44577 t=1833
+shy2 hou4 	時候	c=3 d=0.918512 t=1833
+shy2 jan1 	時間	c=2 d=0.0878783 t=1833
+shy2 shy1 	實施	c=1 d=0.985112 t=1833
+shy2 shy2 	實時	c=0 d=0.0951229 t=1833
+shy2 shy2 piau4 fang2 	實時票房	c=2 d=1.5548 t=1833
+shy2 xan4 	實現	c=1 d=0.66365 t=1833
+shy2 yan4 shy2 	實驗室	c=1 d=0.571209 t=1833
+shy2 yi1 geo4 	十一個	c=-1 d=0 t=1833
+shy3 qi2 	使其	c=0 d=0.0343009 t=1833
+shy3 qi2 cheng2 wui2 	使其成爲	c=1 d=0.344728 t=1833
+shy3 yung4 	使用	c=1 d=0.818731 t=1833
+shy4 	是	c=31 d=4.43837 t=1833
+shy4 bu1 shy4 	是不是	c=1 d=0.927743 t=1833
+shy4 ciung2 	是從	c=1 d=0.680451 t=1833
+shy4 jan3 sing4 li1 si4 bau1 	嗜鹼性粒細胞	c=1 d=0.0492917 t=1833
+shy4 jan4 	事件	c=0 d=0.0695303 t=1833
+shy4 shy4 	試試	c=1 d=0.0985112 t=1833
+shy4 yi1 geo4 	是一個	c=1 d=0.514274 t=1833
+shy4 you2 	是由	c=1 d=0.158817 t=1833
+shy4 zai4 	是在	c=2 d=0.148165 t=1833
+shy4 zhy3 	是指	c=2 d=0.606722 t=1833
+si4 bau1 	細胞	c=37 d=13.4015 t=1833
+si4 bau1 biau3 mian4 	細胞表面	c=1 d=0.302903 t=1833
+si4 bau1 biau3 mian4 biau1 ji4 	細胞表面標記	c=1 d=0.472367 t=1833
+si4 bau1 biau3 mian4 fen1 zy3 	細胞表面分子	c=1 d=0.532592 t=1833
+si4 bau1 du2 zuo1 yung4 	細胞毒作用	c=1 d=0.133989 t=1833
+si4 bau1 fen1 hua4 	細胞分化	c=1 d=0.366045 t=1833
+si4 bau1 huo2 hua4 	細胞活化	c=1 d=0.178173 t=1833
+si4 bau1 jan4 	細胞間	c=1 d=0.631284 t=1833
+si4 bau1 ke1 liung2 	細胞克隆	c=1 d=0.818731 t=1833
+si4 bau1 muo2 	細胞膜	c=3 d=0.733447 t=1833
+si4 bau1 nian2 fu4 fen1 zy3 	細胞黏附分子	c=1 d=0.618783 t=1833
+si4 bau1 wai4 ji1 zhy1 	細胞外基質	c=1 d=0.644036 t=1833
+si4 bau1 yin1 zy3 	細胞因子	c=6 d=1.6958 t=1833
+si4 bau1 yin1 zy3 shou4 ti3 	細胞因子受體	c=3 d=1.37075 t=1833
+si4 jun4 	細菌	c=0 d=0.00483156 t=1833
+si4 jun4 zuo1 yung4 	細菌作用	c=1 d=0.0485578 t=1833
+sian1 	先	c=1 d=0.955997 t=1833
+sian1 vi3 si4 bau1 	纖維細胞	c=0 d=0.0315058 t=1833
+siang1 dui4 	相對	c=1 d=0.847894 t=1833
+siang1 guan1 	相關	c=3 d=0.774112 t=1833
+siang1 guan1 ji1 yin1 	相關基因	c=3 d=1.97531 t=1833
+siang1 guan1 zi2 yin4 	相關輯印	c=-1 d=0 t=1833
+siang1 hu3 	相互	c=0 d=0.065333 t=1833
+siang1 hu3 lian2 zie1 	相互連接	c=1 d=0.283654 t=1833
+siang1 hu3 zie1 zhu1 	相互接觸	c=1 d=0.650509 t=1833
+siang1 hu3 zuo1 yung4 	相互作用	c=1 d=0.927743 t=1833
+siang1 sy4 	相似	c=1 d=0.895834 t=1833
+siang1 tung2 	相同	c=1 d=1 t=1833
+siang1 ying1 	相應	c=3 d=1.63076 t=1833
+siang1 yung2 sing4 	相容性	c=0 d=0.0927743 t=1833
+siau1 hua4 dau4 	消化道	c=1 d=0.458406 t=1833
+siau1 shy1 	消失	c=1 d=0.527292 t=1833
+siau3 	小	c=0 d=0.0190139 t=1833
+siau3 fen1 zy3 	小分子	c=1 d=0.191092 t=1833
+sie4 	謝	c=0 d=0.0198891 t=1833
+sie4 yuan2 chen2 	謝元辰	c=1 d=0.199888 t=1833
+sin1 jin4 	新近	c=1 d=0.574072 t=1833
+sin4 hau4 	信號	c=1 d=0.733447 t=1833
+sin4 si1 	信息	c=0 d=0.0168638 t=1833
+sing3 lai2 	醒來	c=1 d=0.951229 t=1833
+sing4 	性	c=0 d=0.291435 t=1833
+sing4 zhy1 	性質	c=1 d=1.09753 t=1833
+siou1 fu2 	修復	c=1 d=0.447088 t=1833
+siou1 gai3 	修改	c=1 d=0.474734 t=1833
+siou1 shy1 	修飾	c=0 d=0.00407622 t=1833
+siou1 shy1 liu1 	修飾率	c=1 d=0.0409665 t=1833
+siu1 yau1 yung4 	需要用	c=1 d=0.0281559 t=1833
+siun2 huan2 	循環	c=0 d=0.0802519 t=1833
+su4 	素	c=1 d=0.927151 t=1833
+sy1 an1 suan1 	絲氨酸	c=0 d=0.00944202 t=1833
+sy1 an1 suan1 dan4 be2 mei2 	絲氨酸蛋白酶	c=1 d=0.0948935 t=1833
+sy1 lie1 yuan2 	絲裂原	c=1 d=0.160414 t=1833
+sy1 yuan2 	思源	c=0 d=0.00320647 t=1833
+sy1 yuan2 he1 ti3 	思源黑體	c=1 d=0.0322254 t=1833
+sy4 hu2 	似乎	c=1 d=0.0293049 t=1833
+sy4 tai4 	四肽	c=1 d=0.771052 t=1833
+sy4 tiau2 	四條	c=1 d=0.865022 t=1833
+tai1 pan2 	胎盤	c=2 d=0.870056 t=1833
+tai1 pan2 zhuan3 yun4 	胎盤轉運	c=1 d=0.0488012 t=1833
+tai4 	肽	c=0 d=0.139983 t=1833
+tai4 je1 heo2 je1 gou4 yu1 	肽結合結構域	c=1 d=0.729789 t=1833
+tai4 lian2 	肽鏈	c=3 d=1.56549 t=1833
+tang2 dan4 be2 	糖蛋白	c=1 d=0.918512 t=1833
+tang2 ji1 hua4 	糖基化	c=1 d=0.0407622 t=1833
+te2 dian3 	特點	c=2 d=1.0593 t=1833
+te2 yi4 sing4 	特異性	c=4 d=1.40936 t=1833
+te2 yi4 sing4 ti3 yi2 mian3 yi1 	特異性體液免疫	c=1 d=0.588605 t=1833
+ti2 	提	c=0 d=0.0355226 t=1833
+ti2 cheng2 	提呈	c=6 d=3.34272 t=1833
+ti2 shy4 	提示	c=1 d=0.571209 t=1833
+ti3 si4 bau1 	體細胞	c=0 d=0.0882497 t=1833
+ti3 si4 bau1 gau1 pin2 tu2 bian4 	體細胞高頻突變	c=1 d=0.88692 t=1833
+ti3 yi2 	體液	c=1 d=1.02571 t=1833
+ti3 yi2 mian3 yi1 	體液免疫	c=2 d=1.82878 t=1833
+ti4 dai4 	替代	c=0 d=0.0092089 t=1833
+ti4 dai4 ji1 huo2 tu2 jing4 	替代激活途徑	c=1 d=0.0925506 t=1833
+tian1 	天	c=1 d=0.0473589 t=1833
+tian1 rhan3 	天然	c=2 d=1.78543 t=1833
+tiau2 kung3 	調控	c=4 d=1.11338 t=1833
+tiau2 li3 	調理	c=0 d=0.0398519 t=1833
+tiau2 li3 zuo1 yung4 	調理作用	c=2 d=0.400517 t=1833
+tiau2 zie1 	調節	c=4 d=1.4231 t=1833
+tiau2 zie1 zuo1 yung4 	調節作用	c=1 d=0.140995 t=1833
+tu2 bian4 	突變	c=0 d=0.0882497 t=1833
+tu2 jin1 	塗金	c=-1 d=0 t=1833
+tu2 jing4 	途徑	c=8 d=0.755331 t=1833
+tun1 shy4 si4 bau1 	吞噬細胞	c=1 d=0.0497871 t=1833
+tung1 chang2 	通常	c=1 d=0.386741 t=1833
+tung1 guo1 	通過	c=6 d=1.27961 t=1833
+tung2 bu4 	同步	c=2 d=1.70391 t=1833
+tung2 shy2 	同時	c=3 d=1.5177 t=1833
+tung2 yi1 	同一	c=1 d=0.937067 t=1833
+tung2 yi1 geo4 	同一個	c=1 d=0.603506 t=1833
+tung2 yi1 zhung3 	同一種	c=1 d=0.591555 t=1833
+tung2 zhung3 	同種	c=0 d=0.0869358 t=1833
+tung2 zhung3 xing2 	同種型	c=3 d=1.20506 t=1833
+tung2 zhung3 yi4 xing2 	同種異型	c=1 d=0.369723 t=1833
+tung3 cheng1 	統稱	c=1 d=0.666977 t=1833
+tung3 yi1 	統一	c=1 d=0.909373 t=1833
+vi4 cheng2 shu2 	未成熟	c=3 d=2.27612 t=1833
+wai4 	外	c=1 d=0.764314 t=1833
+wai4 fen1 mi1 yi2 	外分泌液	c=1 d=0.704688 t=1833
+wai4 yuan2 	外源	c=0 d=0.0891366 t=1833
+wai4 yuan2 sing4 	外源性	c=1 d=0.895834 t=1833
+wai4 zhou1 lin2 ba1 si4 bau1 	外周淋巴細胞	c=1 d=0.519442 t=1833
+wan1 qu1 	彎曲	c=1 d=0.923116 t=1833
+wan2 ciuan2 	完全	c=1 d=0.995012 t=1833
+wan2 zheng3 	完整	c=1 d=0.985112 t=1833
+wo3 	我	c=1 d=0.886163 t=1833
+wo3 shy4 shy4 	我試試	c=1 d=0.99005 t=1833
+wo3 siang3 	我想	c=1 d=0.0337087 t=1833
+wo3 ye3 	我也	c=1 d=0.0270518 t=1833
+wo3 yung4 	我用	c=1 d=0.0299732 t=1833
+wo3 yung4 le1 shy4 	我用的是	c=1 d=0.0320647 t=1833
+wo3 zai4 	我在	c=1 d=0.0227089 t=1833
+wu1 	物	c=0 d=0.105294 t=1833
+wu1 zhy1 	物質	c=1 d=0.97531 t=1833
+wu2 	無	c=7 d=0.299692 t=1833
+wu3 dai4 	五代	c=0 d=0.097531 t=1833
+wu3 geo4 	五個	c=1 d=0.869358 t=1833
+wu3 lui4 	五類	c=1 d=0.860708 t=1833
+wu3 ziu4 ti3 	五聚體	c=3 d=0.814672 t=1833
+wui2 	爲	c=15 d=4.24654 t=1833
+wui2 yi1 	唯一	c=1 d=0.436049 t=1833
+wui2 zhu3 	爲主	c=1 d=0.557106 t=1833
+wui4 dan4 be2 mei2 	胃蛋白酶	c=1 d=0.355226 t=1833
+wui4 yu1 	位於	c=1 d=0.878095 t=1833
+wun1 shy1 	溫溼	c=0 d=0.18233 t=1833
+wun1 shy1 du4 	溫溼度	c=1 d=0.918512 t=1833
+wun1 shy1 du4 ji4 	溫溼度計	c=3 d=2.7929 t=1833
+wun2 jan4 	文件	c=1 d=0.481909 t=1833
+wun4 ti2 	問題	c=3 d=0.806541 t=1833
+xa4 	下	c=1 d=0.19593 t=1833
+xa4 mian4 	下面	c=1 d=0.0380064 t=1833
+xa4 shou3 	下手	c=1 d=0.0352602 t=1833
+xan3 shy4 	顯示	c=1 d=0.0314298 t=1833
+xan3 sing4 	顯性	c=0 d=0.0782705 t=1833
+xan4 su1 	限速	c=0 d=0.00773047 t=1833
+xan4 su1 bu4 zhou4 	限速步驟	c=1 d=0.0776922 t=1833
+xan4 zhy4 	限制	c=0 d=0.0847894 t=1833
+xan4 zhy4 zuo1 yung4 	限制作用	c=2 d=1.79391 t=1833
+xang4 	向	c=1 d=0.818731 t=1833
+xau4 ying1 	效應	c=3 d=0.461734 t=1833
+xau4 ying1 fen1 zy3 	效應分子	c=1 d=0.856415 t=1833
+xe1 cing1 	血清	c=11 d=4.96663 t=1833
+xe1 cing1 han2 liang2 	血清含量	c=1 d=0.0468877 t=1833
+xe1 cing1 xing2 	血清型	c=2 d=1.20105 t=1833
+xe1 guan3 	血管	c=1 d=0.846538 t=1833
+xe1 guan3 bi1 	血管壁	c=1 d=0.548812 t=1833
+xe1 guan3 di4 zhy3 	血管地址	c=1 d=0.900325 t=1833
+xe1 tang2 	血糖	c=0 d=0.0232236 t=1833
+xe1 tang2 yi2 	血糖儀	c=1 d=0.2334 t=1833
+xe1 yi2 	血液	c=2 d=0.965605 t=1833
+xe1 ziang1 	血漿	c=3 d=0.216674 t=1833
+xe2 tung2 	協同	c=1 d=0.741124 t=1833
+xe2 tung2 sing4 	協同性	c=1 d=0.22313 t=1833
+xi1 la1 	希臘	c=1 d=0.031117 t=1833
+xi1 la1 zy4 mu3 	希臘字母	c=8 d=0.95361 t=1833
+xi4 	系	c=0 d=0.148953 t=1833
+xi4 shu3 	係數	c=0 d=0.0527292 t=1833
+xi4 tung3 	系統	c=2 d=0.13109 t=1833
+xing2 	型	c=6 d=1.05862 t=1833
+xing2 	形	c=1 d=0.955997 t=1833
+xing2 cheng2 	形成	c=4 d=1.91658 t=1833
+xing2 shy1 	形式	c=3 d=0.876812 t=1833
+xu1 yi3 eo1 di2 	虛擬阿迪	c=-1 d=0 t=1833
+xu1 yi3 eo1 di2 ha1 	虛擬阿迪哈	c=-1 d=0 t=1833
+ya4 lui4 	亞類	c=2 d=0.362402 t=1833
+ya4 xing2 	亞型	c=1 d=0.366045 t=1833
+yan2 zheng1 	炎症	c=3 d=1.72683 t=1833
+yan2 zheng1 bu4 wui4 	炎症部位	c=1 d=0.822835 t=1833
+yan2 zheng1 fan3 ying4 	炎症反應	c=3 d=1.86064 t=1833
+yan2 zheng1 jai4 zhy1 zuo1 yung4 	炎症介質作用	c=1 d=0.136014 t=1833
+yan2 zheng1 sing4 	炎症性	c=0 d=0.0149569 t=1833
+yan2 zheng1 sing4 zi2 bing4 	炎症性疾病	c=1 d=0.150318 t=1833
+yan3 sheo4 	衍射	c=0 d=0.0748264 t=1833
+yang4 	樣	c=1 d=0.290835 t=1833
+yau1 cing3 	邀請	c=2 d=0.942376 t=1833
+ye3 	也	c=0 d=0.0839457 t=1833
+ye3 bu1 tung2 	也不同	c=1 d=0.843665 t=1833
+ye3 shy4 	也是	c=1 d=0.594521 t=1833
+yi1 	一	c=1 d=0.242926 t=1833
+yi1 	易	c=1 d=0.913931 t=1833
+yi1 ban1 	一般	c=1 d=0.540641 t=1833
+yi1 gan3 sing4 	易感性	c=1 d=0.737123 t=1833
+yi1 geo4 	一個	c=6 d=1.63218 t=1833
+yi1 hang2 	一行	c=1 d=0.0256042 t=1833
+yi1 jau4 	一覺	c=1 d=0.946485 t=1833
+yi1 lai4 	依賴	c=1 d=0.404542 t=1833
+yi1 lui4 	一類	c=1 d=0.839457 t=1833
+yi1 pai2 	一排	c=1 d=0.0381969 t=1833
+yi1 sie1 	一些	c=2 d=0.0506738 t=1833
+yi1 xa4 	一下	c=2 d=1.8883 t=1833
+yi1 xi4 lie1 	一系列	c=1 d=0.650509 t=1833
+yi1 zhung3 	一種	c=3 d=1.8123 t=1833
+yi1 zhy4 	抑制	c=2 d=1.094 t=1833
+yi1 zhy4 sing4 	抑制性	c=1 d=0.909373 t=1833
+yi2 	儀	c=0 d=0.0232236 t=1833
+yi2 	液	c=0 d=0.0694197 t=1833
+yi2 chuan2 sing4 	遺傳性	c=1 d=0.142274 t=1833
+yi2 zhy1 	移植	c=0 d=0.0970446 t=1833
+yi2 zhy1 wu1 pai2 chy1 	移植物排斥	c=1 d=0.97531 t=1833
+yi3 	以	c=5 d=1.3043 t=1833
+yi3 ji1 	以及	c=2 d=0.685559 t=1833
+yi3 jing1 	已經	c=3 d=0.995012 t=1833
+yi3 qi2 	以其	c=2 d=1.10967 t=1833
+yi4 ti3 	異體	c=0 d=0.0156453 t=1833
+yi4 ti3 qi4 guan1 yi2 zhy1 	異體器官移植	c=1 d=0.157237 t=1833
+yi4 xing2 	異型	c=0 d=0.0367879 t=1833
+yi4 yi4 	意義	c=1 d=0.141564 t=1833
+yi4 zhy1 sing4 	異質性	c=2 d=0.948692 t=1833
+yin1 	因	c=1 d=0.25284 t=1833
+yin1 cy3 	因此	c=1 d=0.909373 t=1833
+yin1 el2 	因而	c=3 d=1.61611 t=1833
+yin1 zy3 	因子	c=1 d=0.314216 t=1833
+yin3 qi3 	引起	c=0 d=0.0965605 t=1833
+yin3 qi3 le1 	引起的	c=1 d=0.970446 t=1833
+ying1 da1 	應答	c=2 d=0.150435 t=1833
+ying1 ji1 	應激	c=0 d=0.0985112 t=1833
+ying1 ji1 fan3 ying4 	應激反應	c=1 d=0.99005 t=1833
+ying1 wun2 	英文	c=1 d=0.036663 t=1833
+ying1 wun2 zy4 ti3 	英文字體	c=1 d=0.0347353 t=1833
+ying1 yung4 	應用	c=1 d=0.540641 t=1833
+ying2 zi1 su4 	凝集素	c=1 d=0.0939493 t=1833
+you2 	由	c=8 d=2.62403 t=1833
+you2 cy3 	由此	c=1 d=0.621885 t=1833
+you3 	有	c=6 d=1.55428 t=1833
+you3 he2 	有核	c=0 d=0.0790571 t=1833
+you3 he2 si4 bau1 	有核細胞	c=1 d=0.794534 t=1833
+you3 li4 yu1 	有利於	c=1 d=0.97531 t=1833
+you4 cheng1 	又稱	c=2 d=0.18557 t=1833
+you4 cheng1 wui2 	又稱爲	c=1 d=0.305746 t=1833
+you4 dau4 	誘導	c=1 d=0.358796 t=1833
+you4 zai4 	又在	c=1 d=0.232236 t=1833
+yu1 	域	c=0 d=0.0231078 t=1833
+yu1 	於	c=4 d=1.04831 t=1833
+yu2 zhung3 	餘種	c=1 d=0.0581343 t=1833
+yu3 	與	c=12 d=4.30074 t=1833
+yu3 heo2 yi3 eo1 di2 	與何以阿迪	c=-1 d=0.937067 t=1833
+yu4 dau4 	遇到	c=0 d=0.00270518 t=1833
+yu4 dau4 leo1 	遇到了	c=1 d=0.0271874 t=1833
+yuan2 	原	c=0 d=0.0158817 t=1833
+yuan2 chen2 	元辰	c=0 d=0.0198891 t=1833
+yung2 	溶	c=2 d=0.177696 t=1833
+yung2 je3 	溶解	c=2 d=0.258773 t=1833
+yung3 you3 	擁有	c=1 d=0.540641 t=1833
+yung4 	用	c=2 d=0.778801 t=1833
+yung4 hu4 shuo1 ju4 	用戶數據	c=1 d=0.923116 t=1833
+yung4 le1 	用的	c=1 d=0.486752 t=1833
+yung4 shang4 	用上	c=0 d=0.0995012 t=1833
+yung4 shang4 leo1 	用上了	c=1 d=1 t=1833
+yuo1 	約	c=1 d=0.755784 t=1833
+yuo1 zan3 	約咱	c=-1 d=0 t=1833
+yuo1 zhan4 	約佔	c=2 d=0.735562 t=1833
+zai4 	再	c=0 d=0.0802519 t=1833
+zai4 	在	c=11 d=3.84272 t=1833
+zai4 bei4 	在被	c=1 d=0.064894 t=1833
+zai4 siun2 huan2 	再循環	c=1 d=0.806541 t=1833
+zau3 qi2 	早期	c=0 d=0.0585669 t=1833
+zau3 qi2 fang2 yu3 	早期防禦	c=1 d=0.0561348 t=1833
+zau3 qi2 shy4 jan4 	早期事件	c=1 d=0.154896 t=1833
+zau3 qi2 zhen3 duan4 	早期診斷	c=1 d=0.588605 t=1833
+zau4 xe1 	造血	c=3 d=1.03481 t=1833
+zau4 xe1 gan4 si4 bau1 	造血幹細胞	c=1 d=0.52504 t=1833
+zau4 xe1 zu3 si4 bau1 	造血祖細胞	c=1 d=0.396531 t=1833
+zen3 muo3 	怎麼	c=1 d=0.0340475 t=1833
+zeng1 zhy2 	增殖	c=3 d=0.88692 t=1833
+zhan4 	佔	c=1 d=0.0459593 t=1833
+zhe2 	者	c=0 d=0.0748264 t=1833
+zhen1 dui4 	針對	c=1 d=0.115903 t=1833
+zhen3 duan4 	診斷	c=0 d=0.0585669 t=1833
+zheng3 li3 	整理	c=1 d=0.0228227 t=1833
+zheng4 chang2 	正常	c=1 d=0.737123 t=1833
+zheng4 chang2 rhen2 	正常人	c=1 d=0.878095 t=1833
+zheng4 zhou1 	鄭州	c=1 d=0.0845849 t=1833
+zheo1 die2 	摺疊	c=1 d=0.235746 t=1833
+zheo4 geo4 	這個	c=2 d=0.995012 t=1833
+zheo4 shy4 	這是	c=1 d=0.609571 t=1833
+zheo4 yi1 	這一	c=0 d=0.0637628 t=1833
+zheo4 yi1 gung1 neng2 	這一功能	c=1 d=0.640824 t=1833
+zhou1 	周	c=0 d=0.0516851 t=1833
+zhu2 zian4 	逐漸	c=1 d=1 t=1833
+zhu3 yau1 	主要	c=11 d=3.4696 t=1833
+zhu3 yau1 gung1 neng2 	主要功能	c=2 d=0.280705 t=1833
+zhu3 yau1 le1 	主要的	c=1 d=0.612626 t=1833
+zhu3 yau1 shy4 	主要是	c=1 d=0.0862936 t=1833
+zhu3 yau1 shy4 jan4 	主要事件	c=1 d=0.628135 t=1833
+zhu3 yau1 shy4 zhy3 	主要是指	c=1 d=0.484325 t=1833
+zhu3 yau1 yin1 su4 	主要因素	c=0 d=0.0474734 t=1833
+zhu3 yau1 zu3 zhy1 siang1 yung2 sing4 fu1 heo2 ti3 	主要組織相容性複合體	c=1 d=0.932394 t=1833
+zhu4 yin1 fa1 	註音法	c=0 d=0.0460704 t=1833
+zhuan3 hua4 mei2 	轉化酶	c=4 d=0.453338 t=1833
+zhuan3 yun4 	轉運	c=0 d=0.00485578 t=1833
+zhuang4 tai4 	狀態	c=1 d=0.543351 t=1833
+zhun3 hua4 mei2 	準話酶	c=-1 d=0 t=1833
+zhung1 	中	c=25 d=4.10273 t=1833
+zhung1 chu1 	中樞	c=0 d=0.0606531 t=1833
+zhung1 chu1 mian3 yi1 qi4 guan1 	中樞免疫器官	c=2 d=1.5099 t=1833
+zhung1 duo1 	衆多	c=1 d=0.625002 t=1833
+zhung1 huo2 	中和	c=1 d=0.955997 t=1833
+zhung1 muo1 	終末	c=2 d=0.226286 t=1833
+zhung1 wun2 	中文	c=2 d=0.0652781 t=1833
+zhung1 ying1 wun2 	中英文	c=1 d=0.798516 t=1833
+zhung1 yu1 	終於	c=1 d=0.771052 t=1833
+zhung1 zhou1 	中州	c=3 d=2.76993 t=1833
+zhung1 zhou1 luo2 ma3 zy4 	中州羅馬字	c=3 d=2.23627 t=1833
+zhung1 zhou1 zhu4 yin1 fa1 	中州註音法	c=1 d=0.463013 t=1833
+zhung3 liou2 	腫瘤	c=0 d=0.0733923 t=1833
+zhung3 liou2 huai4 sy3 yin1 zy3 	腫瘤壞死因子	c=1 d=0.369723 t=1833
+zhung3 liou2 huai4 sy3 yin1 zy3 chau1 ja1 zu2 	腫瘤壞死因子超家族	c=1 d=0.367879 t=1833
+zhung3 qun2 	種羣	c=1 d=0.763379 t=1833
+zhung4 gu3 	中古	c=1 d=1.09352 t=1833
+zhung4 gu3 ciuan2 pin1 	中古全拼	c=1 d=1 t=1833
+zhung4 lian2 	重鏈	c=7 d=3.80711 t=1833
+zhung4 yau1 	重要	c=1 d=0.852144 t=1833
+zhung4 yau1 le1 	重要的	c=2 d=0.667803 t=1833
+zhung4 yau1 zuo1 yung4 	重要作用	c=1 d=0.610456 t=1833
+zhuo2 	着	c=0 d=0.0759572 t=1833
+zhy1 jan1 	之間	c=2 d=1.84771 t=1833
+zhy1 wai4 	之外	c=1 d=0.818731 t=1833
+zhy1 xing2 	執行	c=1 d=0.557106 t=1833
+zhy2 zie1 	直接	c=1 d=0.433874 t=1833
+zhy3 	指	c=2 d=1.01124 t=1833
+zhy4 	至	c=1 d=0.690734 t=1833
+zi1 	即	c=3 d=1.10874 t=1833
+zi1 	集	c=0 d=0.0375311 t=1833
+zi1 luo1 cy4 ji1 yin1 zy3 	集落刺激因子	c=1 d=0.377192 t=1833
+zi2 bing4 	疾病	c=2 d=0.90117 t=1833
+zi4 	劑	c=1 d=0.467666 t=1833
+ziang1 	將	c=1 d=0.255381 t=1833
+ziang1 qi2 	將其	c=1 d=0.878095 t=1833
+ziang1 si4 bau1 	漿細胞	c=3 d=0.900325 t=1833
+zie1 shou4 	接受	c=1 d=0.869358 t=1833
+zie1 zhu1 	接觸	c=0 d=0.0647265 t=1833
+zin4 el2 	進而	c=1 d=0.951229 t=1833
+zing1 mi1 	精密	c=1 d=0.0620385 t=1833
+zing1 ti3 	晶體	c=0 d=0.0748264 t=1833
+zing1 ti3 yan3 sheo4 	晶體衍射	c=1 d=0.752014 t=1833
+ziou4 hui4 	就會	c=1 d=0.024972 t=1833
+zu3 	祖	c=1 d=0.936506 t=1833
+zu3 cheng2 	組成	c=7 d=3.04646 t=1833
+zu3 fen1 	組分	c=1 d=0.0666341 t=1833
+zu3 heo2 	組合	c=0 d=0.0873716 t=1833
+zu3 heo2 duo1 yang4 sing4 	組合多樣性	c=1 d=0.878095 t=1833
+zu3 zhuang1 	組裝	c=1 d=0.125556 t=1833
+zu3 zhy1 	組織	c=1 d=1.05356 t=1833
+zu3 zhy1 fen1 bu4 	組織分佈	c=2 d=1.50433 t=1833
+zu3 zhy1 yi2 	組織液	c=2 d=0.97531 t=1833
+zu4 leo1 	做了	c=1 d=0.960789 t=1833
+zui4 	最	c=0 d=0.0474734 t=1833
+zui4 chu1 	最初	c=1 d=0.226502 t=1833
+zui4 da4 di1 	最大的	c=1 d=0.527292 t=1833
+zui4 duo1 le1 	最多的	c=1 d=0.188247 t=1833
+zui4 gau1 	最高	c=1 d=0.079659 t=1833
+zui4 shau3 	最少	c=1 d=0.895834 t=1833
+zui4 zau3 	最早	c=0 d=0.0338099 t=1833
+zui4 zau3 chu1 xan4 	最早出現	c=1 d=0.090718 t=1833
+zui4 zau3 fa1 xan4 	最早發現	c=1 d=0.249075 t=1833
+zui4 zhu3 yau1 yin1 su4 	最主要因素	c=1 d=0.477114 t=1833
+zung3 	總	c=1 d=0.484325 t=1833
+zung3 liang2 	總量	c=1 d=0.637628 t=1833
+zung3 shuo1 	總數	c=1 d=0.522046 t=1833
+zuo1 wui2 	作爲	c=1 d=0.873716 t=1833
+zuo1 yung4 	作用	c=3 d=0.965605 t=1833
+zuo4 wui4 	座位	c=1 d=0.496585 t=1833
+zy1 liau4 	資料	c=1 d=0.0230521 t=1833
+zy3 	只	c=2 d=1.32363 t=1833
+zy3 biau3 da1 	只表達	c=1 d=0.822835 t=1833
+zy3 you3 	只有	c=1 d=0.0303487 t=1833
+zy4 	自	c=1 d=0.209088 t=1833
+zy4 mu3 	字母	c=1 d=0.031273 t=1833
+zy4 shen1 	自身	c=2 d=1.68453 t=1833
+zy4 shen1 kang2 yuan2 	自身抗原	c=1 d=0.715338 t=1833
+zy4 ti3 	字體	c=1 d=0.901292 t=1833

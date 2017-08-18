@@ -71,8 +71,10 @@ engine:
     - matcher
     - abc_segmentor
     - affix_segmentor@pinyin
+    - affix_segmentor@pinyin_lookup
     - affix_segmentor@cangjie5
     - affix_segmentor@cangjie5_sc
+    - affix_segmentor@triungkox
     - affix_segmentor@cangjie5_lookup
     - affix_segmentor@reverse_lookup
     - affix_segmentor@middle_chinese
@@ -87,6 +89,7 @@ engine:
     - script_translator@pinyin_lookup
     - table_translator@cangjie5
     - table_translator@cangjie5_sc
+    - script_translator@triungkox
     - table_translator@cangjie5_lookup
     - script_translator@middle_chinese_lookup
   filters:
@@ -143,12 +146,13 @@ custom_phrase:
 pinyin:
   tag: pinyin
   dictionary: luna_pinyin
-  prefix: P
+  prefix: py
   suffix: ;
   preedit_format: &pinyin
-#    - xform/v/ü/
-    - xform/([nljqxy])v/$1ü/
-    - xform/([jqx])u/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+    - 'xform ([jqx])([uv]) $1ü'
   tips: 【漢拼】
   closing_tips: 【中州羅馬字】
   initial_quality: 0.2
@@ -177,6 +181,9 @@ cangjie5:
     - xform/^([a-z]*)$/$1｜\U$1\E/
     - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符|"
   comment_format: &cangjie5_comment
+    - xform/$/〕/
+    - xform/^/〔/
+
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田難卜符～|"
   disable_user_dict_for_patterns:
     - "^z.*$"
@@ -206,19 +213,52 @@ cangjie5_sc:
   tips: 【仓颉】
   closing_tips: 【中州羅馬字】
 
+triungkox:
+  tag: triungkox
+  dictionary: zyenpheng
+  prefix: P
+  suffix: ;
+  tips: 【中古全拼】
+  closing_tips: 【中州羅馬字】
+  initial_quality: 0.2
+
 reverse_lookup:
   tag: reverse_lookup
   prefix: "`"
   suffix: ;
   tips: 〔反查〕
   closing_tips: 【宫保】
-  extra_tags: [ pinyin, pinyin_lookup, middle_chinese_lookup ]
+  extra_tags: [ pinyin_lookup ]
+
+pinyin_lookup:
+  tag: pinyin_lookup
+  # prefix: "`"
+  # suffix: ;
+  dictionary: luna_pinyin
+  preedit_format: *pinyin
+  tips: 【漢拼反查倉頡】
+  closing_tips: 【中州羅馬字】
 
 pinyin_reverse_lookup:
   tags: [ pinyin_lookup ]
   overwrite_comment: true
-  dictionary: terra_pinyin
-  comment_format: &comment
+  dictionary: cangjie5
+  comment_format: *cangjie5_comment
+
+cangjie5_lookup:
+  tag: cangjie5_lookup
+  prefix: "`J"
+  suffix: ;
+  dictionary: cangjie5
+  preedit_format: *cangjie5
+  tips: 【倉頡反查中州羅馬字】
+  closing_tips: 【中州羅馬字】
+
+cangjie5_reverse_lookup:
+  tags: [ cangjie5_lookup ]
+  overwrite_comment: true
+  dictionary: *dict
+  comment_format:
     - xform/$/〕/
     - xform/^/〔/
 
@@ -251,21 +291,6 @@ pinyin_reverse_lookup:
     - xform/([nljqxy])v/$1ü/
     - xform/eh[0-5]?/ê/
     - xform/([a-z]+)[0-5]/$1/
-
-cangjie5_lookup:
-  tag: cangjie5_lookup
-  prefix: "`J"
-  suffix: ;
-  dictionary: cangjie5
-  preedit_format: *comment
-  tips: 【倉頡反查】
-  closing_tips: 【中州羅馬字】
-
-cangjie5_reverse_lookup:
-  tags: [ cangjie5_lookup ]
-  overwrite_comment: true
-  dictionary: *dict
-  comment_format: *comment
 
 middle_chinese:
   tags: [ abc ]
@@ -441,7 +466,7 @@ middle_chinese_lookup:
   suffix: ;
   dictionary: cangjie5
   preedit_format: *cangjie5
-  tips: 【中古拼音反查】
+  tips: 【倉頡反查中古拼音】
   closing_tips: 【中州羅馬字】
   initial_quality: 0.1
 
@@ -469,8 +494,9 @@ recognizer:
     reverse_lookup: "`[a-z]*;?$"
     middle_chinese_lookup: "`P[a-z]*;?$"
     cangjie5_lookup: "`J[a-z]*;?$"
-    pinyin: "(?<![`A-Z])P[a-z']*;?$"
+    triungkox: "(?<![`A-Z])P[a-z']*;?$"
     cangjie5: "(?<![`A-Z])J[a-z']*;?$"
+    pinyin: "(?<![`A-Z])py[a-z']*;?$"
     cangjie5_sc: "(?<![`A-Z])zz[a-z']*;?$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
     upper_case: ^([A-IK-OQ-Z][a-zA-Z0-9]*|[JP][A-Z0-9]*)$
