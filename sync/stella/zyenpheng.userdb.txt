@@ -1,0 +1,12 @@
+# Rime user dictionary
+#@/db_name	zyenpheng.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	2
+#@/user_id	stella
+iux 	有	c=0 d=0.0995012 t=2
+iux njin 	有人	c=0 d=0.0995012 t=2
+iux njin iux 	有人有	c=-1 d=1 t=2
+ngyan zjin 	元辰	c=0 d=0.0995012 t=2
+zsiah 	謝	c=0 d=0.0995012 t=2
+zsiah ngyan zjin 	謝元辰	c=1 d=1 t=2

@@ -1,0 +1,27 @@
+# Ignore files
+# Backup for using RIME schemas and userdb.txt
+
+*.bin
+
+*.userdb
+
+.place_holder
+custom_phrase.txt
+default.yaml
+installation.yaml
+symbols.yaml
+user.yaml
+
+bopomofo_tw.schema*
+cangjie5.schema*
+luna_pinyin.schema*
+luna_pinyin_*.schema*
+luna_quanpin.schema*
+pinyin_simp.schema*
+stroke.schema*
+wubi86.schema*
+zyenpheng.schema*
+
+sync/stella/*.bin
+sync/stella/*.yaml
+sync/stella/terra_pinyin*
