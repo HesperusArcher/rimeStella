@@ -24,4 +24,4 @@ zyenpheng.schema*
 
 sync/stella/*.bin
 sync/stella/*.yaml
-sync/stella/terra_pinyin*
+sync/stella/terra_pinyin.userdb.txt
