@@ -313,12 +313,12 @@ triungkox_reverse_lookup:
 middle_chinese:
   tags: [ triungkox, abc ]
   dictionary: zyenpheng
-  overwrite_comment: true
-  comment_format: &middle_chinese
+  overwrite_comment: true  # 覆蓋其他提示
+  comment_format:
     - xform/ /\x03 \x01/
     - xform/$/\x03/
     - xform/^/\x01/
-
+# 預處理
     - xform/ng/ŋ/
     - xform/k\x03/ŋq\x03/
     - xform/t\x03/nq\x03/
@@ -332,11 +332,12 @@ middle_chinese:
     - xform/(\x01)(?!ph?|kh?|gh?|ŋ|[bmhqjiy])([^aeiouy]*y)n([xhq]?\x03)/$1$2ɿn$3/
     - xform/(\x01)([^aeiouy]*jy)n([xhq]?\x03)/$1$2ɿn$3/
     - xform/(\x01)(?!kh?|g|ŋ)([^aeioux]*)ia([xhq]?\x03)/$1$2'ria$3/
-
+# 壓縮聲調
     - xform/([^xhdq])\x03/$1w\x03/
     - xform/(\x01[^\x01\x03]+)([whxq])\x03((?:\s\x01[^\x01\x03]+\x03)*)\s\1([whxq])\x03((?:\s\x01[^\x01\x03]+\x03)*)\s\1([whxq]\x03)/$1$2$4$6$3$5/
     - xform/(\x01[^\x01\x03]+)([whxq])\x03((?:\s\x01[^\x01\x03]+\x03)*)\s\1([whxq]\x03)/$1$2$4$3/
-
+# 轉換聲母
+# 如需開啓輕脣音請啓用以下四條
 #    - xform/\x01ph(?=y(o[in]?|a[mnd]|[au]ŋ)|iu(ŋ)?)/\x01L敷\x02/
 #    - xform/\x01p(?=y(o[in]?|a[mnd]|[au]ŋ)|iu(ŋ)?)/\x01L非\x02/
 #    - xform/\x01b(?=y(o[in]?|a[mnd]|[au]ŋ)|iu(ŋ)?)/\x01L奉\x02/
@@ -359,11 +360,11 @@ middle_chinese:
     - xform/\x01zsr/\x01俟\x02/
     - xform/\x01zr/\x01崇\x02/
     - xform/\x01sr/\x01生\x02/
-    - xform/\x01chj/\x01昌\x02/
-    - xform/\x01cj/\x01章\x02/
-    - xform/\x01zsj/\x01船\x02/
-    - xform/\x01zj/\x01常\x02/
-    - xform/\x01sj/\x01書\x02/
+    - xform/\x01ch(j)/\x01昌\x02/
+    - xform/\x01c(j)/\x01章\x02/
+    - xform/\x01zs(j)/\x01船\x02/
+    - xform/\x01z(j)/\x01常\x02/
+    - xform/\x01s(j)/\x01書\x02/
     - xform/\x01ch/\x01清\x02/
     - xform/\x01c/\x01精\x02/
     - xform/\x01zs/\x01邪\x02/
@@ -380,17 +381,17 @@ middle_chinese:
     - xform/\x01j/\x01以\x02/
     - xform/\x01l/\x01來\x02/
     - "xform/'//"
-
+# 壓縮聲母
     - xform/\x01(L?)([^\x00-\x7f]{3})\x02([^\x01\x02\x03wxhq]+)([wxhq]*)\x03\s((?:\x01[^\x01\x03]+\x03\s)*)\x01\1([^\x00-\x7f]{3})\x02\3([wxhq]*)\x03\s((?:\x01[^\x01\x03]+\x03\s)*)\x01\1([^\x00-\x7f]{3})\x02\3([wxhq]*\x03)/\x01$1$2／$6／$9\x02$3$4／$7／$10 $5$8/
     - xform/\x01(L?)([^\x00-\x7f]{3})\x02([^\x01\x02\x03wxhq]+)([wxhq]*)\x03\s((?:\x01[^\x01\x03]+\x03\s)*)\x01\1([^\x00-\x7f]{3})\x02\3([wxhq]*\x03)\s?/\x01$1$2／$6\x02$3$4／$7 $5/
     - xform/\x01(L?)([^\x00-\x7f]{3})\x02([^\x01\x02\x03wxhq]+)([wxhq]*)\x03\s((?:\x01[^\x01\x03]+\x03\s)*)\x01\1([^\x00-\x7f]{3})\x02\3([wxhq]*\x03)\s?/\x01$1$2／$6\x02$3$4／$7 $5/
-    - xform/／\x03/\x03/
+    - xform/／+\x03/\x03/
     - xform/([xhq]+)w/w$1/
     - xform/(w?)([hq]+)x/$1x$2/
     - xform/q(h)/$1q/
     - xform/\x02([^\x01\x02\x03wxhq]+?)([wxhq]+)／\2／\2\x03/\x02$1$2\x03/
     - xform/\x02([^\x01\x02\x03wxhq]+?)([wxhq]+)／\2\x03/\x02$1$2\x03/
-
+# 轉換韻母
     - xform/\x02(i?)uŋ((?:[wxhq]|／)*\x03)/\x02$1東$2/
     - xform/\x02(y)uŋ((?:[wxhq]|／)*\x03)/\x02$1鐘$2/
     - xform/\x02(u)uŋ((?:[wxhq]|／)*\x03)/\x02$1冬$2/
@@ -404,7 +405,7 @@ middle_chinese:
     - xform/\x02(u?e)ŋ((?:[wxhq]|／)*\x03)/\x02$1o青$2/
     - xform/\x02([iy])ŋ((?:[wxhq]|／)*\x03)/\x02$1o蒸$2/
     - xform/\x02(u?)oŋ((?:[wxhq]|／)*\x03)/\x02$1o登$2/
-
+#
     - xform/\x02(j?)(y)ɿn((?:[wxhq]|／)*\x03)/\x02$1ɨ$2o諄$3/
     - xform/\x02(j?)(i)ɿn((?:[wxhq]|／)*\x03)/\x02$1ɨ$2o臻$3/
     - xform/\x02(j?)([iy])n((?:[wxhq]|／)*\x03)/\x02$1ɨ$2o眞$3/
@@ -419,7 +420,7 @@ middle_chinese:
     - xform/\x02(ru?)en((?:[wxhq]|／)*\x03)/\x02$1o山$2/
     - xform/\x02(j?)([iy])en((?:[wxhq]|／)*\x03)/\x02$1ɨ$2o仙$3/
     - xform/\x02(u?e)n((?:[wxhq]|／)*\x03)/\x02$1o先$2/
-
+#
     - xform/\x02(j?)(i)m((?:[wxhq]|／)*\x03)/\x02$1ɨ$2o侵$3/
     - xform/\x02(i)am((?:[wxhq]|／)*\x03)/\x02$1o嚴$2/
     - xform/\x02(y)am((?:[wxhq]|／)*\x03)/\x02$1o凡$2/
@@ -429,7 +430,7 @@ middle_chinese:
     - xform/\x02(j?)(i)em((?:[wxhq]|／)*\x03)/\x02$1ɨ$2o鹽$3/
     - xform/\x02(e)m((?:[wxhq]|／)*\x03)/\x02$1o添$2/
     - xform/\x02om((?:[wxhq]|／)*\x03)/\x02o覃$1/
-
+#
     - xform/\x02(r)au((?:[wxh]|／)*\x03)/\x02$1肴$2/
     - xform/\x02au((?:[wxh]|／)*\x03)/\x02豪$1/
     - xform/\x02(j?)(i)eu((?:[wxh]|／)*\x03)/\x02$1ɨ$2宵$3/
@@ -437,7 +438,7 @@ middle_chinese:
     - xform/\x02(i)u((?:[wxh]|／)*\x03)/\x02$1尤$2/
     - xform/\x02u((?:[wxh]|／)*\x03)/\x02侯$1/
     - xform/\x02(y)((?:[wxh]|／)*\x03)/\x02$1幽$2/
-
+#
     - xform/\x02(j?)([iy])e((?:[wxh]|／)*\x03)/\x02$1ɨ$2o支$3/
     - xform/\x02(j?)([iy])i((?:[wxh]|／)*\x03)/\x02$1ɨ$2o脂$3/
     - xform/\x02i((?:[wxh]|／)*\x03)/\x02io之$1/
@@ -451,17 +452,17 @@ middle_chinese:
     - xform/\x02(u?e)((?:[wxh]|／)*\x03)/\x02$1o齊$2/
     - xform/\x02i?(u)ai((?:[wxh]|／)*\x03)/\x02$1o灰$2/
     - xform/\x02ai((?:[wxh]|／)*\x03)/\x02o咍$1/
-
+#
     - xform/\x02([uiy])a((?:[wxh]|／)*\x03)/\x02$1o戈$2/
     - xform/\x02a((?:[wxh]|／)*\x03)/\x02o歌$1/
     - xform/\x02j?(r[ui]?)a((?:[wxh]|／)*\x03)/\x02$1o麻$2/
     - xform/\x02(i)o((?:[wxh]|／)*\x03)/\x02$1魚$2/
     - xform/\x02(y)o((?:[wxh]|／)*\x03)/\x02$1虞$2/
     - xform/\x02o((?:[wxh]|／)*\x03)/\x02模$1/
-
+# 處理等、聲調
     - xform/d/h/
     - xform/(\x01[^\x01\x03wxhq]+)([whxq]+)((?:／[whxq]+)*)\x03/$1】$2$3/
-
+#
     - xform/\x01(L?)((?:[^\x00-\x7f]{3}|／)+)\x02(j?ɨ)([iy])(o?)([^\x00-\x7f]{3})/〖$2〗重紐$3等\x01$1$5$4\x03【$6/
     - xform/\x01(L?)((?:[^\x00-\x7f]{3}|／)+)\x02(u?)e(o?)([^\x00-\x7f]{3})/〖$2〗四等\x01$1$4$3\x03【$5/
     - xform/\x01(L?)((?:[^\x00-\x7f]{3}|／)+)\x02r(u?)(o?)([^\x00-\x7f]{3})/〖$2〗二等\x01$1$4$3\x03【$5/
@@ -472,10 +473,10 @@ middle_chinese:
     - xform/\x01(?!L)o[uy]\x03/合/
     - xform/\x01(?!L)oi?\x03/開/
     - xform/\x01L?[a-z]*\x03//
-
+# 壓縮韻母
     - xform/(\s|^)([^\s]+)【([^\x00-\x7f]{3})】([wxhq]+)\s((?:[^\s]+\s)*)\2【([^\x00-\x7f]{3})】([wxhq]+)(\s|$)/$1$2【$3／$6】$4／$7 $5$8/
     - xform/(】)([wxhq]+)／\2(\s)/$1$2$3/
-
+# 註聲調
     - xlit|wxhq|平上去入|
 
 key_binder:
