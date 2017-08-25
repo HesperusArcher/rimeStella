@@ -22,6 +22,8 @@ stroke.schema*
 wubi86.schema*
 zyenpheng.schema*
 
+luna_pinyin.*.dict.yaml
+
 sync/stella/*.bin
 sync/stella/*.yaml
 sync/stella/terra_pinyin.userdb.txt

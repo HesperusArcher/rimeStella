@@ -4,7 +4,7 @@
 schema:
   schema_id: cangjie5-M
   name: 倉頡五代・廣韻反查
-  version: "2017.07.27"
+  version: "2017.08.25"
   author:
     - 發明人 朱邦復先生
   description: |
@@ -104,7 +104,7 @@ translator:
 
 pinyin:
   tag: pinyin
-  dictionary: luna_pinyin
+  dictionary: luna_pinyin.extended
   # prefix: P
   # suffix: ;
   preedit_format: &pinyin
@@ -117,7 +117,7 @@ pinyin:
 
 pinyin_simp:
   tag: pinyin_simp
-  dictionary: luna_pinyin
+  dictionary: luna_pinyin.extended
   prefix: P
   suffix: ;
   preedit_format: *pinyin

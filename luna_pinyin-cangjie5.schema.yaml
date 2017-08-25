@@ -4,7 +4,7 @@
 schema:
   schema_id: luna_pinyin-cangjie5
   name: 朙月拼音・倉頡五代
-  version: "2017.07.27"
+  version: "2017.08.25"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 發明人 朱邦復先生
@@ -100,7 +100,7 @@ speller:
 
 translator:
   dictionary: &dict
-    luna_pinyin
+    luna_pinyin.extended
   prism: luna_pinyin-cangjie5
   preedit_format: &luna
     - xform/([nl])v/$1ü/
@@ -118,7 +118,7 @@ custom_phrase:
 
 pinyin:
   tag: pinyin
-  dictionary: luna_pinyin
+  dictionary: *dict
   prefix: P
   suffix: ;
   preedit_format: *luna

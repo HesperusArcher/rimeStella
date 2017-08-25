@@ -4,7 +4,7 @@
 schema:
   schema_id: zhung_combo_kbcon-cangjie5
   name: "中州羅馬字（並擊·鍵盤控式）＆倉頡五代"
-  version: "2017.08.22"
+  version: "2017.08.25"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 發明人 朱邦復先生
@@ -143,7 +143,7 @@ custom_phrase:
 
 pinyin:
   tag: pinyin
-  dictionary: luna_pinyin
+  dictionary: luna_pinyin.extended
   prefix: py
   suffix: ;
   preedit_format: &pinyin

@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_pinyin_kbcon-cangjie5
   name: "宮保拼音・鍵盤控式＆倉頡五代"
-  version: "2017.08.20"
+  version: "2017.08.25"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 發明人 朱邦復先生
@@ -137,7 +137,7 @@ speller:
     - erase/^xx$/
 
 translator:
-  dictionary: luna_pinyin
+  dictionary: luna_pinyin.extended
   prism: combo_pinyin_kbcon-cangjie5
   preedit_format: &pinyin
     - xform/([nl])v/$1ü/
@@ -155,7 +155,7 @@ custom_phrase:
 
 pinyin:
   tag: pinyin
-  dictionary: luna_pinyin
+  dictionary: luna_pinyin.extended
   prefix: py
   suffix: ;
   preedit_format: *pinyin
