@@ -11,13 +11,13 @@
 
 ---
 name: zhung
-version: "2015.02.14"
+version: "2017.08.25"
 sort: by_weight
 use_preset_vocabulary: true
-import_tables:
-  - luna_pinyin.extended
-  - luna_pinyin.hanyu
-  - luna_pinyin.poetry
+# import_tables:
+#   - luna_pinyin.extended
+#   - luna_pinyin.hanyu
+#   - luna_pinyin.poetry
 ...
 
 # 惠濟方言詞彙
@@ -956,6 +956,7 @@ import_tables:
 場	chang2
 場	chang3
 以	yi3
+㠯	yi3
 己	ji3
 已	yi3
 已	yi4	0%
@@ -1751,6 +1752,7 @@ import_tables:
 掉	diau4
 掉	nuo1	0%
 窗	chuang1
+䆫	chuang1
 彭	peng2
 積	zi1
 積	zy4	0%
@@ -1801,6 +1803,7 @@ import_tables:
 傑	je2
 濟	zi3
 濟	zi4
+㴉	zi3
 蜜	mi1
 密	mi1
 柏	be1
@@ -2659,6 +2662,7 @@ import_tables:
 遂	sui4
 狼	lang2
 魂	hun2
+䰟	hun2
 莎	sha1
 莎	suo1	0%
 鈞	jun1
@@ -3822,6 +3826,7 @@ import_tables:
 歇	xe1
 妖	yau1
 銜	xan2
+㘅	xan2
 鍍	tu2	0%
 鍍	du4
 柄	bing4

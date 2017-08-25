@@ -155,7 +155,7 @@ custom_phrase:
 
 pinyin:
   tag: pinyin
-  dictionary: luna_pinyin.extended
+  dictionary: luna_pinyin
   prefix: py
   suffix: ;
   preedit_format: *pinyin
@@ -297,7 +297,7 @@ cangjie5_reverse_lookup:
 
 triungkox_lookup:
   tags: [ triungkox_lookup, pinyin, cangjie5, cangjie5_simp ]
-  # dictionary: cangjie5
+  # dictionary: zyenpheng
   # preedit_format: *cangjie5
   tips: 【中古拼音反查】
   closing_tips: 【宫保】
