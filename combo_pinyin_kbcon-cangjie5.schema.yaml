@@ -488,7 +488,7 @@ key_binder:
   #   # 引號選第三重碼
 
 punctuator:
-  import_preset: symbols_yc
+  import_preset: symbolstella
   half_shape: &punct
     ':': [ '：', '；' ]
   full_shape: *punct

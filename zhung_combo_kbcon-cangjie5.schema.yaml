@@ -466,7 +466,7 @@ middle_chinese:
     - xlit|wxhq|平上去入|
 
 punctuator:
-  import_preset: symbols_yc
+  import_preset: symbolstella
   half_shape: &punct
     ':': [ '：', '；' ]
   full_shape: *punct

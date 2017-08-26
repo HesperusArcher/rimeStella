@@ -104,7 +104,7 @@ translator:
 
 pinyin:
   tag: pinyin
-  dictionary: luna_pinyin.extended
+  dictionary: luna_pinyin
   # prefix: P
   # suffix: ;
   preedit_format: &pinyin
@@ -117,7 +117,7 @@ pinyin:
 
 pinyin_simp:
   tag: pinyin_simp
-  dictionary: luna_pinyin.extended
+  dictionary: luna_pinyin
   prefix: P
   suffix: ;
   preedit_format: *pinyin
@@ -418,7 +418,7 @@ key_binder:
   #   # 引號選第三重碼
 
 punctuator:
-  import_preset: symbols_yc
+  import_preset: symbolstella
 
 recognizer:
   import_preset: default

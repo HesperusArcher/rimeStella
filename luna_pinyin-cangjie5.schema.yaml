@@ -408,7 +408,7 @@ middle_chinese_reverse_lookup:
     - xform/^/【/
 
 punctuator:
-  import_preset: symbols_yc
+  import_preset: symbolstella
 
 key_binder:
   import_preset: default
