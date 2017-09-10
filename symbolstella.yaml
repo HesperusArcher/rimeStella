@@ -368,6 +368,9 @@ punctuator:
     '/blog':
       - http://erstern.github.io/
       - https://github.com/erstern/erstern.github.io
+    '/ch':
+      - 蔡豪
+      - caihao.ch@foxmail.com
     '/email':
       - yuanchen.gm@gmail.com
       - xieych@outlook.com
