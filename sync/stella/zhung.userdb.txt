@@ -1005,8 +1005,8 @@ siau3 chang2 	小腸	c=1 d=0.97531 t=3106
 siau3 fen1 zy3 	小分子	c=1 d=0.191092 t=3106
 siau3 shu3 	小鼠	c=7 d=2.34067 t=3106
 sie3 	寫	c=1 d=0.856415 t=3106
-sie4 	謝	c=0 d=0.0198891 t=3106
-sie4 yuan2 chen2 	謝元辰	c=1 d=0.199888 t=3106
+sie4 	謝	c=0 d=0.0995012 t=3106
+sie4 yuan2 chen2 	謝元辰	c=1 d=1 t=3106
 sin1 jin4 	新近	c=1 d=0.574072 t=3106
 sin4 hau4 	信號	c=3 d=0.762622 t=3106
 sin4 hau4 fen1 zy3 	信號分子	c=1 d=0.292293 t=3106
@@ -1337,7 +1337,7 @@ yu4 dau4 	遇到	c=1 d=0.709778 t=3106
 yu4 dau4 leo1 	遇到了	c=1 d=0.0271874 t=3106
 yuan2 	原	c=0 d=0.0158817 t=3106
 yuan2 	源	c=0 d=0.0255381 t=3106
-yuan2 chen2 	元辰	c=0 d=0.0198891 t=3106
+yuan2 chen2 	元辰	c=0 d=0.0995012 t=3106
 yuan2 sheng1 	原生	c=1 d=0.704688 t=3106
 yuan2 yin1 	原因	c=1 d=0.869358 t=3106
 yun4 dung4 	運動	c=1 d=0.946485 t=3106
