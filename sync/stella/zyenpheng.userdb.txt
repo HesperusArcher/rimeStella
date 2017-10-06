@@ -4,6 +4,9 @@
 #@/rime_version	1.2.9
 #@/tick	3
 #@/user_id	stella
+iu phjeuh 	郵票	c=-1 d=0 t=3
+iu phyoih 	郵費	c=-1 d=0 t=3
+iu phyoih su 	郵費涑	c=-1 d=0 t=3
 iux 	有	c=0 d=0.0995012 t=3
 iux njin 	有人	c=0 d=0.0995012 t=3
 iux njin iux 	有人有	c=-1 d=1 t=3
