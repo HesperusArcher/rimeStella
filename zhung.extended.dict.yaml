@@ -9,7 +9,7 @@
 #
 
 ---
-name: zhung_extended
+name: zhung.extended
 version: "2017.10.18"
 sort: by_weight
 use_preset_vocabulary: true
@@ -18,7 +18,7 @@ import_tables:
   - zhung
   - luna_pinyin.hanyu
   - luna_pinyin.poetry
-  - luna_pinyin.stella
+  - stella
 ...
 
 #以下爲luna_pinyin.dict詞組 Unicode 7.0
