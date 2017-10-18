@@ -124,7 +124,7 @@ speller:
 
 translator:
   dictionary: &dict
-    zhung
+    zhung_extended
   prism: zhung_combo_kbcon-cangjie5
   preedit_format: &zhung
     - xform/([nl])v/$1ü/
