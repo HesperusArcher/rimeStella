@@ -24,7 +24,7 @@ zyenpheng.schema*
 
 luna_pinyin.*.dict.yaml
 stella.dict.yaml
-zhung.*.dict.yaml
+zhung*.dict.yaml
 
 sync/stella/*.bin
 sync/stella/*.yaml
