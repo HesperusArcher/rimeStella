@@ -6,9 +6,12 @@
 #@/user_id	stella
 a 	啊	c=65 d=3.31908 t=39263
 a 	阿	c=0 d=8.48472e-10 t=39263
+a e 	啊額	c=-1 d=1.50395e-07 t=39263
 a ge san chong jie 	阿閣三重階	c=1 d=8.52724e-09 t=39263
 a li 	阿里	c=3 d=0.902669 t=39263
+a re 	啊熱	c=-1 d=1.51149e-07 t=39263
 a tuo pin 	阿托品	c=1 d=1.99059e-11 t=39263
+a za ye 	啊雜業	c=-1 d=0 t=39263
 ai 	哀	c=0 d=8.87533e-10 t=39263
 ai 	埃	c=0 d=1.85123e-11 t=39263
 ai 	愛	c=4 d=2.34125 t=39263
@@ -18,7 +21,9 @@ ai ji 	埃及	c=1 d=0.313486 t=39263
 ai ji yin 	癌基因	c=3 d=0.000765291 t=39263
 ai qing 	愛情	c=1 d=0.355226 t=39263
 ai ren 	愛人	c=1 d=0.951229 t=39263
+ai su 	哀訴	c=-1 d=0 t=39263
 ai wu sheng zhi xu yu 	哀吾生之須臾	c=1 d=1.12031e-13 t=39263
+ai yu 	愛與	c=-1 d=1.45222e-07 t=39263
 ai zai 	哀哉	c=0 d=0.0767206 t=39263
 ai zai xian di shao hai yu 	哀哉獻帝紹海宇	c=1 d=0.771052 t=39263
 an 	俺	c=41 d=2.75997 t=39263
@@ -43,6 +48,7 @@ an ji suan 	氨基酸	c=71 d=2.77818 t=39263
 an ji suan can ji 	氨基酸殘基	c=5 d=0.155673 t=39263
 an ji suan chi 	氨基酸池	c=1 d=2.94718e-10 t=39263
 an ji suan dai xie 	氨基酸代謝	c=1 d=3.60779e-07 t=39263
+an ji suan di 	氨基酸第	c=-1 d=5.42595e-14 t=39263
 an ji suan mo shi 	氨基酸模式	c=2 d=5.49594e-10 t=39263
 an ji suan ping fen 	氨基酸評分	c=1 d=3.14511e-10 t=39263
 an ji suan xu lie 	氨基酸序列	c=2 d=0.470015 t=39263
@@ -75,6 +81,7 @@ an suan 	氨酸	c=1 d=0.373439 t=39263
 an wei ji 	安慰劑	c=0 d=4.71629e-13 t=39263
 an wei ji xiao ying 	安慰劑效應	c=1 d=4.73992e-12 t=39263
 an xi 	安息	c=0 d=0.0202909 t=39263
+an xi suan 	安息酸	c=-1 d=3.08232e-08 t=39263
 an xia 	按下	c=1 d=0.0224829 t=39263
 an xin 	安心	c=1 d=0.529935 t=39263
 an ye 	暗夜	c=1 d=0.000127168 t=39263
@@ -92,6 +99,7 @@ ang yang 	昂揚	c=0 d=0.0460704 t=39263
 ang yang dou zhi 	昂揚鬥志	c=1 d=0.463013 t=39263
 ao 	奧	c=1 d=0.490572 t=39263
 ao 	熬	c=1 d=0.551563 t=39263
+ao de 	奧的	c=-1 d=1.39528e-07 t=39263
 ao guo 	熬過	c=1 d=0.543351 t=39263
 ao lin pi ke 	奧林匹克	c=1 d=0.367879 t=39263
 ao men 	澳門	c=1 d=0.436049 t=39263
@@ -100,6 +108,7 @@ ao si ka 	奧斯卡	c=1 d=0.147342 t=39263
 ao tang 	熬湯	c=1 d=0.000147748 t=39263
 ao ti zhong xin 	奧體中心	c=3 d=1.02865 t=39263
 ao tou 	鰲頭	c=0 d=0.000843808 t=39263
+ao yan 	奧衍	c=-1 d=1.05199e-08 t=39263
 ao ye 	熬夜	c=5 d=0.559898 t=39263
 ao you 	遨遊	c=0 d=1.12592e-14 t=39263
 ba 	八	c=0 d=0.0170333 t=39263
@@ -114,6 +123,7 @@ ba bi tuo 	巴比妥	c=0 d=2.04558e-09 t=39263
 ba cheng 	八成	c=1 d=0.353455 t=39263
 ba da 	八大	c=0 d=0.0143704 t=39263
 ba ge 	八個	c=1 d=0.839457 t=39263
+ba hai zi he zang shui yi qi po diao 	把孩子和髒水一起潑掉	c=-1 d=1.07583e-07 t=39263
 ba he 	巴赫	c=1 d=0.484325 t=39263
 ba ji yin 	靶基因	c=1 d=0.118837 t=39263
 ba jian 	拔劍	c=0 d=5.21318e-15 t=39263
@@ -209,6 +219,7 @@ ban 	搬	c=3 d=0.0344735 t=39263
 ban 	板	c=0 d=0.000245409 t=39263
 ban 	版	c=2 d=0.766719 t=39263
 ban 	辦	c=4 d=1.17463 t=39263
+ban bao liu 	半保留	c=-1 d=6.36632e-12 t=39263
 ban bao liu fu zhi 	半保留複製	c=1 d=4.25428e-05 t=39263
 ban ben 	版本	c=17 d=3.11885 t=39263
 ban bi 	半壁	c=0 d=2.0061e-15 t=39263
@@ -219,6 +230,7 @@ ban dao 	搬到	c=1 d=0.554327 t=39263
 ban dao le 	搬到了	c=1 d=0.0448245 t=39263
 ban deng 	板凳	c=1 d=2.96146e-08 t=39263
 ban dong xi 	搬東西	c=1 d=0.687289 t=39263
+ban dong xi 	辦東西	c=-1 d=3.6902e-08 t=39263
 ban dui shu 	半對數	c=1 d=9.71272e-11 t=39263
 ban fa 	辦法	c=2 d=0.431711 t=39263
 ban ge 	半個	c=2 d=0.851612 t=39263
@@ -399,6 +411,7 @@ bei men 	北門	c=6 d=1.53226 t=39263
 bei men wai 	北門外	c=1 d=0.955997 t=39263
 bei mo 	被膜	c=1 d=0.0712859 t=39263
 bei mo ting 	杯莫停	c=2 d=0.97531 t=39263
+bei mo ting 	盃莫停	c=-1 d=2.57097e-21 t=39263
 bei pan lang ji 	杯盤狼藉	c=1 d=1.36152e-13 t=39263
 bei qiu 	悲秋	c=0 d=1.53141e-15 t=39263
 bei shang guang 	北上廣	c=1 d=0.0333733 t=39263
@@ -427,8 +440,10 @@ ben lai 	本來	c=5 d=1.03841 t=39263
 ben liu 	奔流	c=0 d=1.58596e-15 t=39263
 ben liu dao hai bu fu hui 	奔流到海不復回	c=1 d=1.59391e-14 t=39263
 ben liu dao yi 	本留到以	c=1 d=1 t=39263
+ben liu de yi 	本留得以	c=-1 d=0 t=39263
 ben ma 	奔馬	c=0 d=0.00911727 t=39263
 ben shen 	本身	c=7 d=0.794534 t=39263
+ben sheng 	本生	c=-1 d=1.19494e-07 t=39263
 ben shu 	本書	c=1 d=0.680451 t=39263
 ben xiang 	本想	c=1 d=0.00546167 t=39263
 ben yan jiu 	本研究	c=1 d=0.00918669 t=39263
@@ -455,6 +470,7 @@ bi da ge la si ding li 	畢達哥拉斯定理	c=1 d=0.160414 t=39263
 bi ding 	必定	c=1 d=0.985112 t=39263
 bi guan 	閉關	c=1 d=0.802519 t=39263
 bi guan 	閉館	c=1 d=0.806541 t=39263
+bi hao 	敝號	c=-2 d=3.20811e-08 t=39263
 bi huo xing 	比活性	c=1 d=0.946485 t=39263
 bi ji 	筆記	c=3 d=0.927743 t=39263
 bi ji ben 	筆記本	c=8 d=0.697676 t=39263
@@ -478,6 +494,7 @@ bi re 	比熱	c=0 d=2.15675e-14 t=39263
 bi re rong 	比熱容	c=1 d=2.16757e-13 t=39263
 bi ru 	比如	c=33 d=2.4067 t=39263
 bi ru xiang 	比如像	c=1 d=0.251579 t=39263
+bi shang 	閉上	c=-1 d=1.21946e-07 t=39263
 bi shang shuang yan 	閉上雙眼	c=1 d=0.737123 t=39263
 bi sheng 	必勝	c=1 d=0.501979 t=39263
 bi shi 	筆試	c=3 d=0.604218 t=39263
@@ -518,6 +535,7 @@ bian cheng 	變成	c=4 d=0.985651 t=39263
 bian cheng yu yan 	編程語言	c=1 d=0.0175975 t=39263
 bian dong 	變動	c=1 d=0.522046 t=39263
 bian ge 	變革	c=1 d=0.641332 t=39263
+bian gou 	編構	c=-1 d=5.58832e-08 t=39263
 bian gou 	變構	c=1 d=0.413263 t=39263
 bian gou xiao ying 	變構效應	c=1 d=0.418952 t=39263
 bian hao 	編好	c=1 d=0.0211736 t=39263
@@ -534,6 +552,7 @@ bian le 	變了	c=0 d=0.0404542 t=39263
 bian li 	便利	c=1 d=0.0652042 t=39263
 bian li 	遍歷	c=2 d=1.00122e-06 t=39263
 bian li di 	便利地	c=1 d=0.0515605 t=39263
+bian li di 	便利第	c=-1 d=0 t=39263
 bian li hua 	便利化	c=2 d=0.867218 t=39263
 bian li xing 	便利性	c=1 d=0.140858 t=39263
 bian liang 	變量	c=2 d=0.748264 t=39263
@@ -573,7 +592,9 @@ biao da 	表達	c=12 d=1.21461 t=39263
 biao da hou 	表達後	c=1 d=0.133989 t=39263
 biao da xi tong 	表達系統	c=1 d=0.000553084 t=39263
 biao da yu 	表達於	c=2 d=1.23832 t=39263
+biao da yu 	表達與	c=-1 d=8.98612e-08 t=39263
 biao da zai ti 	表達載體	c=1 d=0.000480828 t=39263
+biao fang 	標方	c=-1 d=1.38832e-07 t=39263
 biao ge 	標個	c=4 d=0.917287 t=39263
 biao ge 	表格	c=9 d=3.26268 t=39263
 biao ge ge shi 	表格格式	c=1 d=0.00719046 t=39263
@@ -612,6 +633,7 @@ biao xing 	表型	c=1 d=0.00047843 t=39263
 biao yan 	表演	c=1 d=0.995012 t=39263
 biao yu 	標語	c=0 d=0.00893673 t=39263
 biao zhi 	標誌	c=3 d=0.985171 t=39263
+biao zhua 	標抓	c=-1 d=2.74084e-09 t=39263
 biao zhun 	標準	c=7 d=0.759572 t=39263
 biao zhun cha 	標準差	c=1 d=7.12377e-11 t=39263
 biao zhun dui zhao 	標準對照	c=1 d=4.76368e-12 t=39263
@@ -690,6 +712,7 @@ bing li qian ru 	病例遷入	c=1 d=1.12302e-12 t=39263
 bing li shi jian dui zhao she ji 	病例時間對照設計	c=1 d=4.0391e-12 t=39263
 bing li xi lie fen xi 	病例系列分析	c=1 d=1.88895e-12 t=39263
 bing li zu 	病例組	c=1 d=2.83114e-08 t=39263
+bing li zu 	病立足	c=-1 d=4.2579e-15 t=39263
 bing lian 	並聯	c=0 d=6.62613e-13 t=39263
 bing lian shi yan 	並聯試驗	c=1 d=6.65935e-12 t=39263
 bing lie 	並列	c=1 d=0.131336 t=39263
@@ -784,6 +807,7 @@ bu bian 	不變	c=3 d=1.49941 t=39263
 bu biao da 	不表達	c=1 d=0.00355287 t=39263
 bu bu 	補補	c=3 d=0.427765 t=39263
 bu cai liao 	補材料	c=1 d=0.398519 t=39263
+bu can 	逋殘	c=-1 d=1.47417e-07 t=39263
 bu can shi shang ying 	不慚世上英	c=1 d=2.9043e-14 t=39263
 bu chan sheng 	不產生	c=2 d=0.980346 t=39263
 bu chang 	不常	c=0 d=4.43092e-14 t=39263
@@ -879,6 +903,7 @@ bu hao na 	不好拿	c=1 d=0.125556 t=39263
 bu hao yi si 	不好意思	c=1 d=0.755784 t=39263
 bu he 	不合	c=1 d=0.895834 t=39263
 bu he 	不喝	c=1 d=0.00763509 t=39263
+bu he de yi wo si 	不合的一窩絲	c=-1 d=8.46569e-12 t=39263
 bu he ge 	不合格	c=1 d=0.00628242 t=39263
 bu he shi 	不合適	c=3 d=0.657047 t=39263
 bu hen 	不很	c=0 d=0.00699482 t=39263
@@ -889,6 +914,7 @@ bu hui 	不會	c=13 d=1.74569 t=39263
 bu hui chan sheng 	不會產生	c=1 d=0.353455 t=39263
 bu hui lai 	補回來	c=1 d=0.000129737 t=39263
 bu hui qu 	不回去	c=1 d=0.465334 t=39263
+bu hui qu 	不會去	c=-2 d=9.11681e-08 t=39263
 bu hui yuan 	不會遠	c=1 d=1.97012e-07 t=39263
 bu ji 	不急	c=1 d=0.960789 t=39263
 bu ji de 	不記得	c=5 d=0.565192 t=39263
@@ -958,10 +984,12 @@ bu neng li jie 	不能理解	c=1 d=0.951229 t=39263
 bu neng wang 	不能忘	c=2 d=0.548812 t=39263
 bu nian 	不念	c=0 d=1.00068e-09 t=39263
 bu nian xie shou hao 	不念攜手好	c=1 d=1.0057e-08 t=39263
+bu ou 	布偶	c=-1 d=4.24475e-08 t=39263
 bu pai chu 	不排除	c=1 d=0.126186 t=39263
 bu pao 	不跑	c=1 d=0.00199922 t=39263
 bu pei 	不賠	c=1 d=0.115903 t=39263
 bu pei dui 	不配對	c=1 d=0.215456 t=39263
+bu pei dui 	布配對	c=-1 d=3.24035e-08 t=39263
 bu pi 	布匹	c=1 d=3.63464e-06 t=39263
 bu pian li 	不偏離	c=1 d=0.771052 t=39263
 bu ping 	不平	c=0 d=0.0082085 t=39263
@@ -1077,6 +1105,7 @@ bu xing 	不行	c=7 d=2.95354 t=39263
 bu xing 	步行	c=6 d=1.98322 t=39263
 bu xu yao 	不需要	c=4 d=2.11458 t=39263
 bu xue 	不學	c=1 d=0.0934807 t=39263
+bu yan 	不嚴	c=-2 d=1.11415e-07 t=39263
 bu yao 	不要	c=6 d=1.22608 t=39263
 bu yao le 	不要了	c=1 d=0.25924 t=39263
 bu yao yong 	不要用	c=1 d=0.0141223 t=39263
@@ -1086,6 +1115,7 @@ bu yi 	不易	c=1 d=0.527292 t=39263
 bu yi cong 	不依從	c=1 d=5.03303e-12 t=39263
 bu yi ding 	不一定	c=5 d=1.26704 t=39263
 bu yi er zu 	不一而足	c=1 d=0.371577 t=39263
+bu yi yan 	不一眼	c=-1 d=2.47404e-10 t=39263
 bu yi yang 	不一樣	c=11 d=0.906105 t=39263
 bu yi zhi 	不一致	c=2 d=0.591985 t=39263
 bu ying 	不應	c=2 d=0.789265 t=39263
@@ -1100,6 +1130,7 @@ bu yuan 	不遠	c=2 d=0.843805 t=39263
 bu yuan yi 	不願意	c=1 d=0.0109436 t=39263
 bu yun xu 	不允許	c=1 d=0.188062 t=39263
 bu za 	不咋	c=1 d=0.136014 t=39263
+bu za 	不扎	c=-1 d=2.04557e-08 t=39263
 bu zai 	不再	c=8 d=1.10289 t=39263
 bu zai 	不在	c=1 d=0.198895 t=39263
 bu zai shi 	不再是	c=1 d=0.423162 t=39263
@@ -1119,6 +1150,7 @@ bu zhi dao 	不知道	c=22 d=2.50555 t=39263
 bu zhi dong fang zhi 	不知東方之	c=1 d=1.3821e-13 t=39263
 bu zhi jiang yue dai he ren 	不知江月待何人	c=1 d=4.20465e-14 t=39263
 bu zhi jie 	不直接	c=1 d=0.647265 t=39263
+bu zhi jie 	布直接	c=-1 d=9.73454e-08 t=39263
 bu zhi qian 	不值錢	c=1 d=0.271173 t=39263
 bu zhi shi 	不只是	c=1 d=0.132655 t=39263
 bu zhi wang 	不指望	c=1 d=2.13973e-08 t=39263
@@ -1132,7 +1164,9 @@ bu zhuan 	不轉	c=0 d=1.41368e-15 t=39263
 bu zhuan ye 	不專業	c=1 d=0.628135 t=39263
 bu zhui qing yun zhi zhi 	不墜青雲之志	c=1 d=3.75695e-13 t=39263
 bu zhuo 	不着	c=0 d=4.57534e-09 t=39263
+bu zi 	步子	c=-1 d=4.56663e-15 t=39263
 bu zi xue tang 	步自雪堂	c=1 d=1.41002e-13 t=39263
+bu zong 	布總	c=-1 d=8.37859e-08 t=39263
 bu zu 	不足	c=4 d=0.738627 t=39263
 bu zuo 	不做	c=1 d=4.27706e-09 t=39263
 ca ping shi zhi 	擦屏溼紙	c=1 d=0.995012 t=39263
@@ -1209,6 +1243,7 @@ cang cang 	蒼蒼	c=0 d=1.02941e-14 t=39263
 cang cui 	蒼翠	c=0 d=1.33802e-15 t=39263
 cang hai 	滄海	c=0 d=1.65997e-14 t=39263
 cang jie 	倉頡	c=18 d=6.62853 t=39263
+cang jie jian zi fa 	倉頡檢字法	c=-1 d=4.58875e-13 t=39263
 cang jie jian zi fa 	蒼頡檢字法	c=1 d=3.05113e-06 t=39263
 cang jie wu dai 	倉頡五代	c=3 d=2.87327 t=39263
 cang mang 	蒼茫	c=0 d=4.78838e-15 t=39263
@@ -1289,6 +1324,7 @@ cha bie bu da 	差別不大	c=1 d=0.0788664 t=39263
 cha bu dao 	查不到	c=1 d=0.0280154 t=39263
 cha bu duo 	差不多	c=11 d=1.81718 t=39263
 cha bu liao 	差不了	c=2 d=0.681512 t=39263
+cha bu tuo 	茶不妥	c=-1 d=5.81639e-08 t=39263
 cha cha 	查查	c=6 d=0.882617 t=39263
 cha chi 	插翅	c=0 d=0.0349938 t=39263
 cha chi hu 	插翅虎	c=1 d=0.351692 t=39263
@@ -1325,8 +1361,10 @@ chan neng guo sheng 	產能過剩	c=1 d=0.232236 t=39263
 chan neng ying yang su 	產能營養素	c=1 d=4.24546e-10 t=39263
 chan pin 	產品	c=1 d=0.670347 t=39263
 chan pin she ji 	產品設計	c=2 d=1.70431 t=39263
+chan pin she ji zai xin ying 	產品設計再新穎	c=-1 d=0 t=39263
 chan rao 	纏繞	c=1 d=0.174645 t=39263
 chan sheng 	產生	c=40 d=2.21779 t=39263
+chan sheng da 	產生大	c=-1 d=1.73443e-08 t=39263
 chan sheng kang ti 	產生抗體	c=3 d=0.247305 t=39263
 chan sheng ying da 	產生應答	c=1 d=0.228779 t=39263
 chan sheng yu 	產生於	c=1 d=0.000159256 t=39263
@@ -1503,8 +1541,10 @@ chen men 	沉悶	c=1 d=0.489192 t=39263
 chen mo 	沉默	c=0 d=9.56323e-06 t=39263
 chen mo zi 	沉默子	c=1 d=9.61117e-05 t=39263
 chen wang xi shi yan ping le 	陳王昔時宴平樂	c=1 d=1.77038e-14 t=39263
+chen xu 	陳敘	c=-1 d=4.11929e-08 t=39263
 chen yi 	稱意	c=0 d=6.3674e-15 t=39263
 chen yin 	沉吟	c=0 d=0.099005 t=39263
+chen yin ge 	沉吟個	c=-1 d=1.50395e-07 t=39263
 chen yin ke 	陳寅恪	c=1 d=1 t=39263
 cheng 	乘	c=0 d=8.6786e-11 t=39263
 cheng 	呈	c=5 d=0.433532 t=39263
@@ -1559,6 +1599,7 @@ cheng shi yi sheng 	城市醫生	c=1 d=0.722527 t=39263
 cheng shu 	成書	c=1 d=0.377192 t=39263
 cheng shu 	成熟	c=15 d=1.17364 t=39263
 cheng shu shi 	成熟時	c=1 d=0.191092 t=39263
+cheng su 	成俗	c=-1 d=2.575e-10 t=39263
 cheng tou 	城頭	c=3 d=0.142987 t=39263
 cheng wei 	成爲	c=11 d=1.29943 t=39263
 cheng wei 	稱爲	c=114 d=7.41486 t=39263
@@ -1640,6 +1681,7 @@ chi jiu xing you ji wu ran wu 	持久性有機污染物	c=1 d=1.93644e-10 t=3926
 chi le 	吃了	c=14 d=3.78305 t=39263
 chi le fan 	吃了飯	c=1 d=0.04573 t=39263
 chi liao 	吃了	c=1 d=1.60468e-05 t=39263
+chi liao 	熾燎	c=-1 d=2.41337e-12 t=39263
 chi ping guo 	吃蘋果	c=1 d=0.25284 t=39263
 chi ru che lun 	翅如車輪	c=1 d=1.87499e-13 t=39263
 chi sha 	吃啥	c=4 d=0.548812 t=39263
@@ -1782,6 +1824,7 @@ chu wen ti 	出問題	c=3 d=0.0114137 t=39263
 chu xi 	出席	c=1 d=0.349938 t=39263
 chu xi hui yi 	出席會議	c=1 d=0.489192 t=39263
 chu xian 	出現	c=12 d=0.85424 t=39263
+chu xian guo 	處鮮果	c=-1 d=4.04818e-09 t=39263
 chu xian yu 	出現於	c=3 d=1.28518 t=39263
 chu xin 	初心	c=0 d=0.00953692 t=39263
 chu xu 	儲蓄	c=0 d=0.0453845 t=39263
@@ -1805,6 +1848,7 @@ chuan di xin xi 	傳遞信息	c=1 d=0.524663 t=39263
 chuan guo 	穿過	c=2 d=0.81003 t=39263
 chuan jia 	傳家	c=0 d=0.0304221 t=39263
 chuan jia fa bao 	傳家法寶	c=1 d=0.305746 t=39263
+chuan jin 	船僅	c=-1 d=4.59827e-08 t=39263
 chuan lian 	串聯	c=0 d=0.012307 t=39263
 chuan lian cheng 	串聯成	c=1 d=0.0808629 t=39263
 chuan lian mei 	串聯酶	c=1 d=0.123687 t=39263
@@ -1860,6 +1904,7 @@ chuang zao 	創造	c=3 d=0.909455 t=39263
 chuang zao le 	創造了	c=1 d=0.0461896 t=39263
 chuang zao li 	創造力	c=0 d=0.026054 t=39263
 chuang zao shi lao dong 	創造式勞動	c=1 d=1.46731e-11 t=39263
+chuang zou 	窗奏	c=-1 d=9.05607e-11 t=39263
 chui 	吹	c=0 d=1.36052e-14 t=39263
 chui 	垂	c=0 d=9.2885e-16 t=39263
 chui 	槌	c=0 d=2.81846e-15 t=39263
@@ -1948,6 +1993,7 @@ cong jian 	從簡	c=1 d=0.29523 t=39263
 cong lai 	從來	c=1 d=0.0102549 t=39263
 cong ma 	驄馬	c=0 d=9.15021e-16 t=39263
 cong qian 	從前	c=9 d=4.20393 t=39263
+cong qin 	從親	c=-1 d=4.80992e-08 t=39263
 cong sheng li 	從勝利	c=1 d=0.331513 t=39263
 cong sheng li zou xiang sheng li 	從勝利走向勝利	c=1 d=0.319819 t=39263
 cong shi 	從事	c=1 d=3.89951e-10 t=39263
@@ -1962,6 +2008,7 @@ cong zhong 	從中	c=1 d=0.985112 t=39263
 cong zhong shou yi 	從中受益	c=1 d=0.071719 t=39263
 cu 	促	c=0 d=8.43952e-06 t=39263
 cu 	粗	c=0 d=1.58281e-11 t=39263
+cu ang 	促昂	c=-1 d=5.13296e-08 t=39263
 cu fang 	粗放	c=0 d=0.066365 t=39263
 cu fang de fa zhan fang shi 	粗放的發展方式	c=1 d=0.666977 t=39263
 cu jin 	促進	c=20 d=2.99918 t=39263
@@ -2013,6 +2060,7 @@ cui sheng 	催生	c=2 d=0.395791 t=39263
 cui wei 	崔嵬	c=0 d=3.61897e-15 t=39263
 cun 	村	c=2 d=0.453168 t=39263
 cun chu 	存儲	c=0 d=0.0790571 t=39263
+cun jia 	村家	c=-1 d=4.8725e-13 t=39263
 cun liu 	存留	c=1 d=0.449329 t=39263
 cun zai 	存在	c=17 d=1.49195 t=39263
 cun zai cha yi 	存在差異	c=1 d=0.0352602 t=39263
@@ -2036,7 +2084,9 @@ da 	答	c=1 d=0.227638 t=39263
 da 	達	c=4 d=0.330418 t=39263
 da an 	答案	c=4 d=0.923116 t=39263
 da ban ge 	大半個	c=1 d=1 t=39263
+da ben fen 	大本分	c=-1 d=5.75852e-08 t=39263
 da biao 	達標	c=0 d=0.065377 t=39263
+da biao xing 	達標型	c=-1 d=9.9312e-08 t=39263
 da bu dao 	達不到	c=1 d=0.786628 t=39263
 da bu fen 	大部分	c=4 d=1.25289 t=39263
 da bu kai 	打不開	c=1 d=0.179066 t=39263
@@ -2134,6 +2184,7 @@ da mo gu yan zhi 	大漠孤煙直	c=1 d=1.15741e-14 t=39263
 da mu 	大幕	c=1 d=0.148823 t=39263
 da mu zhi 	大拇指	c=1 d=0.759572 t=39263
 da pan 	大盤	c=0 d=0.0003573 t=39263
+da pan ji 	大盤及	c=-1 d=2.70703e-10 t=39263
 da pan ji 	大盤雞	c=1 d=0.00179994 t=39263
 da pei 	搭配	c=1 d=0.00353515 t=39263
 da ping 	大屏	c=1 d=0.882497 t=39263
@@ -2232,15 +2283,18 @@ dai dong 	帶動	c=7 d=1.72842 t=39263
 dai dong he kuo da jiu ye 	帶動和擴大就業	c=1 d=0.323033 t=39263
 dai fu dian he 	帶負電荷	c=2 d=0.778801 t=39263
 dai ge 	帶個	c=1 d=7.63639e-05 t=39263
+dai gu 	大故	c=-1 d=1.17128e-07 t=39263
 dai guan 	代管	c=1 d=0.130029 t=39263
 dai guo 	呆過	c=2 d=1.00082 t=39263
 dai guo 	帶過	c=1 d=0.782705 t=39263
+dai hai 	帶還	c=-1 d=7.7142e-36 t=39263
 dai hui qu 	帶回去	c=2 d=0.658315 t=39263
 dai ji 	待機	c=6 d=0.110838 t=39263
 dai ji dian 	待機點	c=1 d=2.64567e-05 t=39263
 dai jia 	代價	c=0 d=0.0657047 t=39263
 dai jin quan 	代金券	c=1 d=1.11761e-14 t=39263
 dai ke 	戴克	c=0 d=0.0336216 t=39263
+dai ke si te 	代喀斯特	c=-1 d=5.08187e-08 t=39263
 dai ke si te la 	戴克斯特拉	c=2 d=0.76746 t=39263
 dai kuan 	貸款	c=1 d=0.13068 t=39263
 dai lai 	帶來	c=4 d=0.577082 t=39263
@@ -2510,10 +2564,13 @@ de ren 	的人	c=0 d=0.0951229 t=39263
 de shi 	的事	c=8 d=1.76634 t=39263
 de shi hou 	的時候	c=2 d=0.472367 t=39263
 de shi hui 	得實惠	c=1 d=0.293758 t=39263
+de wa 	的哇	c=-2 d=5.53631e-08 t=39263
+de wu 	地物	c=-1 d=2.789e-08 t=39263
 de xian ren zhi jiu guan 	得仙人之舊館	c=1 d=2.66075e-13 t=39263
 de xin 	的心	c=1 d=0.205975 t=39263
 de yi 	得意	c=0 d=1.618e-15 t=39263
 de yu 	德語	c=3 d=2.03529 t=39263
+de zai 	的在	c=-1 d=1.37451e-07 t=39263
 de zui 	得罪	c=0 d=0.000279479 t=39263
 de zui de 	得罪的	c=1 d=0.00280879 t=39263
 dei 	得	c=26 d=2.08452 t=39263
@@ -2551,11 +2608,14 @@ deng ji bian liang 	等級變量	c=1 d=4.84737e-11 t=39263
 deng ji fen lei 	等級分類	c=1 d=0.117068 t=39263
 deng jia 	等價	c=0 d=0.0874283 t=39263
 deng jia yu 	等價於	c=1 d=0.440432 t=39263
+deng jia yu 	等價與	c=-1 d=6.62388e-08 t=39263
 deng jin qu 	登進去	c=1 d=0.181772 t=39263
 deng kuan 	等寬	c=3 d=2.22545 t=39263
 deng li zi ti 	等離子體	c=1 d=0.756361 t=39263
 deng liang 	等量	c=1 d=0.0126512 t=39263
+deng lie 	等裂	c=-1 d=0 t=39263
 deng lu 	登錄	c=4 d=0.429112 t=39263
+deng lve 	等略	c=-1 d=0 t=39263
 deng ni 	等你	c=7 d=0.114013 t=39263
 deng pao 	燈泡	c=1 d=0.00660453 t=39263
 deng qiu long 	登虯龍	c=1 d=1.71362e-13 t=39263
@@ -2589,6 +2649,7 @@ di dian 	地點	c=5 d=1.95815 t=39263
 di du 	滴度	c=1 d=5.50701e-12 t=39263
 di er 	第二	c=3 d=0.463719 t=39263
 di er ban 	第二版	c=1 d=0.00891518 t=39263
+di er bian 	第二編	c=-1 d=7.37625e-09 t=39263
 di er bian 	第二遍	c=1 d=0.0490458 t=39263
 di er bo 	第二波	c=8 d=5.24355e-05 t=39263
 di er bo ci 	第二波次	c=1 d=4.54077e-07 t=39263
@@ -2635,6 +2696,7 @@ di qu 	地區	c=3 d=0.822767 t=39263
 di qu fen bu 	地區分佈	c=1 d=1.35801e-12 t=39263
 di qu he shi jie he ping 	地區和世界和平	c=1 d=0.634448 t=39263
 di qu ju ji xing 	地區聚集性	c=1 d=1.49335e-12 t=39263
+di qu ju ji xing 	地區聚集行	c=-1 d=2.24594e-19 t=39263
 di ren 	敵人	c=2 d=0.842146 t=39263
 di san 	第三	c=2 d=0.551563 t=39263
 di san ge 	第三個	c=5 d=0.775192 t=39263
@@ -2814,6 +2876,7 @@ ding lv 	定律	c=3 d=1.98114 t=39263
 ding qi jian kang jian cha 	定期健康檢查	c=1 d=3.81308e-11 t=39263
 ding shen 	定神	c=1 d=0.0824965 t=39263
 ding wei 	定位	c=1 d=0.737123 t=39263
+ding xi 	定西	c=-1 d=3.4843e-09 t=39263
 ding xiang 	定向	c=2 d=1.74048 t=39263
 ding xing 	定性	c=4 d=2.08693 t=39263
 ding xing ding liang fen xi 	定性定量分析	c=1 d=0.00307331 t=39263
@@ -2856,6 +2919,7 @@ dong kou 	洞口	c=1 d=0.718924 t=39263
 dong le 	動了	c=0 d=0.0613253 t=39263
 dong li 	動力	c=4 d=0.705547 t=39263
 dong li bu zu 	動力不足	c=1 d=0.018968 t=39263
+dong li xiong 	動力胸	c=-1 d=4.82238e-09 t=39263
 dong li xue 	動力學	c=6 d=1.03415 t=39263
 dong li xue fa 	動力學法	c=1 d=0.044601 t=39263
 dong li xue te dian 	動力學特點	c=1 d=0.366045 t=39263
@@ -3065,6 +3129,7 @@ dui fu 	對付	c=1 d=0.597501 t=39263
 dui hua 	對話	c=1 d=0.273589 t=39263
 dui hua hui 	對話會	c=2 d=0.648414 t=39263
 dui hua tan pan 	對話談判	c=1 d=0.00144449 t=39263
+dui hua wei 	對話爲	c=-1 d=4.64449e-08 t=39263
 dui hua yu gou tong 	對話與溝通	c=1 d=0.000880518 t=39263
 dui huan 	兌換	c=1 d=0.913931 t=39263
 dui ji 	堆積	c=0 d=0.0740818 t=39263
@@ -3078,6 +3143,7 @@ dui lie yan jiu 	隊列研究	c=2 d=5.1323e-12 t=39263
 dui liu ceng 	對流層	c=1 d=1.31108e-10 t=39263
 dui men 	對門	c=0 d=9.05916e-16 t=39263
 dui ni 	對你	c=1 d=0.144424 t=39263
+dui pi 	對披	c=-1 d=9.71271e-11 t=39263
 dui qi 	對其	c=5 d=0.63219 t=39263
 dui qi 	對齊	c=1 d=0.000930303 t=39263
 dui qi fang shi 	對齊方式	c=1 d=0.00704808 t=39263
@@ -3145,6 +3211,7 @@ duo kong 	多孔	c=0 d=0.011475 t=39263
 duo kong shu zhi 	多孔樹脂	c=1 d=0.115325 t=39263
 duo kong xing 	多孔性	c=1 d=0.00140223 t=39263
 duo kong xing ning jiao 	多孔性凝膠	c=1 d=0.00128115 t=39263
+duo kuai 	多塊	c=-1 d=1.3814e-07 t=39263
 duo kuai 	多快	c=2 d=0.918512 t=39263
 duo le 	多了	c=6 d=1.22677 t=39263
 duo li xue 	多力學	c=1 d=0.0359725 t=39263
@@ -3168,6 +3235,7 @@ duo shi 	多是	c=2 d=0.000272002 t=39263
 duo shu 	多數	c=3 d=0.574169 t=39263
 duo shui 	多睡	c=1 d=0.0893673 t=39263
 duo shun fan zi 	多順反子	c=1 d=0.554327 t=39263
+duo tai 	墮胎	c=-1 d=7.46966e-10 t=39263
 duo tai 	多肽	c=10 d=1.69988 t=39263
 duo tai cheng fen 	多肽成分	c=1 d=0.181772 t=39263
 duo tai lei 	多肽類	c=1 d=0.00548905 t=39263
@@ -3283,6 +3351,7 @@ er ming fa 	二名法	c=2 d=3.1624e-08 t=39263
 er nan 	二難	c=0 d=3.1696e-14 t=39263
 er nan bing 	二難並	c=1 d=3.18549e-13 t=39263
 er ni 	而你	c=1 d=0.341298 t=39263
+er pu 	而譜	c=-1 d=3.67179e-08 t=39263
 er qi 	二七	c=1 d=0.00328542 t=39263
 er qi guang chang 	二七廣場	c=1 d=0.00289433 t=39263
 er qie 	而且	c=27 d=1.49019 t=39263
@@ -3303,9 +3372,11 @@ er shi yao 	而是要	c=1 d=0.137381 t=39263
 er shi yi shi ji 	二十一世紀	c=1 d=0.0620385 t=39263
 er tai 	二肽	c=1 d=2.36517e-10 t=39263
 er tiao 	二條	c=2 d=0.0274102 t=39263
+er tiao 	二眺	c=-1 d=2.04065e-09 t=39263
 er tong 	兒童	c=2 d=0.965605 t=39263
 er tong si wang lv 	兒童死亡率	c=1 d=8.31812e-11 t=39263
 er tong yi yuan 	兒童醫院	c=1 d=0.0439369 t=39263
+er tuo qu 	而脫去	c=-1 d=1.0209e-08 t=39263
 er wei 	而爲	c=0 d=1.26315e-14 t=39263
 er wei chang wang ye 	而未嘗往也	c=1 d=1.18366e-13 t=39263
 er wen ke yue 	而問客曰	c=1 d=9.45167e-14 t=39263
@@ -3316,6 +3387,7 @@ er xuan yi 	二選一	c=1 d=0.0101529 t=39263
 er yan 	而言	c=0 d=1.96129e-14 t=39263
 er yang hua liu 	二氧化硫	c=4 d=2.4934 t=39263
 er yin 	耳音	c=0 d=2.24478e-14 t=39263
+er ying 	而應	c=-1 d=1.24994e-07 t=39263
 er you 	而又	c=1 d=0.737123 t=39263
 er you he xian hu 	而又何羨乎	c=1 d=1.22582e-13 t=39263
 er zhi jian 	二酯鍵	c=1 d=0.125556 t=39263
@@ -3379,6 +3451,7 @@ fa she 	發射	c=46 d=2.81541 t=39263
 fa she chu 	發射出	c=2 d=0.621011 t=39263
 fa she dian 	發射點	c=2 d=0.00351822 t=39263
 fa she dian wei 	發射點位	c=1 d=5.43628e-07 t=39263
+fa she huang zhi 	發射荒置	c=-1 d=5.31849e-14 t=39263
 fa she pu xian 	發射譜線	c=1 d=0.153355 t=39263
 fa she zhuang zhi 	發射裝置	c=3 d=1.05623e-06 t=39263
 fa sheng 	發生	c=44 d=2.07805 t=39263
@@ -3463,6 +3536,7 @@ fan dian 	飯店	c=1 d=0.458406 t=39263
 fan dian 	飯點	c=1 d=0.460704 t=39263
 fan dong pai 	反動派	c=0 d=0.0146607 t=39263
 fan duo 	繁多	c=0 d=0.0140156 t=39263
+fan en 	反嗯	c=-1 d=0 t=39263
 fan eng 	反嗯	c=1 d=0.0555762 t=39263
 fan er 	反而	c=6 d=1.2781 t=39263
 fan er deng zhou 	反而登舟	c=1 d=1.81051e-13 t=39263
@@ -3497,6 +3571,7 @@ fan si 	反思	c=1 d=0.0169922 t=39263
 fan teng 	翻騰	c=2 d=9.84281e-29 t=39263
 fan ti 	繁體	c=6 d=2.11028 t=39263
 fan wei 	範圍	c=6 d=0.925283 t=39263
+fan xi bao kang ti 	反細胞抗體	c=-1 d=8.8967e-08 t=39263
 fan xiang 	反向	c=2 d=1.125 t=39263
 fan xiang 	反相	c=0 d=9.44363e-05 t=39263
 fan xiang 	反響	c=1 d=0.282239 t=39263
@@ -3519,6 +3594,7 @@ fan ying te dian 	反應特點	c=1 d=4.74977e-07 t=39263
 fan ying ti xi 	反應體系	c=1 d=0.154124 t=39263
 fan ying tiao jian 	反應條件	c=2 d=0.810584 t=39263
 fan ying xi bao 	反應細胞	c=1 d=0.603506 t=39263
+fan ying xing 	反應型	c=-1 d=3.09029e-09 t=39263
 fan ying xing 	反應性	c=1 d=0.0205478 t=39263
 fan ying yi chang 	反應異常	c=1 d=2.42463e-08 t=39263
 fan you 	煩憂	c=0 d=6.05686e-15 t=39263
@@ -3555,6 +3631,7 @@ fang fan 	防範	c=0 d=0.00591289 t=39263
 fang fan he ying dui 	防範和應對	c=1 d=0.0263839 t=39263
 fang feng jing yu chong e 	訪風景於崇阿	c=1 d=2.63427e-13 t=39263
 fang fu 	彷彿	c=1 d=0.0025415 t=39263
+fang guan jie 	方關節	c=-1 d=1.05199e-08 t=39263
 fang guan jie he 	放管結合	c=2 d=0.408009 t=39263
 fang hu 	防護	c=0 d=8.01264e-13 t=39263
 fang hu zhong liu 	放乎中流	c=1 d=1.81958e-13 t=39263
@@ -3568,6 +3645,7 @@ fang le 	放了	c=1 d=0.33454 t=39263
 fang lin 	芳鄰	c=0 d=4.1938e-14 t=39263
 fang mian 	方面	c=14 d=2.0671 t=39263
 fang qi 	放棄	c=2 d=0.923116 t=39263
+fang qi 	放氣	c=-1 d=8.81418e-16 t=39263
 fang qi 	方其	c=1 d=1.02389e-13 t=39263
 fang quan 	放權	c=0 d=0.00639279 t=39263
 fang shang qu 	放上去	c=1 d=0.000385874 t=39263
@@ -3587,6 +3665,7 @@ fang xin 	放心	c=2 d=0.522046 t=39263
 fang yan 	方言	c=4 d=1.15272 t=39263
 fang yi fang 	放一放	c=1 d=0.932394 t=39263
 fang yi qi 	放一起	c=1 d=0.67368 t=39263
+fang yi qi 	方伊琪	c=-1 d=1.01318e-07 t=39263
 fang yu 	防禦	c=0 d=0.0767206 t=39263
 fang yu gong neng 	防禦功能	c=1 d=0.000136389 t=39263
 fang yuan 	方圓	c=1 d=0.99005 t=39263
@@ -3686,6 +3765,7 @@ fei zhong 	肺中	c=4 d=0.0187267 t=39263
 fei zhuan yi xing bu ke ni yi zhi ji 	非專一性不可逆抑制劑	c=1 d=0.1764 t=39263
 fei zi 	非子	c=0 d=2.05157e-14 t=39263
 fei zi ye ye 	非子也耶	c=1 d=2.06186e-13 t=39263
+fei zong 	肺總	c=-1 d=2.03081e-11 t=39263
 fen 	分	c=5 d=1.4898 t=39263
 fen 	糞	c=0 d=2.88883e-11 t=39263
 fen 	紛	c=0 d=7.05528e-16 t=39263
@@ -3698,6 +3778,7 @@ fen bie wei 	分別爲	c=1 d=0.843665 t=39263
 fen bie zai 	分別在	c=1 d=0.852144 t=39263
 fen bing 	分兵	c=0 d=0.0937067 t=39263
 fen bu 	分佈	c=8 d=0.326848 t=39263
+fen bu biao 	分佈標	c=-1 d=0 t=39263
 fen bu gu shen 	奮不顧身	c=1 d=0.392586 t=39263
 fen bu pin lv 	分佈頻率	c=1 d=3.09776e-08 t=39263
 fen bu tai qing 	分不太清	c=1 d=0.321422 t=39263
@@ -3715,6 +3796,7 @@ fen chi qi gao fei 	奮翅起高飛	c=1 d=9.09992e-09 t=39263
 fen dai xie dan 	糞代謝氮	c=1 d=2.90331e-10 t=39263
 fen dou 	奮鬥	c=3 d=0.739898 t=39263
 fen dou mu biao 	奮鬥目標	c=3 d=0.466392 t=39263
+fen en 	酚嗯	c=-1 d=5.01917e-09 t=39263
 fen fa you wei 	奮發有爲	c=1 d=0.946485 t=39263
 fen fan 	紛繁	c=0 d=0.0715338 t=39263
 fen fan fu za 	紛繁複雜	c=1 d=0.718924 t=39263
@@ -3728,6 +3810,7 @@ fen guang 	分光	c=0 d=0.0900325 t=39263
 fen guang guang du fa 	分光光度法	c=2 d=0.45291 t=39263
 fen guang guang du ji 	分光光度計	c=4 d=2.10055 t=39263
 fen guang xi tong 	分光系統	c=3 d=1.19226 t=39263
+fen ha 	分哈	c=-1 d=3.00622e-08 t=39263
 fen hao 	分號	c=4 d=0.986038 t=39263
 fen hua 	分化	c=21 d=0.336999 t=39263
 fen hua cheng shu 	分化成熟	c=3 d=0.142987 t=39263
@@ -3757,6 +3840,7 @@ fen li tong dao 	分離通道	c=1 d=0.18452 t=39263
 fen lie 	分列	c=2 d=0.861287 t=39263
 fen lie 	分裂	c=3 d=1.34479 t=39263
 fen lie jian qi 	分裂間期	c=2 d=1.93605 t=39263
+fen lie qi 	分裂其	c=-1 d=1.4306e-07 t=39263
 fen lie qi 	分裂期	c=1 d=0.951229 t=39263
 fen luan 	紛亂	c=0 d=0.088692 t=39263
 fen luan de 	紛亂的	c=1 d=0.891366 t=39263
@@ -3854,7 +3938,9 @@ feng ying 	逢迎	c=0 d=2.43174e-14 t=39263
 feng yun 	風雲	c=0 d=4.82483e-16 t=39263
 feng yun you niao lu 	風雲有鳥路	c=1 d=4.84902e-15 t=39263
 feng zhuang 	封裝	c=1 d=0.344728 t=39263
+fo 	佛	c=-1 d=0 t=39263
 fo zhen 	佛振	c=6 d=1.50438 t=39263
+fo zi 	佛子	c=-1 d=0 t=39263
 fou 	否	c=1 d=0.0381969 t=39263
 fu 	付	c=1 d=0.694197 t=39263
 fu 	俯	c=0 d=2.00091e-14 t=39263
@@ -3878,6 +3964,7 @@ fu bai 	腐敗	c=1 d=1.32381e-06 t=39263
 fu ban ya 	氟斑牙	c=2 d=4.02088e-10 t=39263
 fu bu 	腹部	c=1 d=7.10295e-06 t=39263
 fu chan wu 	副產物	c=0 d=1.82367e-11 t=39263
+fu chao luo 	負鈔邏	c=-1 d=1.49645e-07 t=39263
 fu chao luo xuan 	負超螺旋	c=3 d=2.79569 t=39263
 fu chi 	扶持	c=1 d=0.759572 t=39263
 fu chu 	付出	c=2 d=0.692481 t=39263
@@ -3916,6 +4003,7 @@ fu jian 	附件	c=7 d=1.57452 t=39263
 fu jin 	附近	c=3 d=0.790571 t=39263
 fu ju zhang 	副局長	c=1 d=4.20179e-06 t=39263
 fu le 	服了	c=0 d=0.083527 t=39263
+fu le e e 	服了娥娥	c=-1 d=1.26883e-07 t=39263
 fu li 	福利	c=2 d=0.954826 t=39263
 fu li ye 	傅里葉	c=2 d=0.836024 t=39263
 fu ling yun er zi xi 	撫凌雲而自惜	c=1 d=4.36494e-13 t=39263
@@ -3928,6 +4016,8 @@ fu mo 	腹膜	c=0 d=0.0546074 t=39263
 fu mo nei 	腹膜內	c=1 d=0.548812 t=39263
 fu mu 	父母	c=3 d=0.757984 t=39263
 fu nv 	婦女	c=1 d=1.56612e-13 t=39263
+fu o 	赴哦	c=-1 d=0 t=39263
+fu o zi yi 	赴哦自已	c=-1 d=0 t=39263
 fu pi zhi qu 	副皮質區	c=3 d=0.0336742 t=39263
 fu pian feng fen bu 	負偏峯分佈	c=1 d=6.70891e-11 t=39263
 fu pin 	扶貧	c=0 d=0.089823 t=39263
@@ -3961,6 +4051,7 @@ fu xie cang zhou qu 	覆協滄州趣	c=1 d=6.71119e-15 t=39263
 fu xie tong xiao ying 	負協同效應	c=2 d=0.557106 t=39263
 fu xing 	復性	c=4 d=0.349787 t=39263
 fu xing 	復興	c=1 d=0.480322 t=39263
+fu xing 	覆性	c=-6 d=5.26289e-08 t=39263
 fu xue 	復學	c=0 d=0.0256661 t=39263
 fu yan se ze 	敷衍塞責	c=1 d=0.960789 t=39263
 fu yao 	扶搖	c=0 d=3.81373e-14 t=39263
@@ -4012,6 +4103,7 @@ gai ban 	改版	c=1 d=0.927743 t=39263
 gai bian 	改變	c=31 d=1.83093 t=39263
 gai bian he xiu shi 	改變和修飾	c=1 d=0.390628 t=39263
 gai bian zhe 	改變着	c=1 d=0.0297478 t=39263
+gai bian zhe 	改變者	c=-1 d=4.47392e-09 t=39263
 gai bu wei 	該部位	c=1 d=0.00285124 t=39263
 gai dao 	改到	c=1 d=0.774916 t=39263
 gai de 	改的	c=1 d=0.0488012 t=39263
@@ -4097,6 +4189,7 @@ gan lu 	甘露	c=0 d=0.0351692 t=39263
 gan lu tang 	甘露糖	c=2 d=0.353455 t=39263
 gan mao 	感冒	c=1 d=0.571209 t=39263
 gan qu 	趕去	c=1 d=0.474734 t=39263
+gan que 	幹缺	c=-1 d=7.69584e-08 t=39263
 gan ran 	感染	c=4 d=0.860708 t=39263
 gan ran lv 	感染率	c=1 d=1.21656e-12 t=39263
 gan ran pu 	感染譜	c=1 d=8.55077e-12 t=39263
@@ -4333,6 +4426,7 @@ gei chu 	給出	c=2 d=1.17722 t=39263
 gei de 	給的	c=2 d=0.0800583 t=39263
 gei ding 	給定	c=2 d=0.324667 t=39263
 gei ge 	給個	c=1 d=0.0710054 t=39263
+gei jia 	給價	c=-1 d=7.41322e-09 t=39263
 gei jia 	給家	c=3 d=0.293526 t=39263
 gei le 	給了	c=3 d=0.362402 t=39263
 gei ni 	給你	c=12 d=1.35228 t=39263
@@ -4382,6 +4476,9 @@ geng duo 	更多	c=11 d=1.82024 t=39263
 geng duo de 	更多的	c=0 d=0.00611149 t=39263
 geng duo de ren 	更多的人	c=1 d=0.0614212 t=39263
 geng e le 	更餓了	c=1 d=0.289384 t=39263
+geng fa 	更法	c=-1 d=1.84169e-08 t=39263
+geng fa e 	更法阿	c=-1 d=0 t=39263
+geng fa o 	更法哦	c=-1 d=1.8325e-08 t=39263
 geng fu za 	更複雜	c=1 d=0.209088 t=39263
 geng gao 	更高	c=6 d=1.67823 t=39263
 geng gao ceng ci 	更高層次	c=1 d=0.752014 t=39263
@@ -4477,6 +4574,7 @@ gong ji yu xu qiu 	供給與需求	c=1 d=0.0466538 t=39263
 gong jia 	共價	c=2 d=0.352648 t=39263
 gong jia cui hua 	共價催化	c=1 d=0.540234 t=39263
 gong jia jian 	共價鍵	c=3 d=0.590083 t=39263
+gong jia jie 	共價解	c=-1 d=8.19288e-09 t=39263
 gong jia jie gou 	共價結構	c=1 d=0.477114 t=39263
 gong jia jie he 	共價結合	c=5 d=0.650715 t=39263
 gong jian 	工間	c=1 d=1.6544e-11 t=39263
@@ -4497,8 +4595,10 @@ gong kan ming yue jie ru ci 	共看明月皆如此	c=1 d=2.49975e-14 t=39263
 gong ke 	工科	c=2 d=0.388355 t=39263
 gong li 	公里	c=2 d=0.344728 t=39263
 gong li yi yuan 	公立醫院	c=4 d=1.01878 t=39263
+gong lu ang 	公路昂	c=-1 d=0 t=39263
 gong ming yun 	共命運	c=1 d=1.34706e-05 t=39263
 gong mo fu he wu 	攻膜複合物	c=1 d=0.900325 t=39263
+gong ne 	共呢	c=-1 d=8.63523e-10 t=39263
 gong neng 	功能	c=82 d=3.41937 t=39263
 gong neng di xia 	功能低下	c=1 d=0.000167421 t=39263
 gong neng ding wei 	功能定位	c=1 d=5.87385e-06 t=39263
@@ -4590,6 +4690,7 @@ gong zhong hao 	公衆號	c=2 d=0.18737 t=39263
 gong zhong shi ye li 	公衆視野裏	c=1 d=0.453845 t=39263
 gong zi 	工資	c=5 d=1.17156 t=39263
 gong zu 	公族	c=0 d=0.00173355 t=39263
+gong zu ang 	公族昂	c=-1 d=2.63338e-09 t=39263
 gong zuo 	工作	c=13 d=1.46003 t=39263
 gong zuo bao gao gao 	工作報告稿	c=1 d=0.311923 t=39263
 gong zuo da ju 	工作大局	c=1 d=0.447088 t=39263
@@ -4661,6 +4762,7 @@ gu gu 	姑姑	c=1 d=0.0028799 t=39263
 gu guang gan tai 	谷胱甘肽	c=1 d=0.00524752 t=39263
 gu guang gan tai guo yang hua wu mei 	谷胱甘肽過氧化物酶	c=1 d=4.33123e-10 t=39263
 gu han yu 	古漢語	c=1 d=0.135335 t=39263
+gu hu 	賈胡	c=-1 d=4.44012e-08 t=39263
 gu hua 	固化	c=0 d=0.032628 t=39263
 gu ji 	估計	c=20 d=2.58001 t=39263
 gu ji 	古籍	c=3 d=0.97531 t=39263
@@ -4678,6 +4780,7 @@ gu lei 	穀類	c=0 d=5.04605e-14 t=39263
 gu lei wei zhu 	穀類爲主	c=1 d=5.07135e-13 t=39263
 gu li 	鼓勵	c=8 d=2.65981 t=39263
 gu li chuang xin 	鼓勵創新	c=1 d=0.357007 t=39263
+gu li ti zhi 	鼓勵體制	c=-1 d=9.9312e-08 t=39263
 gu neng 	故能	c=1 d=0.0837432 t=39263
 gu peng 	孤蓬	c=0 d=5.64738e-15 t=39263
 gu peng wan li zheng 	孤蓬萬里徵	c=1 d=5.67568e-14 t=39263
@@ -4816,6 +4919,7 @@ guan xi 	關係	c=24 d=2.44471 t=39263
 guan xin 	關心	c=2 d=0.606591 t=39263
 guan xin de 	關心的	c=1 d=0.000911882 t=39263
 guan xin shen me 	關心什麼	c=2 d=1.01209 t=39263
+guan xu 	觀需	c=-1 d=1.51618e-14 t=39263
 guan yi 	冠以	c=1 d=0.609571 t=39263
 guan yu 	關於	c=18 d=3.96358 t=39263
 guan yu jia qiang 	關於加強	c=0 d=0.0535261 t=39263
@@ -4846,6 +4950,7 @@ guang du 	廣度	c=1 d=0.0293049 t=39263
 guang du fa 	光度法	c=0 d=0.0774916 t=39263
 guang du ji 	光度計	c=0 d=0.0955997 t=39263
 guang fan 	廣泛	c=3 d=0.458334 t=39263
+guang fan gong shi 	廣泛公式	c=-1 d=3.80259e-08 t=39263
 guang fan gong shi 	廣泛共識	c=1 d=0.25284 t=39263
 guang fan kai zhan 	廣泛開展	c=1 d=0.441293 t=39263
 guang fan ren tong 	廣泛認同	c=1 d=0.0235177 t=39263
@@ -4866,12 +4971,14 @@ guang pu fa 	光譜法	c=1 d=0.102284 t=39263
 guang pu fen xi 	光譜分析	c=0 d=0.0344728 t=39263
 guang pu fen xi fa 	光譜分析法	c=1 d=0.346456 t=39263
 guang pu gan rao 	光譜干擾	c=1 d=0.421052 t=39263
+guang pu gan shao 	光譜乾燒	c=-1 d=6.33242e-08 t=39263
 guang pu kang sheng su 	廣譜抗生素	c=1 d=0.000101546 t=39263
 guang pu lei xing 	光譜類型	c=1 d=0.416862 t=39263
 guang pu yi 	光譜儀	c=0 d=0.066365 t=39263
 guang rong 	光榮	c=1 d=0.275535 t=39263
 guang rong chuan tong 	光榮傳統	c=1 d=0.290835 t=39263
 guang shuo 	光說	c=2 d=0.722657 t=39263
+guang shuo la 	光說拉	c=-1 d=4.27779e-11 t=39263
 guang wu 	光武	c=0 d=0.0759572 t=39263
 guang wu long xing cheng da tong 	光武龍興成大統	c=1 d=0.763379 t=39263
 guang xi 	廣西	c=2 d=0.489192 t=39263
@@ -4933,6 +5040,7 @@ guo 	郭	c=0 d=0.0786628 t=39263
 guo ban 	國辦	c=1 d=0.0199405 t=39263
 guo chan 	國產	c=1 d=0.0443785 t=39263
 guo chang 	過長	c=1 d=0.000147011 t=39263
+guo che 	過車	c=-1 d=1.52299e-08 t=39263
 guo cheng 	過程	c=27 d=1.01084 t=39263
 guo cheng wei hai fen xi 	過程危害分析	c=1 d=3.31493e-11 t=39263
 guo cheng zhong 	過程中	c=12 d=0.902515 t=39263
@@ -4954,6 +5062,7 @@ guo ji chang tu dian hua fei 	國際長途電話費	c=1 d=0.255381 t=39263
 guo ji dan wei 	國際單位	c=1 d=0.873716 t=39263
 guo ji dan wei zhi 	國際單位制	c=1 d=0.250324 t=39263
 guo ji di wei 	國際地位	c=1 d=0.900325 t=39263
+guo ji dian wei 	國際點位	c=-1 d=1.31403e-07 t=39263
 guo ji duo bian gui ze 	國際多邊規則	c=1 d=0.13068 t=39263
 guo ji fa zhan he zuo 	國際發展合作	c=1 d=0.346456 t=39263
 guo ji fen zhong 	過幾分鐘	c=1 d=0.873716 t=39263
@@ -5048,6 +5157,7 @@ guo wu yuan ban gong ting 	國務院辦公廳	c=1 d=0.0222592 t=39263
 guo wu yuan zong li 	國務院總理	c=1 d=0.0380064 t=39263
 guo xie 	過些	c=0 d=2.96338e-09 t=39263
 guo xie tian 	過些天	c=1 d=1.49284e-08 t=39263
+guo xie tian 	過些田	c=-1 d=2.24517e-15 t=39263
 guo yang 	過氧	c=0 d=0.00184997 t=39263
 guo yang hua wu 	過氧化物	c=1 d=8.61462e-07 t=39263
 guo yang hua wu mei 	過氧化物酶	c=1 d=7.8703e-07 t=39263
@@ -5168,6 +5278,7 @@ han zhu ye cang cang 	寒渚夜蒼蒼	c=1 d=4.58952e-15 t=39263
 han zi 	漢字	c=2 d=0.0921166 t=39263
 hang 	行	c=0 d=0.0351692 t=39263
 hang ban 	航班	c=3 d=2.34808e-07 t=39263
+hang die 	行跌	c=-1 d=1.20093e-07 t=39263
 hang ju 	行距	c=1 d=0.97531 t=39263
 hang lie 	行列	c=5 d=3.15967 t=39263
 hang xian 	航線	c=2 d=0.00527725 t=39263
@@ -5199,6 +5310,7 @@ hao he 	好喝	c=5 d=2.46686 t=39263
 hao huai 	好壞	c=1 d=0.878095 t=39263
 hao ji 	好幾	c=0 d=0.00930749 t=39263
 hao ji bei 	好幾倍	c=1 d=0.0468877 t=39263
+hao ji bei 	好幾北	c=-1 d=7.05167e-09 t=39263
 hao ji ge 	好幾個	c=1 d=0.449329 t=39263
 hao ji nian 	好幾年	c=1 d=0.40657 t=39263
 hao kan 	好看	c=1 d=0.337902 t=39263
@@ -5212,6 +5324,7 @@ hao shi 	好事	c=1 d=1.06531e-09 t=39263
 hao xian 	號線	c=1 d=0.0699482 t=39263
 hao xiang 	好像	c=18 d=1.91202 t=39263
 hao xiang shi 	好像是	c=1 d=0.379083 t=39263
+hao xiang shi 	好象是	c=1 d=1.45222e-07 t=39263
 hao xin ren 	好心人	c=1 d=0.000459671 t=39263
 hao xue 	好學	c=1 d=1.06238e-06 t=39263
 hao yang 	耗氧	c=0 d=1.27563e-12 t=39263
@@ -5288,6 +5401,7 @@ he mo 	核膜	c=1 d=0.767206 t=39263
 he nai 	喝奶	c=1 d=0.865022 t=39263
 he nan 	河南	c=4 d=1.56197 t=39263
 he nan bo wu yuan 	河南博物院	c=1 d=0.00027603 t=39263
+he nan hao ne 	河南好呢	c=-1 d=2.2106e-09 t=39263
 he nan shang bao 	河南商報	c=1 d=0.0065062 t=39263
 he nan sheng 	河南省	c=8 d=3.26566 t=39263
 he nan zheng zhou 	河南鄭州	c=1 d=3.07383e-05 t=39263
@@ -5327,6 +5441,7 @@ he wei 	何爲	c=0 d=1.07863e-09 t=39263
 he wei qi ran ye 	何爲其然也	c=1 d=9.49905e-14 t=39263
 he wen ti 	核問題	c=0 d=0.000141589 t=39263
 he xian 	和絃	c=3 d=0.106979 t=39263
+he xiang pi 	和橡皮	c=-1 d=4.8725e-13 t=39263
 he xiao 	核小	c=1 d=0.597501 t=39263
 he xiao ti 	核小體	c=6 d=0.961668 t=39263
 he xie 	和諧	c=1 d=0.110749 t=39263
@@ -5336,8 +5451,10 @@ he xin 	核心	c=5 d=0.941239 t=39263
 he xin jia gou 	核心架構	c=1 d=8.11551e-15 t=39263
 he xin ke li 	核心顆粒	c=2 d=0.344862 t=39263
 he xin long tou 	核心龍頭	c=1 d=0.120032 t=39263
+he xin wei 	核心爲	c=-1 d=6.8256e-08 t=39263
 he xin wei zhi 	核心位置	c=2 d=0.453845 t=39263
 he xin wen ti 	核心問題	c=1 d=0.113042 t=39263
+he xin wu 	核心無	c=-1 d=0 t=39263
 he xin yi shi 	核心意識	c=1 d=0.557106 t=39263
 he xin zhi du 	核心制度	c=1 d=0.529935 t=39263
 he xin zu dan bai 	核心組蛋白	c=1 d=0.172907 t=39263
@@ -5346,7 +5463,10 @@ he yang 	河陽	c=0 d=5.69037e-16 t=39263
 he yang shi jing xian 	河陽視京縣	c=1 d=5.7189e-15 t=39263
 he yi 	何以	c=1 d=0.0862936 t=39263
 he yi 	合一	c=0 d=0.0466879 t=39263
+he yi le 	何以了	c=-1 d=1.72579e-08 t=39263
+he yi yu bu wu 	和易於不無	c=-1 d=0 t=39263
 he ying 	合影	c=1 d=0.470011 t=39263
+he you 	核有	c=-1 d=8.98612e-08 t=39263
 he yuan 	荷園	c=1 d=0.109701 t=39263
 he zai 	何在	c=1 d=0.423162 t=39263
 he zhang 	河長	c=1 d=0.767206 t=39263
@@ -5372,6 +5492,8 @@ hen duo bian 	很多遍	c=1 d=0.0443785 t=39263
 hen duo fang mian 	很多方面	c=1 d=0.229925 t=39263
 hen duo ren 	很多人	c=1 d=0.242926 t=39263
 hen duo zi 	很多字	c=1 d=0.218712 t=39263
+hen fa 	很發	c=-1 d=1.15702e-10 t=39263
+hen fa o 	很發哦	c=-1 d=1.15125e-10 t=39263
 hen gao 	很高	c=1 d=0.0464212 t=39263
 hen gao xing 	很高興	c=2 d=0.196098 t=39263
 hen hao 	很好	c=1 d=0.412714 t=39263
@@ -5466,6 +5588,7 @@ hou tou 	後頭	c=1 d=6.27047e-10 t=39263
 hou xu 	後續	c=1 d=0.00279479 t=39263
 hou xuan 	候選	c=2 d=0.919314 t=39263
 hou yi fu 	厚衣服	c=1 d=0.0685632 t=39263
+hou yi fu 	後衣服	c=-2 d=2.01141e-08 t=39263
 hou yi ge 	後一個	c=1 d=0.00366107 t=39263
 hou ying 	侯嬴	c=0 d=2.74887e-15 t=39263
 hou you 	後又	c=1 d=0.23457 t=39263
@@ -5544,6 +5667,7 @@ hua he wu 	化合物	c=10 d=0.772428 t=39263
 hua hu bu zu fan lei quan 	畫虎不足反類犬	c=1 d=0.806541 t=39263
 hua hua lv lv 	花花綠綠	c=1 d=0.00069264 t=39263
 hua huo 	花活	c=0 d=0.0351692 t=39263
+hua huo neng 	花活能	c=-1 d=5.34244e-08 t=39263
 hua jian 	化簡	c=2 d=1.54842 t=39263
 hua jie 	化解	c=0 d=0.101719 t=39263
 hua luo 	花落	c=0 d=7.12618e-16 t=39263
@@ -5555,6 +5679,7 @@ hua tu 	畫圖	c=1 d=0.140858 t=39263
 hua wei 	化爲	c=0 d=3.69208e-15 t=39263
 hua wei lang yu chai 	化爲狼與豺	c=1 d=3.7106e-14 t=39263
 hua wen 	華文	c=1 d=0.937067 t=39263
+hua xie 	畫攜	c=-1 d=3.42355e-08 t=39263
 hua xue 	化學	c=24 d=1.81581 t=39263
 hua xue ben zhi 	化學本質	c=1 d=0.0784731 t=39263
 hua xue cheng fen 	化學成分	c=1 d=1.43753e-05 t=39263
@@ -5582,10 +5707,12 @@ hua yu quan 	話語權	c=0 d=0.0794534 t=39263
 hua yue 	花月	c=1 d=0.125556 t=39263
 hua zai 	花在	c=1 d=0.535261 t=39263
 hua zhuang pin 	化妝品	c=1 d=2.70544e-10 t=39263
+hua zhuang pin guang gan xing 	化妝品光感性	c=-1 d=3.45197e-17 t=39263
 hua zhuang pin guang gan xing pi yan 	化妝品光感性皮炎	c=1 d=2.29527e-10 t=39263
 huai 	懷	c=1 d=0.120633 t=39263
 huai di 	懷帝	c=0 d=3.43359e-14 t=39263
 huai di hun er bu jian 	懷帝閽而不見	c=1 d=3.4508e-13 t=39263
+huai jing 	踝脛	c=-1 d=5.9043e-08 t=39263
 huai le 	壞了	c=2 d=0.000825105 t=39263
 huai nian 	懷念	c=1 d=0.025284 t=39263
 huai si 	壞死	c=0 d=0.0980199 t=39263
@@ -5614,6 +5741,7 @@ huan hang 	換行	c=1 d=0.204948 t=39263
 huan hu sheng 	歡呼聲	c=1 d=0.447088 t=39263
 huan hua 	環化	c=0 d=0.106466 t=39263
 huan huai lu qing 	歡懷祿情	c=1 d=6.67772e-15 t=39263
+huan jiang 	環江	c=-1 d=1.95656e-14 t=39263
 huan jie 	環節	c=1 d=1.91652e-06 t=39263
 huan jie 	緩解	c=1 d=1.92613e-06 t=39263
 huan jing 	環境	c=14 d=1.03295 t=39263
@@ -5714,6 +5842,7 @@ hui huang 	輝煌	c=1 d=0.227058 t=39263
 hui huang sheng li 	輝煌勝利	c=1 d=0.191092 t=39263
 hui ji 	彙集	c=1 d=0.900325 t=39263
 hui ji 	惠及	c=3 d=1.82795 t=39263
+hui ji hao ne 	惠及好呢	c=-1 d=0 t=39263
 hui jia 	回家	c=5 d=2.16123 t=39263
 hui jian 	會見	c=1 d=0.0147723 t=39263
 hui jin 	揮金	c=0 d=2.81846e-15 t=39263
@@ -5753,6 +5882,7 @@ hui yi qiang diao 	會議強調	c=2 d=0.891366 t=39263
 hui yi ren wei 	會議認爲	c=1 d=0.313486 t=39263
 hui yi shang 	會議上	c=1 d=0.278037 t=39263
 hui yi yao qiu 	會議要求	c=3 d=0.564742 t=39263
+hui yi zhi chu 	會以指出	c=-1 d=7.08703e-09 t=39263
 hui yi zhi chu 	會議指出	c=5 d=0.722527 t=39263
 hui ying 	回應	c=1 d=0.00427488 t=39263
 hui yong 	會用	c=1 d=0.451581 t=39263
@@ -5821,6 +5951,8 @@ huo hua zeng zhi jie duan 	活化增殖階段	c=1 d=0.000363402 t=39263
 huo jian 	火箭	c=2 d=0.0101529 t=39263
 huo ke 	或可	c=0 d=1.87047e-15 t=39263
 huo li 	活力	c=1 d=0.0272584 t=39263
+huo o 	或哦	c=-1 d=0 t=39263
+huo qi 	或其	c=-1 d=5.75852e-08 t=39263
 huo qi ta 	或其他	c=1 d=0.382893 t=39263
 huo qu 	獲取	c=5 d=0.808808 t=39263
 huo sang 	霍桑	c=0 d=4.69276e-13 t=39263
@@ -5923,6 +6055,7 @@ ji diao 	基調	c=0 d=0.0332871 t=39263
 ji dong 	機動	c=4 d=0.15109 t=39263
 ji dong 	激動	c=2 d=0.0499398 t=39263
 ji dong ji 	激動劑	c=1 d=0.251579 t=39263
+ji dong ji 	激動及	c=-1 d=3.78362e-08 t=39263
 ji dong neng li 	機動能力	c=1 d=2.9835e-07 t=39263
 ji du 	季度	c=1 d=0.740818 t=39263
 ji du 	幾度	c=0 d=4.89692e-14 t=39263
@@ -5961,6 +6094,7 @@ ji hu 	幾乎	c=4 d=0.709113 t=39263
 ji hua 	計劃	c=2 d=0.62232 t=39263
 ji hua mian yi 	計劃免疫	c=2 d=0.438235 t=39263
 ji huan 	疾患	c=2 d=0.88692 t=39263
+ji huang 	饑荒	c=-1 d=4.57534e-08 t=39263
 ji hui 	寄回	c=0 d=0.0474734 t=39263
 ji hui 	幾回	c=1 d=0.173774 t=39263
 ji hui 	機會	c=4 d=0.107925 t=39263
@@ -6076,11 +6210,12 @@ ji su zhi xue xiao 	寄宿製學校	c=1 d=0.181772 t=39263
 ji suan 	肌酸	c=1 d=1.51514e-06 t=39263
 ji suan 	計算	c=30 d=1.27252 t=39263
 ji suan ji 	計算機	c=2 d=0.550991 t=39263
+ji suan ji 	計算計	c=-1 d=0 t=39263
 ji suan qi 	計算器	c=5 d=2.63946 t=39263
 ji tai 	基態	c=8 d=1.58541 t=39263
 ji tai yuan zi 	基態原子	c=1 d=0.101266 t=39263
 ji tan 	祭壇	c=1 d=0.276651 t=39263
-ji te 	齎貣	c=1 d=0.000500451 t=39263
+ji te 	齎貣	c=2 d=1.0005 t=39263
 ji ti 	基體	c=0 d=0.088692 t=39263
 ji ti 	機體	c=20 d=1.21951 t=39263
 ji ti 	集體	c=5 d=0.918512 t=39263
@@ -6088,6 +6223,7 @@ ji ti mian yi xi tong 	機體免疫系統	c=1 d=0.402524 t=39263
 ji ti xiao ying di 	基體效應低	c=1 d=0.891366 t=39263
 ji tian 	幾天	c=3 d=0.560548 t=39263
 ji tuan 	基團	c=13 d=1.60722 t=39263
+ji tuan 	幾團	c=-1 d=4.75058e-09 t=39263
 ji wan 	幾萬	c=1 d=0.600496 t=39263
 ji wang 	既望	c=0 d=7.32426e-15 t=39263
 ji wei 	即爲	c=2 d=0.951229 t=39263
@@ -6122,14 +6258,18 @@ ji yan wei luo zhe 	寄言罻羅者	c=1 d=4.94698e-15 t=39263
 ji yan yu xin yi 	極宴娛心意	c=1 d=7.75444e-09 t=39263
 ji yao 	既要	c=1 d=0.65377 t=39263
 ji yi 	記憶	c=1 d=0.154918 t=39263
+ji yi bu 	即一步	c=-1 d=6.14631e-10 t=39263
 ji yi da shi 	記憶大師	c=1 d=8.98459e-06 t=39263
 ji yi xi bao 	記憶細胞	c=4 d=0.00218069 t=39263
+ji yi xing 	記憶型	c=-1 d=1.34404e-08 t=39263
 ji yi xing 	記憶性	c=4 d=0.256871 t=39263
 ji yin 	基因	c=19 d=0.60571 t=39263
 ji yin biao da 	基因表達	c=4 d=0.879541 t=39263
 ji yin ce xu 	基因測序	c=1 d=0.000287295 t=39263
+ji yin chen duan 	基因宸斷	c=-1 d=1.08964e-10 t=39263
 ji yin chong pai 	基因重排	c=1 d=0.000231716 t=39263
 ji yin chong zu 	基因重組	c=1 d=0.000418012 t=39263
+ji yin ding dian 	基因定點	c=-1 d=4.3642e-11 t=39263
 ji yin ding dian you bian ji shu 	基因定點誘變技術	c=1 d=0.000290183 t=39263
 ji yin duo tai xing 	基因多態性	c=3 d=8.39052e-08 t=39263
 ji yin fu he ti 	基因複合體	c=1 d=0.923116 t=39263
@@ -6243,6 +6383,7 @@ jia shu 	家屬	c=2 d=0.313486 t=39263
 jia shu 	家書	c=0 d=1.47137e-15 t=39263
 jia shu di wan jin 	家書牴萬金	c=1 d=1.47874e-14 t=39263
 jia shu yuan 	家屬院	c=2 d=1.29177 t=39263
+jia shu yuan 	家書院	c=-1 d=1.17715e-07 t=39263
 jia shuo 	假說	c=0 d=5.71695e-12 t=39263
 jia su 	加速	c=3 d=0.735963 t=39263
 jia su du 	加速度	c=1 d=0.970446 t=39263
@@ -6250,6 +6391,7 @@ jia suan 	甲酸	c=0 d=1.94146e-12 t=39263
 jia tai dan bai 	甲胎蛋白	c=1 d=0.579842 t=39263
 jia ting 	家庭	c=1 d=0.857023 t=39263
 jia ting yi sheng 	家庭醫生	c=1 d=0.612626 t=39263
+jia ting yi sheng 	家挺醫生	c=-1 d=9.2136e-08 t=39263
 jia tong 	家童	c=1 d=0.814647 t=39263
 jia xiang 	假想	c=2 d=0.704659 t=39263
 jia xiang 	假象	c=1 d=0.29671 t=39263
@@ -6296,6 +6438,7 @@ jian ce 	檢測	c=4 d=0.88692 t=39263
 jian ce 	監測	c=6 d=0.883132 t=39263
 jian ce fang fa 	檢測方法	c=1 d=0.000363402 t=39263
 jian ce ji shu 	檢測技術	c=1 d=0.00408677 t=39263
+jian ce ji shu 	監測技術	c=-1 d=6.14631e-10 t=39263
 jian ce kang yuan 	檢測抗原	c=1 d=0.0277367 t=39263
 jian ce qi 	檢測器	c=3 d=1.62927 t=39263
 jian ce xi tong 	檢測系統	c=2 d=1.11151 t=39263
@@ -6311,6 +6454,7 @@ jian chu 	檢出	c=1 d=0.540641 t=39263
 jian chu xian 	檢出限	c=2 d=0.477999 t=39263
 jian chu xian di 	檢出限低	c=1 d=0.878095 t=39263
 jian chu zheng hou pian yi 	檢出症候偏倚	c=1 d=4.26747e-12 t=39263
+jian da 	建大	c=-1 d=1.81427e-08 t=39263
 jian dan 	簡單	c=7 d=1.38415 t=39263
 jian dan de 	簡單地	c=1 d=1.32039e-05 t=39263
 jian dan hui gui fen xi 	簡單回歸分析	c=1 d=1.18631e-10 t=39263
@@ -6326,6 +6470,7 @@ jian ding 	堅定	c=1 d=0.399691 t=39263
 jian ding 	鑑定	c=2 d=0.0854953 t=39263
 jian ding bu yi 	堅定不移	c=2 d=0.600496 t=39263
 jian ding li liang 	堅定力量	c=1 d=0.847894 t=39263
+jian ding li liang 	鑑定力量	c=-1 d=1.27519e-07 t=39263
 jian ding li xiang xin nian 	堅定理想信念	c=1 d=9.44524e-06 t=39263
 jian ding xin nian 	堅定信念	c=1 d=0.442639 t=39263
 jian ding zhi chi 	堅定支持	c=1 d=0.0225956 t=39263
@@ -6354,6 +6499,7 @@ jian hua 	簡化	c=3 d=0.324665 t=39263
 jian hua cheng 	簡化成	c=1 d=0.0411719 t=39263
 jian huan 	減緩	c=1 d=0.00798652 t=39263
 jian ji 	鹼基	c=25 d=4.6326 t=39263
+jian ji bu 	鹼基布	c=-1 d=1.18305e-07 t=39263
 jian ji dui 	鹼基對	c=7 d=3.59978 t=39263
 jian ji hu bu pei dui 	鹼基互補配對	c=1 d=0.092089 t=39263
 jian ji shun xu 	鹼基順序	c=1 d=0.136695 t=39263
@@ -6454,6 +6600,8 @@ jian yu 	鑑於	c=1 d=0.873716 t=39263
 jian zai 	減災	c=0 d=0.0258794 t=39263
 jian zhang 	建章	c=0 d=4.68224e-16 t=39263
 jian zhang 	簡章	c=1 d=0.000706632 t=39263
+jian zhe hang 	間這行	c=-1 d=0 t=39263
+jian zhe xing 	間折行	c=-1 d=8.54785e-08 t=39263
 jian zheng fang quan 	簡政放權	c=3 d=0.409138 t=39263
 jian zhi 	兼職	c=2 d=0.158451 t=39263
 jian zhi 	簡直	c=1 d=0.222017 t=39263
@@ -6514,6 +6662,7 @@ jiang shang 	江上	c=0 d=1.25057e-14 t=39263
 jiang shui 	江水	c=1 d=4.60062e-14 t=39263
 jiang su 	江蘇	c=2 d=0.194936 t=39263
 jiang su sheng 	江蘇省	c=1 d=0.196912 t=39263
+jiang sui qiu cao ku 	將隨秋草枯	c=-1 d=1.6141e-15 t=39263
 jiang sui qiu cao wei 	將隨秋草萎	c=1 d=1.07324e-08 t=39263
 jiang tan 	江潭	c=0 d=0.0860708 t=39263
 jiang tan luo yue fu xi xie 	江潭落月復西斜	c=2 d=1.73438 t=39263
@@ -6625,6 +6774,7 @@ jiao yu pei xun 	教育培訓	c=1 d=0.937067 t=39263
 jiao yu zhi liang 	教育質量	c=1 d=0.145148 t=39263
 jiao yu zi yuan 	教育資源	c=0 d=0.0198891 t=39263
 jiao yuan 	膠原	c=6 d=0.260599 t=39263
+jiao yuan dan bai 	膠元蛋白	c=-1 d=0 t=39263
 jiao yuan dan bai 	膠原蛋白	c=1 d=0.213312 t=39263
 jiao zhi su 	角質素	c=0 d=0.0763379 t=39263
 jiao zhu 	校注	c=5 d=3.66388 t=39263
@@ -6695,6 +6845,7 @@ jie gou xing wen ti 	結構性問題	c=1 d=0.0190631 t=39263
 jie gou you hua 	結構優化	c=1 d=0.571209 t=39263
 jie gou you hua sheng ji 	結構優化升級	c=1 d=0.571209 t=39263
 jie gou yu 	結構域	c=2 d=0.171289 t=39263
+jie gou yu 	結構閾	c=-1 d=1.62163e-11 t=39263
 jie gu 	解僱	c=1 d=0.394554 t=39263
 jie guo 	結果	c=18 d=1.19296 t=39263
 jie guo shi 	結果是	c=1 d=7.95481e-15 t=39263
@@ -6739,6 +6890,7 @@ jie le 	借了	c=1 d=0.00759701 t=39263
 jie li 	解離	c=5 d=2.30525 t=39263
 jie li chang shu 	解離常數	c=1 d=0.524663 t=39263
 jie li chu 	解離出	c=1 d=0.548812 t=39263
+jie li chu 	解離除	c=-1 d=8.25385e-08 t=39263
 jie li du 	解離度	c=2 d=0.729789 t=39263
 jie li ji tuan 	解離基團	c=1 d=0.722527 t=39263
 jie lian 	解鏈	c=1 d=0.0566989 t=39263
@@ -6772,6 +6924,7 @@ jie shui chuan ran bing 	介水傳染病	c=1 d=1.81457e-10 t=39263
 jie suan 	結算	c=2 d=1.92615 t=39263
 jie suo 	解鎖	c=1 d=5.99251e-06 t=39263
 jie tong 	接通	c=0 d=0.0148823 t=39263
+jie tou 	街頭	c=-1 d=2.41377e-14 t=39263
 jie tu 	截圖	c=3 d=0.161227 t=39263
 jie wei 	結尾	c=3 d=1.13231 t=39263
 jie xi 	解析	c=0 d=0.0932394 t=39263
@@ -7050,6 +7203,7 @@ jing zheng li 	競爭力	c=0 d=0.0616483 t=39263
 jing zheng xing 	競爭性	c=1 d=0.327066 t=39263
 jing zheng xing yi zhi 	競爭性抑制	c=1 d=0.351701 t=39263
 jing zheng xing yi zhi ji 	競爭性抑制劑	c=1 d=0.202909 t=39263
+jing zheng xing yi zhi ji 	競爭性抑制即	c=-1 d=3.05165e-08 t=39263
 jing zheng xing yi zhi zuo yong 	競爭性抑制作用	c=1 d=0.2272 t=39263
 jing zheng yu he zuo 	競爭與合作	c=1 d=0.465334 t=39263
 jing zhi 	精緻	c=2 d=1.19435 t=39263
@@ -7103,6 +7257,7 @@ jiu lia 	就倆	c=1 d=0.0672055 t=39263
 jiu lian 	就連	c=1 d=4.79669e-05 t=39263
 jiu ling 	酒令	c=1 d=0.960789 t=39263
 jiu mei you 	就沒有	c=2 d=0.729789 t=39263
+jiu na 	就拿	c=-1 d=6.92876e-08 t=39263
 jiu nan 	救難	c=0 d=0.0045502 t=39263
 jiu neng 	就能	c=5 d=0.954147 t=39263
 jiu neng yong 	就能用	c=1 d=0.0207543 t=39263
@@ -7241,6 +7396,7 @@ ju xing le 	舉行了	c=2 d=0.301321 t=39263
 ju yi gang er wan mu zhang 	舉一綱而萬目張	c=1 d=0.697676 t=39263
 ju you 	具有	c=40 d=4.41037 t=39263
 ju you zhong yao yi yi 	具有重要意義	c=1 d=0.0520787 t=39263
+ju zen 	聚怎	c=-1 d=1.38832e-07 t=39263
 ju zhen 	矩陣	c=4 d=0.923116 t=39263
 ju zhu 	居住	c=0 d=2.1188e-11 t=39263
 ju zhu jian zhu mi du 	居住建築密度	c=1 d=2.12943e-10 t=39263
@@ -7263,6 +7419,7 @@ jue ce bu shu 	決策部署	c=3 d=0.513188 t=39263
 jue da bu fen 	絕大部分	c=1 d=0.108067 t=39263
 jue da duo shu 	絕大多數	c=2 d=0.116862 t=39263
 jue de 	覺得	c=2 d=0.600496 t=39263
+jue deng 	爵等	c=-1 d=1.10041e-08 t=39263
 jue ding 	決定	c=10 d=2.00732 t=39263
 jue ding xi shu 	決定係數	c=1 d=8.80967e-10 t=39263
 jue ding xian 	決定先	c=1 d=0.298197 t=39263
@@ -7306,6 +7463,7 @@ jun shi 	軍師	c=2 d=1.76946 t=39263
 jun shi jia 	軍事家	c=1 d=0.265803 t=39263
 jun shi li liang 	軍事力量	c=1 d=0.900325 t=39263
 jun shi lian meng 	軍師聯盟	c=1 d=0.909373 t=39263
+jun shi lin 	均石林	c=-1 d=1.36765e-07 t=39263
 jun shu 	均數	c=1 d=6.87874e-11 t=39263
 jun tuan jun 	軍團菌	c=1 d=2.07685e-10 t=39263
 jun wei 	均爲	c=3 d=0.98592 t=39263
@@ -7367,6 +7525,7 @@ kai shu 	楷書	c=1 d=0.565525 t=39263
 kai tong 	開通	c=2 d=0.806541 t=39263
 kai tong le 	開通了	c=1 d=5.00265e-29 t=39263
 kai tuo 	開拓	c=0 d=0.0447378 t=39263
+kai tuo jin qu 	開拓進去	c=-1 d=3.3895e-08 t=39263
 kai tuo jin qu 	開拓進取	c=1 d=0.225373 t=39263
 kai wen 	凱文	c=1 d=0.0175097 t=39263
 kai xin yan 	開心顏	c=0 d=2.30756e-15 t=39263
@@ -7381,6 +7540,7 @@ kan biao 	看錶	c=1 d=0.275271 t=39263
 kan bing 	看病	c=1 d=0.71177 t=39263
 kan bu 	看不	c=0 d=6.46143e-11 t=39263
 kan bu jian 	看不見	c=1 d=0.67032 t=39263
+kan bu jian le 	看不剪了	c=-1 d=9.81534e-17 t=39263
 kan bu jian le 	看不見了	c=1 d=6.52637e-10 t=39263
 kan bu qing 	看不清	c=2 d=0.941765 t=39263
 kan bu qing chu 	看不清楚	c=1 d=0.0109985 t=39263
@@ -7406,6 +7566,7 @@ kan ni 	看你	c=3 d=1.08399 t=39263
 kan qi 	看起	c=0 d=0.0557106 t=39263
 kan qi 	看齊	c=0 d=0.0559898 t=39263
 kan qi lai 	看起來	c=1 d=0.054204 t=39263
+kan qi yi shi 	看起意識	c=-1 d=8.4628e-08 t=39263
 kan qi yi shi 	看齊意識	c=1 d=0.562705 t=39263
 kan qing 	看清	c=1 d=0.486752 t=39263
 kan qing kuang 	看情況	c=1 d=6.30083e-08 t=39263
@@ -7464,12 +7625,15 @@ kang yuan kang ti 	抗原抗體	c=1 d=0.0269169 t=39263
 kang yuan tai 	抗原肽	c=7 d=1.74441 t=39263
 kang yuan te yi xing 	抗原特異性	c=2 d=0.195974 t=39263
 kang yuan ti cheng 	抗原提呈	c=2 d=1.19328 t=39263
+kang yuan ti cheng 	抗原提成	c=-1 d=5.23754e-10 t=39263
 kang yuan ti cheng tu jing 	抗原提呈途徑	c=1 d=0.909373 t=39263
 kang yuan ti cheng xi bao 	抗原提呈細胞	c=7 d=1.01397 t=39263
 kang yuan xi bao 	抗原細胞	c=1 d=0.000536738 t=39263
+kang yuan xin 	抗原新	c=-1 d=6.03917e-09 t=39263
 kang yuan xin xi 	抗原信息	c=1 d=0.67368 t=39263
 kang yuan xing 	抗原性	c=4 d=0.151017 t=39263
 kang yuan xing wu zhi 	抗原性物質	c=1 d=0.319819 t=39263
+kang yun 	抗雲	c=-1 d=9.44684e-08 t=39263
 kang zai 	抗災	c=0 d=0.00277367 t=39263
 kang zai jiu zai ying ji ji zhi 	抗災救災應急機制	c=1 d=0.0278757 t=39263
 kang zhong liu 	抗腫瘤	c=1 d=0.97531 t=39263
@@ -7484,6 +7648,7 @@ kao he 	考覈	c=0 d=0.066365 t=39263
 kao he jie guo 	考覈結果	c=1 d=0.666977 t=39263
 kao jin 	靠近	c=2 d=0.00748436 t=39263
 kao kao 	考考	c=1 d=0.404542 t=39263
+kao lu 	考錄	c=-1 d=1.07862e-08 t=39263
 kao lv 	考慮	c=17 d=2.6379 t=39263
 kao lv dao 	考慮到	c=1 d=0.882497 t=39263
 kao pu 	靠譜	c=1 d=0.985112 t=39263
@@ -7559,6 +7724,7 @@ ke lian chun ban bu huan jia 	可憐春半不還家	c=1 d=4.57767e-14 t=39263
 ke lian lou shang yue pai huai 	可憐樓上月徘徊	c=1 d=4.35442e-14 t=39263
 ke long 	克隆	c=9 d=0.221608 t=39263
 ke long ji yin 	克隆基因	c=1 d=0.000439444 t=39263
+ke long xing 	克隆型	c=-1 d=1.8325e-08 t=39263
 ke long xing 	克隆性	c=1 d=0.121846 t=39263
 ke long zai ti 	克隆載體	c=1 d=0.00047843 t=39263
 ke lv 	可慮	c=1 d=0.00615802 t=39263
@@ -7581,6 +7747,7 @@ ke rong xing dan bai zhi 	可溶性蛋白質	c=1 d=0.937067 t=39263
 ke shan 	克山	c=0 d=2.02557e-11 t=39263
 ke shan bing 	克山病	c=1 d=2.03572e-10 t=39263
 ke shao 	可少	c=1 d=6.69045e-08 t=39263
+ke sheng 	可生	c=-1 d=3.46031e-16 t=39263
 ke shi 	可是	c=1 d=0.637628 t=39263
 ke shi 	科室	c=4 d=1.14311 t=39263
 ke shi 	課時	c=1 d=0.496585 t=39263
@@ -7591,6 +7758,7 @@ ke shuo 	科碩	c=2 d=1.22539 t=39263
 ke si te 	喀斯特	c=0 d=0.033454 t=39263
 ke tiao 	可調	c=0 d=0.0241714 t=39263
 ke tiao jie 	可調節	c=1 d=0.244143 t=39263
+ke tiao jie xing 	可調戒行	c=-1 d=3.6718e-08 t=39263
 ke tiao xing 	可調性	c=1 d=1.8506e-06 t=39263
 ke ting bing 	克汀病	c=0 d=1.97556e-11 t=39263
 ke xi 	可惜	c=1 d=0.806541 t=39263
@@ -7642,6 +7810,7 @@ ke zhu ren 	科主任	c=1 d=0.298197 t=39263
 ke zuo wei 	可作爲	c=1 d=0.371577 t=39263
 ken de ji 	肯德基	c=1 d=0.261846 t=39263
 ken ding 	肯定	c=7 d=1.72001 t=39263
+ken duo 	肯多	c=-1 d=4.54154e-09 t=39263
 ken xia 	啃下	c=1 d=0.22313 t=39263
 keng 	坑	c=1 d=0.416862 t=39263
 keng chi 	吭哧	c=0 d=0.0537944 t=39263
@@ -7689,6 +7858,7 @@ kong yu bao guo zhi xin 	空餘報國之心	c=1 d=3.91027e-13 t=39263
 kong zhi 	控制	c=7 d=0.563701 t=39263
 kong zhi xi tong 	控制系統	c=1 d=0.878095 t=39263
 kong zhi zhe 	控制着	c=1 d=0.0977834 t=39263
+kong zhi zhe 	控制者	c=-1 d=1.47061e-08 t=39263
 kong zhong 	空中	c=0 d=6.09654e-15 t=39263
 kong zhong wen tian ji 	空中聞天雞	c=1 d=2.02626e-14 t=39263
 kou 	口	c=5 d=0.985256 t=39263
@@ -7787,6 +7957,7 @@ la ding yu 	拉丁語	c=2 d=1.93124 t=39263
 la ding zi mu 	拉丁字母	c=2 d=0.255381 t=39263
 la dong 	拉動	c=0 d=0.0400517 t=39263
 la dong li 	拉動力	c=1 d=0.0769192 t=39263
+la dong li 	拉動裏	c=-1 d=1.15683e-08 t=39263
 la dong zuo yong 	拉動作用	c=1 d=0.402524 t=39263
 la du zi 	拉肚子	c=1 d=0.0223708 t=39263
 la ge lang ri 	拉格朗日	c=5 d=0.0176628 t=39263
@@ -7815,7 +7986,9 @@ lai li 	來歷	c=1 d=0.522046 t=39263
 lai lin 	來臨	c=1 d=0.0629761 t=39263
 lai shuo 	來說	c=4 d=0.951229 t=39263
 lai si wan ba qian sui 	來四萬八千歲	c=1 d=3.09935e-14 t=39263
+lai xie 	來寫	c=-1 d=6.17921e-14 t=39263
 lai yi 	賴以	c=1 d=0.00236968 t=39263
+lai you 	來由	c=-1 d=8.63376e-08 t=39263
 lai yuan 	來源	c=8 d=0.442755 t=39263
 lai yuan yu 	來源於	c=2 d=0.492526 t=39263
 lai zheng zhan di 	來征戰地	c=1 d=4.95894e-14 t=39263
@@ -7885,6 +8058,7 @@ lao lu 	老路	c=1 d=0.13068 t=39263
 lao lun si 	勞倫斯	c=1 d=0.970446 t=39263
 lao mo 	烙饃	c=2 d=0.00571273 t=39263
 lao nian 	老年	c=2 d=1.12826 t=39263
+lao nian 	老蔫	c=-1 d=8.4206e-08 t=39263
 lao nian ren 	老年人	c=1 d=0.810584 t=39263
 lao ren 	老人	c=2 d=9.02321e-10 t=39263
 lao sao 	牢騷	c=0 d=0.0995012 t=39263
@@ -7899,6 +8073,7 @@ le 	了	c=399 d=11.2925 t=39263
 le 	樂	c=0 d=2.81785e-14 t=39263
 le ba 	了吧	c=1 d=0.0584257 t=39263
 le de 	了的	c=1 d=0.23457 t=39263
+le yi 	了一	c=-1 d=1.45598e-08 t=39263
 le yuan 	樂園	c=1 d=1.07029e-05 t=39263
 le zhi 	樂之	c=0 d=1.45296e-14 t=39263
 lei 	淚	c=0 d=1.44946e-15 t=39263
@@ -7952,6 +8127,7 @@ li hai 	厲害	c=1 d=0.263158 t=39263
 li hua 	理化	c=1 d=0.163841 t=39263
 li hua xing zhi 	理化性質	c=10 d=0.550868 t=39263
 li huan 	罹患	c=0 d=1.72749e-13 t=39263
+li huan lv 	罹患履	c=-1 d=1.30881e-19 t=39263
 li huan lv 	罹患率	c=1 d=8.70246e-13 t=39263
 li ji 	立即	c=5 d=0.861264 t=39263
 li jie 	理解	c=18 d=3.18266 t=39263
@@ -7982,6 +8158,7 @@ li san xing bian liang 	離散型變量	c=1 d=4.89608e-11 t=39263
 li shen lin xi jing ceng dian 	栗深林兮驚層巔	c=1 d=2.06719e-14 t=39263
 li shi 	歷史	c=6 d=2.77357 t=39263
 li shi gong xun 	歷史功勳	c=1 d=0.19593 t=39263
+li shi hang 	歷史行	c=-1 d=5.34244e-08 t=39263
 li shi hong liu 	歷史洪流	c=1 d=0.174645 t=39263
 li shi ju bian 	歷史鉅變	c=1 d=0.212248 t=39263
 li shi shang 	歷史上	c=2 d=0.3912 t=39263
@@ -8125,6 +8302,7 @@ liang che 	輛車	c=5 d=0.798516 t=39263
 liang ci 	兩次	c=4 d=0.67032 t=39263
 liang da 	兩大	c=0 d=0.017552 t=39263
 liang da lei 	兩大類	c=3 d=0.423162 t=39263
+liang da mei 	兩大酶	c=-1 d=2.66627e-08 t=39263
 liang dian 	兩點	c=4 d=0.718924 t=39263
 liang du 	亮度	c=1 d=0.937067 t=39263
 liang duan 	兩端	c=1 d=0.0042963 t=39263
@@ -8167,6 +8345,7 @@ liang men 	兩門	c=1 d=0.533338 t=39263
 liang ming 	兩名	c=0 d=0.0375311 t=39263
 liang nian 	兩年	c=2 d=0.228586 t=39263
 liang qi 	亮起	c=1 d=0.348192 t=39263
+liang qin hua he wu 	兩禽化合物	c=-1 d=0 t=39263
 liang qin hua he wu 	兩親化合物	c=1 d=0.0219278 t=39263
 liang quan 	兩圈	c=1 d=0.102284 t=39263
 liang ren 	兩人	c=3 d=0.333582 t=39263
@@ -8222,6 +8401,7 @@ lie chu lai 	列出來	c=1 d=0.606531 t=39263
 lie he mei lei 	裂合酶類	c=1 d=0.404542 t=39263
 lie jie 	裂解	c=1 d=0.163672 t=39263
 lie jie mei lei 	裂解酶類	c=1 d=0.402524 t=39263
+lie lian biao 	列聯標	c=-1 d=1.63059e-17 t=39263
 lie lian biao 	列聯表	c=1 d=1.08421e-10 t=39263
 lie que pi li 	列缺霹靂	c=1 d=2.09843e-14 t=39263
 lie ren 	獵人	c=2 d=0.985112 t=39263
@@ -8245,6 +8425,8 @@ lin ba yang 	淋巴樣	c=2 d=0.721513 t=39263
 lin ba yang gan xi bao 	淋巴樣幹細胞	c=1 d=0.00392653 t=39263
 lin ba yang zu xi bao 	淋巴樣祖細胞	c=1 d=0.00269866 t=39263
 lin ba ye 	淋巴液	c=2 d=0.400762 t=39263
+lin ba ying 	淋巴應	c=-1 d=5.26289e-08 t=39263
+lin ba zhu zhi 	淋巴主旨	c=-1 d=2.23861e-10 t=39263
 lin ba zu zhi 	淋巴組織	c=4 d=0.168959 t=39263
 lin bao 	拎包	c=1 d=0.00360656 t=39263
 lin bie zeng yan 	臨別贈言	c=1 d=4.54308e-13 t=39263
@@ -8257,6 +8439,7 @@ lin chuang shi yan 	臨牀試驗	c=2 d=5.22123e-12 t=39263
 lin chuang yi xue 	臨牀醫學	c=2 d=0.0276344 t=39263
 lin chuang ying yong 	臨牀應用	c=1 d=0.0098528 t=39263
 lin chuang yong xie 	臨牀用血	c=1 d=0.516851 t=39263
+lin chuang yu xue 	臨牀雨雪	c=-1 d=1.61327e-09 t=39263
 lin chuang zhen liao fu wu 	臨牀診療服務	c=1 d=0.477114 t=39263
 lin chuang zhi liao 	臨牀治療	c=2 d=1.21619 t=39263
 lin di zi zhi chang zhou 	臨帝子之長洲	c=1 d=2.64747e-13 t=39263
@@ -8270,6 +8453,7 @@ lin jie dian 	臨界點	c=1 d=6.49492e-12 t=39263
 lin jie ju zhen 	鄰接矩陣	c=5 d=0.202634 t=39263
 lin jin 	臨近	c=3 d=0.0789457 t=39263
 lin jin 	鄰近	c=0 d=0.0763379 t=39263
+lin jin xiao ying 	臨近效應	c=-1 d=1.14236e-07 t=39263
 lin jin xiao ying 	鄰近效應	c=3 d=2.5087 t=39263
 lin mu suan 	磷鉬酸	c=1 d=0.174645 t=39263
 lin shi 	臨時	c=3 d=0.0714962 t=39263
@@ -8331,6 +8515,7 @@ ling qu 	領取	c=3 d=0.923116 t=39263
 ling ren 	令人	c=0 d=6.70776e-10 t=39263
 ling sheng mu 	零聲母	c=1 d=0.109154 t=39263
 ling shui 	陵水	c=1 d=6.62726e-14 t=39263
+ling tian 	另天	c=-1 d=1.32084e-09 t=39263
 ling wai 	另外	c=5 d=0.99005 t=39263
 ling wan qing zhi mang ran 	凌萬頃之茫然	c=1 d=8.29947e-14 t=39263
 ling xian 	領先	c=0 d=7.03587e-13 t=39263
@@ -8343,6 +8528,7 @@ ling yi fang mian 	另一方面	c=2 d=0.0186856 t=39263
 ling yi ge 	另一個	c=7 d=1.69838 t=39263
 ling yi ge shi 	另一個是	c=1 d=0.67368 t=39263
 ling yi gu lian 	另一股鏈	c=2 d=0.853258 t=39263
+ling yi wu zhong 	另一五種	c=-1 d=4.76207e-08 t=39263
 ling yi wu zhong 	另一物種	c=1 d=0.316637 t=39263
 ling yi zhong 	另一種	c=1 d=0.0784731 t=39263
 ling yi zu 	另一組	c=1 d=0.0155297 t=39263
@@ -8439,6 +8625,7 @@ lu 	淥	c=0 d=1.97623e-15 t=39263
 lu 	爐	c=0 d=0.0375311 t=39263
 lu 	路	c=4 d=0.763425 t=39263
 lu 	鱸	c=0 d=1.53512e-14 t=39263
+lu chang 	鹿場	c=-1 d=8.72054e-08 t=39263
 lu cheng 	路程	c=3 d=0.0325542 t=39263
 lu chu ming 	路出名	c=1 d=2.53098e-13 t=39263
 lu dun 	魯鈍	c=2 d=1.48535 t=39263
@@ -8683,6 +8870,7 @@ mei chu xi 	沒出息	c=1 d=0.918512 t=39263
 mei ci 	每次	c=3 d=0.0464416 t=39263
 mei cu 	梅酢	c=0 d=0.198506 t=39263
 mei cu fan ying 	酶促反應	c=7 d=0.748264 t=39263
+mei cu fen 	梅酢酚	c=-1 d=3.01544e-07 t=39263
 mei cui hua 	酶催化	c=8 d=2.04237 t=39263
 mei cui hua huo xing 	酶催化活性	c=1 d=0.114178 t=39263
 mei dai 	沒帶	c=2 d=0.0100518 t=39263
@@ -8719,6 +8907,7 @@ mei huo xing 	酶活性	c=6 d=1.82925 t=39263
 mei huo xing tiao jie 	酶活性調節	c=1 d=0.0205478 t=39263
 mei huo xing zhong xin 	酶活性中心	c=2 d=0.131413 t=39263
 mei ji ge 	沒幾個	c=1 d=0.650509 t=39263
+mei ji ge 	酶幾個	c=-1 d=9.78334e-08 t=39263
 mei ji huo ji 	酶激活劑	c=1 d=0.683861 t=39263
 mei ji lian xiao ying 	酶級聯效應	c=2 d=0.163433 t=39263
 mei jian guo 	沒見過	c=1 d=0.00625109 t=39263
@@ -8764,6 +8953,7 @@ mei su 	黴素	c=0 d=0.00115047 t=39263
 mei tan 	煤炭	c=2 d=0.961335 t=39263
 mei ti 	媒體	c=0 d=0.00280336 t=39263
 mei ti jie 	媒體界	c=1 d=0.0141223 t=39263
+mei ti jie 	媒體解	c=-1 d=2.12393e-09 t=39263
 mei tian 	每天	c=2 d=0.384812 t=39263
 mei tiao 	每條	c=1 d=0.110803 t=39263
 mei tuan 	美團	c=1 d=0.00594622 t=39263
@@ -8787,10 +8977,12 @@ mei yi ke shu 	每一棵樹	c=1 d=0.29671 t=39263
 mei yi lei xing 	每一類型	c=1 d=0.0441572 t=39263
 mei yi liang 	每一輛	c=1 d=6.68931e-06 t=39263
 mei yi mi 	每一米	c=1 d=0.308819 t=39263
+mei yi mi 	沒一米	c=-1 d=4.64449e-08 t=39263
 mei yi zhi ji 	酶抑制劑	c=1 d=0.172907 t=39263
 mei yin 	沒音	c=1 d=0.160414 t=39263
 mei yong 	沒用	c=1 d=1.59283e-06 t=39263
 mei you 	沒有	c=79 d=4.93814 t=39263
+mei you huo xing 	酶有活性	c=-1 d=1.05982e-07 t=39263
 mei you ren 	沒有人	c=0 d=0.0440432 t=39263
 mei you ren guan 	沒有人管	c=1 d=0.442639 t=39263
 mei you sha 	沒有啥	c=1 d=0.00396599 t=39263
@@ -8809,6 +9001,7 @@ mei zhong bu zu 	美中不足	c=1 d=0.932394 t=39263
 mei zhong guan xi 	美中關係	c=1 d=0.00114197 t=39263
 mei zhou 	每週	c=1 d=0.486752 t=39263
 mei zi 	妹子	c=1 d=0.00960953 t=39263
+mei zou 	沒走	c=-1 d=6.59084e-08 t=39263
 men 	們	c=3 d=0.922332 t=39263
 men 	門	c=2 d=0.631284 t=39263
 men kong 	門控	c=0 d=0.0392586 t=39263
@@ -8923,6 +9116,7 @@ mian yi yi zhi ji 	免疫抑制劑	c=1 d=0.465334 t=39263
 mian yi ying da 	免疫應答	c=26 d=3.25294 t=39263
 mian yi ying da lei xing 	免疫應答類型	c=2 d=0.935526 t=39263
 mian yi yu fang 	免疫預防	c=2 d=0.0290133 t=39263
+mian yi yu feng 	免疫御風	c=-1 d=1.44995e-18 t=39263
 mian yi yuan 	免疫原	c=3 d=0.0414835 t=39263
 mian yi yuan xing 	免疫原性	c=4 d=0.127406 t=39263
 mian yi zhen duan 	免疫診斷	c=1 d=0.358796 t=39263
@@ -9014,6 +9208,8 @@ ming yue pin yin 	朙月拼音	c=10 d=9.76414 t=39263
 ming yue zhi shi 	明月之詩	c=0 d=7.77716e-15 t=39263
 ming yun 	命運	c=1 d=0.270947 t=39263
 ming zhao 	明朝	c=0 d=6.39931e-15 t=39263
+ming zhao san fa 	明朝散發	c=-1 d=0 t=39263
+ming zhao san fa nong pian zhou 	明朝散發弄扁舟	c=-1 d=9.72098e-21 t=39263
 ming zhao san fa nong pian zhou 	明朝散髮弄扁舟	c=3 d=1.94099 t=39263
 ming zhe 	明者	c=0 d=0.088692 t=39263
 ming zhe yin shi er bian 	明者因時而變	c=1 d=0.891366 t=39263
@@ -9033,6 +9229,7 @@ mo dao le 	摸到了	c=1 d=0.00343067 t=39263
 mo de 	摩的	c=1 d=0.65377 t=39263
 mo di 	摩的	c=1 d=0.177284 t=39263
 mo duan 	末端	c=21 d=5.5347 t=39263
+mo dun 	摩敦	c=-1 d=1.50395e-07 t=39263
 mo er 	摩爾	c=0 d=0.0210136 t=39263
 mo er han liang 	摩爾含量	c=6 d=1.32388 t=39263
 mo fang 	魔方	c=1 d=8.23815e-15 t=39263
@@ -9055,6 +9252,7 @@ mo suo 	摸索	c=1 d=0.29671 t=39263
 mo tang dan bai 	膜糖蛋白	c=1 d=0.171187 t=39263
 mo ti 	模體	c=7 d=0.250516 t=39263
 mo wai 	膜外	c=1 d=0.0267827 t=39263
+mo wen da 	默問答	c=-1 d=1.17128e-07 t=39263
 mo xi ge 	墨西哥	c=1 d=0.315058 t=39263
 mo xin hao chuan dao 	膜信號傳導	c=1 d=0.000147011 t=39263
 mo xing 	模型	c=8 d=0.768894 t=39263
@@ -9069,6 +9267,7 @@ mou bing 	某病	c=1 d=9.39278e-12 t=39263
 mou bing bing si lv 	某病病死率	c=1 d=8.44383e-11 t=39263
 mou du li 	謀獨立	c=1 d=0.172045 t=39263
 mou duan 	某段	c=1 d=0.0193512 t=39263
+mou duan 	某端	c=-1 d=2.89582e-09 t=39263
 mou fu xing 	某復興	c=1 d=0.172907 t=39263
 mou ge 	某個	c=9 d=1.8887 t=39263
 mou ge dian 	某個點	c=1 d=0.444858 t=39263
@@ -9083,7 +9282,9 @@ mou yi 	某一	c=7 d=0.597608 t=39263
 mou yi ge 	某一個	c=1 d=0.65377 t=39263
 mou yi te ding 	某一特定	c=1 d=0.000446085 t=39263
 mou yi tiao 	某一條	c=1 d=0.00276698 t=39263
+mou yi zhong 	某一中	c=-1 d=9.78334e-08 t=39263
 mou yi zhong 	某一種	c=1 d=0.650509 t=39263
+mou you 	瞀懮	c=-1 d=1.17715e-07 t=39263
 mou zhong 	某種	c=3 d=0.949479 t=39263
 mu 	姥	c=0 d=3.71328e-15 t=39263
 mu 	暮	c=0 d=5.26728e-14 t=39263
@@ -9125,6 +9326,7 @@ na dei 	那得	c=1 d=4.2874e-08 t=39263
 na dou shi 	那都是	c=1 d=0.0135009 t=39263
 na er 	哪兒	c=6 d=0.279431 t=39263
 na er 	那兒	c=4 d=0.465897 t=39263
+na ga 	那噶	c=-1 d=5.29017e-10 t=39263
 na ge 	哪個	c=25 d=2.32461 t=39263
 na ge 	那個	c=22 d=2.17113 t=39263
 na jiang 	拿獎	c=1 d=2.15046e-08 t=39263
@@ -9147,11 +9349,13 @@ na shi 	那是	c=3 d=0.720133 t=39263
 na shi 	那時	c=0 d=0.0161218 t=39263
 na shi hou 	那時候	c=1 d=0.744532 t=39263
 na shui 	納稅	c=0 d=0.0448503 t=39263
+na shui e 	納稅額	c=-1 d=3.3895e-08 t=39263
 na shui ren 	納稅人	c=1 d=0.240803 t=39263
 na shui suo de e 	納稅所得額	c=1 d=0.226502 t=39263
 na wo 	那我	c=4 d=0.627008 t=39263
 na xie 	哪些	c=9 d=1.34804 t=39263
 na xie 	那些	c=7 d=1.65752 t=39263
+na xin 	納新	c=-1 d=6.52527e-08 t=39263
 na yang 	那樣	c=5 d=0.820124 t=39263
 na ye 	那也	c=1 d=0.0246002 t=39263
 na ye zhong 	那也中	c=1 d=0.481909 t=39263
@@ -9232,6 +9436,7 @@ nao 	猱	c=0 d=3.242e-15 t=39263
 nao 	腦	c=1 d=0.0231676 t=39263
 nao bu 	腦補	c=1 d=0.752014 t=39263
 nao gan zhi 	腦苷脂	c=1 d=0.0378169 t=39263
+nao le 	腦了	c=-1 d=3.17618e-08 t=39263
 nao li lao dong 	腦力勞動	c=1 d=1.53486e-11 t=39263
 nao sun shang 	腦損傷	c=1 d=0.000204488 t=39263
 ne 	呢	c=2 d=0.216536 t=39263
@@ -9246,6 +9451,7 @@ nei bu zu zhi jie gou 	內部組織結構	c=1 d=0.433874 t=39263
 nei ce 	內側	c=1 d=0.444858 t=39263
 nei ce 	內測	c=1 d=0.442639 t=39263
 nei ceng 	內層	c=1 d=0.440432 t=39263
+nei du 	內度	c=-1 d=9.39973e-08 t=39263
 nei dui zhao 	內對照	c=1 d=3.05268e-12 t=39263
 nei fen mi 	內分泌	c=3 d=0.322963 t=39263
 nei gong 	內功	c=0 d=0.0839457 t=39263
@@ -9283,6 +9489,7 @@ neng gou 	能夠	c=6 d=0.680451 t=39263
 neng hao 	能耗	c=1 d=0.715338 t=39263
 neng hao liang 	能耗量	c=1 d=1.28845e-11 t=39263
 neng ji 	能級	c=6 d=3.33026 t=39263
+neng le yi 	能了一	c=-1 d=4.36346e-09 t=39263
 neng li 	能力	c=13 d=1.7574 t=39263
 neng li qiang 	能力強	c=1 d=0.0309618 t=39263
 neng li ti sheng 	能力提升	c=1 d=7.17434e-06 t=39263
@@ -9318,6 +9525,7 @@ ni hai 	你還	c=1 d=0.00710054 t=39263
 ni hai bu 	你還不	c=1 d=0.0713613 t=39263
 ni hao 	你好	c=6 d=2.66058 t=39263
 ni he you du jian yan 	擬合優度檢驗	c=1 d=1.07342e-10 t=39263
+ni hou 	昵厚	c=-1 d=1.2625e-07 t=39263
 ni hui bu hui 	你會不會	c=1 d=0.597501 t=39263
 ni kan 	你看	c=10 d=2.4071 t=39263
 ni kan kan 	你看看	c=1 d=0.247833 t=39263
@@ -9337,11 +9545,13 @@ ni shi 	你是	c=3 d=0.45612 t=39263
 ni shi shi 	你試試	c=1 d=0.182684 t=39263
 ni shuo 	你說	c=8 d=1.60116 t=39263
 ni suan 	你算	c=1 d=0.214381 t=39263
+ni suan 	你酸	c=-1 d=3.22419e-08 t=39263
 ni suo 	你所	c=1 d=0.103312 t=39263
 ni ti qing 	擬提請	c=1 d=0.282239 t=39263
 ni wei yi xi feng wei ma 	霓爲衣兮風爲馬	c=1 d=2.16234e-14 t=39263
 ni wen 	逆溫	c=1 d=1.56182e-10 t=39263
 ni xian 	你先	c=4 d=1.64172 t=39263
+ni xian 	擬憲	c=-1 d=2.58747e-08 t=39263
 ni xian zai 	你現在	c=1 d=0.131336 t=39263
 ni xiang gei 	你想給	c=1 d=0.0689068 t=39263
 ni xiang xiang 	你想想	c=1 d=0.000115643 t=39263
@@ -9438,6 +9648,7 @@ niu rou mian 	牛肉麪	c=4 d=0.0871731 t=39263
 niu xun 	牛迅	c=1 d=0.748264 t=39263
 niu zhuan 	扭轉	c=1 d=0.965605 t=39263
 nong 	弄	c=13 d=1.72668 t=39263
+nong bo 	弄波	c=-1 d=7.85264e-10 t=39263
 nong bu kai 	弄不開	c=1 d=0.290835 t=39263
 nong bu liao 	弄不了	c=1 d=0.0263839 t=39263
 nong chan pin 	農產品	c=0 d=0.0802519 t=39263
@@ -9484,10 +9695,17 @@ nv shi men 	女士們	c=2 d=0.19403 t=39263
 nv zi 	女子	c=1 d=0.344728 t=39263
 o 	哦	c=1 d=3.08924e-05 t=39263
 o 	噢	c=1 d=0.0300468 t=39263
+o bu mo kuai 	哦不模塊	c=-1 d=0 t=39263
+o huo 	喔嚄	c=-1 d=0 t=39263
+o za 	嚄咋	c=-1 d=9.16765e-08 t=39263
+o zi 	哦子	c=-1 d=0 t=39263
 ou er 	偶爾	c=2 d=0.585669 t=39263
 ou he 	耦合	c=0 d=0.0690734 t=39263
+ou ji li de 	歐幾里得	c=-1 d=0 t=39263
 ou ji li de 	歐幾里德	c=2 d=0.431879 t=39263
 ou jia 	偶家	c=0 d=0.0995012 t=39263
+ou jia kao lv 	偶家考慮	c=-1 d=1.51149e-07 t=39263
+ou ke jie li 	歐克解離	c=-1 d=0 t=39263
 ou lian 	偶聯	c=2 d=0.54835 t=39263
 ou lian dan bai 	偶聯蛋白	c=1 d=0.491644 t=39263
 ou lian xing 	偶聯型	c=1 d=0.00014939 t=39263
@@ -9495,6 +9713,7 @@ ou lian xing shou ti 	偶聯型受體	c=4 d=1.4159 t=39263
 ou liu yang 	歐柳陽	c=1 d=0.814647 t=39263
 ou mei 	歐美	c=2 d=1 t=39263
 ou qi 	慪氣	c=0 d=0.000932553 t=39263
+ou qi shui le 	慪氣睡了	c=-1 d=1.41661e-09 t=39263
 ou ran 	偶然	c=2 d=0.341552 t=39263
 ou ran xing 	偶然性	c=1 d=0.0120946 t=39263
 ou yu 	偶遇	c=1 d=0.941765 t=39263
@@ -9594,10 +9813,12 @@ pei yu 	培育	c=0 d=0.0564724 t=39263
 pei yu le 	培育了	c=1 d=0.287941 t=39263
 pei yu ming luan ba ge wu 	佩玉鳴鸞罷歌舞	c=1 d=4.82402e-13 t=39263
 pei yu zhuang da 	培育壯大	c=1 d=0.351692 t=39263
+pei zeng 	賠贈	c=-1 d=1.23133e-07 t=39263
 pei zhe 	陪着	c=1 d=0.647265 t=39263
 pei zhi 	配置	c=13 d=1.08922 t=39263
 pen 	噴	c=1 d=0.000788798 t=39263
 pen 	盆	c=2 d=1.67306 t=39263
+pen lai 	噴來	c=-1 d=6.2694e-08 t=39263
 pen zi 	盆子	c=2 d=0.876514 t=39263
 peng 	烹	c=0 d=1.65069e-15 t=39263
 peng 	碰	c=2 d=0.539647 t=39263
@@ -9651,6 +9872,7 @@ pian du xi shu 	偏度係數	c=1 d=7.23142e-11 t=39263
 pian duan 	片段	c=6 d=4.0883 t=39263
 pian feng 	偏鋒	c=0 d=6.57606e-12 t=39263
 pian feng fen bu 	偏峯分佈	c=1 d=7.97389e-11 t=39263
+pian feng fen bu 	偏鋒分佈	c=-1 d=9.98948e-18 t=39263
 pian li 	偏離	c=1 d=0.676281 t=39263
 pian pian 	片片	c=0 d=9.66756e-16 t=39263
 pian ruo jing hong 	翩若驚鴻	c=1 d=0.786628 t=39263
@@ -9684,6 +9906,7 @@ pin jian jiang tou zi huan sha 	貧賤江頭自浣紗	c=1 d=1.00621e-14 t=39263
 pin jie 	拼接	c=1 d=0.932394 t=39263
 pin lv 	頻率	c=12 d=0.187874 t=39263
 pin lv ce liang zhi biao 	頻率測量指標	c=1 d=8.53015e-13 t=39263
+pin lv fen bu biao 	頻率分佈標	c=-1 d=9.59778e-18 t=39263
 pin lv fen bu biao 	頻率分佈表	c=1 d=6.38171e-11 t=39263
 pin lv fen bu tu 	頻率分佈圖	c=1 d=6.4137e-11 t=39263
 pin pai 	品牌	c=1 d=0.00491728 t=39263
@@ -9999,6 +10222,7 @@ qian yue fu wu 	簽約服務	c=1 d=0.615697 t=39263
 qian zai 	潛在	c=2 d=0.476615 t=39263
 qian zai de 	前在地	c=1 d=0.0195457 t=39263
 qian zai de 	潛在的	c=1 d=0.0196437 t=39263
+qian zai di 	前在地	c=-1 d=0 t=39263
 qian zai jian shou nian shu 	潛在減壽年數	c=1 d=1.24735e-12 t=39263
 qian zai zhi ai wu 	潛在致癌物	c=1 d=3.26557e-11 t=39263
 qian zhan xing 	前瞻性	c=0 d=5.6985e-12 t=39263
@@ -10070,6 +10294,7 @@ qin 	親	c=2 d=0.369966 t=39263
 qin dian gong jia cui hua 	親電共價催化	c=1 d=0.491644 t=39263
 qin he 	親和	c=0 d=6.65481e-05 t=39263
 qin he gong jia cui hua 	親核共價催化	c=1 d=0.489192 t=39263
+qin he li 	親合力	c=-1 d=1.27849e-08 t=39263
 qin he li 	親和力	c=8 d=1.91942 t=39263
 qin he se pu fa 	親和色譜法	c=1 d=0.000668817 t=39263
 qin he xing 	親和性	c=1 d=0.373439 t=39263
@@ -10096,8 +10321,10 @@ qing 	請	c=14 d=1.02366 t=39263
 qing 	輕	c=0 d=0.0301194 t=39263
 qing 	青	c=0 d=3.13289e-14 t=39263
 qing chu 	清楚	c=4 d=0.837547 t=39263
+qing chu 	清除	c=-5 d=4.04925e-07 t=39263
 qing chu bing yuan ti 	清除病原體	c=1 d=0.000148489 t=39263
 qing chu kang yuan 	清除抗原	c=2 d=0.519442 t=39263
+qing chua 	請欻	c=-1 d=2.17207e-08 t=39263
 qing chuan 	青川	c=0 d=1.20466e-15 t=39263
 qing chuan dai chang bo 	青川帶長薄	c=1 d=1.21069e-14 t=39263
 qing chun 	青春	c=0 d=9.42887e-16 t=39263
@@ -10117,6 +10344,7 @@ qing hua wu 	氫化物	c=0 d=0.0377192 t=39263
 qing hua wu fa sheng yuan zi hua qi 	氫化物發生原子化器	c=2 d=1.09085 t=39263
 qing hui 	清輝	c=0 d=2.38975e-15 t=39263
 qing jian 	氫鍵	c=6 d=2.60202 t=39263
+qing jian shu pai 	氫鍵豎排	c=-1 d=2.12393e-09 t=39263
 qing jiao 	請教	c=1 d=1.15106e-08 t=39263
 qing jie ji 	清潔劑	c=0 d=0.0392586 t=39263
 qing jiu 	清酒	c=0 d=5.10996e-15 t=39263
@@ -10164,6 +10392,8 @@ qing xing 	清醒	c=1 d=0.375846 t=39263
 qing xing kan dao 	清醒看到	c=1 d=0.537944 t=39263
 qing xu 	情緒	c=0 d=0.070822 t=39263
 qing yan 	輕言	c=0 d=0.070822 t=39263
+qing yan 	青岩	c=-1 d=6.20702e-08 t=39263
+qing yan gen li zi 	輕言跟離子	c=-1 d=1.07583e-07 t=39263
 qing yang gen li zi 	氫氧根離子	c=2 d=1.32797 t=39263
 qing ying 	請纓	c=0 d=4.00925e-14 t=39263
 qing yun 	青雲	c=0 d=3.93783e-14 t=39263
@@ -10359,6 +10589,7 @@ quan yuan can yu 	全員參與	c=1 d=0.472367 t=39263
 quan yun hui 	全運會	c=1 d=0.416862 t=39263
 quan zhong 	權重	c=1 d=0.00247875 t=39263
 quan zhou 	泉州	c=5 d=0.0239845 t=39263
+quan zou 	圈走	c=-1 d=7.35846e-10 t=39263
 que 	卻	c=11 d=1.07291 t=39263
 que 	闕	c=0 d=7.67728e-10 t=39263
 que 	鵲	c=0 d=9.59451e-15 t=39263
@@ -10381,6 +10612,7 @@ que ding yang ben liang 	確定樣本量	c=2 d=5.53981e-12 t=39263
 que fa 	缺乏	c=1 d=0.0699482 t=39263
 que ju you 	卻具有	c=1 d=0.118837 t=39263
 que li 	確立	c=3 d=0.761563 t=39263
+que quan 	卻圈	c=-1 d=2.28344e-08 t=39263
 que quan 	確權	c=1 d=0.151829 t=39263
 que ren 	確認	c=8 d=0.174645 t=39263
 que ren zhi ai wu 	確認致癌物	c=1 d=3.23308e-11 t=39263
@@ -10442,7 +10674,10 @@ re qing de zhang sheng 	熱情的掌聲	c=1 d=0.444858 t=39263
 re she bing 	熱射病	c=1 d=2.27832e-11 t=39263
 re shuai jie 	熱衰竭	c=1 d=2.30121e-11 t=39263
 re shui 	熱水	c=2 d=0.726577 t=39263
+re shui pi ru ao tou rong ye 	熱水譬如鰲頭溶液	c=-1 d=1.2818e-09 t=39263
+re shui ping ri tou rong ye 	熱水瓶日頭溶液	c=-1 d=0 t=39263
 re xiao ying 	熱效應	c=0 d=4.26674e-11 t=39263
+re xiu ke 	熱休克	c=-1 d=1.4059e-08 t=39263
 re xiu ke dan bai 	熱休克蛋白	c=1 d=0.0934807 t=39263
 re zhan kuan 	熱展寬	c=1 d=0.246597 t=39263
 ren 	人	c=25 d=2.83906 t=39263
@@ -10463,6 +10698,7 @@ ren he 	任何	c=8 d=1.23099 t=39263
 ren he gan yu cuo shi 	任何干預措施	c=1 d=2.02591e-12 t=39263
 ren he qing kuang xia 	任何情況下	c=3 d=1.32468 t=39263
 ren he shi hou 	任何時候	c=4 d=1.79758 t=39263
+ren hou 	人後	c=-1 d=9.39973e-08 t=39263
 ren jia 	人家	c=31 d=1.81138 t=39263
 ren jie 	仁杰	c=0 d=0.0965605 t=39263
 ren jie di ling 	人傑地靈	c=1 d=2.3016e-13 t=39263
@@ -10497,6 +10733,7 @@ ren min re ai 	人民熱愛	c=1 d=0.722527 t=39263
 ren min sheng huo 	人民生活	c=0 d=0.0474734 t=39263
 ren min sheng huo zhi liang 	人民生活質量	c=1 d=0.477114 t=39263
 ren min wang 	人民網	c=1 d=0.980199 t=39263
+ren min weng 	人民翁	c=-1 d=1.47417e-07 t=39263
 ren min xin lai 	人民信賴	c=1 d=0.715338 t=39263
 ren min yi yuan 	人民醫院	c=1 d=0.895376 t=39263
 ren min yong hu 	人民擁護	c=1 d=0.718924 t=39263
@@ -10583,6 +10820,7 @@ ri qi 	日期	c=2 d=0.967473 t=39263
 ri qian 	日前	c=2 d=0.917 t=39263
 ri ri 	日日	c=0 d=0.0327915 t=39263
 ri ri nian nian 	日日年年	c=1 d=0.329559 t=39263
+ri shuo 	日說	c=-1 d=3.81243e-09 t=39263
 ri wen 	日文	c=7 d=0.552593 t=39263
 ri xia 	日下	c=0 d=3.29896e-14 t=39263
 ri ye 	日夜	c=0 d=1.42561e-15 t=39263
@@ -10607,6 +10845,7 @@ rong jie wen du 	融解溫度	c=1 d=0.060205 t=39263
 rong jie wu 	溶解物	c=0 d=0.0117655 t=39263
 rong jie yang 	溶解氧	c=1 d=1.66671e-10 t=39263
 rong jie yu 	溶解於	c=2 d=0.230455 t=39263
+rong jie yu 	溶解與	c=-1 d=1.63342e-08 t=39263
 rong liang 	容量	c=1 d=0.734422 t=39263
 rong mao 	絨毛	c=0 d=0.0579842 t=39263
 rong na 	容納	c=3 d=1.24785e-05 t=39263
@@ -10626,6 +10865,7 @@ rong zi 	融資	c=1 d=0.142201 t=39263
 rou 	肉	c=2 d=0.427415 t=39263
 rou bing 	肉餅	c=1 d=0.941765 t=39263
 rou jia mo 	肉夾饃	c=1 d=7.35596e-06 t=39263
+rou kou 	肉口	c=-1 d=6.49271e-08 t=39263
 rou liu 	肉瘤	c=0 d=3.13753e-12 t=39263
 rou tang 	肉湯	c=0 d=3.20756e-07 t=39263
 rou wan 	肉丸	c=2 d=1.31796e-05 t=39263
@@ -10642,6 +10882,7 @@ ru jing 	入境	c=0 d=0.0188247 t=39263
 ru jing xu ke 	入境許可	c=1 d=0.189191 t=39263
 ru keng 	入坑	c=1 d=0.162838 t=39263
 ru kou 	入口	c=1 d=1.10326e-09 t=39263
+ru liang 	如量	c=-1 d=5.17291e-11 t=39263
 ru lin wai shi 	儒林外史	c=1 d=9.98267e-10 t=39263
 ru men 	入門	c=1 d=0.440432 t=39263
 ru mi 	乳糜	c=0 d=3.56388e-11 t=39263
@@ -10691,6 +10932,7 @@ ruo ji xing 	弱極性	c=2 d=0.00203674 t=39263
 ruo jiang 	若將	c=1 d=0.112478 t=39263
 ruo suan 	弱酸	c=0 d=0.0263329 t=39263
 sa 	仨	c=2 d=0.884515 t=39263
+sa huang na ru 	撒謊納入	c=-1 d=0 t=39263
 sa ta 	颯沓	c=0 d=2.64109e-15 t=39263
 sa ta ru liu xing 	颯沓如流星	c=1 d=2.65433e-14 t=39263
 sai 	噻	c=0 d=0.00281559 t=39263
@@ -10778,6 +11020,7 @@ san tiao xian 	三條線	c=2 d=1.28486 t=39263
 san tong 	三同	c=0 d=3.26557e-12 t=39263
 san tong shi 	三同時	c=1 d=3.28194e-11 t=39263
 san wei 	三位	c=0 d=0.026982 t=39263
+san wei jie gou 	三位結構	c=-1 d=4.09874e-08 t=39263
 san wei jie gou 	三維結構	c=2 d=0.549168 t=39263
 san wei kong jian 	三維空間	c=2 d=0.186037 t=39263
 san wei yi ti 	三位一體	c=1 d=0.965605 t=39263
@@ -10789,6 +11032,7 @@ san ya 	三亞	c=1 d=0.00442715 t=39263
 san ye cao 	三葉草	c=0 d=0.023457 t=39263
 san ye cao xing 	三葉草型	c=1 d=0.235746 t=39263
 san yuan 	三元	c=1 d=0.179964 t=39263
+san zai 	三在	c=-1 d=2.12905e-08 t=39263
 san zai 	三載	c=0 d=0.0891366 t=39263
 san zai 	散在	c=1 d=0.141564 t=39263
 san zao yu fang 	三早預防	c=1 d=1.20134e-11 t=39263
@@ -10825,6 +11069,7 @@ sha 	傻	c=1 d=0.00423234 t=39263
 sha 	啥	c=21 d=1.64177 t=39263
 sha 	殺	c=0 d=2.65433e-15 t=39263
 sha 	沙	c=0 d=1.50862e-15 t=39263
+sha da 	啥答	c=-1 d=1.14809e-07 t=39263
 sha de 	啥的	c=6 d=0.763616 t=39263
 sha dou 	啥都	c=4 d=0.559898 t=39263
 sha guan xi 	啥關係	c=1 d=0.0391639 t=39263
@@ -10933,6 +11178,7 @@ shang ren 	商人	c=1 d=0.222017 t=39263
 shang sheng 	上升	c=6 d=0.906129 t=39263
 shang shu 	上述	c=3 d=0.995012 t=39263
 shang shu 	尚書	c=1 d=0.847894 t=39263
+shang tou 	上投	c=-1 d=5.13557e-14 t=39263
 shang tou 	上頭	c=5 d=1.51092 t=39263
 shang wei 	尚未	c=4 d=0.232236 t=39263
 shang wu 	上午	c=21 d=2.72762 t=39263
@@ -10943,6 +11189,7 @@ shang xia fang 	上下方	c=1 d=0.0365162 t=39263
 shang xia wen 	上下文	c=1 d=0.307279 t=39263
 shang xia you 	上下游	c=1 d=0.755784 t=39263
 shang xian 	上限	c=1 d=0.227638 t=39263
+shang xian mu 	上羨慕	c=-1 d=4.90708e-08 t=39263
 shang xian zhi 	上限值	c=1 d=4.15136e-11 t=39263
 shang xiang mu 	上項目	c=1 d=0.32628 t=39263
 shang xin 	賞心	c=0 d=6.74483e-16 t=39263
@@ -11048,6 +11295,7 @@ she yi 	攝衣	c=0 d=1.67131e-14 t=39263
 she yin 	舌音	c=0 d=0.0900325 t=39263
 she zhi 	設置	c=21 d=3.39956 t=39263
 she zhi hao 	設置好	c=1 d=0.597501 t=39263
+she zi 	社子	c=-1 d=1.43777e-07 t=39263
 shen 	伸	c=1 d=0.147342 t=39263
 shen 	深	c=0 d=0.102479 t=39263
 shen 	甚	c=0 d=8.46712e-15 t=39263
@@ -11074,6 +11322,7 @@ shen hua 	深化	c=11 d=2.54314 t=39263
 shen hua chuang xin qu dong 	深化創新驅動	c=1 d=0.774916 t=39263
 shen hua gai ge 	深化改革	c=0 d=0.0379083 t=39263
 shen hua ke ji ti zhi gai ge 	深化科技體制改革	c=1 d=0.481909 t=39263
+shen jing 	神京	c=-1 d=8.42204e-10 t=39263
 shen jing 	神經	c=2 d=0.0690956 t=39263
 shen jing jie gan zhi 	神經節苷脂	c=1 d=0.0380064 t=39263
 shen jing tai 	神經肽	c=1 d=0.00559994 t=39263
@@ -11133,6 +11382,7 @@ shen zhi shi 	甚至是	c=1 d=0.774916 t=39263
 shen zhou 	神州	c=0 d=0.0287941 t=39263
 shen zhou 	神舟	c=0 d=0.0286505 t=39263
 shen zhou da di 	神州大地	c=1 d=0.289384 t=39263
+shen zhou da di 	神舟大地	c=-1 d=4.3522e-08 t=39263
 sheng 	剩	c=1 d=0.767206 t=39263
 sheng 	勝	c=1 d=0.610642 t=39263
 sheng 	昇	c=0 d=0.164715 t=39263
@@ -11168,6 +11418,7 @@ sheng fa 	生髮	c=0 d=0.0140858 t=39263
 sheng fa zhong xin 	生髮中心	c=2 d=0.141564 t=39263
 sheng gao 	升高	c=3 d=0.216536 t=39263
 sheng hai 	生孩	c=0 d=0.0481909 t=39263
+sheng hai er 	勝孩兒	c=-1 d=7.284e-08 t=39263
 sheng hai er 	生孩兒	c=4 d=2.65247 t=39263
 sheng hua 	生化	c=1 d=0.0175097 t=39263
 sheng hua xu yang liang 	生化需氧量	c=1 d=1.68346e-10 t=39263
@@ -11261,6 +11512,7 @@ sheng wu xue xiao ying 	生物學效應	c=2 d=0.717675 t=39263
 sheng wu xue yi yi 	生物學意義	c=1 d=0.0256042 t=39263
 sheng wu yang hua 	生物氧化	c=3 d=2.10828e-06 t=39263
 sheng wu yi xue 	生物醫學	c=2 d=1 t=39263
+sheng wu yi yu 	生物易於	c=-1 d=1.50395e-07 t=39263
 sheng wu ying da tiao jie ji 	生物應答調節劑	c=1 d=0.460704 t=39263
 sheng wu zhuan hua 	生物轉化	c=5 d=0.000104197 t=39263
 sheng xia 	剩下	c=0 d=0.0625002 t=39263
@@ -11306,10 +11558,12 @@ shi an 	是按	c=1 d=0.946485 t=39263
 shi ba 	十八	c=0 d=0.0677057 t=39263
 shi ba 	是吧	c=2 d=0.980199 t=39263
 shi ba da 	十八大	c=4 d=0.884856 t=39263
+shi ba da 	是八大	c=-1 d=2.18295e-08 t=39263
 shi ba jie 	十八屆	c=4 d=0.759512 t=39263
 shi ba jie san zhong quan hui 	十八屆三中全會	c=1 d=0.108609 t=39263
 shi ba wu yue yan chi cheng 	勢拔五嶽掩赤城	c=1 d=1.89875e-14 t=39263
 shi bai 	失敗	c=1 d=0.000515692 t=39263
+shi bei zhe zhu 	是被遮住	c=-1 d=0 t=39263
 shi bie 	識別	c=22 d=2.01557 t=39263
 shi bie biao wei shou ti 	識別表位受體	c=1 d=0.106459 t=39263
 shi bie jie duan 	識別階段	c=1 d=0.00033379 t=39263
@@ -11502,6 +11756,8 @@ shi shi chu chu 	時時處處	c=1 d=1.85508e-05 t=39263
 shi shi fang an 	實施方案	c=1 d=0.535261 t=39263
 shi shi le 	實施了	c=1 d=0.697676 t=39263
 shi shi piao fang 	實時票房	c=11 d=5.07009 t=39263
+shi shi piao feng 	實施飄風	c=-1 d=1.51566e-10 t=39263
+shi shi qiu shi 	事實求是	c=-1 d=0 t=39263
 shi shi qiu shi 	實事求是	c=2 d=0.800024 t=39263
 shi shi shang 	事實上	c=3 d=0.278906 t=39263
 shi shi xing 	適時性	c=1 d=0.217621 t=39263
@@ -11525,6 +11781,7 @@ shi wai 	室外	c=1 d=0.00238156 t=39263
 shi wei 	市委	c=1 d=0.0273898 t=39263
 shi wei 	視爲	c=1 d=0.0272532 t=39263
 shi wei dang xiao 	市委黨校	c=2 d=0.551921 t=39263
+shi wei dang xiu 	視爲擋修	c=-1 d=4.13994e-08 t=39263
 shi wei jiu yue 	時維九月	c=1 d=2.56923e-13 t=39263
 shi wei le 	是爲了	c=1 d=0.0234005 t=39263
 shi wen 	試問	c=1 d=0.323033 t=39263
@@ -11603,6 +11860,7 @@ shi ying xing mian yi 	適應性免疫	c=4 d=0.284289 t=39263
 shi ying xing mian yi ying da 	適應性免疫應答	c=2 d=0.162026 t=39263
 shi ying xing mian yi ying da xi bao 	適應性免疫應答細胞	c=1 d=0.726149 t=39263
 shi ying xing tiao jie 	適應性調節	c=1 d=0.215456 t=39263
+shi ying xing tiao xie 	適應性調諧	c=-1 d=3.24035e-08 t=39263
 shi ying xu zhi you shu 	識盈虛之有數	c=1 d=3.29896e-13 t=39263
 shi yong 	使用	c=63 d=5.6559 t=39263
 shi yong 	實用	c=1 d=0.951229 t=39263
@@ -11619,6 +11877,7 @@ shi yue 	十月	c=0 d=1.396e-14 t=39263
 shi yun bu ji 	時運不濟	c=2 d=7.02345e-13 t=39263
 shi zai 	實在	c=2 d=0.644036 t=39263
 shi zai 	是在	c=6 d=0.793947 t=39263
+shi zan 	詩讚	c=-1 d=1.73531e-14 t=39263
 shi zhe 	試着	c=2 d=0.909373 t=39263
 shi zhe ru si 	逝者如斯	c=1 d=1.17775e-13 t=39263
 shi zhi 	使之	c=2 d=1.15558 t=39263
@@ -11676,6 +11935,7 @@ shou ji 	收集	c=3 d=0.000838858 t=39263
 shou ji di tu 	手機地圖	c=1 d=0.241714 t=39263
 shou ji wei xin 	手機微信	c=1 d=0.179964 t=39263
 shou kuai 	手快	c=1 d=0.118245 t=39263
+shou kuan ren 	收款人	c=-1 d=0 t=39263
 shou li 	受理	c=2 d=0.193013 t=39263
 shou li 	手裏	c=1 d=0.19205 t=39263
 shou lou 	售樓	c=2 d=0.698092 t=39263
@@ -11715,6 +11975,7 @@ shu 	熟	c=0 d=0.0400517 t=39263
 shu 	術	c=0 d=0.0960789 t=39263
 shu ben 	書本	c=3 d=0.978925 t=39263
 shu biao 	鼠標	c=1 d=0.995012 t=39263
+shu bu shi 	數不是	c=-1 d=1.26883e-07 t=39263
 shu bu shu 	熟不熟	c=1 d=0.402524 t=39263
 shu chu 	輸出	c=5 d=1.34933 t=39263
 shu cuo 	輸錯	c=1 d=0.618783 t=39263
@@ -11750,6 +12011,7 @@ shu mu 	數目	c=4 d=0.70822 t=39263
 shu pai 	豎排	c=2 d=1.97045 t=39263
 shu qian 	數千	c=1 d=0.774916 t=39263
 shu qian 	書籤	c=1 d=0.778801 t=39263
+shu qu 	數去	c=-1 d=1.5383e-08 t=39263
 shu ri 	數日	c=1 d=0.45612 t=39263
 shu ru 	輸入	c=22 d=3.00031 t=39263
 shu ru fa 	輸入法	c=14 d=3.8804 t=39263
@@ -11810,6 +12072,7 @@ shuang bin 	霜鬢	c=0 d=1.54681e-15 t=39263
 shuang ce 	雙側	c=1 d=0.0544757 t=39263
 shuang ce jian yan 	雙側檢驗	c=1 d=4.69276e-12 t=39263
 shuang ceng 	雙層	c=0 d=0.00254765 t=39263
+shuang chang 	爽暢	c=-1 d=1.09209e-07 t=39263
 shuang che dao 	雙車道	c=10 d=0.127899 t=39263
 shuang chong 	雙重	c=1 d=0.588605 t=39263
 shuang chuang 	雙創	c=7 d=0.958576 t=39263
@@ -11824,6 +12087,7 @@ shuang lu 	霜露	c=0 d=1.42419e-14 t=39263
 shuang lu ji jiang 	霜露既降	c=1 d=1.43134e-13 t=39263
 shuang luo xuan 	雙螺旋	c=11 d=4.48718 t=39263
 shuang luo xuan jie gou 	雙螺旋結構	c=1 d=0.310158 t=39263
+shuang luo xuan zhong 	雙螺旋中	c=-1 d=4.69116e-08 t=39263
 shuang mang 	雙盲	c=1 d=4.98295e-12 t=39263
 shuang qu 	雙曲	c=2 d=1.10159 t=39263
 shuang qu xian 	雙曲線	c=0 d=0.00578443 t=39263
@@ -11831,6 +12095,7 @@ shuang qu xian xing 	雙曲線型	c=2 d=0.165463 t=39263
 shuang que bai yu chi 	雙闕百餘尺	c=1 d=7.71576e-09 t=39263
 shuang shi 	雙十	c=0 d=0.0084163 t=39263
 shuang shi yi 	雙十一	c=1 d=0.0845849 t=39263
+shuang shi yi 	雙是以	c=-1 d=1.27211e-08 t=39263
 shuang sui ji 	雙隨機	c=1 d=0.50409 t=39263
 shuang suo niao 	雙縮脲	c=1 d=0.261846 t=39263
 shuang suo niao fan ying 	雙縮脲反應	c=1 d=0.161218 t=39263
@@ -11867,6 +12132,7 @@ shui hao 	水耗	c=1 d=0.722527 t=39263
 shui he 	水和	c=0 d=0.0810584 t=39263
 shui he dian jie zhi 	水和電解質	c=1 d=0.814647 t=39263
 shui hu zhuan 	水滸傳	c=1 d=0.348192 t=39263
+shui hua 	水化	c=-1 d=8.78694e-10 t=39263
 shui hua 	水華	c=1 d=1.76094e-10 t=39263
 shui hua mo 	水化膜	c=2 d=0.121718 t=39263
 shui jia jin ye pian zhou zi 	誰家今夜扁舟子	c=1 d=4.28959e-14 t=39263
@@ -11934,15 +12200,18 @@ shun ying shi dai yao qiu 	順應時代要求	c=1 d=0.408608 t=39263
 shun ying zi ran 	順應自然	c=1 d=0.499074 t=39263
 shuo 	說	c=34 d=1.79032 t=39263
 shuo bu ding 	說不定	c=1 d=0.208045 t=39263
+shuo bu dong 	說不動	c=-1 d=3.1289e-08 t=39263
 shuo dao 	說到	c=1 d=0.255381 t=39263
 shuo dao 	說道	c=1 d=0.353455 t=39263
 shuo dao zuo dao 	說到做到	c=1 d=0.463013 t=39263
 shuo de 	說的	c=6 d=1.79767 t=39263
+shuo duo 	勺鐸	c=-2 d=1.83982e-08 t=39263
 shuo duo 	說多	c=2 d=0.188105 t=39263
 shuo duo le 	說多了	c=1 d=0.116484 t=39263
 shuo fa 	說法	c=3 d=0.487703 t=39263
 shuo fu 	說服	c=1 d=0.0865022 t=39263
 shuo fu li 	說服力	c=1 d=0.869358 t=39263
+shuo fu li 	說福利	c=-1 d=1.30747e-07 t=39263
 shuo ge 	說個	c=1 d=0.231078 t=39263
 shuo guo 	說過	c=5 d=0.929173 t=39263
 shuo hao 	說好	c=1 d=0.0766938 t=39263
@@ -12016,7 +12285,9 @@ si shi 	四十	c=1 d=0.0850088 t=39263
 si shi 	四是	c=5 d=0.744955 t=39263
 si shi 	死士	c=1 d=0.873716 t=39263
 si shi er ci 	四十二次	c=1 d=0.913931 t=39263
+si sun 	絲孫	c=-1 d=2.00507e-08 t=39263
 si te la 	斯特拉	c=0 d=0.0336216 t=39263
+si ti 	四體	c=-1 d=9.3062e-08 t=39263
 si wa 	絲襪	c=1 d=0.337902 t=39263
 si wan ba qian 	四萬八千	c=0 d=4.99214e-15 t=39263
 si wan ba qian zhang 	四萬八千丈	c=1 d=1.91782e-14 t=39263
@@ -12027,6 +12298,7 @@ si wang yu sheng cun pin lv 	死亡與生存頻率	c=1 d=1.22265e-12 t=39263
 si wei 	思維	c=1 d=0.826959 t=39263
 si wei 	飼餵	c=1 d=0.647265 t=39263
 si wu 	四五	c=2 d=0.932394 t=39263
+si wu e 	絲惡惡	c=-1 d=1.15384e-07 t=39263
 si xia 	私下	c=1 d=0.683861 t=39263
 si xiang 	思想	c=2 d=0.456147 t=39263
 si xiang guan nian 	思想觀念	c=1 d=0.321422 t=39263
@@ -12247,11 +12519,14 @@ ta de 	她的	c=3 d=1.16106 t=39263
 ta de 	它的	c=3 d=1.12379 t=39263
 ta de ren 	他的人	c=1 d=0.955997 t=39263
 ta die 	他爹	c=1 d=0.00775048 t=39263
+ta die 	他跌	c=-1 d=1.16564e-09 t=39263
 ta er da ye 	他二大爺	c=3 d=1.0472 t=39263
 ta hai 	他還	c=2 d=1.31182 t=39263
 ta ji ke si tan 	塔吉克斯坦	c=1 d=0.318224 t=39263
 ta jia 	他家	c=1 d=0.0313486 t=39263
+ta lai 	它來	c=-1 d=6.47705e-09 t=39263
 ta lia 	他倆	c=4 d=0.701413 t=39263
+ta ma 	他媽	c=-2 d=4.59827e-08 t=39263
 ta men 	他們	c=24 d=2.40585 t=39263
 ta men 	它們	c=3 d=0.286484 t=39263
 ta ri 	他日	c=0 d=4.21482e-14 t=39263
@@ -12339,6 +12614,7 @@ tang 	湯	c=1 d=0.557106 t=39263
 tang 	糖	c=17 d=1.19589 t=39263
 tang 	躺	c=0 d=0.0315058 t=39263
 tang an ju tang 	糖胺聚糖	c=3 d=1.38486 t=39263
+tang dai bai 	糖戴白	c=-1 d=3.28932e-08 t=39263
 tang dai xie 	糖代謝	c=2 d=1.03951e-06 t=39263
 tang dan bai 	糖蛋白	c=27 d=8.96842 t=39263
 tang du 	淌度	c=1 d=0.190139 t=39263
@@ -12346,6 +12622,7 @@ tang fu he 	糖複合	c=1 d=9.2136e-08 t=39263
 tang fu he wu 	糖複合物	c=1 d=0.151072 t=39263
 tang gan 	糖苷	c=0 d=0.0128176 t=39263
 tang gan jian 	糖苷鍵	c=2 d=0.0645703 t=39263
+tang gan jian 	糖苷鹼	c=-1 d=9.71106e-09 t=39263
 tang huan 	糖環	c=1 d=0.0731678 t=39263
 tang ji 	糖基	c=2 d=0.167185 t=39263
 tang ji hua 	湯繼華	c=1 d=2.79526e-05 t=39263
@@ -12377,6 +12654,7 @@ te bie 	特別	c=4 d=0.867765 t=39263
 te bie shi 	特別是	c=5 d=0.923116 t=39263
 te bie xing zheng qu 	特別行政區	c=1 d=0.433874 t=39263
 te bie zhi ci 	特別致辭	c=1 d=0.241714 t=39263
+te dan 	特但	c=-1 d=3.07488e-09 t=39263
 te dian 	特點	c=27 d=2.04473 t=39263
 te ding 	特定	c=21 d=1.77046 t=39263
 te ding bu wei 	特定部位	c=1 d=0.0948935 t=39263
@@ -12386,19 +12664,23 @@ te ding qu yu 	特定區域	c=1 d=0.0228227 t=39263
 te kun 	特困	c=0 d=0.0687289 t=39263
 te kun di qu 	特困地區	c=1 d=0.690734 t=39263
 te lang pu 	特朗普	c=2 d=0.00256477 t=39263
+te qian 	特遣	c=-1 d=3.1538e-13 t=39263
 te se 	特色	c=3 d=0.0696021 t=39263
 te shu 	特殊	c=10 d=0.508011 t=39263
 te shu bao lu ren qun 	特殊暴露人羣	c=1 d=3.0223e-12 t=39263
 te shu gong neng 	特殊功能	c=2 d=0.138532 t=39263
 te shu ji neng 	特殊技能	c=1 d=0.932394 t=39263
+te shu ji neng 	特殊機能	c=-1 d=1.40227e-07 t=39263
 te shu zuo yong 	特殊作用	c=1 d=0.00410726 t=39263
 te xing 	特性	c=7 d=1.05658 t=39263
+te xing bi biao 	特性比標	c=-1 d=3.6902e-08 t=39263
 te xing bi jiao 	特性比較	c=2 d=0.350239 t=39263
 te yi 	特異	c=3 d=0.410684 t=39263
 te yi du 	特異度	c=1 d=5.96567e-12 t=39263
 te yi wei xian du 	特異危險度	c=1 d=3.51143e-12 t=39263
 te yi xing 	特異性	c=19 d=1.33157 t=39263
 te yi xing biao zhi 	特異性標誌	c=1 d=0.00358858 t=39263
+te yi xing jie 	特異性解	c=-1 d=1.09492e-08 t=39263
 te yi xing jie he 	特異性結合	c=2 d=0.138349 t=39263
 te yi xing kang ti 	特異性抗體	c=1 d=0.463013 t=39263
 te yi xing kang yuan shi bie shou ti 	特異性抗原識別受體	c=1 d=0.000227127 t=39263
@@ -12425,6 +12707,7 @@ ti 	題	c=0 d=0.0937067 t=39263
 ti 	體	c=1 d=0.191343 t=39263
 ti cheng 	提呈	c=11 d=3.09461 t=39263
 ti cheng 	提成	c=0 d=0.000344787 t=39263
+ti cheng gang yuan 	提呈港元	c=-1 d=1.78294e-09 t=39263
 ti cheng kang yuan 	提呈抗原	c=2 d=0.323556 t=39263
 ti cheng neng li 	提呈能力	c=1 d=0.847894 t=39263
 ti cheng tu jing 	提呈途徑	c=1 d=0.955997 t=39263
@@ -12550,6 +12833,7 @@ tiao 	挑	c=0 d=1.12245e-07 t=39263
 tiao 	條	c=2 d=0.609571 t=39263
 tiao 	眺	c=1 d=0.136695 t=39263
 tiao 	調	c=1 d=0.612626 t=39263
+tiao cha 	眺差	c=-1 d=2.51964e-19 t=39263
 tiao chu 	挑出	c=1 d=0.00326335 t=39263
 tiao chu 	跳出	c=2 d=0.375311 t=39263
 tiao di 	迢遞	c=0 d=1.24134e-15 t=39263
@@ -12597,6 +12881,7 @@ ting bu jian 	聽不見	c=1 d=0.17552 t=39263
 ting dao 	聽到	c=0 d=0.0431711 t=39263
 ting dao zhe li 	聽到這裏	c=1 d=0.433874 t=39263
 ting dong 	聽懂	c=0 d=0.0501576 t=39263
+ting dong le 	聽動了	c=-1 d=7.58127e-08 t=39263
 ting dong le 	聽懂了	c=1 d=0.50409 t=39263
 ting fang 	停放	c=1 d=0.179066 t=39263
 ting guo 	聽過	c=3 d=0.47385 t=39263
@@ -12855,6 +13140,7 @@ tuo shan hua jie 	妥善化解	c=1 d=0.609571 t=39263
 tuo shan jie jue 	妥善解決	c=1 d=0.00154923 t=39263
 tuo shui 	脫水	c=1 d=0.00377257 t=39263
 tuo suo ji 	脫羧基	c=1 d=1.20987e-06 t=39263
+tuo suo suan 	脫羧酸	c=-1 d=1.81958e-13 t=39263
 tuo xiu shi fan ying 	脫修飾反應	c=1 d=0.0742736 t=39263
 tuo yan 	拖延	c=0 d=0.0960789 t=39263
 tuo yan che pi 	拖延扯皮	c=1 d=0.965605 t=39263
@@ -12921,6 +13207,7 @@ wai yuan 	外援	c=0 d=0.0045502 t=39263
 wai yuan 	外源	c=1 d=0.999181 t=39263
 wai yuan xing 	外源性	c=1 d=0.818731 t=39263
 wai yuan xing kang yuan 	外源性抗原	c=2 d=0.789763 t=39263
+wai yuan yin su 	外援因素	c=-1 d=6.91204e-09 t=39263
 wai yuan yin su 	外源因素	c=1 d=0.0459593 t=39263
 wai zhao she 	外照射	c=1 d=2.91082e-11 t=39263
 wai zhou 	外周	c=3 d=0.724515 t=39263
@@ -12942,6 +13229,7 @@ wan 	萬	c=3 d=0.715338 t=39263
 wan bei 	萬倍	c=1 d=0.247833 t=39263
 wan bu wan 	晚不晚	c=1 d=0.66365 t=39263
 wan bu zhuan 	玩不轉	c=1 d=0.00278085 t=39263
+wan chan 	婉嬋	c=-1 d=4.29996e-13 t=39263
 wan cheng 	完成	c=15 d=1.27517 t=39263
 wan cheng mu biao 	完成目標	c=1 d=0.852144 t=39263
 wan da 	萬達	c=1 d=0.0348593 t=39263
@@ -13100,6 +13388,7 @@ wei hu gao zai 	危乎高哉	c=1 d=2.96296e-14 t=39263
 wei hu guo jia zhu quan 	維護國家主權	c=1 d=0.625002 t=39263
 wei hu shi jie he ping 	維護世界和平	c=1 d=0.83527 t=39263
 wei hu zhe 	維護者	c=1 d=0.822835 t=39263
+wei hu zhe 	維護這	c=-1 d=1.2375e-07 t=39263
 wei huan jing 	微環境	c=2 d=0.562705 t=39263
 wei huo 	微火	c=0 d=9.61934e-16 t=39263
 wei ji 	維基	c=1 d=0.414783 t=39263
@@ -13212,6 +13501,7 @@ wen 	穩	c=1 d=0.727916 t=39263
 wen 	聞	c=0 d=1.24128e-14 t=39263
 wen ben 	文本	c=3 d=0.932394 t=39263
 wen bo lu 	文博路	c=1 d=0.282239 t=39263
+wen cheng 	文成	c=-1 d=1.16544e-07 t=39263
 wen da 	問答	c=0 d=0.0771052 t=39263
 wen dang 	文檔	c=9 d=1.0322 t=39263
 wen de 	問得	c=1 d=0.494109 t=39263
@@ -13249,6 +13539,8 @@ wen shi du 	溫溼度	c=1 d=0.83527 t=39263
 wen tai 	穩態	c=0 d=1.24028e-05 t=39263
 wen tai ping heng 	穩態平衡	c=1 d=0.00012465 t=39263
 wen tai zao sheng 	穩態噪聲	c=1 d=2.72848e-11 t=39263
+wen te 	問特	c=-1 d=5.73078e-10 t=39263
+wen te yi 	問特異	c=-1 d=1.2849e-08 t=39263
 wen ti 	問題	c=85 d=4.18304 t=39263
 wen ti he zheng duan 	問題和爭端	c=1 d=0.120032 t=39263
 wen ti yi 	問題一	c=2 d=3.23607e-05 t=39263
@@ -13294,6 +13586,7 @@ wo gan jue 	我感覺	c=1 d=0.0417941 t=39263
 wo gang 	我剛	c=3 d=0.458406 t=39263
 wo gang xiang qi lai 	我剛想起來	c=1 d=0.364219 t=39263
 wo gang ye 	我剛也	c=1 d=9.46969e-07 t=39263
+wo ge 	我哥	c=-1 d=1.50395e-07 t=39263
 wo gei ni 	我給你	c=1 d=0.000357992 t=39263
 wo gen 	我跟	c=2 d=0.0112206 t=39263
 wo gen ni 	我跟你	c=1 d=0.0393602 t=39263
@@ -13337,6 +13630,7 @@ wo shi shi 	我試試	c=5 d=0.860708 t=39263
 wo shi shuo 	我是說	c=3 d=0.273898 t=39263
 wo shi zhi 	我是指	c=1 d=0.438235 t=39263
 wo shuo 	我說	c=5 d=0.840659 t=39263
+wo shuo de shi 	我說的事	c=-1 d=5.41009e-09 t=39263
 wo shuo de shi 	我說的是	c=1 d=0.0359725 t=39263
 wo tong 	我同	c=2 d=0.00180023 t=39263
 wo wang le 	我忘了	c=1 d=0.621885 t=39263
@@ -13350,6 +13644,7 @@ wo xiang wen 	我想問	c=1 d=0.640824 t=39263
 wo xiang zhe 	我想着	c=1 d=0.0261214 t=39263
 wo xiao 	我校	c=1 d=0.00222055 t=39263
 wo xin 	我心	c=0 d=6.02665e-15 t=39263
+wo xu yao 	我需要	c=-1 d=4.10935e-09 t=39263
 wo yan 	沃衍	c=0 d=0.0024234 t=39263
 wo yao 	我要	c=2 d=1.01161e-28 t=39263
 wo ye 	我也	c=12 d=1.34517 t=39263
@@ -13474,6 +13769,7 @@ wu li 	無理	c=1 d=0.193013 t=39263
 wu li 	物理	c=3 d=0.596721 t=39263
 wu li gan rao 	物理干擾	c=1 d=0.427415 t=39263
 wu li hua xue 	物理化學	c=1 d=0.000488095 t=39263
+wu li xing zhuang 	物理形狀	c=-1 d=1.14236e-07 t=39263
 wu li xing zhuang 	物理性狀	c=1 d=0.759572 t=39263
 wu li xue 	物理學	c=0 d=7.03347e-09 t=39263
 wu li zhuang tai 	物理狀態	c=1 d=0.170333 t=39263
@@ -13604,6 +13900,7 @@ xi bao mian yi ying da 	細胞免疫應答	c=1 d=0.00369786 t=39263
 xi bao mo 	細胞膜	c=2 d=0.330587 t=39263
 xi bao mo biao mian 	細胞膜表面	c=1 d=0.279431 t=39263
 xi bao nei 	細胞內	c=6 d=0.648886 t=39263
+xi bao nei da 	細胞內大	c=-1 d=4.80992e-08 t=39263
 xi bao se su 	細胞色素	c=0 d=2.9763e-09 t=39263
 xi bao sheng zhang 	細胞生長	c=1 d=0.657047 t=39263
 xi bao shou ti 	細胞受體	c=1 d=0.467666 t=39263
@@ -13612,6 +13909,7 @@ xi bao wai 	細胞外	c=2 d=0.66153 t=39263
 xi bao wai ji zhi 	細胞外基質	c=6 d=0.607575 t=39263
 xi bao wai jian zhi 	細胞外間質	c=1 d=0.222017 t=39263
 xi bao xin hao 	細胞信號	c=2 d=0.0759944 t=39263
+xi bao xin hao chuan dao 	細胞信號傳導	c=1 d=2.00058e-11 t=39263
 xi bao xin hao zhuan dao 	細胞信號轉導	c=3 d=2.59448 t=39263
 xi bao yin zi 	細胞因子	c=13 d=1.14195 t=39263
 xi bao yin zi shou ti 	細胞因子受體	c=1 d=0.722527 t=39263
@@ -13663,6 +13961,7 @@ xi lie 	系列	c=3 d=0.438657 t=39263
 xi lie shi yan 	系列試驗	c=1 d=6.69273e-12 t=39263
 xi lu 	西路	c=0 d=0.0299692 t=39263
 xi men 	西門	c=1 d=0.045275 t=39263
+xi miao 	系秒	c=-1 d=6.75769e-08 t=39263
 xi nan 	西南	c=0 d=6.41588e-16 t=39263
 xi ni 	細膩	c=1 d=0.499074 t=39263
 xi qu 	吸取	c=1 d=0.000133021 t=39263
@@ -13677,6 +13976,7 @@ xi shou 	吸收	c=13 d=1.82219 t=39263
 xi shou cheng du 	吸收程度	c=1 d=0.10435 t=39263
 xi shou chi 	吸收池	c=1 d=0.71177 t=39263
 xi shou feng 	吸收峯	c=1 d=0.00305798 t=39263
+xi shou guang du zhi 	吸收光度值	c=-1 d=2.2049e-08 t=39263
 xi shou ji liang 	吸收劑量	c=1 d=2.83895e-11 t=39263
 xi shou pu xian 	吸收譜線	c=1 d=0.138069 t=39263
 xi shu 	係數	c=1 d=0.23997 t=39263
@@ -13711,6 +14011,7 @@ xi you 	西遊	c=0 d=3.32408e-15 t=39263
 xi you chang chu 	隰有萇楚	c=1 d=0.932394 t=39263
 xi you ji 	西遊記	c=1 d=0.860708 t=39263
 xi yu 	細雨	c=0 d=0.0382893 t=39263
+xi yu bu 	細雨不	c=-1 d=5.81639e-08 t=39263
 xi yuan 	西元	c=1 d=0.327915 t=39263
 xi zao 	洗澡	c=6 d=1.52237 t=39263
 xi zhan geng zhuo 	洗盞更酌	c=1 d=1.34797e-13 t=39263
@@ -13796,6 +14097,7 @@ xian dai han yu ci dian 	現代漢語詞典	c=1 d=0.329559 t=39263
 xian dai hua 	現代化	c=2 d=0.706051 t=39263
 xian dai hua jian she 	現代化建設	c=1 d=0.52705 t=39263
 xian dai mian yi xue 	現代免疫學	c=1 d=0.0317456 t=39263
+xian dai wen 	現代問	c=-1 d=3.1625e-16 t=39263
 xian dai wen 	現代文	c=3 d=0.0110536 t=39263
 xian dan 	鹹淡	c=1 d=3.06642e-06 t=39263
 xian de 	顯得	c=1 d=0.0149208 t=39263
@@ -13900,6 +14202,7 @@ xian you da 	現有大	c=1 d=0.479505 t=39263
 xian yuan wu ran 	線源污染	c=1 d=1.65012e-10 t=39263
 xian yun tan ying ri you you 	閒雲潭影日悠悠	c=1 d=4.89692e-13 t=39263
 xian zai 	現在	c=45 d=3.71446 t=39263
+xian zai kuai 	現在快	c=-1 d=6.20702e-08 t=39263
 xian zhe 	閒着	c=2 d=1.80067 t=39263
 xian zheng fu 	縣政府	c=1 d=0.759572 t=39263
 xian zhi 	閒置	c=0 d=0.00368832 t=39263
@@ -13984,6 +14287,7 @@ xiang guan zheng ce 	相關政策	c=0 d=0.029523 t=39263
 xiang guan zheng ce luo shi 	相關政策落實	c=1 d=0.29671 t=39263
 xiang guo 	想過	c=1 d=0.446758 t=39263
 xiang guo zhi hou 	想過之後	c=1 d=0.524663 t=39263
+xiang hai 	向海	c=-1 d=2.18295e-08 t=39263
 xiang hao 	向好	c=1 d=0.106837 t=39263
 xiang hao 	想好	c=1 d=0.0114473 t=39263
 xiang hu 	相互	c=10 d=0.956677 t=39263
@@ -13993,6 +14297,7 @@ xiang hu lin jin 	相互臨近	c=1 d=0.474734 t=39263
 xiang hu tiao jie 	相互調節	c=1 d=5.49092e-07 t=39263
 xiang hu xie tong 	相互協同	c=1 d=0.0275983 t=39263
 xiang hu zun zhong 	相互尊重	c=1 d=0.00148848 t=39263
+xiang hu zuo 	相互做	c=-1 d=6.2694e-08 t=39263
 xiang hu zuo yong 	相互作用	c=7 d=0.50367 t=39263
 xiang ji 	相機	c=2 d=0.34958 t=39263
 xiang ji 	相繼	c=2 d=0.348245 t=39263
@@ -14051,6 +14356,7 @@ xiang si er sheng 	向死而生	c=1 d=0.40657 t=39263
 xiang si xiang rong 	相似相溶	c=1 d=0.00273944 t=39263
 xiang sui 	相隨	c=0 d=2.36598e-15 t=39263
 xiang tian 	向天	c=0 d=1.87985e-15 t=39263
+xiang ting 	想聽	c=-1 d=3.2566e-08 t=39263
 xiang tong 	相同	c=14 d=1.29459 t=39263
 xiang tong de 	相同的	c=1 d=0.0081887 t=39263
 xiang tong hua xue fan ying 	相同化學反應	c=1 d=0.0297478 t=39263
@@ -14171,6 +14477,7 @@ xiao ying 	效應	c=12 d=0.762627 t=39263
 xiao ying biao zhi 	效應標誌	c=1 d=3.60902e-11 t=39263
 xiao ying de gu ji 	效應的估計	c=1 d=3.37373e-12 t=39263
 xiao ying fen zi 	效應分子	c=2 d=0.000825767 t=39263
+xiao ying gong deng 	效應宮燈	c=-1 d=3.6902e-08 t=39263
 xiao ying gong neng 	效應功能	c=2 d=0.373461 t=39263
 xiao ying ji 	效應劑	c=1 d=0.336216 t=39263
 xiao ying ji zhi 	效應機制	c=1 d=0.402524 t=39263
@@ -14297,6 +14604,7 @@ xin hua she 	新華社	c=4 d=1.05618 t=39263
 xin hua wang 	新華網	c=1 d=0.985112 t=39263
 xin hua zi dian 	新華字典	c=1 d=0.084163 t=39263
 xin hun 	新婚	c=0 d=1.04674e-09 t=39263
+xin ji 	新機	c=-1 d=4.42953e-08 t=39263
 xin ji shu 	新技術	c=1 d=0.960789 t=39263
 xin jian 	新建	c=2 d=0.398808 t=39263
 xin jiang 	新疆	c=0 d=0.0438235 t=39263
@@ -14357,6 +14665,7 @@ xin xi tong xin ye 	信息通信業	c=1 d=0.324652 t=39263
 xin xi wang luo 	信息網絡	c=1 d=0.551563 t=39263
 xin xi xi tong 	信息系統	c=0 d=2.76218e-13 t=39263
 xin xi xiao fei 	信息消費	c=1 d=0.343009 t=39263
+xin xiao 	鋅小	c=-1 d=1.84677e-11 t=39263
 xin xiao qu 	新校區	c=1 d=0.941765 t=39263
 xin xin 	信心	c=1 d=0.514274 t=39263
 xin xing 	新型	c=0 d=0.0774916 t=39263
@@ -14574,6 +14883,7 @@ xuan yi 	選一	c=1 d=2.38854e-08 t=39263
 xuan yuan 	軒轅	c=1 d=0.99005 t=39263
 xuan ze 	選擇	c=19 d=2.17854 t=39263
 xuan ze chu 	選擇出	c=1 d=0.000464291 t=39263
+xuan ze chu 	選擇除	c=-1 d=6.9827e-11 t=39263
 xuan ze hao 	選擇好	c=1 d=0.190139 t=39263
 xuan ze pian yi 	選擇偏倚	c=3 d=1.63614e-11 t=39263
 xuan ze su 	選擇素	c=1 d=0.0544757 t=39263
@@ -14613,6 +14923,7 @@ xue le 	學了	c=1 d=0.371577 t=39263
 xue li 	學歷	c=0 d=0.0571209 t=39263
 xue li xue wei 	學歷學位	c=1 d=0.574072 t=39263
 xue mai 	血脈	c=1 d=0.410656 t=39263
+xue meng ke 	學孟軻	c=-1 d=6.74253e-11 t=39263
 xue nian 	學年	c=1 d=0.733447 t=39263
 xue pai 	學派	c=3 d=0.521655 t=39263
 xue qi 	學期	c=1 d=1.613e-07 t=39263
@@ -14723,6 +15034,7 @@ yan jing 	眼睛	c=1 d=1 t=39263
 yan jiu 	研究	c=21 d=2.15524 t=39263
 yan jiu dui xiang 	研究對象	c=1 d=8.72062e-08 t=39263
 yan jiu fang fa 	研究方法	c=2 d=0.683861 t=39263
+yan jiu gong ti 	研究供體	c=-1 d=7.60219e-11 t=39263
 yan jiu jin zhan 	研究進展	c=1 d=0.697676 t=39263
 yan jiu le 	研究了	c=1 d=0.412714 t=39263
 yan jiu ren qun 	研究人羣	c=1 d=2.97732e-12 t=39263
@@ -14742,6 +15054,7 @@ yan ru yu 	顏如玉	c=0 d=9.96198e-16 t=39263
 yan se 	顏色	c=7 d=1.24973e-05 t=39263
 yan she 	衍射	c=1 d=0.0695994 t=39263
 yan sheng 	衍生	c=6 d=0.0590623 t=39263
+yan sheng ban 	衍生伴	c=-1 d=1.48924e-09 t=39263
 yan sheng ban 	衍生版	c=1 d=0.00990218 t=39263
 yan sheng hua 	衍生化	c=1 d=0.290835 t=39263
 yan sheng wu 	衍生物	c=1 d=0.316637 t=39263
@@ -14764,6 +15077,7 @@ yan yan hong ri sheng fu sang 	炎炎紅日昇扶桑	c=2 d=0.759572 t=39263
 yan yan sui bo qian wan li 	灩灩隨波千萬里	c=1 d=3.95979e-14 t=39263
 yan yao qiu 	嚴要求	c=1 d=1.86437e-05 t=39263
 yan yong 	沿用	c=0 d=0.0302704 t=39263
+yan zeng 	鹽曾	c=-1 d=6.64102e-09 t=39263
 yan zhe 	沿着	c=1 d=0.159614 t=39263
 yan zhen 	雁陣	c=0 d=2.99998e-14 t=39263
 yan zhen jing han 	雁陣驚寒	c=1 d=3.01502e-13 t=39263
@@ -14832,6 +15146,7 @@ yao ba 	要把	c=2 d=0.574936 t=39263
 yao bu 	要不	c=10 d=1.69632 t=39263
 yao bu yao 	要不要	c=3 d=0.737634 t=39263
 yao dao 	要到	c=0 d=0.0404542 t=39263
+yao dao ji 	要到及	c=-1 d=6.14526e-08 t=39263
 yao dian 	要點	c=3 d=0.406056 t=39263
 yao ding 	咬定	c=0 d=0.00205478 t=39263
 yao ding qing shan bu fang song 	咬定青山不放鬆	c=1 d=0.0206508 t=39263
@@ -14859,6 +15174,7 @@ yao su qu dong 	要素驅動	c=1 d=0.603506 t=39263
 yao tiao 	窈窕	c=0 d=7.81614e-15 t=39263
 yao wu 	藥物	c=4 d=0.6767 t=39263
 yao wu ba dian 	藥物靶點	c=1 d=0.609571 t=39263
+yao xian 	要先	c=-1 d=3.28138e-09 t=39263
 yao xiang 	要向	c=1 d=0.904837 t=39263
 yao yao 	搖搖	c=0 d=6.54549e-16 t=39263
 yao yong 	要用	c=3 d=0.200094 t=39263
@@ -15041,6 +15357,7 @@ yi chuan 	遺傳	c=3 d=0.581202 t=39263
 yi chuan fang mian 	遺傳方面	c=1 d=0.311923 t=39263
 yi chuan mi ma 	遺傳密碼	c=2 d=0.986205 t=39263
 yi chuan suan fa 	遺傳算法	c=1 d=0.346456 t=39263
+yi chuan xin ji 	遺傳新機	c=-1 d=6.30083e-08 t=39263
 yi chuan xin xi 	遺傳信息	c=4 d=0.694274 t=39263
 yi chuan xue 	遺傳學	c=1 d=0.0683861 t=39263
 yi chuan yin su 	遺傳因素	c=1 d=0.171187 t=39263
@@ -15048,7 +15365,9 @@ yi chuang 	一窗	c=1 d=0.19398 t=39263
 yi ci 	一次	c=23 d=2.2338 t=39263
 yi ci 	一詞	c=3 d=1.75383 t=39263
 yi ci 	依次	c=3 d=0.992222 t=39263
+yi ci lao nian 	一次老年	c=-1 d=0 t=39263
 yi ci neng li 	一次能力	c=1 d=0.357007 t=39263
+yi ci neng li 	一詞能力	c=-1 d=1.51149e-07 t=39263
 yi ci shi 	依次是	c=1 d=0.798516 t=39263
 yi ci wu ran wu 	一次污染物	c=1 d=1.36458e-10 t=39263
 yi ci xing 	一次性	c=3 d=1.00254 t=39263
@@ -15096,6 +15415,7 @@ yi er san chan ye 	一二三產業	c=1 d=0.285076 t=39263
 yi er tan yue 	已而嘆曰	c=1 d=1.47492e-13 t=39263
 yi fa 	依法	c=0 d=0.139794 t=39263
 yi fa guan li 	依法管理	c=1 d=2.01965e-05 t=39263
+yi fa xian 	以發現	c=-1 d=3.59908e-08 t=39263
 yi fa xian 	已發現	c=1 d=0.239309 t=39263
 yi fa zhi jun 	依法治軍	c=1 d=0.650509 t=39263
 yi fa zhi ye 	依法執業	c=1 d=0.449329 t=39263
@@ -15162,12 +15482,15 @@ yi jian 	一見	c=0 d=0.0878095 t=39263
 yi jian 	一鍵	c=0 d=0.0603506 t=39263
 yi jian 	意見	c=6 d=1.92227 t=39263
 yi jian an zhuang 	一鍵安裝	c=1 d=0.606531 t=39263
+yi jian an zhuang 	意見安裝	c=-1 d=9.07642e-08 t=39263
+yi jian an zu ang 	意見黯沮昂	c=-1 d=9.03117e-08 t=39263
 yi jian hen da 	意見很大	c=1 d=0.25284 t=39263
 yi jie 	一介	c=1 d=0.759572 t=39263
 yi jie 	一節	c=3 d=0.882154 t=39263
 yi jie guan zhang 	義結關張	c=1 d=0.860708 t=39263
 yi jie jin 	易接近	c=0 d=0.0168638 t=39263
 yi jie jin xing 	易接近性	c=1 d=0.169483 t=39263
+yi jie jue 	以解決	c=-1 d=1.2375e-07 t=39263
 yi jie jue 	已解決	c=1 d=0.822835 t=39263
 yi jie shu sheng 	一介書生	c=1 d=4.00925e-13 t=39263
 yi jin 	一斤	c=3 d=0.680451 t=39263
@@ -15190,6 +15513,7 @@ yi lai 	一來	c=3 d=0.689729 t=39263
 yi lai 	以來	c=9 d=0.951833 t=39263
 yi lai 	依賴	c=3 d=0.325037 t=39263
 yi lai xing 	依賴性	c=2 d=1.19039 t=39263
+yi lai yu 	以來與	c=-1 d=3.05165e-08 t=39263
 yi lai yu 	依賴於	c=1 d=0.202909 t=39263
 yi lei 	一類	c=8 d=0.77479 t=39263
 yi lei 	乙類	c=1 d=9.30937e-12 t=39263
@@ -15307,6 +15631,7 @@ yi ti hua 	一體化	c=0 d=0.00395575 t=39263
 yi ti qi guan 	異體器官	c=1 d=0.0248475 t=39263
 yi ti zi 	異體字	c=1 d=1 t=39263
 yi tian 	一天	c=7 d=1.78517 t=39263
+yi tian ge 	一天哥	c=-1 d=6.23919e-10 t=39263
 yi tian ke 	一天課	c=3 d=0.018353 t=39263
 yi tian tian 	一天天	c=1 d=0.810584 t=39263
 yi tiao 	一條	c=12 d=1.21185 t=39263
@@ -15374,6 +15699,7 @@ yi xue 	醫學	c=14 d=0.998606 t=39263
 yi xue can kao zhi fan wei 	醫學參考值範圍	c=1 d=1.00085e-10 t=39263
 yi xue ge ming 	醫學革命	c=1 d=0.00114197 t=39263
 yi xue mian yi xue 	醫學免疫學	c=4 d=0.863685 t=39263
+yi xue sheng 	以學生	c=-1 d=4.2025e-08 t=39263
 yi xue sheng 	醫學生	c=2 d=0.279431 t=39263
 yi xue tong ji 	醫學統計	c=4 d=1.65607 t=39263
 yi xue tong ji xue 	醫學統計學	c=1 d=0.375311 t=39263
@@ -15428,6 +15754,7 @@ yi zhi cheng du 	抑制程度	c=1 d=0.57695 t=39263
 yi zhi ji 	抑制劑	c=15 d=5.30991 t=39263
 yi zhi ji nong du 	抑制劑濃度	c=1 d=0.408608 t=39263
 yi zhi lv 	一致率	c=1 d=6.39823e-12 t=39263
+yi zhi mian yi 	抑制免疫	c=-1 d=6.0548e-10 t=39263
 yi zhi mian yi 	移植免疫	c=1 d=0.00402593 t=39263
 yi zhi pai chi 	移植排斥	c=3 d=0.114091 t=39263
 yi zhi pai chi fan ying 	移植排斥反應	c=2 d=0.779503 t=39263
@@ -15465,6 +15792,7 @@ yin er 	因而	c=1 d=0.00143728 t=39263
 yin fa 	印發	c=3 d=0.396775 t=39263
 yin fa 	引發	c=3 d=0.39757 t=39263
 yin fu 	隱伏	c=1 d=8.76723e-12 t=39263
+yin gai 	因該	c=-1 d=5.99659e-14 t=39263
 yin hang 	銀行	c=3 d=0.0571014 t=39263
 yin huan 	隱患	c=0 d=0.0641957 t=39263
 yin huan pai cha zhi li gong cheng 	隱患排查治理工程	c=1 d=0.0325493 t=39263
@@ -15526,6 +15854,7 @@ ying 	纓	c=0 d=2.60177e-15 t=39263
 ying 	英	c=0 d=3.47913e-15 t=39263
 ying 	贏	c=0 d=0.0600496 t=39263
 ying 	迎	c=0 d=9.38184e-16 t=39263
+ying ban 	營辦	c=-1 d=1.08946e-08 t=39263
 ying ben 	影本	c=1 d=0.0724398 t=39263
 ying bi jun men 	硬壁菌門	c=2 d=0.0057428 t=39263
 ying da 	應答	c=4 d=0.791048 t=39263
@@ -15566,6 +15895,7 @@ ying jie sheng 	應屆生	c=1 d=0.56836 t=39263
 ying jun 	英俊	c=0 d=0.083527 t=39263
 ying li 	盈利	c=1 d=0.767206 t=39263
 ying mu 	熒幕	c=0 d=0.0701173 t=39263
+ying mu wa 	熒幕哇	c=-1 d=1.06513e-07 t=39263
 ying pan 	硬盤	c=3 d=0.307642 t=39263
 ying pan li 	硬盤裏	c=1 d=0.232236 t=39263
 ying shi 	應是	c=1 d=0.213312 t=39263
@@ -15583,6 +15913,7 @@ ying xiong 	英雄	c=3 d=0.97531 t=39263
 ying xu 	盈虛	c=0 d=4.46614e-14 t=39263
 ying xu zhe ru bi 	盈虛者如彼	c=1 d=1.18959e-13 t=39263
 ying yan 	應驗	c=0 d=0.00308074 t=39263
+ying yan mian yi xue 	應驗免疫學	c=-1 d=4.67984e-09 t=39263
 ying yang 	營養	c=5 d=0.703554 t=39263
 ying yang 	鷹揚	c=0 d=0.0794534 t=39263
 ying yang bu liang 	營養不良	c=0 d=3.20865e-11 t=39263
@@ -15592,6 +15923,7 @@ ying yang shi 	營養師	c=0 d=2.46765e-10 t=39263
 ying yang su 	營養素	c=1 d=0.0166557 t=39263
 ying yang xue 	營養學	c=2 d=0.680451 t=39263
 ying yang zhuang tai 	營養狀態	c=1 d=0.271173 t=39263
+ying yang zhuang ti 	營養裝體	c=-1 d=4.0783e-08 t=39263
 ying yao 	應邀	c=0 d=0.0321422 t=39263
 ying yao chu xi 	應邀出席	c=1 d=0.323033 t=39263
 ying ye shou ru 	營業收入	c=0 d=0.00833256 t=39263
@@ -15603,9 +15935,11 @@ ying yong 	應用	c=24 d=0.963227 t=39263
 ying yong 	英勇	c=0 d=0.0811176 t=39263
 ying yong fan wei 	應用範圍	c=0 d=0.0865022 t=39263
 ying yong fan wei guang 	應用範圍廣	c=2 d=0.869358 t=39263
+ying yong fen zhan 	應用奮戰	c=-1 d=3.61713e-08 t=39263
 ying yong fen zhan 	英勇奮戰	c=1 d=0.240508 t=39263
 ying yong gong neng 	應用功能	c=1 d=6.82444e-06 t=39263
 ying yong jue jue 	英勇決絕	c=1 d=0.408608 t=39263
+ying yong shi li 	應用實例	c=-1 d=1.46682e-07 t=39263
 ying yong shi li 	應用示例	c=4 d=1.31036 t=39263
 ying yong tong ji 	應用統計	c=3 d=0.0218233 t=39263
 ying yong tong ji xue 	應用統計學	c=1 d=0.00113061 t=39263
@@ -15638,6 +15972,7 @@ yong guo 	用過	c=4 d=0.444858 t=39263
 yong hao 	用好	c=0 d=0.00808629 t=39263
 yong hu 	擁護	c=0 d=0.0715338 t=39263
 yong hu 	用戶	c=11 d=2.16311 t=39263
+yong hu ci 	用戶此	c=-1 d=1.33525e-19 t=39263
 yong hu ci 	用戶詞	c=2 d=1.82117e-12 t=39263
 yong hu he zhi chi 	擁護和支持	c=1 d=1.21887e-05 t=39263
 yong hu ming 	用戶名	c=1 d=0.588605 t=39263
@@ -15919,6 +16254,7 @@ yu ding shi jian 	預定時間	c=1 d=0.839457 t=39263
 yu du huang he bing se chuan 	欲渡黃河冰塞川	c=1 d=5.26559e-14 t=39263
 yu e 	餘額	c=0 d=0.0165299 t=39263
 yu e bao 	餘額寶	c=1 d=0.166127 t=39263
+yu e gou 	與惡狗	c=-1 d=3.1921e-08 t=39263
 yu er tong xiao wan gu chou 	與爾同銷萬古愁	c=1 d=1.83343e-14 t=39263
 yu fa 	語法	c=5 d=0.0903181 t=39263
 yu fang 	預防	c=5 d=0.961109 t=39263
@@ -16035,6 +16371,7 @@ yuan chen 	元辰	c=1 d=0.964523 t=39263
 yuan chen 	淵沉	c=1 d=0.0165727 t=39263
 yuan cheng 	遠程	c=1 d=0.0913931 t=39263
 yuan cheng jiao yu 	遠程教育	c=1 d=0.414783 t=39263
+yuan cheng wei hai fen xi 	遠程危害分析	c=-1 d=4.98548e-18 t=39263
 yuan cheng yi liao 	遠程醫療	c=1 d=0.918512 t=39263
 yuan chu 	遠處	c=1 d=0.0154523 t=39263
 yuan chu 	鵷鶵	c=1 d=0.0284388 t=39263
@@ -16059,6 +16396,7 @@ yuan le 	袁樂	c=1 d=0.0792617 t=39263
 yuan li 	原理	c=7 d=0.418112 t=39263
 yuan li 	遠離	c=1 d=0.106992 t=39263
 yuan li 	院裏	c=3 d=0.909373 t=39263
+yuan li yu fang 	院裏預防	c=-1 d=9.98097e-08 t=39263
 yuan li yu fang fa 	原理與方法	c=1 d=0.66365 t=39263
 yuan liu 	源流	c=3 d=0.938604 t=39263
 yuan liu bian ming qin 	園柳變鳴禽	c=1 d=5.46726e-15 t=39263
@@ -16109,6 +16447,7 @@ yuan zi fa she guang pu fa 	原子發射光譜法	c=2 d=1.72144 t=39263
 yuan zi fa she xian 	原子發射線	c=1 d=0.219808 t=39263
 yuan zi guang pu 	原子光譜	c=1 d=0.211189 t=39263
 yuan zi hua 	原子化	c=1 d=0.431005 t=39263
+yuan zi hua 	原子花	c=-1 d=5.81639e-08 t=39263
 yuan zi hua qi 	原子化器	c=5 d=2.57729 t=39263
 yuan zi hua tiao jian 	原子化條件	c=1 d=0.444858 t=39263
 yuan zi jie gou 	原子結構	c=1 d=0.161218 t=39263
@@ -16119,6 +16458,7 @@ yuan zi xi shou fen guang guang du ji 	原子吸收分光光度計	c=2 d=0.52901
 yuan zi xi shou guang pu 	原子吸收光譜	c=2 d=0.227355 t=39263
 yuan zi xi shou guang pu fa 	原子吸收光譜法	c=1 d=0.0987662 t=39263
 yuan zi xi shou xian 	原子吸收線	c=1 d=0.222017 t=39263
+yuan zi ying 	原子應	c=-1 d=7.81215e-08 t=39263
 yuan zi ying guang 	原子熒光	c=5 d=2.91005 t=39263
 yuan zi ying guang fen xi 	原子熒光分析	c=1 d=0.733447 t=39263
 yuan zi ying guang guang pu fa 	原子熒光光譜法	c=3 d=1.77605 t=39263
@@ -16155,6 +16495,7 @@ yue lai yue jin 	越來越緊	c=1 d=0.082085 t=39263
 yue lai yue kuai 	越來越快	c=1 d=0.0837432 t=39263
 yue lai yue xiao 	越來越小	c=1 d=0.0824965 t=39263
 yue lun 	月輪	c=0 d=4.08039e-15 t=39263
+yue me 	月麼	c=-1 d=1.28158e-07 t=39263
 yue me 	約麼	c=1 d=0.852144 t=39263
 yue miao 	岳廟	c=1 d=0.00960953 t=39263
 yue ming 	月明	c=0 d=3.95979e-15 t=39263
@@ -16176,6 +16517,7 @@ yue xiao shou e 	月銷售額	c=1 d=0.418952 t=39263
 yue xing que yu ren xiang sui 	月行卻與人相隨	c=1 d=2.37784e-14 t=39263
 yue yang 	岳陽	c=0 d=1.70009e-09 t=39263
 yue ye ye 	岳爺爺	c=1 d=0.286505 t=39263
+yue yin 	樂音	c=-1 d=0 t=39263
 yue yu shuang shao bao 	岳于雙少保	c=1 d=0.373439 t=39263
 yue yuan 	越遠	c=1 d=0.0526021 t=39263
 yue zhan 	約佔	c=7 d=0.558937 t=39263
@@ -16215,6 +16557,7 @@ yun xia ming mie huo ke du 	雲霞明滅或可睹	c=1 d=1.87985e-14 t=39263
 yun xiao yu ji 	雲銷雨霽	c=1 d=2.92591e-13 t=39263
 yun xing 	運行	c=6 d=0.317951 t=39263
 yun xu 	允許	c=4 d=0.165546 t=39263
+yun xu yi 	允許一	c=-1 d=3.80323e-10 t=39263
 yun yong 	運用	c=3 d=0.755784 t=39263
 yun yu 	孕育	c=1 d=0.0281559 t=39263
 yun zhi jun xi fen fen er lai xia 	雲之君兮紛紛而來下	c=1 d=2.17318e-14 t=39263
@@ -16249,6 +16592,7 @@ zai ci 	在此	c=3 d=0.238115 t=39263
 zai ci ci 	在此次	c=1 d=0.436049 t=39263
 zai ci ji chu shang 	在此基礎上	c=1 d=0.212248 t=39263
 zai ci mian yi ying da 	再次免疫應答	c=1 d=0.000858778 t=39263
+zai cun zai 	在存在	c=-1 d=8.25385e-08 t=39263
 zai dai 	再帶	c=1 d=0.246597 t=39263
 zai dao 	再到	c=2 d=0.278037 t=39263
 zai de 	在地	c=0 d=0.00194482 t=39263
@@ -16416,6 +16760,7 @@ zeng qiang 	增強	c=10 d=3.35998 t=39263
 zeng qiang xin xin 	增強信心	c=1 d=0.509156 t=39263
 zeng qiang xing 	增強性	c=0 d=0.0677057 t=39263
 zeng qiang zi 	增強子	c=1 d=9.51553e-05 t=39263
+zeng qiang zi 	曾強子	c=-1 d=1.43109e-11 t=39263
 zeng qiang zuo yong 	增強作用	c=1 d=1.39913e-10 t=39263
 zeng se 	增色	c=0 d=0.00497871 t=39263
 zeng se xiao ying 	增色效應	c=1 d=0.0500366 t=39263
@@ -16423,6 +16768,7 @@ zeng shou 	增收	c=0 d=0.0831104 t=39263
 zeng su 	增速	c=1 d=0.245359 t=39263
 zeng zhang 	增長	c=6 d=0.379764 t=39263
 zeng zhang bao rong xing bu gou 	增長包容性不夠	c=1 d=0.0359725 t=39263
+zeng zhang de 	增長的	c=-1 d=2.73377e-08 t=39263
 zeng zhang lv 	增長率	c=0 d=7.91244e-12 t=39263
 zeng zhang su du 	增長速度	c=1 d=1.01261e-10 t=39263
 zeng zhi 	增值	c=1 d=3.48311e-05 t=39263
@@ -16583,6 +16929,7 @@ zhe ge ci 	這個詞	c=1 d=0.336216 t=39263
 zhe ge hua ti 	這個話題	c=1 d=0.45612 t=39263
 zhe ge lu 	這個路	c=1 d=0.396531 t=39263
 zhe ge shi er 	這個事兒	c=1 d=0.382893 t=39263
+zhe ge shu ru fa hao 	這個輸入發號	c=-1 d=3.09988e-16 t=39263
 zhe hai 	這還	c=1 d=0.472367 t=39263
 zhe hai shi 	這還是	c=1 d=0.000223746 t=39263
 zhe hu 	者乎	c=1 d=1.01878e-13 t=39263
@@ -16630,6 +16977,7 @@ zhe xiang gong zuo 	這項工作	c=1 d=0.640824 t=39263
 zhe xie 	這些	c=35 d=2.03803 t=39263
 zhe xie shi 	這些事	c=1 d=0.142274 t=39263
 zhe xie wen ti 	這些問題	c=2 d=0.111238 t=39263
+zhe xing 	折行	c=-1 d=1.15384e-07 t=39263
 zhe xue qi 	這學期	c=1 d=0.467666 t=39263
 zhe yang 	這樣	c=34 d=3.92647 t=39263
 zhe yang de 	這樣的	c=3 d=0.857683 t=39263
@@ -16648,6 +16996,7 @@ zhe yi hang 	這一行	c=1 d=0.995012 t=39263
 zhe yi hui 	這一回	c=1 d=0.715338 t=39263
 zhe yi jie 	這一屆	c=1 d=0.255381 t=39263
 zhe yi ju 	這一句	c=3 d=0.25924 t=39263
+zhe yi ju 	這依據	c=-1 d=3.89884e-08 t=39263
 zhe yi lei 	這一類	c=1 d=0.408608 t=39263
 zhe yi lun 	這一輪	c=1 d=0.0273237 t=39263
 zhe yi ti 	這一題	c=1 d=6.59084e-08 t=39263
@@ -16764,10 +17113,12 @@ zheng gai 	整改	c=1 d=0.873716 t=39263
 zheng ge 	整個	c=6 d=1.15498 t=39263
 zheng ge guo cheng 	整個過程	c=2 d=1 t=39263
 zheng gui 	正規	c=1 d=0.0845849 t=39263
+zheng ha 	正哈	c=-1 d=1.12535e-07 t=39263
 zheng hao 	正好	c=5 d=1.35841 t=39263
 zheng he 	整合	c=0 d=0.00536647 t=39263
 zheng he su 	整合素	c=1 d=0.0539337 t=39263
 zheng hou 	症候	c=0 d=4.24619e-13 t=39263
+zheng jia 	正佳	c=-1 d=5.09503e-09 t=39263
 zheng jin wei zuo 	正襟危坐	c=1 d=9.40453e-14 t=39263
 zheng kan 	正看	c=1 d=0.697676 t=39263
 zheng lei 	鄭磊	c=1 d=0.0173355 t=39263
@@ -16806,16 +17157,20 @@ zheng ti xing 	整體性	c=1 d=0.0532597 t=39263
 zheng tiao 	整條	c=1 d=0.0635765 t=39263
 zheng tiao tai lian 	整條肽鏈	c=1 d=0.0605068 t=39263
 zheng wei 	政委	c=3 d=0.618783 t=39263
+zheng wei 	正爲	c=-1 d=2.24944e-08 t=39263
 zheng wen 	正文	c=2 d=0.909373 t=39263
 zheng wu gong kai 	政務公開	c=2 d=0.447088 t=39263
 zheng xi 	正西	c=1 d=0.108609 t=39263
 zheng xian 	正弦	c=1 d=0.131639 t=39263
+zheng xian guan 	正弦管	c=-1 d=1.44498e-07 t=39263
 zheng xiang 	正相	c=0 d=9.39653e-05 t=39263
 zheng xiang 	爭相	c=0 d=0.0955997 t=39263
 zheng xiang guan 	正相關	c=3 d=1.8545 t=39263
+zheng xiang huan 	爭相環	c=-1 d=1.45222e-07 t=39263
 zheng xiang se pu fa 	正相色譜法	c=1 d=0.000944363 t=39263
 zheng xie tong xiao ying 	正協同效應	c=2 d=0.546074 t=39263
 zheng xin 	徵信	c=1 d=0.386741 t=39263
+zheng xuan 	鄭玄	c=-1 d=0 t=39263
 zheng yang 	正陽	c=1 d=0.410656 t=39263
 zheng yi 	正以	c=1 d=0.0285814 t=39263
 zheng zai 	正在	c=12 d=0.865022 t=39263
@@ -16823,6 +17178,7 @@ zheng zai cheng wei 	正在成爲	c=1 d=0.618783 t=39263
 zheng zai yong 	正在用	c=1 d=0.0746459 t=39263
 zheng ze 	正則	c=1 d=0.477114 t=39263
 zheng zhan 	征戰	c=0 d=4.9342e-15 t=39263
+zheng zhen 	征鎮	c=-1 d=8.32237e-17 t=39263
 zheng zhi 	政治	c=6 d=0.675776 t=39263
 zheng zhi gong zuo 	整治工作	c=0 d=0.0491644 t=39263
 zheng zhi jian jun 	政治建軍	c=1 d=0.637628 t=39263
@@ -16835,6 +17191,13 @@ zheng zhong 	正中	c=1 d=0.0833256 t=39263
 zheng zhong 	鄭重	c=1 d=0.08291 t=39263
 zheng zhou 	鄭州	c=26 d=4.02385 t=39263
 zheng zhou cai jing ji shi xue yuan 	鄭州財經技師學院	c=2 d=0.609982 t=39263
+zheng zhou da ji 	鄭州打擊	c=-1 d=0 t=39263
+zheng zhou da jiao 	鄭州大叫	c=-1 d=0 t=39263
+zheng zhou da jie 	鄭州大街	c=-1 d=0 t=39263
+zheng zhou da jue 	鄭州大角	c=-1 d=0 t=39263
+zheng zhou da se 	鄭州搭圾	c=-1 d=2.67454e-15 t=39263
+zheng zhou da xie 	鄭州大寫	c=-1 d=0 t=39263
+zheng zhou da xu 	鄭州大徐	c=-1 d=2.21595e-08 t=39263
 zheng zhou da xue 	鄭州大學	c=24 d=5.30427 t=39263
 zheng zhou di tie 	鄭州地鐵	c=2 d=0.951229 t=39263
 zheng zhou shi 	鄭州市	c=6 d=2.24532 t=39263
@@ -16966,6 +17329,7 @@ zhi lei 	之類	c=9 d=1.14221 t=39263
 zhi lei 	脂類	c=12 d=1.13234 t=39263
 zhi lei 	酯類	c=0 d=3.87322e-12 t=39263
 zhi lei dai xie 	脂類代謝	c=1 d=3.57189e-07 t=39263
+zhi lei den 	脂類㩐	c=-1 d=1.07171e-13 t=39263
 zhi lei gai shu 	脂類概述	c=1 d=8.15063e-07 t=39263
 zhi li 	治理	c=0 d=0.152566 t=39263
 zhi li jie gou 	治理結構	c=0 d=0.0527292 t=39263
@@ -17111,6 +17475,7 @@ zhi yi 	之義	c=0 d=0.0113042 t=39263
 zhi yin 	只因	c=1 d=0.00932553 t=39263
 zhi yin 	指引	c=1 d=0.405214 t=39263
 zhi yin 	知音	c=0 d=8.96444e-10 t=39263
+zhi yong 	之用	c=-3 d=9.01888e-08 t=39263
 zhi yong 	只用	c=4 d=0.470725 t=39263
 zhi you 	之遊	c=0 d=1.97113e-14 t=39263
 zhi you 	只有	c=17 d=1.83911 t=39263
@@ -17164,6 +17529,7 @@ zhong da chuang xin 	重大創新	c=1 d=0.582748 t=39263
 zhong da feng xian yin huan 	重大風險隱患	c=1 d=0.612626 t=39263
 zhong da gai ge shi xiang 	重大改革事項	c=1 d=0.212248 t=39263
 zhong da ke ji cheng guo zhuan hua ying yong 	重大科技成果轉化應用	c=1 d=0.955997 t=39263
+zhong da li lun 	重大理論	c=-1 d=1.30095e-07 t=39263
 zhong da li lun he xian shi wen ti 	重大理論和現實問題	c=1 d=0.869358 t=39263
 zhong da pan duan 	重大判斷	c=1 d=0.66034 t=39263
 zhong da tiao zhan 	重大挑戰	c=1 d=0.398519 t=39263
@@ -17233,6 +17599,7 @@ zhong hua min zu 	中華民族	c=5 d=1.30786 t=39263
 zhong hua min zu fa zhan shi 	中華民族發展史	c=1 d=0.158817 t=39263
 zhong hua min zu wei da fu xing de zhong guo meng 	中華民族偉大復興的中國夢	c=2 d=0.246985 t=39263
 zhong hua min zu wei da fu xing zhong guo meng 	中華民族偉大復興中國夢	c=1 d=0.565525 t=39263
+zhong hua ren min gong 	中華人民工	c=-1 d=3.51931e-09 t=39263
 zhong hua ren min gong he guo 	中華人民共和國	c=3 d=0.366699 t=39263
 zhong hui 	終會	c=1 d=0.0162445 t=39263
 zhong hui 	鍾會	c=0 d=0.0937067 t=39263
@@ -17301,6 +17668,7 @@ zhong wei shu 	中位數	c=1 d=6.91323e-11 t=39263
 zhong wen 	中文	c=22 d=4.98486 t=39263
 zhong wu 	中午	c=36 d=3.1585 t=39263
 zhong wu hao 	中午好	c=1 d=0.194952 t=39263
+zhong wu hao 	中物耗	c=-1 d=2.93199e-08 t=39263
 zhong wu wan shang 	中午晚上	c=1 d=1.05252e-14 t=39263
 zhong xi bu 	中西部	c=0 d=0.00526021 t=39263
 zhong xiao 	中小	c=0 d=0.0970446 t=39263
@@ -17308,6 +17676,7 @@ zhong xiao qi ye 	中小企業	c=5 d=0.887765 t=39263
 zhong xiao wei qi ye 	中小微企業	c=3 d=1.06117 t=39263
 zhong xin 	中信	c=2 d=0.900325 t=39263
 zhong xin 	中心	c=9 d=0.972774 t=39263
+zhong xin bu 	中心補	c=-1 d=1.48181e-09 t=39263
 zhong xin bu 	中心部	c=1 d=0.0098528 t=39263
 zhong xin ti yu chang 	中心體育場	c=1 d=0.369723 t=39263
 zhong xin zhou 	中心軸	c=1 d=0.0305009 t=39263
@@ -17338,6 +17707,7 @@ zhong yao te xing 	重要特性	c=1 d=0.0332068 t=39263
 zhong yao te zheng 	重要特徵	c=1 d=0.180866 t=39263
 zhong yao xi tong 	重要系統	c=1 d=0.000973123 t=39263
 zhong yao xing 	重要性	c=0 d=0.00490458 t=39263
+zhong yao xing zhi 	重要性致	c=-1 d=7.45039e-09 t=39263
 zhong yao xing zhi 	重要性質	c=1 d=0.0495388 t=39263
 zhong yao yi dian 	重要一點	c=1 d=0.995012 t=39263
 zhong yao yi yi 	重要意義	c=0 d=0.00518189 t=39263
@@ -17506,6 +17876,7 @@ zhu yao zhi biao 	主要指標	c=1 d=0.366045 t=39263
 zhu yao zu fen 	主要組分	c=1 d=0.00155699 t=39263
 zhu yao zu zhi xiang rong xing fu he ti 	主要組織相容性複合體	c=1 d=0.980199 t=39263
 zhu yao zuo yong 	主要作用	c=1 d=0.0160027 t=39263
+zhu yao zuo you 	主要左右	c=-1 d=2.40673e-09 t=39263
 zhu yi 	注意	c=6 d=1.49283 t=39263
 zhu yi shi xiang 	注意事項	c=1 d=0.00166989 t=39263
 zhu yin 	注音	c=11 d=1.38801 t=39263
@@ -17536,6 +17907,7 @@ zhua zhu le 	抓住了	c=1 d=0.392586 t=39263
 zhua zhu she me 	抓住什麼	c=1 d=0.543351 t=39263
 zhuan 	磚	c=1 d=0.00810722 t=39263
 zhuan 	轉	c=5 d=2.13372 t=39263
+zhuan bei 	轉背	c=-1 d=1.22519e-07 t=39263
 zhuan bian 	轉變	c=6 d=0.831104 t=39263
 zhuan bian cheng 	轉變成	c=3 d=0.856863 t=39263
 zhuan bian wei 	轉變爲	c=3 d=0.393521 t=39263
@@ -17557,6 +17929,7 @@ zhuan ji yin 	轉基因	c=3 d=0.0279575 t=39263
 zhuan jia 	專家	c=2 d=0.945062 t=39263
 zhuan jiao 	轉角	c=4 d=0.123931 t=39263
 zhuan ke 	專科	c=1 d=0.680451 t=39263
+zhuan kou 	轉口	c=-1 d=9.63768e-08 t=39263
 zhuan le 	轉了	c=0 d=0.0280832 t=39263
 zhuan le yi quan 	轉了一圈	c=1 d=0.282239 t=39263
 zhuan li quan 	專利權	c=1 d=0.13466 t=39263
@@ -17585,6 +17958,7 @@ zhuan ye wang zhan 	專業網站	c=1 d=0.167797 t=39263
 zhuan yi 	專一	c=0 d=0.118935 t=39263
 zhuan yi 	轉移	c=3 d=0.894519 t=39263
 zhuan yi dan bai 	專一蛋白	c=1 d=0.0415857 t=39263
+zhuan yi de 	專一的	c=-1 d=8.98612e-08 t=39263
 zhuan yi de suan jian cui hua 	專一的酸鹼催化	c=1 d=0.597501 t=39263
 zhuan yi mei lei 	轉移酶類	c=1 d=0.344728 t=39263
 zhuan yi xing 	專一性	c=12 d=2.23359 t=39263
@@ -17609,6 +17983,7 @@ zhuang cuo 	裝錯	c=1 d=0.918512 t=39263
 zhuang da 	壯大	c=0 d=0.0349938 t=39263
 zhuang dan 	裝彈	c=1 d=1.52274e-06 t=39263
 zhuang hao 	裝好	c=1 d=1.95524e-06 t=39263
+zhuang hu 	莊戶	c=-1 d=6.62388e-08 t=39263
 zhuang hui 	裝回	c=1 d=0.316637 t=39263
 zhuang hui lai 	裝回來	c=1 d=0.054204 t=39263
 zhuang ji 	裝機	c=3 d=0.890903 t=39263
@@ -17666,6 +18041,7 @@ zi ben hui bao 	資本回報	c=1 d=0.0340475 t=39263
 zi bian liang 	自變量	c=1 d=8.63523e-10 t=39263
 zi biao 	字標	c=1 d=0.085435 t=39263
 zi biao 	字表	c=0 d=5.89106e-12 t=39263
+zi chu 	自處	c=-1 d=4.73912e-10 t=39263
 zi ci 	字詞	c=2 d=0.83527 t=39263
 zi cong 	自從	c=1 d=0.225373 t=39263
 zi dai 	子代	c=0 d=0.0625002 t=39263
@@ -17680,6 +18056,7 @@ zi dong 	自動	c=8 d=1.85014 t=39263
 zi dong bu quan 	自動補全	c=1 d=0.0420036 t=39263
 zi dong mian yi 	自動免疫	c=0 d=1.96254e-12 t=39263
 zi fei 	資費	c=2 d=0.977009 t=39263
+zi fen mi 	子分泌	c=-1 d=4.52981e-08 t=39263
 zi fen mi 	自分泌	c=1 d=0.301194 t=39263
 zi fu 	字符	c=7 d=1.10352 t=39263
 zi gu yi lai 	自古以來	c=1 d=0.511709 t=39263
@@ -17690,6 +18067,7 @@ zi ji 	子集	c=1 d=2.42422e-06 t=39263
 zi ji 	字集	c=1 d=2.43637e-06 t=39263
 zi ji 	自己	c=29 d=2.56266 t=39263
 zi ji de 	自己的	c=1 d=0.909373 t=39263
+zi ji gan 	自己幹	c=-1 d=1.36083e-07 t=39263
 zi ji qu 	自己去	c=1 d=0.0263839 t=39263
 zi jie 	咨嗟	c=0 d=3.86202e-15 t=39263
 zi jin 	資金	c=0 d=0.0742053 t=39263
@@ -17708,6 +18086,7 @@ zi mu 	字母	c=2 d=0.262216 t=39263
 zi na shi qi 	自那時起	c=1 d=0.162026 t=39263
 zi nv 	子女	c=0 d=0.0643298 t=39263
 zi nv ji qi pei ou 	子女及其配偶	c=1 d=0.311923 t=39263
+zi qi 	自欺	c=-1 d=3.46692e-09 t=39263
 zi qi bu bian zhe er guan zhi 	自其不變者而觀之	c=1 d=1.21362e-13 t=39263
 zi qi dong 	自啓動	c=1 d=0.414783 t=39263
 zi ran 	自然	c=4 d=0.825451 t=39263
@@ -17723,9 +18102,11 @@ zi ran zai hai fang zai jian zai gong cheng 	自然災害防災減災工程	c=1 
 zi ran zeng zhang lv 	自然增長率	c=1 d=7.9521e-11 t=39263
 zi se 	紫色	c=0 d=0.000299743 t=39263
 zi shen 	自身	c=7 d=1.85691 t=39263
+zi shen can sheng 	自身殘生	c=-1 d=7.69584e-08 t=39263
 zi shen chan sheng 	自身產生	c=1 d=0.511709 t=39263
 zi shen cheng fen 	自身成分	c=2 d=0.419865 t=39263
 zi shen dui zhao 	自身對照	c=1 d=4.85991e-12 t=39263
+zi shen fan ying xing 	自身反應型	c=-1 d=4.41798e-08 t=39263
 zi shen fan ying xing 	自身反應性	c=1 d=0.293758 t=39263
 zi shen jie gou 	自身結構	c=1 d=0.0948935 t=39263
 zi shen kang ti 	自身抗體	c=1 d=0.286505 t=39263
@@ -17737,6 +18118,7 @@ zi shen shi wu 	自身事務	c=1 d=2.05018e-05 t=39263
 zi shen zu zhi cheng fen 	自身組織成分	c=1 d=0.000596161 t=39263
 zi shen zu zhi xi bao 	自身組織細胞	c=2 d=0.748223 t=39263
 zi tai 	姿態	c=1 d=0.216536 t=39263
+zi te 	子特	c=-1 d=5.99352e-08 t=39263
 zi ti 	字體	c=10 d=2.56173 t=39263
 zi ti 	自體	c=1 d=0.45612 t=39263
 zi wai 	紫外	c=7 d=3.46222 t=39263
@@ -17755,6 +18137,8 @@ zi xing che 	自行車	c=1 d=6.14421e-06 t=39263
 zi xuan 	自旋	c=2 d=1.18626 t=39263
 zi xue 	自學	c=1 d=0.293758 t=39263
 zi xun 	諮詢	c=1 d=3.13699e-09 t=39263
+zi yi 	自已	c=-1 d=1.16544e-07 t=39263
+zi yi da 	子一大	c=-1 d=1.08123e-07 t=39263
 zi you 	自由	c=3 d=0.247572 t=39263
 zi you hua 	自由化	c=1 d=0.0902655 t=39263
 zi you ji 	自由基	c=0 d=2.40051e-09 t=39263
@@ -17860,17 +18244,24 @@ zu 	卒	c=0 d=1.18959e-14 t=39263
 zu 	祖	c=0 d=0.000534368 t=39263
 zu 	組	c=13 d=0.849089 t=39263
 zu 	阻	c=0 d=6.62162e-05 t=39263
+zu a 	組阿	c=-1 d=1.27519e-07 t=39263
 zu ai 	阻礙	c=1 d=0.00806679 t=39263
 zu an suan 	組氨酸	c=2 d=0.0020396 t=39263
 zu cheng 	組成	c=35 d=1.22763 t=39263
 zu cheng bu fen 	組成部分	c=1 d=0.351692 t=39263
+zu cheng chen fen 	組成嗔忿	c=-1 d=1.17128e-07 t=39263
+zu cheng cheng chen 	組成稱臣	c=-1 d=0 t=39263
 zu cheng cheng fen 	組成成分	c=4 d=1.95119 t=39263
+zu cheng cheng shen 	組成稱身	c=-1 d=0 t=39263
+zu cheng cheng zhen 	組成城鎮	c=-1 d=0 t=39263
 zu cheng xi bao 	組成細胞	c=1 d=0.647265 t=39263
 zu cheng yi ge 	組成一個	c=1 d=0.298197 t=39263
 zu dan bai 	組蛋白	c=5 d=0.746516 t=39263
 zu duan 	阻斷	c=2 d=0.325741 t=39263
+zu duo 	組多	c=-1 d=7.35721e-08 t=39263
 zu e 	阻遏	c=0 d=0.224411 t=39263
 zu e dan bai 	阻遏蛋白	c=1 d=0.472367 t=39263
+zu e ji 	阻遏劑	c=-1 d=6.8256e-08 t=39263
 zu e wu 	阻遏物	c=1 d=0.499685 t=39263
 zu e zuo yong 	阻遏作用	c=1 d=0.496585 t=39263
 zu fang 	租房	c=1 d=0.305746 t=39263
@@ -17889,6 +18280,7 @@ zu nei bian yi 	組內變異	c=1 d=1.0365e-10 t=39263
 zu se 	阻塞	c=0 d=1.58542e-11 t=39263
 zu xue 	組學	c=1 d=0.000939653 t=39263
 zu zhang 	組長	c=3 d=0.382893 t=39263
+zu zheng 	組正	c=-1 d=8.91176e-08 t=39263
 zu zhi 	組織	c=19 d=1.24952 t=39263
 zu zhi cheng fen 	組織成分	c=1 d=0.000655574 t=39263
 zu zhi jian 	組織間	c=1 d=0.0238732 t=39263
@@ -17908,6 +18300,7 @@ zui 	醉	c=0 d=3.10544e-15 t=39263
 zui bao gui 	最寶貴	c=1 d=0.0867261 t=39263
 zui ben zhi de te zheng 	最本質的特徵	c=1 d=8.0487e-06 t=39263
 zui chang 	最長	c=7 d=0.235746 t=39263
+zui chang da 	最長大	c=-1 d=9.76306e-13 t=39263
 zui chang yong 	最常用	c=1 d=0.16696 t=39263
 zui chi 	最遲	c=1 d=3.12029e-05 t=39263
 zui chu 	最初	c=2 d=0.884172 t=39263
@@ -17955,6 +18348,7 @@ zui you 	最優	c=2 d=0.991379 t=39263
 zui you 	最有	c=1 d=0.461124 t=39263
 zui you chou yang 	最優抽樣	c=1 d=6.28669e-11 t=39263
 zui you jie 	最優解	c=3 d=1.01752 t=39263
+zui you jie 	最有接	c=-1 d=1.80614e-14 t=39263
 zui you ke neng 	最有可能	c=1 d=0.25284 t=39263
 zui zao 	最早	c=4 d=0.408608 t=39263
 zui zhong 	最終	c=7 d=1.02661 t=39263
@@ -17988,6 +18382,7 @@ zuo dao 	坐到	c=3 d=0.347377 t=39263
 zuo de 	做的	c=3 d=0.66365 t=39263
 zuo di tie 	坐地鐵	c=1 d=0.532592 t=39263
 zuo dian 	做點	c=2 d=0.909971 t=39263
+zuo dou 	做都	c=-1 d=2.30638e-08 t=39263
 zuo fa 	做法	c=2 d=0.995012 t=39263
 zuo feng 	作風	c=3 d=0.536264 t=39263
 zuo feng jian she 	作風建設	c=0 d=0.0327915 t=39263
@@ -18030,6 +18425,7 @@ zuo yong yu 	作用於	c=0 d=1.14848e-12 t=39263
 zuo yong yu ren ti de liang 	作用於人體的量	c=1 d=1.15424e-11 t=39263
 zuo yong zai 	作用在	c=1 d=0.130029 t=39263
 zuo you 	左右	c=7 d=1.06311 t=39263
+zuo yuan 	作冤	c=-1 d=4.13994e-08 t=39263
 zuo zhan 	作戰	c=1 d=0.0784731 t=39263
 zuo zhe 	作者	c=8 d=1.82921 t=39263
 zuo zhe 	坐着	c=3 d=1.24344 t=39263
