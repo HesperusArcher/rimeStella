@@ -4,7 +4,7 @@
 schema:
   schema_id: zhung_combo_kbcon-cangjie5
   name: "中州羅馬字（並擊·鍵盤控式）＆倉頡五代"
-  version: "2017.08.25"
+  version: "2017.10.24"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 發明人 朱邦復先生
@@ -138,7 +138,7 @@ translator:
     - xform/yi(ng?)/ie$1/
     - xform/yi/i/
     - xform/([zcsr]h?)y/$1y/
-    - xform/wu([in])/ue$1/
+    - xform/u([in])/ue$1/
     - xform/wu?/u/
     # eo(ㄜ) -> e; e(ㄝ) -> ê
     - "xform e([^oinl]) ê$2' "
