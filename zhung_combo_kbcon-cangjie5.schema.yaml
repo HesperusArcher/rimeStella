@@ -127,15 +127,21 @@ translator:
     zhung.extended
   prism: zhung_combo_kbcon-cangjie5
   preedit_format: &zhung
-    - xform/([nl])v/$1ü/
-    - xform/([nl])ue/$1üe/
-    # - xform/([jqxy])v/$1u/
-    - 'xform ([jqx])([uv]) $1ü'
-    - xform/iu/ü/
-
     # diff zhung.default
+    # display ü
+    - xform/([jqx])u(ng?)/$1üe$2/
+    - 'xform ([jqx])([u]) $1ü'
+    - xform/([iy])u(ng?)/üe$2/
+    - xform/([iy])u/ü/
+    # i u as initial consonants
+    - xform/y([aeo])/i$1/
+    - xform/yi(ng?)/ie$1/
+    - xform/yi/i/
+    - xform/([zcsr]h?)y/$1y/
+    - xform/wu([in])/ue$1/
+    - xform/wu?/u/
     # eo(ㄜ) -> e; e(ㄝ) -> ê
-    - xform/e([^oinl])/ê/
+    - "xform e([^oinl]) ê$2' "
     - xform/eo/e/
 
     # # combo_transcript.schema
