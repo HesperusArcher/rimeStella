@@ -134,6 +134,7 @@ translator:
     - xform/([iy])u(ng?)/üe$2/
     - xform/([iy])u/ü/
     # i u as initial consonants
+    - xform/([jqx])([aeo])/$1i$2/
     - xform/y([aeo])/i$1/
     - xform/i(ng?)/ie$1/
     - xform/yi/i/
