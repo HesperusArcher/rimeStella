@@ -12,6 +12,7 @@ iux njin 	有人	c=0 d=0.0995012 t=3
 iux njin iux 	有人有	c=-1 d=1 t=3
 ngyan zjin 	元辰	c=0 d=0.0995012 t=3
 pheng qim 	拼音	c=0 d=0.0995012 t=3
+tha iuh byang no ngax 	他又房奴我	c=-1 d=0 t=3
 triung kox 	中古	c=0 d=0.0995012 t=3
 triung kox pheng qim 	中古拼音	c=1 d=1 t=3
 zsiah 	謝	c=0 d=0.0995012 t=3
