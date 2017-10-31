@@ -5,6 +5,7 @@ patch:
     - schema: combo_pinyin_kbcon-cangjie5
     - schema: zhung_combo_kbcon-cangjie5
     # - schema: zyenpheng
+    - schema: triungkoxsampheng
   switcher:
     hotkeys:
       - Control+grave
