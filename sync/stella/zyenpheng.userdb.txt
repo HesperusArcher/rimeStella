@@ -2,18 +2,20 @@
 #@/db_name	zyenpheng.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	3
+#@/tick	6
 #@/user_id	stella
-iu phjeuh 	郵票	c=-1 d=0 t=3
-iu phyoih 	郵費	c=-1 d=0 t=3
-iu phyoih su 	郵費涑	c=-1 d=0 t=3
-iux 	有	c=0 d=0.0995012 t=3
-iux njin 	有人	c=0 d=0.0995012 t=3
-iux njin iux 	有人有	c=-1 d=1 t=3
-ngyan zjin 	元辰	c=0 d=0.0995012 t=3
-pheng qim 	拼音	c=0 d=0.0995012 t=3
-tha iuh byang no ngax 	他又房奴我	c=-1 d=0 t=3
-triung kox 	中古	c=0 d=0.0995012 t=3
-triung kox pheng qim 	中古拼音	c=1 d=1 t=3
-zsiah 	謝	c=0 d=0.0995012 t=3
-zsiah ngyan zjin 	謝元辰	c=1 d=1 t=3
+chad ghau 	蔡豪	c=2 d=1.98506 t=6
+iu phjeuh 	郵票	c=-1 d=0 t=6
+iu phyoih 	郵費	c=-1 d=0 t=6
+iu phyoih su 	郵費涑	c=-1 d=0 t=6
+iux 	有	c=0 d=0.0995012 t=6
+iux njin 	有人	c=0 d=0.0995012 t=6
+iux njin iux 	有人有	c=-1 d=1 t=6
+ngyan zjin 	元辰	c=0 d=0.0995012 t=6
+pheng qim 	拼音	c=0 d=0.0995012 t=6
+phrah 	怕	c=1 d=1 t=6
+tha iuh byang no ngax 	他又房奴我	c=-1 d=0 t=6
+triung kox 	中古	c=0 d=0.0995012 t=6
+triung kox pheng qim 	中古拼音	c=1 d=1 t=6
+zsiah 	謝	c=0 d=0.0995012 t=6
+zsiah ngyan zjin 	謝元辰	c=1 d=1 t=6
