@@ -145,6 +145,18 @@ translator:
     - xform/([jqxy])v/$1u/
     - xform/([jqx])u/$1ü/
 
+    # - xform/ong/ueng/
+    # - xform/([iy])u(ng?)/üe$2/
+    # - xform/([iy])u/ü/
+    # # i u as initial consonants
+    # - xform/([jqx])([aeo])/$1i$2/
+    # - xform/y([aeo])/i$1/
+    # - xform/i(ng?)/ie$1/
+    # - xform/yi/i/
+    # - xform/([zcsr]h?)y/$1y/
+    # - xform/u([in])/ue$1/
+    # - xform/wu?/u/
+
 custom_phrase:
   dictionary: ""
   user_dict: custom_phrase
