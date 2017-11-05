@@ -25,8 +25,8 @@ schema:
 
     # 組合聲母
     BH = p, BF = m, DH = t, DL = n, GH = k,
-    ZH = j, CH = q, SH = x, ZC = r
-    ZS = zh, Z'FB = v
+    ZH = j, CH = q, ZC = r ZS = zh
+    Z'FB = v
     v2.0 改变 jqx 键位，ch,sh 使用大衆式
 
     # 組合韻母及活用（同「大衆式」），括弧內爲活用組合
@@ -545,16 +545,16 @@ chord_composer:
     - xform/^dl/n/
     - xform/^zc/rh/
     # - xform/^jh/q/ # v1.0
-    # 以下幾行爲 v2.0
+    # 以下4行爲 v2.0
     - xform/^zh/j/
     - xform/^ch/q/
-    - xform/^sh/x/
+    # - xform/^sh/x/
     - xform/^zs/zh/
     # PC 鍵盤組合聲母
     - xform/^b[zcsh]+/p/
     - xform/^d[zcsh]+/t/
     - xform/^g[zcsh]+/k/
-    - xform/^[zr][sh]+/zh/
+    # - xform/^[zr][sh]+/zh/
     - xform/^csh/ch/
     # 兼容大衆式
     - xform/^cs/sh/
@@ -607,6 +607,7 @@ chord_composer:
     - xform/^([bpmfv])$/$1u/
     - xform/^([dtnl])$/$1i/
     - xform/^([gkh])$/$1eo/
+    - xform/^([jq])$/$1i/
     - xform/^([zcsr]h?)$/$1y/
   output_format:
     - "xform/^([bpmfv])([iu]|i?[ae]|uo|[ae]i|i?[ao]u|[ei]n|i?an|ang|[ei]ng)$/$1$2'/"
