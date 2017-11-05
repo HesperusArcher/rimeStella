@@ -4,7 +4,7 @@
 schema:
   schema_id: zhung_combo_kbcon-cangjie5
   name: "中州羅馬字（並擊·鍵盤控式）＆倉頡五代"
-  version: "2017.11.05"
+  version: "2017.10.24"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 發明人 朱邦復先生
@@ -25,9 +25,8 @@ schema:
 
     # 組合聲母
     BH = p, BF = m, DH = t, DL = n, GH = k,
-    ZH = j, CH = q, SH = x, ZC = r
-    ZS = zh, Z'FB = v
-    v2.0 改变 jqx 键位，ch,sh 使用大衆式
+    ZH = zh, CH = ch, SH = sh, ZC = r
+    Z'FB = v
 
     # 組合韻母及活用（同「大衆式」），括弧內爲活用組合
     AI = ai, eoI (oI) = ei, AU = au, U (E'U) = ou,
@@ -544,17 +543,12 @@ chord_composer:
     - xform/^bf/m/
     - xform/^dl/n/
     - xform/^zc/rh/
-    # - xform/^jh/q/ # v1.0
-    # 以下幾行爲 v2.0
-    - xform/^zh/j/
-    - xform/^ch/q/
-    - xform/^sh/x/
-    - xform/^zs/zh/
+    - xform/^jh/q/
     # PC 鍵盤組合聲母
     - xform/^b[zcsh]+/p/
     - xform/^d[zcsh]+/t/
     - xform/^g[zcsh]+/k/
-    - xform/^[zr][sh]+/zh/
+    # - xform/^[zr][sh]+/zh/
     - xform/^csh/ch/
     # 兼容大衆式
     - xform/^cs/sh/
