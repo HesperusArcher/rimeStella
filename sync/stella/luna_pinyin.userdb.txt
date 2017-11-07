@@ -8630,6 +8630,7 @@ long 	龍	c=1 d=0.0931205 t=39538
 long guang 	龍光	c=0 d=2.27871e-14 t=39538
 long guang she niu dou zhi xu 	龍光射牛鬥之墟	c=1 d=2.29012e-13 t=39538
 long kou 	龍口	c=1 d=0.88692 t=39538
+long kou duo shi 	龍口奪食	c=-1 d=0 t=39538
 long men 	龍門	c=0 d=4.27852e-14 t=39538
 long tong 	籠統	c=1 d=0.00447164 t=39538
 long tou 	龍頭	c=0 d=0.0119433 t=39538
@@ -11435,6 +11436,7 @@ sheng cheng liang 	生成量	c=1 d=0.782705 t=39538
 sheng cun 	生存	c=0 d=0.00356146 t=39538
 sheng cun lv 	生存率	c=3 d=1.32553e-11 t=39538
 sheng cun neng li 	生存能力	c=3 d=0.0837432 t=39538
+sheng dan kuai le 	聖誕快樂	c=-1 d=0 t=39538
 sheng dao 	聲道	c=2 d=1.96062 t=39538
 sheng de 	省得	c=1 d=0.794534 t=39538
 sheng di 	勝地	c=0 d=4.43092e-14 t=39538
