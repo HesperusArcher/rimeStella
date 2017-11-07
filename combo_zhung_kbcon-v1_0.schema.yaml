@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: zhung_combo_kbcon-cangjie5
+  schema_id: combo_zhung_kbcon-cangjie5
   name: "中州羅馬字（並擊·鍵盤控式）＆倉頡五代"
   version: "2017.10.24"
   author:
