@@ -4975,6 +4975,7 @@ guang hua xue 	光化學	c=0 d=1.57752e-11 t=39538
 guang hua xue xing yan wu shi jian 	光化學型煙霧事件	c=1 d=1.58542e-10 t=39538
 guang hui 	光輝	c=0 d=0.012493 t=39538
 guang hui li cheng 	光輝歷程	c=1 d=0.125556 t=39538
+guang mao 	廣袤	c=1 d=0.255381 t=39538
 guang ming 	光明	c=1 d=0.236876 t=39538
 guang ming qian jing 	光明前景	c=1 d=0.128093 t=39538
 guang pan 	光盤	c=1 d=0.831104 t=39538
