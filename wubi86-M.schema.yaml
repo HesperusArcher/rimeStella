@@ -68,9 +68,10 @@ translator:
   dictionary: wubi86
   prism: wubi86-M
   enable_charset_filter: true
-  enable_sentence: true
-  enable_encoder: true
-  encode_commit_history: true
+  enable_completion: true # 提前顯示尚未輸入完整碼的字〔僅 table_translator 有效〕
+  enable_sentence: true # 是否開啓自動造句
+  enable_encoder: true # 是否開啓自動造詞
+  encode_commit_history: false
   # max_phrase_length: 4
   disable_user_dict_for_patterns:
     - "^z.*$"
