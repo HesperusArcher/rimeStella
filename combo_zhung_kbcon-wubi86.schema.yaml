@@ -96,7 +96,7 @@ engine:
 
 zh_simp:
   opencc_config: t2s.json
-  tags: [ pinyin_lookup, abc ]
+  tags: [ abc ]
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -180,7 +180,7 @@ pinyin_lookup:
   tag: pinyin_lookup
   prefix: "`"
   suffix: ;
-  dictionary: luna_pinyin
+  dictionary: pinyin_simp
   preedit_format: *pinyin
   tips: 【简拼反查五笔】
   closing_tips: 【中州羅馬字】

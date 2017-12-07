@@ -2,28 +2,43 @@
 #@/db_name	wubi86.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	32
+#@/tick	48
 #@/user_id	stella
-avk 	茹	c=1 d=0.900325 t=32
-bsk 	阿	c=1 d=0.932394 t=32
-fcwf 	支付	c=2 d=1.95101 t=32
-fhq 	赵	c=1 d=0.927743 t=32
-fuk 	培	c=1 d=0.918512 t=32
-ggg 	王	c=1 d=0.869358 t=32
-ggtt 	五笔	c=3 d=2.85143 t=32
-go 	来	c=1 d=0.946485 t=32
-goo 	琰	c=1 d=0.923116 t=32
-hjj 	卓	c=1 d=0.941765 t=32
-ihpt 	小额	c=1 d=1 t=32
-iqpl 	辉	c=1 d=0.909373 t=32
-iqv 	兆	c=1 d=0.878095 t=32
-lk 	加	c=1 d=0.891366 t=32
-ll 	男	c=1 d=0.882497 t=32
-pgy 	宝	c=2 d=1.91202 t=32
-sfg 	杜	c=1 d=0.88692 t=32
-sn 	杨	c=1 d=0.913931 t=32
-tmgt 	微	c=1 d=0.965605 t=32
-wfc 	会	c=1 d=0.937067 t=32
-wyg 	信	c=1 d=0.970446 t=32
-xt 	张	c=1 d=0.904837 t=32
-enctmwy 	微信	c=1 d=0.99005 t=32
+ajdj 	暮	c=1 d=1 t=41
+avk 	茹	c=1 d=0.900325 t=48
+bsk 	阿	c=1 d=0.932394 t=48
+cqw 	欢	c=1 d=1 t=48
+dn 	成	c=1 d=1 t=42
+edm 	须	c=1 d=1 t=46
+fcwf 	支付	c=2 d=1.95101 t=48
+fhq 	赵	c=1 d=0.927743 t=48
+fje 	朝	c=1 d=1 t=37
+fuk 	培	c=1 d=0.918512 t=48
+fv 	雪	c=1 d=1 t=43
+gef 	青	c=1 d=1 t=39
+ggg 	王	c=1 d=0.869358 t=48
+ggtt 	五笔	c=3 d=2.85143 t=48
+go 	来	c=1 d=0.946485 t=48
+goo 	琰	c=1 d=0.923116 t=48
+hjj 	卓	c=1 d=0.941765 t=48
+ihpt 	小额	c=1 d=1 t=48
+iqpl 	辉	c=1 d=0.909373 t=48
+iqv 	兆	c=1 d=0.878095 t=48
+lk 	加	c=1 d=0.891366 t=48
+ll 	男	c=1 d=0.882497 t=48
+nyu 	尽	c=1 d=1 t=47
+pgy 	宝	c=2 d=1.91202 t=48
+rrr 	白	c=1 d=1 t=34
+sfg 	杜	c=1 d=0.88692 t=48
+sn 	杨	c=1 d=0.913931 t=48
+tjuj 	得意	c=1 d=1 t=45
+tmgt 	微	c=1 d=0.965605 t=48
+tuj 	简	c=1 d=1 t=48
+v 	发	c=1 d=1 t=36
+vk 	如	c=1 d=1 t=38
+wfc 	会	c=1 d=0.937067 t=48
+wwtg 	人生	c=1 d=1 t=44
+wyg 	信	c=1 d=0.970446 t=48
+xt 	张	c=1 d=0.904837 t=48
+xxg 	丝	c=1 d=1 t=40
+enctmwy 	微信	c=1 d=0.99005 t=48
