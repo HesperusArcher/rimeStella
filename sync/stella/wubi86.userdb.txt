@@ -2,17 +2,107 @@
 #@/db_name	wubi86.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	22
+#@/tick	58
 #@/user_id	stella
-f 	地	c=1 d=0.927743 t=22
-fb iu 	地洋	c=-1 d=0 t=22
-fu 	增	c=1 d=0.946485 t=22
-fuig 	增添	c=-1 d=0 t=22
-fuim 	增没	c=-1 d=1 t=22
-ggtt 	五笔	c=4 d=3.96526 t=22
-im 	没	c=1 d=0.951229 t=22
-ium 	滴	c=1 d=0.932394 t=22
-j 	是	c=1 d=1 t=22
-wg 	全	c=1 d=1 t=22
-encfbiu 	地滴	c=-1 d=0.941765 t=22
-encfuim 	增没	c=-1 d=0.995012 t=22
+b 	了	c=2 d=1.7962 t=58
+bdyw 	承认	c=1 d=1 t=58
+ceet 	通用	c=1 d=0.946485 t=58
+dgv 	威	c=1 d=0.852144 t=58
+f 	地	c=1 d=0.927743 t=58
+fb iu 	地洋	c=-1 d=0 t=58
+ffiw 	款	c=1 d=0.923116 t=58
+ftjb 	都	c=1 d=0.878095 t=58
+fu 	增	c=1 d=0.946485 t=58
+fuig 	增添	c=-1 d=0 t=58
+fuim 	增没	c=-1 d=1 t=58
+g 	一	c=1 d=0.980199 t=58
+ggtt 	五笔	c=4 d=3.96526 t=58
+gi 	不	c=1 d=0.995012 t=58
+gice 	不能	c=1 d=0.99005 t=58
+gijg 	还是	c=1 d=0.955997 t=58
+gtpg 	五笔字型	c=1 d=0.937067 t=58
+hko 	点	c=1 d=0.985112 t=58
+im 	没	c=1 d=0.951229 t=58
+ium 	滴	c=1 d=0.932394 t=58
+j 	是	c=1 d=1 t=58
+jbc 	最	c=1 d=0.960789 t=58
+jnyt 	电话	c=1 d=0.88692 t=58
+khwj 	中介	c=1 d=0.839457 t=58
+ntg 	性	c=1 d=0.951229 t=58
+p 	这	c=1 d=0.97531 t=58
+r 	的	c=4 d=3.71366 t=58
+rs 	打	c=1 d=0.882497 t=58
+t 	和	c=2 d=1.7576 t=58
+ukjg 	问题	c=1 d=0.932394 t=58
+uq 	交	c=1 d=0.918512 t=58
+waff 	贷款	c=1 d=0.909373 t=58
+wg 	全	c=1 d=1 t=58
+wvkl 	分别	c=1 d=0.895834 t=58
+ymk 	高	c=1 d=0.965605 t=58
+yni 	永	c=1 d=0.847894 t=58
+yu 	说	c=1 d=0.900325 t=58
+encbwff 	了贷款	c=0 d=0.0909373 t=58
+encbwft 	了贷款和	c=0 d=0.0913931 t=58
+encbwfu 	了贷款和交	c=0 d=0.0918512 t=58
+enccenj 	通用性还是	c=0 d=0.0955997 t=58
+enccent 	通用性	c=0 d=0.0951229 t=58
+encfbiu 	地滴	c=-1 d=0.941765 t=58
+encffrq 	款的	c=0 d=0.0927743 t=58
+encfrjb 	都打电话了	c=0 d=0.0891366 t=58
+encfrjy 	都打电话	c=0 d=0.088692 t=58
+encfruj 	款的问题	c=0 d=0.0932394 t=58
+encftrs 	都打	c=0 d=0.0882497 t=58
+encfuim 	增没	c=-1 d=0.995012 t=58
+encgbyw 	不承认	c=0 d=0.1 t=58
+encgcgi 	不能不	c=0 d=0.0995012 t=58
+encgcgy 	不能不承认	c=0 d=0.1 t=58
+encgghk 	一点	c=0 d=0.0985112 t=58
+encghgc 	一点不能	c=0 d=0.099005 t=58
+encghgg 	一点不能不	c=0 d=0.0995012 t=58
+encgjjb 	还是最	c=0 d=0.0960789 t=58
+encgjjr 	还是最高的	c=0 d=0.0970446 t=58
+encgjjy 	还是最高	c=0 d=0.0965605 t=58
+encgtpr 	五笔字型的	c=0 d=0.0941765 t=58
+enchgce 	点不能	c=0 d=0.099005 t=58
+enchgcg 	点不能不	c=0 d=0.0995012 t=58
+encjbym 	最高	c=0 d=0.0965605 t=58
+encjybn 	电话了	c=0 d=0.0891366 t=58
+encjyrq 	最高的	c=0 d=0.0970446 t=58
+enckwtd 	中介和永威	c=0 d=0.0869358 t=58
+enckwtk 	中介和	c=0 d=0.0843665 t=58
+encngjg 	性还是	c=0 d=0.0955997 t=58
+encngjj 	性还是最	c=0 d=0.0960789 t=58
+encngjy 	性还是最高	c=0 d=0.0965605 t=58
+encrcen 	的通用性	c=0 d=0.0951229 t=58
+encrcet 	的通用	c=0 d=0.0946485 t=58
+encrfrs 	的都打	c=0 d=0.0882497 t=58
+encrfry 	的都打电话	c=0 d=0.088692 t=58
+encrjyb 	打电话了	c=0 d=0.0891366 t=58
+encrjyt 	打电话	c=0 d=0.088692 t=58
+encrqft 	的都	c=0 d=0.0878095 t=58
+encrujg 	的问题	c=0 d=0.0932394 t=58
+enctkuq 	和交	c=0 d=0.0918512 t=58
+enctuff 	和交款	c=0 d=0.0923116 t=58
+enctufr 	和交款的	c=0 d=0.0927743 t=58
+enctydf 	和永威的都	c=0 d=0.0878095 t=58
+enctydg 	和永威	c=0 d=0.0869358 t=58
+enctydr 	和永威的	c=0 d=0.0873716 t=58
+encufrj 	交款的问题	c=0 d=0.0932394 t=58
+encufrq 	交款的	c=0 d=0.0927743 t=58
+encuqff 	交款	c=0 d=0.0923116 t=58
+encwftf 	贷款和交款	c=0 d=0.0923116 t=58
+encwftk 	贷款和	c=0 d=0.0913931 t=58
+encwftu 	贷款和交	c=0 d=0.0918512 t=58
+encwkyb 	分别说了	c=0 d=0.0904837 t=58
+encwkyu 	分别说	c=0 d=0.0900325 t=58
+encybwf 	说了贷款	c=0 d=0.0909373 t=58
+encybwt 	说了贷款和	c=0 d=0.0913931 t=58
+encydrf 	永威的都	c=0 d=0.0878095 t=58
+encydrq 	永威的	c=0 d=0.0873716 t=58
+encydrr 	永威的都打	c=0 d=0.0882497 t=58
+encyghc 	这一点不能	c=0 d=0.099005 t=58
+encyghk 	这一点	c=0 d=0.0985112 t=58
+encymrq 	高的	c=0 d=0.0970446 t=58
+encyndg 	永威	c=1 d=0.869358 t=58
+encypgg 	这一	c=0 d=0.0980199 t=58
+encyubn 	说了	c=0 d=0.0904837 t=58

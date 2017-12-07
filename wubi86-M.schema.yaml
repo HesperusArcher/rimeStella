@@ -81,9 +81,13 @@ reverse_lookup:
   suffix: "'"
   tips: 〔拼音〕
   preedit_format:
+    - xform/^z([a-z]*)$/$1/
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+  comment_format:
+    - xform/$/〕/
+    - xform/^/〔/
 
 pinyin:
   tag: pinyin
