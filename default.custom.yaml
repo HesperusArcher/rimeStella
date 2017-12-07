@@ -1,10 +1,9 @@
 patch:
   schema_list:
-    - schema: luna_pinyin-cangjie5
-    - schema: cangjie5-M
-    - schema: combo_pinyin_kbcon-cangjie5
+    # - schema: combo_pinyin_kbcon-cangjie5
     - schema: combo_zhung_kbcon-cangjie5
     # - schema: zyenpheng
+    - schema: wubi86-M
     - schema: triungkoxsampheng
   switcher:
     hotkeys:

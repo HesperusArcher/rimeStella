@@ -1,0 +1,18 @@
+# Rime user dictionary
+#@/db_name	wubi86.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	22
+#@/user_id	stella
+f 	地	c=1 d=0.927743 t=22
+fb iu 	地洋	c=-1 d=0 t=22
+fu 	增	c=1 d=0.946485 t=22
+fuig 	增添	c=-1 d=0 t=22
+fuim 	增没	c=-1 d=1 t=22
+ggtt 	五笔	c=4 d=3.96526 t=22
+im 	没	c=1 d=0.951229 t=22
+ium 	滴	c=1 d=0.932394 t=22
+j 	是	c=1 d=1 t=22
+wg 	全	c=1 d=1 t=22
+encfbiu 	地滴	c=-1 d=0.941765 t=22
+encfuim 	增没	c=-1 d=0.995012 t=22
