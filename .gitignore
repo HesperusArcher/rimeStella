@@ -29,4 +29,5 @@ zhung*.dict.yaml
 
 sync/stella/*.bin
 sync/stella/*.yaml
+sync/stella/pinyin_simp.userdb.txt
 sync/stella/terra_pinyin.userdb.txt

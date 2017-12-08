@@ -208,7 +208,7 @@ wubi86:
   comment_format: *comment
   disable_user_dict_for_patterns:
     - "^z.*$"
-  initial_quality: 0.75
+  initial_quality: 0.05
   tips: 【五笔86】
   closing_tips: 【中州羅馬字】
 

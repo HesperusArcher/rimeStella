@@ -2,43 +2,58 @@
 #@/db_name	wubi86.userdb
 #@/db_type	userdb
 #@/rime_version	1.2.9
-#@/tick	48
+#@/tick	63
 #@/user_id	stella
-ajdj 	暮	c=1 d=1 t=41
-avk 	茹	c=1 d=0.900325 t=48
-bsk 	阿	c=1 d=0.932394 t=48
-cqw 	欢	c=1 d=1 t=48
-dn 	成	c=1 d=1 t=42
-edm 	须	c=1 d=1 t=46
-fcwf 	支付	c=2 d=1.95101 t=48
-fhq 	赵	c=1 d=0.927743 t=48
-fje 	朝	c=1 d=1 t=37
-fuk 	培	c=1 d=0.918512 t=48
-fv 	雪	c=1 d=1 t=43
-gef 	青	c=1 d=1 t=39
-ggg 	王	c=1 d=0.869358 t=48
-ggtt 	五笔	c=3 d=2.85143 t=48
-go 	来	c=1 d=0.946485 t=48
-goo 	琰	c=1 d=0.923116 t=48
-hjj 	卓	c=1 d=0.941765 t=48
-ihpt 	小额	c=1 d=1 t=48
-iqpl 	辉	c=1 d=0.909373 t=48
-iqv 	兆	c=1 d=0.878095 t=48
-lk 	加	c=1 d=0.891366 t=48
-ll 	男	c=1 d=0.882497 t=48
-nyu 	尽	c=1 d=1 t=47
-pgy 	宝	c=2 d=1.91202 t=48
-rrr 	白	c=1 d=1 t=34
-sfg 	杜	c=1 d=0.88692 t=48
-sn 	杨	c=1 d=0.913931 t=48
-tjuj 	得意	c=1 d=1 t=45
-tmgt 	微	c=1 d=0.965605 t=48
-tuj 	简	c=1 d=1 t=48
-v 	发	c=1 d=1 t=36
-vk 	如	c=1 d=1 t=38
-wfc 	会	c=1 d=0.937067 t=48
-wwtg 	人生	c=1 d=1 t=44
-wyg 	信	c=1 d=0.970446 t=48
-xt 	张	c=1 d=0.904837 t=48
-xxg 	丝	c=1 d=1 t=40
-enctmwy 	微信	c=1 d=0.99005 t=48
+ajdj 	暮	c=1 d=0.965605 t=63
+avk 	茹	c=1 d=0.900325 t=63
+bsk 	阿	c=1 d=0.932394 t=63
+cqw 	欢	c=1 d=1 t=63
+dn 	成	c=1 d=0.970446 t=63
+edm 	须	c=1 d=0.99005 t=63
+fcwf 	支付	c=2 d=1.95101 t=63
+fhq 	赵	c=1 d=0.927743 t=63
+fje 	朝	c=1 d=0.946485 t=63
+fke 	袁	c=1 d=0.99005 t=63
+fuk 	培	c=1 d=0.918512 t=63
+fv 	雪	c=1 d=0.97531 t=63
+gef 	青	c=1 d=0.955997 t=63
+ggg 	王	c=1 d=0.869358 t=63
+ggtt 	五笔	c=3 d=2.85143 t=63
+gkhk 	璐	c=2 d=1.99501 t=63
+go 	来	c=1 d=0.946485 t=63
+goo 	琰	c=1 d=0.923116 t=63
+hjj 	卓	c=1 d=0.941765 t=63
+ie 	肖	c=1 d=0.99005 t=63
+ihpt 	小额	c=1 d=1 t=63
+iqpl 	辉	c=1 d=0.909373 t=63
+iqv 	兆	c=1 d=0.878095 t=63
+kht 	路	c=1 d=0.980199 t=63
+l 	国	c=1 d=0.985112 t=63
+lk 	加	c=1 d=0.891366 t=63
+ll 	男	c=1 d=0.882497 t=63
+ngjg 	恒	c=1 d=0.985112 t=63
+nyu 	尽	c=1 d=0.995012 t=63
+pgy 	宝	c=2 d=1.91202 t=63
+q 	我	c=1 d=0.980199 t=63
+qqqq 	金	c=1 d=0.97531 t=63
+rrr 	白	c=1 d=0.932394 t=63
+sfg 	杜	c=1 d=0.88692 t=63
+sn 	杨	c=1 d=0.913931 t=63
+tg 	生	c=1 d=1 t=63
+tjuj 	得意	c=1 d=0.985112 t=63
+tmgt 	微	c=1 d=0.965605 t=63
+tuj 	简	c=1 d=1 t=63
+tvr 	魏	c=1 d=0.955997 t=63
+v 	发	c=1 d=0.941765 t=63
+vk 	如	c=1 d=0.951229 t=63
+vpq 	婉	c=1 d=0.960789 t=63
+wcw 	俊	c=1 d=0.995012 t=63
+wfc 	会	c=1 d=0.937067 t=63
+wwtg 	人生	c=1 d=0.980199 t=63
+wyg 	信	c=1 d=0.970446 t=63
+xt 	张	c=1 d=0.904837 t=63
+xxg 	丝	c=1 d=0.960789 t=63
+ye 	衣	c=-1 d=0 t=63
+yga 	斌	c=1 d=0.970446 t=63
+yj 	刘	c=1 d=0.965605 t=63
+enctmwy 	微信	c=1 d=0.99005 t=63
