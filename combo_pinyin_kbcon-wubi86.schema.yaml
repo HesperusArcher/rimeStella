@@ -485,6 +485,7 @@ chord_composer:
     # 一些容錯
     - xform/^([zcsr]h?)i([aoe])/$1$2/
     - xform/^([zcsr]h?)i(ng?)$/$1e$2/
+    - xform/^([bpmf])uo/$1o/ #脣音聲母不分開合口
     # 拼寫規則
     - xform/iou$/iu/
     - xform/uei$/ui/
