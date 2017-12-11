@@ -1,5 +1,6 @@
 patch:
   schema_list:
+    - schema: combo_pinyin_kbcon-wubi86
     - schema: combo_zhung_kbcon-wubi86
     # - schema: zyenpheng
     - schema: wubi86-M
