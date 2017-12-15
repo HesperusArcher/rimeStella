@@ -444,8 +444,8 @@ chord_composer:
     - xform/^ae$/a/
     - xform/^R$/er/
     # 40% 鍵盤可啓用這二鍵輸入標點符號及翻頁，但會影響回車輸入字母
-    #- xform/^Y$/,/
-    #- xform/^X$/./
+    - xform/^Y$/,/
+    - xform/^X$/./
     - xform/[XYR]+//
     # 上排三鍵並擊 ong, uang
     - xform/(ua?)Io$/$1Ne/
