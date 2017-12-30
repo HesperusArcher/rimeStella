@@ -138,7 +138,7 @@ translator:
 pinyin:
   tag: pinyin
   dictionary: luna_pinyin
-  prefix: py
+  prefix: J
   suffix: ;
   preedit_format: *pinyin
   tips: 【漢拼】
@@ -392,7 +392,7 @@ recognizer:
     pinyin_lookup: "`[a-z]*;?$"
     triungkox: "(?<![`A-Z])P[a-z']*;?$"
     wubi86: "(?<![`A-Z])zz[a-z']*;?$"
-    pinyin: "(?<![`A-Z])py[a-z']*;?$"
+    pinyin: "(?<![`A-Z])J[a-z']*;?$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
     upper_case: ^([A-IK-OQ-Z][a-zA-Z0-9]*|[JP][A-Z0-9]*)$
 
