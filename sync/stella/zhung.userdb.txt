@@ -62,7 +62,7 @@ ban3 mian3 fi4 	版免費	c=-1 d=2.75693e-19 t=23335
 ban3 mian4 	版面	c=0 d=2.75693e-20 t=23335
 ban3 mian4 fi4 	版面費	c=4 d=1.82663e-18 t=23335
 ban3 quan2 	版權	c=1 d=0.111917 t=23335
-ban4 	半	c=1 d=0.742611 t=23335
+ban4 	半	c=3 d=0.742611 t=23335
 ban4 bau3 liou2 	半保留	c=1 d=0.985112 t=23335
 ban4 bau3 liou2 fu1 zhy4 	半保留複製	c=1 d=0.0735345 t=23335
 ban4 bu1 lian2 siu2 	半不連續	c=1 d=0.0403566 t=23335
@@ -112,7 +112,7 @@ bau3 siang1 	寶箱	c=1 d=0.226502 t=23335
 bau3 wun1 	保溫	c=1 d=0.852144 t=23335
 bau3 wun1 siang1 	保溫箱	c=1 d=0.822835 t=23335
 bau3 you3 liang2 	保有量	c=1 d=0.00047843 t=23335
-bau3 zang4 	寶藏	c=2 d=0.736192 t=23335
+bau3 zang4 	寶藏	c=2 d=1 t=23335
 bau3 zhang4 	保障	c=1 d=0.0518189 t=23335
 bau3 zhen1 sing4 	保真性	c=2 d=0.442174 t=23335
 bau3 zheng4 	保證	c=6 d=0.801147 t=23335
@@ -122,6 +122,7 @@ bau4 dau4 	報道	c=1 d=0.267135 t=23335
 bau4 gau4 	報告	c=2 d=0.114458 t=23335
 bau4 kuo1 	豹鞹	c=-1 d=0 t=23335
 bau4 lu4 	暴露	c=8 d=0.405046 t=23335
+bau4 lu4 liang2 	暴露量	c=1 d=6.91205e-09 t=23335
 bau4 lu4 rhen2 qun2 	暴露人羣	c=1 d=0.0137049 t=23335
 bau4 lu4 yin1 su4 	暴露因素	c=2 d=0.135874 t=23335
 bau4 lu4 zu3 	暴露組	c=16 d=1.56885 t=23335
@@ -169,7 +170,7 @@ bei4 hui4 	背會	c=0 d=0.00219278 t=23335
 bei4 hui4 liau3 	背會了	c=1 d=0.0220377 t=23335
 bei4 jing3 	背景	c=3 d=0.581732 t=23335
 bei4 yun4 	備孕	c=1 d=0.194952 t=23335
-bei4 yung4 	備用	c=1 d=0.985112 t=23335
+bei4 yung4 	備用	c=2 d=0.985112 t=23335
 bei4 zhuan3 lu1 ji1 yin1 	被轉錄基因	c=1 d=0.33454 t=23335
 bei4 zhuo2 	背着	c=1 d=0.241714 t=23335
 bei4 zy3 	被子	c=1 d=0.951229 t=23335
@@ -257,7 +258,7 @@ biau3 da1 te2 dian3 	表達特點	c=1 d=0.733447 t=23335
 biau3 da1 yu1 	表達於	c=2 d=0.91724 t=23335
 biau3 da1 zai4 	表達在	c=2 d=1.72616 t=23335
 biau3 dai4 	錶帶	c=2 d=0.0652717 t=23335
-biau3 ge1 	表格	c=5 d=0.515728 t=23335
+biau3 ge1 	表格	c=5 d=0.9186 t=23335
 biau3 guan1 	表觀	c=1 d=0.529935 t=23335
 biau3 jun1 	表均	c=-1 d=0 t=23335
 biau3 mian4 	表面	c=9 d=1.75549 t=23335
@@ -276,7 +277,7 @@ biau3 xing2 	表型	c=2 d=0.297231 t=23335
 biau3 yi4 	表意	c=2 d=0.26982 t=23335
 bie2 	別	c=5 d=1.82955 t=23335
 bie2 jau4 	別叫	c=1 d=0.371577 t=23335
-bie2 le1 	別的	c=6 d=0.869358 t=23335
+bie2 le1 	別的	c=6 d=0.92487 t=23335
 bie2 mai3 	別買	c=1 d=0.166127 t=23335
 bie2 shuo1 	別說	c=1 d=0.763379 t=23335
 bie2 wu2 siuan3 zhe2 	別無選擇	c=1 d=4.63644e-17 t=23335
@@ -290,7 +291,7 @@ bing4 	並	c=21 d=1.54676 t=23335
 bing4 	病	c=0 d=0.0449329 t=23335
 bing4 ba3 	並把	c=1 d=0.390628 t=23335
 bing4 bian4 	病變	c=1 d=0.00269866 t=23335
-bing4 bu1 	並不	c=2 d=0.22313 t=23335
+bing4 bu1 	並不	c=3 d=0.371983 t=23335
 bing4 bu1 shy4 	並不是	c=3 d=0.786628 t=23335
 bing4 bu1 yi1 ding4 	並不一定	c=0 d=0.0588605 t=23335
 bing4 bu1 yi1 ding4 shy4 	並不一定是	c=1 d=0.591555 t=23335
@@ -304,6 +305,7 @@ bing4 hau4 	病號	c=1 d=0.04573 t=23335
 bing4 ji1 	並擊	c=4 d=0.873716 t=23335
 bing4 ju4 you3 	並具有	c=1 d=0.694197 t=23335
 bing4 li3 	病理	c=2 d=0.140156 t=23335
+bing4 li3 dui4 zhau4 	病理對照	c=1 d=5.19796e-09 t=23335
 bing4 mu2 you3 	並沒有	c=1 d=0.301194 t=23335
 bing4 qi4 	摒棄	c=1 d=1.68461e-18 t=23335
 bing4 rhu1 	併入	c=1 d=0.000320701 t=23335
@@ -345,7 +347,7 @@ bu1 da4 	不大	c=6 d=1.51353 t=23335
 bu1 dai4 	不帶	c=2 d=0.0693441 t=23335
 bu1 dai4 biau3 	不代表	c=1 d=0.301194 t=23335
 bu1 dan1 wu4 	不耽誤	c=6 d=1.24784 t=23335
-bu1 dau4 	不到	c=2 d=0.701173 t=23335
+bu1 dau4 	不到	c=3 d=0.701173 t=23335
 bu1 de1 bu1 	不得不	c=1 d=0.100259 t=23335
 bu1 de1 jin4 	不得勁	c=1 d=0.00597602 t=23335
 bu1 deng3 	不等	c=3 d=0.308567 t=23335
@@ -360,7 +362,7 @@ bu1 duan4 ti2 gau1 	不斷提高	c=1 d=0.0381969 t=23335
 bu1 dui4 	不對	c=3 d=0.625804 t=23335
 bu1 dui4 jin4 	不對勁	c=1 d=1.5359e-19 t=23335
 bu1 dung3 	不懂	c=1 d=2.12609e-21 t=23335
-bu1 duo1 	不多	c=1 d=0.0948935 t=23335
+bu1 duo1 	不多	c=2 d=0.241172 t=23335
 bu1 eo4 	不餓	c=1 d=0.767206 t=23335
 bu1 fang1 bian4 	不方便	c=2 d=0.0813528 t=23335
 bu1 fang4 	不放	c=1 d=0.425768 t=23335
@@ -377,6 +379,7 @@ bu1 gau1 	不高	c=3 d=0.263553 t=23335
 bu1 gen1 	不跟	c=2 d=0.346456 t=23335
 bu1 gou4 	不夠	c=4 d=0.109375 t=23335
 bu1 guan3 	不管	c=4 d=0.892029 t=23335
+bu1 guang1 	不光	c=1 d=7.79331e-09 t=23335
 bu1 gui4 wui2 	不愧爲	c=2 d=0.00919406 t=23335
 bu1 guo1 	不過	c=7 d=0.917308 t=23335
 bu1 hau3 	不好	c=8 d=1.13525 t=23335
@@ -440,6 +443,7 @@ bu1 rhan3 	不然	c=1 d=0.0502874 t=23335
 bu1 rhu2 	不如	c=5 d=1.47897 t=23335
 bu1 shan4 yu1 	不善於	c=1 d=0.444858 t=23335
 bu1 shang4 	不上	c=5 d=0.843665 t=23335
+bu1 shang4 lai2 	不上來	c=1 d=2.37089e-09 t=23335
 bu1 shang4 qu4 	不上去	c=0 d=0.0218712 t=23335
 bu1 shau3 	不少	c=11 d=0.948959 t=23335
 bu1 shau3 rhen2 	不少人	c=2 d=0.170333 t=23335
@@ -527,7 +531,7 @@ bu1 zhau3 	不找	c=1 d=7.91917e-21 t=23335
 bu1 zheng4 chang2 	不正常	c=1 d=0.343009 t=23335
 bu1 zheng4 tai4 	不正態	c=1 d=0.0611149 t=23335
 bu1 zhun3 	不準	c=1 d=0.0858632 t=23335
-bu1 zhung4 	不中	c=5 d=0.24906 t=23335
+bu1 zhung4 	不中	c=5 d=0.259605 t=23335
 bu1 zhuo2 	不着	c=1 d=0.132655 t=23335
 bu1 zhy1 chy2 	不支持	c=1 d=0.00895345 t=23335
 bu1 zhy1 dau4 	不知道	c=22 d=1.63895 t=23335
@@ -603,7 +607,7 @@ cai3 yang4 dian3 	採樣點	c=4 d=1.61706e-20 t=23335
 cai3 yang4 qi4 	採樣器	c=2 d=1.03166e-20 t=23335
 cai3 yung4 	採用	c=7 d=1.81386 t=23335
 cai3 zi1 	採集	c=1 d=5.1258e-21 t=23335
-cai4 hau2 	蔡豪	c=9 d=1.50945 t=23335
+cai4 hau2 	蔡豪	c=13 d=1.67838 t=23335
 cai4 jou3 lin2 	蔡玖霖	c=2 d=0.421584 t=23335
 cai4 yi2 tian2 	蔡怡恬	c=1 d=0.0515605 t=23335
 can1 guan1 	參觀	c=1 d=0.913931 t=23335
@@ -611,7 +615,7 @@ can1 ja1 	參加	c=4 d=1.16646 t=23335
 can1 kau3 	參考	c=9 d=1.39718 t=23335
 can1 kau3 wun2 xan4 	參考文獻	c=1 d=0.918512 t=23335
 can1 shu3 	參數	c=1 d=0.323033 t=23335
-can1 shuo1 	參數	c=2 d=0.358796 t=23335
+can1 shuo1 	參數	c=3 d=0.513077 t=23335
 can1 yu3 	參與	c=17 d=3.45938 t=23335
 can1 yu3 xa4 	參與下	c=1 d=0.0569831 t=23335
 can1 zhau4 	參照	c=1 d=0.0190631 t=23335
@@ -643,9 +647,9 @@ cha1 rhu1 	插入	c=2 d=0.204632 t=23335
 cha1 tu2 	插圖	c=1 d=0.00101284 t=23335
 cha1 yi4 	差異	c=13 d=0.937191 t=23335
 cha1 zhy2 	差值	c=1 d=0.360595 t=23335
-cha2 	查	c=9 d=1.15443 t=23335
+cha2 	查	c=10 d=1.15443 t=23335
 cha2 biau3 	查表	c=1 d=0.036334 t=23335
-cha2 cha2 	查查	c=4 d=0.56836 t=23335
+cha2 cha2 	查查	c=5 d=0.56836 t=23335
 cha2 dau4 	查到	c=4 d=0.612626 t=23335
 cha2 fan4 	茶飯	c=1 d=2.3497e-21 t=23335
 cha2 kan1 	查看	c=1 d=2.24325e-05 t=23335
@@ -665,6 +669,7 @@ chan3 wu1 	產物	c=3 d=1.90285 t=23335
 chan3 ye1 	產業	c=1 d=6.07357e-17 t=23335
 chan3 ye1 bian1 geo4 	產業邊個	c=-1 d=0 t=23335
 chan3 ye1 bian4 ge1 	產業變革	c=1 d=0.0263839 t=23335
+chang1 dau4 	倡導	c=1 d=3.28139e-09 t=23335
 chang2 	長	c=4 d=0.442183 t=23335
 chang2 an1 	長安	c=1 d=1.14926e-19 t=23335
 chang2 an4 	長按	c=1 d=0.00782838 t=23335
@@ -804,7 +809,7 @@ chuan1 	穿	c=4 d=1.21216 t=23335
 chuan1 guo1 	穿過	c=1 d=0.425283 t=23335
 chuan1 kung3 	穿孔	c=0 d=0.0358796 t=23335
 chuan1 kung3 su4 	穿孔素	c=1 d=0.360595 t=23335
-chuan2 	傳	c=1 d=0.918512 t=23335
+chuan2 	傳	c=2 d=0.918512 t=23335
 chuan2 buo1 	傳播	c=1 d=1.45722e-18 t=23335
 chuan2 dau4 	傳導	c=1 d=0.12307 t=23335
 chuan2 di4 	傳遞	c=7 d=0.531021 t=23335
@@ -870,7 +875,7 @@ chy1 liau3 fan4 	吃了飯	c=1 d=0.0361528 t=23335
 chy1 sha4 	吃啥	c=2 d=0.769521 t=23335
 chy1 wan2 	吃完	c=3 d=1.68689 t=23335
 chy1 xa4 	吃下	c=2 d=0.910786 t=23335
-chy1 zau3 	吃棗	c=1 d=0.860708 t=23335
+chy1 zau3 	吃棗	c=2 d=0.860708 t=23335
 chy2 siu2 	持續	c=1 d=0.0226371 t=23335
 chy3 lun2 	齒輪	c=1 d=0.0378169 t=23335
 ci1 da4 	七大	c=1 d=0.511709 t=23335
@@ -1078,6 +1083,7 @@ da3 kai1 	打開	c=6 d=0.681803 t=23335
 da3 liau3 	打了	c=2 d=0.351163 t=23335
 da3 rhau3 	打擾	c=0 d=8.66348e-20 t=23335
 da3 rhau3 liau3 	打擾了	c=2 d=0.000214973 t=23335
+da3 sau3 	打掃	c=1 d=1.91222e-09 t=23335
 da3 shang4 	打上	c=1 d=9.22144e-18 t=23335
 da3 suan4 	打算	c=6 d=1.3246 t=23335
 da3 tou2 	打頭	c=1 d=0.264477 t=23335
@@ -1096,9 +1102,10 @@ da4 dau4 	大道	c=3 d=0.0995012 t=23335
 da4 dau4 zhy4 jan3 	大道至簡	c=1 d=1 t=23335
 da4 duo1 shuo1 	大多數	c=1 d=0.644036 t=23335
 da4 gai4 	大概	c=3 d=0.462029 t=23335
+da4 gu1 	大姑	c=1 d=7.71577e-09 t=23335
 da4 guang3 	大廣	c=1 d=0.0526021 t=23335
 da4 hui4 	大會	c=3 d=0.559898 t=23335
-da4 ja1 	大家	c=2 d=0.143704 t=23335
+da4 ja1 	大家	c=3 d=0.879464 t=23335
 da4 jang3 tang2 	大講堂	c=1 d=0.0728029 t=23335
 da4 ju2 	大局	c=0 d=0.00236356 t=23335
 da4 ju2 yi4 shy1 	大局意識	c=1 d=0.00733572 t=23335
@@ -1177,8 +1184,8 @@ dan1 lian2 	單鏈	c=3 d=0.96583 t=23335
 dan1 shun4 fan1 zy3 	單順反子	c=1 d=0.204948 t=23335
 dan1 te2 yi4 sing4 	單特異性	c=1 d=0.628135 t=23335
 dan1 ti3 	單體	c=10 d=2.20458 t=23335
-dan1 wu4 	耽誤	c=1 d=0.806541 t=23335
-dan1 wui4 	單位	c=2 d=0.289139 t=23335
+dan1 wu4 	耽誤	c=2 d=0.93606 t=23335
+dan1 wui4 	單位	c=3 d=0.803238 t=23335
 dan1 yang2 sing4 	單陽性	c=1 d=1.08298 t=23335
 dan1 yang2 sing4 jai1 duan4 	單陽性階段	c=1 d=0.970446 t=23335
 dan1 yang2 sing4 si4 bau1 	單陽性細胞	c=1 d=1 t=23335
@@ -1251,6 +1258,7 @@ dau4 zhang4 liau3 	到帳了	c=1 d=0.582748 t=23335
 dau4 zhy4 	導致	c=5 d=0.566097 t=23335
 de1 	得	c=20 d=1.67413 t=23335
 de1 chu1 	得出	c=1 d=0.615697 t=23335
+de1 cing1 	德清	c=2 d=1.28573e-08 t=23335
 de1 dang1 	得當	c=1 d=0.219808 t=23335
 de1 dau4 	得到	c=6 d=1.30631 t=23335
 de1 duo1 	得多	c=0 d=0.00257325 t=23335
@@ -1279,6 +1287,8 @@ di1 	低	c=3 d=1.27063 t=23335
 di1 	的	c=-29 d=10.1936 t=23335
 di1 cin1 huo2 li1 	低親和力	c=1 d=0.351692 t=23335
 di1 fen1 zy3 liang2 	低分子量	c=1 d=0.16696 t=23335
+di1 mi1 du4 	低密度	c=0 d=6.22309e-10 t=23335
+di1 mi1 du4 zhy1 dan4 be2 	低密度脂蛋白	c=1 d=6.25428e-09 t=23335
 di1 yu1 	低於	c=1 d=0.142274 t=23335
 di3 li4 	砥礪	c=0 d=0.0188247 t=23335
 di3 li4 fen4 zin4 	砥礪奮進	c=1 d=0.189191 t=23335
@@ -1350,6 +1360,7 @@ dian4 lu4 	電路	c=1 d=1.18446e-21 t=23335
 dian4 nau3 	電腦	c=8 d=0.303721 t=23335
 dian4 sin4 	電信	c=2 d=0.107528 t=23335
 dian4 ya1 	電壓	c=2 d=4.09696e-21 t=23335
+dian4 ying3 piau4 	電影票	c=1 d=2.70004e-09 t=23335
 dian4 yung2 	電容	c=1 d=1.1904e-21 t=23335
 dian4 zhu2 	電軸	c=1 d=0.00255424 t=23335
 dian4 zhu3 	電阻	c=2 d=4.60002e-21 t=23335
@@ -1477,7 +1488,7 @@ dui4 dui4 hua4 	對對話	c=1 d=0.778801 t=23335
 dui4 fang1 	對方	c=2 d=0.975895 t=23335
 dui4 hua4 	對話	c=3 d=0.319576 t=23335
 dui4 kang2 	對抗	c=1 d=1.07138e-17 t=23335
-dui4 liau3 	對了	c=2 d=0.304258 t=23335
+dui4 liau3 	對了	c=3 d=0.422072 t=23335
 dui4 lie1 	隊列	c=7 d=0.166003 t=23335
 dui4 lie1 yan2 jou4 	隊列研究	c=1 d=0.000345679 t=23335
 dui4 ni3 	對你	c=1 d=0.416862 t=23335
@@ -1522,11 +1533,12 @@ dung4 tai4 tu2 bian4 	動態突變	c=3 d=0.869358 t=23335
 dung4 tai4 tu2 siang4 	動態圖像	c=1 d=0.000383949 t=23335
 dung4 tai4 tu2 siang4 	動態圖象	c=-1 d=0.000382034 t=23335
 dung4 wu1 	動物	c=3 d=0.892611 t=23335
-duo1 	多	c=15 d=2.7395 t=23335
+duo1 	多	c=16 d=2.7395 t=23335
 duo1 bian1 	多邊	c=7 d=1.81445e-17 t=23335
 duo1 chu1 	多出	c=1 d=0.186374 t=23335
 duo1 chu3 	多處	c=1 d=0.909373 t=23335
 duo1 chung2 	多重	c=1 d=0.102797 t=23335
+duo1 chy1 	多吃	c=1 d=2.64657e-09 t=23335
 duo1 cy4 	多次	c=1 d=2.66854e-18 t=23335
 duo1 dian3 	多點	c=1 d=0.327915 t=23335
 duo1 fan3 ying4 sing4 	多反應性	c=1 d=0.625002 t=23335
@@ -1551,6 +1563,7 @@ duo1 tang2 	多糖	c=1 d=0.141564 t=23335
 duo1 ting1 	多聽	c=1 d=0.187308 t=23335
 duo1 wui2 	多爲	c=2 d=1.09687 t=23335
 duo1 xau4 sing4 	多效性	c=1 d=0.218712 t=23335
+duo1 yang4 	多樣	c=1 d=3.24874e-09 t=23335
 duo1 yang4 sing4 	多樣性	c=2 d=1.03589 t=23335
 duo1 you2 	多由	c=1 d=0.0672055 t=23335
 duo1 you3 	多有	c=1 d=0.154896 t=23335
@@ -1592,13 +1605,14 @@ el4 nian2 ji1 	二年級	c=1 d=0.00362464 t=23335
 el4 san1 be1 	二三百	c=2 d=0.0422796 t=23335
 el4 shy2 	二十	c=1 d=0.995012 t=23335
 el4 shy2 fen1 zhung1 	二十分鐘	c=2 d=0.0652193 t=23335
+el4 shy2 geo4 	二十個	c=1 d=2.81023e-09 t=23335
 el4 shy2 gue1 zi1 tuan2 	二十國集團	c=1 d=4.79001e-18 t=23335
 el4 shy4 	二是	c=1 d=0.0893673 t=23335
 el4 vi3 ma3 	二維碼	c=1 d=0.00755912 t=23335
 el4 yi2 	二姨	c=1 d=8.15757e-17 t=23335
 el4 ziu4 ti3 	二聚體	c=5 d=1.5303 t=23335
 el4 zy4 	二字	c=1 d=0.0692522 t=23335
-en1 	嗯	c=5 d=1.01721 t=23335
+en1 	嗯	c=6 d=1.01721 t=23335
 eng4 	硬	c=1 d=0.369723 t=23335
 eng4 eo1 	硬齶	c=0 d=0.00144076 t=23335
 eng4 eo1 yin1 	硬齶音	c=1 d=0.0144798 t=23335
@@ -1621,8 +1635,8 @@ fa1 bing4 	發病	c=2 d=0.216536 t=23335
 fa1 bing4 liu1 	發病率	c=23 d=7.55736 t=23335
 fa1 bu4 	發佈	c=3 d=0.0916297 t=23335
 fa1 chou2 	發愁	c=1 d=0.228779 t=23335
-fa1 da1 	發達	c=1 d=2.17918e-17 t=23335
-fa1 dau4 	發到	c=2 d=0.015326 t=23335
+fa1 da1 	發達	c=2 d=0.308819 t=23335
+fa1 dau4 	發到	c=3 d=0.872271 t=23335
 fa1 duan3 sin4 	發短信	c=1 d=0.115903 t=23335
 fa1 fang4 	發放	c=1 d=0.970446 t=23335
 fa1 geo4 	發個	c=1 d=0.0515605 t=23335
@@ -1640,8 +1654,9 @@ fa1 jan4 	發見	c=-1 d=0 t=23335
 fa1 ji1 	發給	c=1 d=0.0561348 t=23335
 fa1 ji1 ni3 	發給你	c=6 d=0.687289 t=23335
 fa1 ji1 wo3 	發給我	c=2 d=0.0613227 t=23335
+fa1 lai2 	發來	c=1 d=8.96444e-09 t=23335
 fa1 le1 	發的	c=3 d=1.40167 t=23335
-fa1 liau3 	發了	c=2 d=0.00104368 t=23335
+fa1 liau3 	發了	c=2 d=0.540641 t=23335
 fa1 liu1 	法律	c=2 d=0.275271 t=23335
 fa1 piau4 	發票	c=9 d=0.546074 t=23335
 fa1 rheo1 	發熱	c=1 d=0.687289 t=23335
@@ -1665,8 +1680,8 @@ fa1 zhan3 huan2 jing3 	發展環境	c=1 d=0.0175097 t=23335
 fa1 zhan3 sin4 sin1 	發展信心	c=1 d=0.0177743 t=23335
 fa1 zhan3 sy1 siang3 	發展思想	c=1 d=0.0569831 t=23335
 fa1 zhan3 zhan4 liuo1 	發展戰略	c=0 d=0.00315873 t=23335
-fa1 zhan3 zhung1 	發展中	c=1 d=2.01163e-17 t=23335
-fan1 	翻	c=1 d=6.2445e-20 t=23335
+fa1 zhan3 zhung1 	發展中	c=2 d=0.311923 t=23335
+fan1 	翻	c=2 d=0.242926 t=23335
 fan1 cha2 	反查	c=2 d=0.83527 t=23335
 fan1 dau3 shy4 	反倒是	c=1 d=0.0366992 t=23335
 fan1 el2 	反而	c=2 d=0.607877 t=23335
@@ -1674,6 +1689,8 @@ fan1 fan1 	翻翻	c=1 d=4.37848e-20 t=23335
 fan1 guo1 	翻過	c=1 d=0.759572 t=23335
 fan1 rhen2 lui4 	反人類	c=1 d=0.694197 t=23335
 fan1 sy1 	反思	c=3 d=0.0312715 t=23335
+fan1 wui4 	反胃	c=2 d=4.70708e-09 t=23335
+fan1 xang3 	反響	c=1 d=2.27793e-09 t=23335
 fan1 yang1 	反映	c=1 d=0.0147723 t=23335
 fan1 yi1 	翻譯	c=12 d=1.11705 t=23335
 fan1 yi4 	反義	c=0 d=0.0647265 t=23335
@@ -1775,6 +1792,7 @@ fen1 si1 liau3 	分析了	c=1 d=0.460704 t=23335
 fen1 wui2 	分爲	c=12 d=2.55301 t=23335
 fen1 xang3 	分享	c=1 d=0.0699482 t=23335
 fen1 xi4 	分系	c=2 d=0.000602152 t=23335
+fen1 zhung1 	分鐘	c=1 d=4.91979e-09 t=23335
 fen1 zhy1 	分支	c=1 d=0.110251 t=23335
 fen1 zu3 	分組	c=1 d=0.416862 t=23335
 fen1 zy3 	分子	c=49 d=5.01111 t=23335
@@ -1822,7 +1840,7 @@ fi3 fi3 	斐斐	c=1 d=0.891366 t=23335
 fi4 	廢	c=2 d=0.224477 t=23335
 fi4 	肺	c=0 d=0.0718924 t=23335
 fi4 	費	c=0 d=2.75693e-20 t=23335
-fi4 bu4 	肺部	c=1 d=0.647265 t=23335
+fi4 bu4 	肺部	c=2 d=0.751206 t=23335
 fi4 gung1 neng2 	肺功能	c=3 d=0.817553 t=23335
 fi4 huo2 liang2 	肺活量	c=1 d=0.737123 t=23335
 fi4 jan4 zhy1 sian1 vi3 hua4 	肺間質纖維化	c=1 d=0.00423234 t=23335
@@ -1832,6 +1850,7 @@ fi4 kuo1 	肺科	c=1 d=0.955997 t=23335
 fi4 qi4 zhung3 	肺氣腫	c=1 d=0.00410726 t=23335
 fi4 shy4 	費事	c=4 d=0.835201 t=23335
 fi4 sin1 bing4 	肺心病	c=13 d=3.32438 t=23335
+fi4 tung1 qi4 	肺通氣	c=1 d=9.33029e-09 t=23335
 fi4 xe1 guan3 	肺血管	c=1 d=0.0850088 t=23335
 fi4 yuan2 sing4 	肺源性	c=12 d=1.83103 t=23335
 fi4 yuan2 sing4 sin1 zang4 bing4 	肺源性心臟病	c=5 d=4.59964 t=23335
@@ -1889,7 +1908,7 @@ fu4 	賦	c=1 d=0.240508 t=23335
 fu4 dan1 	負擔	c=2 d=0.661285 t=23335
 fu4 han2 	富含	c=2 d=0.244143 t=23335
 fu4 hau4 	婦好	c=1 d=0.806541 t=23335
-fu4 jan4 	附件	c=1 d=0.524663 t=23335
+fu4 jan4 	附件	c=1 d=0.882497 t=23335
 fu4 jin4 	附近	c=3 d=0.311599 t=23335
 fu4 jin4 chu3 	附近處	c=1 d=0.311923 t=23335
 fu4 lian2 	負鏈	c=1 d=0.644036 t=23335
@@ -1899,6 +1918,7 @@ fu4 sung4 	附送	c=1 d=0.647265 t=23335
 fu4 tiau2 zie1 zuo1 yung4 	負調節作用	c=1 d=0.416862 t=23335
 fu4 yu2 	賦予	c=0 d=0.000995182 t=23335
 fu4 yu2 le1 	賦予的	c=1 d=0.0100017 t=23335
+fu4 yu4 	富裕	c=1 d=3.21641e-09 t=23335
 fu4 zai3 	負載	c=1 d=1.73202e-21 t=23335
 fu4 zhe1 	負責	c=2 d=0.778801 t=23335
 fu4 zhe1 rhen4 	負責任	c=1 d=5.98315e-17 t=23335
@@ -1928,6 +1948,8 @@ gan1 lu4 sy4 	甘露寺	c=4 d=2.53726 t=23335
 gan1 pi2 	肝脾	c=1 d=0.99005 t=23335
 gan1 rhau3 	干擾	c=1 d=0.256661 t=23335
 gan1 rhau3 su4 	干擾素	c=6 d=1.70146 t=23335
+gan1 siu1 	甘肅	c=1 d=6.38062e-09 t=23335
+gan1 you2 san1 zhy3 	甘油三酯	c=1 d=6.16116e-09 t=23335
 gan3 	敢	c=1 d=0.369723 t=23335
 gan3 che1 	敢拆	c=-1 d=0 t=23335
 gan3 cing2 	感情	c=1 d=0.126818 t=23335
@@ -1978,6 +2000,8 @@ gau1 fen1 	高分	c=1 d=0.615697 t=23335
 gau1 feng1 	高峯	c=1 d=0.418952 t=23335
 gau1 gu3 	高估	c=1 d=0.00408677 t=23335
 gau1 ju3 	高舉	c=1 d=0.171187 t=23335
+gau1 mi1 du4 	高密度	c=0 d=6.19205e-10 t=23335
+gau1 mi1 du4 zhy1 dan4 be2 	高密度脂蛋白	c=1 d=6.22309e-09 t=23335
 gau1 nian2 ji1 	高年級	c=1 d=0.00367942 t=23335
 gau1 pin2 	高頻	c=1 d=0.651737 t=23335
 gau1 shou3 	高手	c=2 d=0.00656812 t=23335
@@ -2148,7 +2172,7 @@ guan1 zhuang4 	冠狀	c=1 d=0.0808629 t=23335
 guan3 	管	c=10 d=1.09153 t=23335
 guan3 bu1 guan3 	管不管	c=1 d=0.472367 t=23335
 guan3 ja1 	管家	c=1 d=0.571209 t=23335
-guan3 li3 	管理	c=6 d=1.13267 t=23335
+guan3 li3 	管理	c=8 d=1.13267 t=23335
 guan3 li3 gung1 cheng2 	管理工程	c=2 d=0.191092 t=23335
 guan3 li3 gung1 cheng2 xuo2 yuan4 	管理工程學院	c=2 d=1.60174 t=23335
 guan3 li3 tiau2 li4 	管理條例	c=1 d=0.802519 t=23335
@@ -2156,7 +2180,7 @@ guan3 li3 xuo2 	管理學	c=1 d=0.32628 t=23335
 guan4 cheo1 	貫徹	c=4 d=1.86814 t=23335
 guan4 cheo1 zhy1 xing2 	貫徹執行	c=1 d=0.336216 t=23335
 guan4 chuan1 	貫穿	c=1 d=1.30543e-18 t=23335
-guan4 si3 	灌洗	c=0 d=0.0778801 t=23335
+guan4 si3 	灌洗	c=1 d=0.636692 t=23335
 guan4 si3 yi2 	灌洗液	c=1 d=0.782705 t=23335
 guan4 zhu3 	灌注	c=0 d=8.10998e-08 t=23335
 guang1 	光	c=9 d=1.15016 t=23335
@@ -2217,7 +2241,7 @@ gung1 	攻	c=0 d=0.010435 t=23335
 gung1 bau3 pin1 yin1 	宮保拼音	c=20 d=3.2423 t=23335
 gung1 bu4 	公佈	c=3 d=0.0884781 t=23335
 gung1 chang3 	工廠	c=1 d=0.331211 t=23335
-gung1 cheng2 	工程	c=1 d=0.0190139 t=23335
+gung1 cheng2 	工程	c=3 d=0.715867 t=23335
 gung1 da3 	攻打	c=1 d=0.904837 t=23335
 gung1 duo2 	攻奪	c=2 d=0.822835 t=23335
 gung1 gung4 	公共	c=0 d=0.0810584 t=23335
@@ -2287,7 +2311,7 @@ gung4 xan4 	貢獻	c=1 d=0.0352602 t=23335
 gung4 you3 	共有	c=3 d=0.622736 t=23335
 gung4 you3 siu4 lie1 	共有序列	c=1 d=0.26982 t=23335
 gung4 yung4 	共用	c=1 d=0.216536 t=23335
-guo1 	過	c=6 d=0.299352 t=23335
+guo1 	過	c=7 d=0.330817 t=23335
 guo1 	郭	c=0 d=0.0117655 t=23335
 guo1 ai4 lun2 	郭艾倫	c=1 d=0.118245 t=23335
 guo1 cang2 	過藏	c=-1 d=0 t=23335
@@ -2299,6 +2323,7 @@ guo1 lai2 	過來	c=9 d=1.01368 t=23335
 guo1 liang3 tian1 	過兩天	c=1 d=0.759572 t=23335
 guo1 min3 	過敏	c=0 d=0.0137381 t=23335
 guo1 min3 du2 su4 	過敏毒素	c=1 d=0.138069 t=23335
+guo1 qi2 	過期	c=1 d=2.72717e-09 t=23335
 guo1 qu4 	過去	c=7 d=1.28809 t=23335
 guo1 yin3 	過癮	c=1 d=0.923116 t=23335
 guo1 yung4 	過用	c=-1 d=0 t=23335
@@ -2329,6 +2354,7 @@ hai2 mu2 hui2 lai2 	還沒回來	c=1 d=0.00332928 t=23335
 hai2 mu2 you3 	還沒有	c=4 d=0.744532 t=23335
 hai2 neng2 	還能	c=5 d=1.00473 t=23335
 hai2 pa4 	還怕	c=1 d=2.84089e-19 t=23335
+hai2 shuo1 	還說	c=1 d=5.74463e-09 t=23335
 hai2 shy4 	還是	c=40 d=3.18774 t=23335
 hai2 shy4 geo4 	還是個	c=1 d=0.367879 t=23335
 hai2 siang3 	還想	c=1 d=0.690734 t=23335
@@ -2379,6 +2405,7 @@ hau3 chy1 le1 	好吃的	c=1 d=0.231078 t=23335
 hau3 cy2 	好詞	c=1 d=3.78684e-18 t=23335
 hau3 di1 	好的	c=1 d=0.367879 t=23335
 hau3 dian3 	好點	c=2 d=0.960789 t=23335
+hau3 ha1 	好哈	c=-1 d=0 t=23335
 hau3 hau3 	好好	c=10 d=1.20682 t=23335
 hau3 hau3 ting1 kuo4 	好好聽課	c=1 d=0.882497 t=23335
 hau3 hau3 xuo2 si2 	好好學習	c=2 d=0.784556 t=23335
@@ -2495,7 +2522,7 @@ hou4 zie1 	後接	c=1 d=0.683861 t=23335
 hu1 chu1 	呼出	c=1 d=0.438235 t=23335
 hu1 liuo1 	忽略	c=4 d=0.970446 t=23335
 hu1 xi1 	呼吸	c=2 d=0.00514361 t=23335
-hu1 xi1 dau4 	呼吸道	c=6 d=0.453845 t=23335
+hu1 xi1 dau4 	呼吸道	c=7 d=1.06161 t=23335
 hu3 bu3 	互補	c=6 d=0.925549 t=23335
 hu3 bu3 pei4 dui4 	互補配對	c=1 d=0.847894 t=23335
 hu3 bu3 siu4 lie1 	互補序列	c=1 d=0.67368 t=23335
@@ -2550,6 +2577,7 @@ huan2 jing3 	環境	c=11 d=2.66828 t=23335
 huan2 jing3 wui4 sheng1 	環境衛生	c=1 d=0.0473589 t=23335
 huan2 kuan3 	還款	c=2 d=0.778801 t=23335
 huan2 mu2 	還沒	c=1 d=0.113608 t=23335
+huan2 suan4 	還算	c=-1 d=0 t=23335
 huan2 you3 	還有	c=1 d=0.287941 t=23335
 huan2 zie1 	環節	c=7 d=2.73559 t=23335
 huan4 	換	c=1 d=0.0352602 t=23335
@@ -2567,6 +2595,7 @@ huan4 ju4 hua4 shuo1 	換句話說	c=1 d=0.0800583 t=23335
 huan4 liau3 	患了	c=1 d=0.396531 t=23335
 huan4 liau3 	換了	c=1 d=0.67032 t=23335
 huan4 lu4 	換路	c=1 d=1.29601e-21 t=23335
+huan4 suan4 	換算	c=2 d=1.31171e-08 t=23335
 huan4 you3 	患有	c=1 d=0.0544757 t=23335
 huan4 zhe2 	患者	c=1 d=0.995012 t=23335
 huan4 zheo3 	患者	c=1 d=0.00241755 t=23335
@@ -2671,6 +2700,7 @@ ja1 kuai4 tui1 zin4 	加快推進	c=1 d=0.085435 t=23335
 ja1 liau3 	加了	c=1 d=0.0720785 t=23335
 ja1 nian2 hua1 	嘉年華	c=1 d=0.856415 t=23335
 ja1 qang2 	加強	c=4 d=0.313486 t=23335
+ja1 quan2 	加權	c=1 d=6.50952e-09 t=23335
 ja1 rheo1 	加熱	c=2 d=0.67889 t=23335
 ja1 rhu1 	加入	c=3 d=1.08268 t=23335
 ja1 shang4 	加上	c=2 d=0.496585 t=23335
@@ -2802,12 +2832,13 @@ jau1 cha1 	交叉	c=1 d=0.489495 t=23335
 jau1 cha1 ciu1 zin4 	交叉促進	c=1 d=0.100761 t=23335
 jau1 cheng2 	教程	c=2 d=0.0316637 t=23335
 jau1 cheng2 shang4 	教程上	c=1 d=0.318224 t=23335
+jau1 cian2 	交錢	c=1 d=7.45039e-09 t=23335
 jau1 dai4 	交待	c=1 d=0.826959 t=23335
 jau1 fu4 	交付	c=1 d=0.161218 t=23335
 jau1 guan1 fang1 mian4 	教官方面	c=-1 d=0 t=23335
 jau1 guan4 	澆灌	c=-1 d=0 t=23335
 jau1 huai4 	教壞	c=1 d=0.701173 t=23335
-jau1 huan4 	交換	c=1 d=0.133127 t=23335
+jau1 huan4 	交換	c=2 d=0.71605 t=23335
 jau1 huan4 dau4 	交換到	c=1 d=0.149569 t=23335
 jau1 huan4 yi4 jan4 	交換意見	c=1 d=0.932394 t=23335
 jau1 ji1 	交給	c=1 d=2.21249e-19 t=23335
@@ -2821,6 +2852,7 @@ jau1 shy1 	教師	c=1 d=0.0081887 t=23335
 jau1 ta3 	教他	c=2 d=0.416862 t=23335
 jau1 ti4 	交替	c=1 d=0.181772 t=23335
 jau1 tung1 fi4 	交通費	c=3 d=0.0873901 t=23335
+jau1 tung1 jing3 cha2 	交通警察	c=1 d=9.28375e-09 t=23335
 jau1 xuo2 qu1 	教學區	c=1 d=0.744532 t=23335
 jau1 yu1 	教育	c=3 d=0.0795111 t=23335
 jau1 yu1 yin3 dau4 	教育引導	c=1 d=0.104874 t=23335
@@ -2855,7 +2887,7 @@ je1 gou4 qu1 	結構區	c=1 d=0.216536 t=23335
 je1 gou4 shang4 	結構上	c=1 d=0.99005 t=23335
 je1 gou4 sing4 	結構性	c=1 d=0.0256042 t=23335
 je1 gou4 yu1 	結構域	c=2 d=0.238742 t=23335
-je1 guo3 	結果	c=25 d=1.53834 t=23335
+je1 guo3 	結果	c=25 d=1.80618 t=23335
 je1 heo2 	結合	c=27 d=4.27525 t=23335
 je1 heo2 bu4 wui4 	結合部位	c=1 d=0.104874 t=23335
 je1 hun1 	結婚	c=3 d=1.14784 t=23335
@@ -2873,7 +2905,8 @@ je3 kai1 	解開	c=3 d=0.343134 t=23335
 je3 lian2 	解鏈	c=1 d=0.0800583 t=23335
 je3 luo2 siuan2 mei2 	解螺旋酶	c=1 d=0.786628 t=23335
 je3 shuo1 	解說	c=1 d=0.0417941 t=23335
-je3 shy1 	解釋	c=7 d=0.796596 t=23335
+je3 shy1 	解釋	c=7 d=0.978425 t=23335
+je3 si1 	解析	c=1 d=8.07091e-09 t=23335
 ji1 	及	c=32 d=3.06072 t=23335
 ji1 	基	c=0 d=0.127725 t=23335
 ji1 	級	c=3 d=0.951229 t=23335
@@ -2942,11 +2975,11 @@ ji1 shy2 sing4 	及時性	c=1 d=0.0505395 t=23335
 ji1 sian4 	基線	c=9 d=0.786191 t=23335
 ji1 su4 lui4 	激素類	c=1 d=0.186374 t=23335
 ji1 ta3 	給他	c=1 d=0.496585 t=23335
-ji1 ti3 	機體	c=1 d=0.460672 t=23335
+ji1 ti3 	機體	c=2 d=0.460672 t=23335
 ji1 ti3 mian3 yi1 	機體免疫	c=1 d=0.423162 t=23335
 ji1 wan4 rhen2 	幾萬人	c=1 d=0.0473589 t=23335
 ji1 wo3 	給我	c=11 d=1.72107 t=23335
-ji1 wo3 shuo1 	給我說	c=1 d=0.83527 t=23335
+ji1 wo3 shuo1 	給我說	c=2 d=0.83527 t=23335
 ji1 wu1 	及物	c=1 d=0.995012 t=23335
 ji1 xing2 	畸形	c=1 d=0.00427488 t=23335
 ji1 yin1 	基因	c=15 d=3.99812 t=23335
@@ -3076,6 +3109,7 @@ jing1 zin1 ji4 xe2 tung2 fa1 zhan3 	京津冀協同發展	c=1 d=0.0337087 t=2333
 jing3 cha2 	警察	c=1 d=0.810584 t=23335
 jing3 shy4 	警示	c=1 d=0.360595 t=23335
 jing4 rhan3 	竟然	c=5 d=0.752022 t=23335
+jing4 rhan3 shy4 	竟然是	c=1 d=4.2345e-09 t=23335
 jing4 rhan3 you3 	竟然有	c=1 d=0.0380064 t=23335
 jing4 siang4 	鏡像	c=5 d=0.95512 t=23335
 jing4 yang3 	敬仰	c=1 d=0.0682212 t=23335
@@ -3130,7 +3164,7 @@ jun1 yun2 	均勻	c=1 d=0.511709 t=23335
 jun1 zai4 	均在	c=1 d=0.683861 t=23335
 jun1 zhy1 	均值	c=8 d=1.21244 t=23335
 jun4 	菌	c=1 d=0.130029 t=23335
-jun4 qun2 	菌羣	c=3 d=1.00277e-19 t=23335
+jun4 qun2 	菌羣	c=4 d=0.631284 t=23335
 jung3 	囧	c=-1 d=0 t=23335
 juo1 du4 	角度	c=2 d=0.687289 t=23335
 juo1 luo1 	角落	c=2 d=0.0134335 t=23335
@@ -3217,7 +3251,7 @@ kang2 zhung1 zhy3 zuo1 yung4 	抗終止作用	c=1 d=0.965605 t=23335
 kau3 bei4 shuo1 	拷貝數	c=1 d=0.182684 t=23335
 kau3 he2 	考覈	c=4 d=0.829061 t=23335
 kau3 liang2 	考量	c=1 d=0.937067 t=23335
-kau3 liu4 	考慮	c=12 d=0.932394 t=23335
+kau3 liu4 	考慮	c=12 d=1.08235 t=23335
 kau3 liu4 kau3 liu4 	考慮考慮	c=1 d=0.444858 t=23335
 kau3 qin2 	考勤	c=1 d=0.0352602 t=23335
 kau3 rhou4 	烤肉	c=4 d=0.86859 t=23335
@@ -3261,6 +3295,7 @@ keo3 neng2 sing4 	可能性	c=0 d=0.0449329 t=23335
 keo3 neng2 sing4 da4 	可能性大	c=1 d=0.451581 t=23335
 keo3 shuo1 	可說	c=1 d=0.66365 t=23335
 keo3 shy4 	可是	c=2 d=0.955997 t=23335
+keo3 si1 	可惜	c=1 d=4.49635e-09 t=23335
 keo3 sin4 	可信	c=0 d=0.0102284 t=23335
 keo3 sin4 qu1 jan1 	可信區間	c=1 d=0.102797 t=23335
 keo3 siuan3 	可選	c=1 d=0.0315873 t=23335
@@ -3311,7 +3346,7 @@ kung1 fu1 	空腹	c=1 d=0.0720785 t=23335
 kung1 ge1 	空格	c=3 d=0.509236 t=23335
 kung1 geo4 	空個	c=2 d=0.0589066 t=23335
 kung1 jan1 	空間	c=2 d=0.88692 t=23335
-kung1 qi4 	空氣	c=11 d=0.0293331 t=23335
+kung1 qi4 	空氣	c=11 d=0.941765 t=23335
 kung1 qi4 zhy1 liang2 	空氣質量	c=2 d=7.67946e-21 t=23335
 kung1 qi4 zhy1 liang2 biau1 zhun3 	空氣質量標準	c=1 d=3.12454e-21 t=23335
 kung1 tiau2 	空調	c=1 d=0.341851 t=23335
@@ -3328,7 +3363,7 @@ kuo1 jau1 xing1 gue1 	科教興國	c=1 d=0.0306538 t=23335
 kuo1 ji4 bu4 	科技部	c=1 d=0.0413782 t=23335
 kuo1 ji4 ge1 ming4 	科技革命	c=1 d=0.0261214 t=23335
 kuo1 shuo2 	科碩	c=1 d=0.103312 t=23335
-kuo1 xuo2 	科學	c=2 d=0.00332928 t=23335
+kuo1 xuo2 	科學	c=2 d=0.349938 t=23335
 kuo1 xuo2 da4 dau4 	科學大道	c=4 d=1.68931 t=23335
 kuo1 yan2 	科研	c=2 d=0.860708 t=23335
 kuo1 zeng1 	擴增	c=1 d=0.00748391 t=23335
@@ -3341,7 +3376,7 @@ kuo3 li1 wu2 	顆粒無	c=-1 d=0 t=23335
 kuo3 li1 yung2 je3 su4 	顆粒溶解素	c=1 d=0.364219 t=23335
 kuo4 	課	c=9 d=2.53264 t=23335
 kuo4 ben3 	課本	c=2 d=0.802519 t=23335
-kuo4 jan4 	課件	c=6 d=0.922318 t=23335
+kuo4 jan4 	課件	c=6 d=0.985954 t=23335
 kuo4 tang2 	課堂	c=1 d=0.000401622 t=23335
 la1 	拉	c=0 d=0.00314298 t=23335
 la1 dau4 	拉倒	c=2 d=7.45195e-20 t=23335
@@ -3522,6 +3557,7 @@ lie1 cheng2 	列成	c=1 d=0.0773047 t=23335
 lie1 chu1 	列出	c=2 d=0.45612 t=23335
 lie1 chu1 lai2 	列出來	c=1 d=2.50708e-19 t=23335
 lie1 lie1 	獵獵	c=1 d=0.00904991 t=23335
+lie1 liuan2 biau3 	列聯表	c=1 d=7.95075e-09 t=23335
 lie1 rhen2 	獵人	c=1 d=0.831104 t=23335
 lie1 rhu1 	列入	c=2 d=0.458115 t=23335
 lie3 	咧	c=1 d=0.302704 t=23335
@@ -3568,7 +3604,7 @@ liou2 an4 su4 	硫胺素	c=1 d=0.995012 t=23335
 liou2 biau3 jun1 liu3 tun2 jing1 siang1 	劉表軍旅屯荊襄	c=1 d=0.826959 t=23335
 liou2 cheng2 	流程	c=1 d=0.265803 t=23335
 liou2 chu1 	留出	c=1 d=0.0131675 t=23335
-liou2 lan3 qi4 	瀏覽器	c=2 d=0.437089 t=23335
+liou2 lan3 qi4 	瀏覽器	c=3 d=0.481626 t=23335
 liou2 li2 	琉璃	c=1 d=0.353455 t=23335
 liou2 liang2 	流量	c=3 d=0.105928 t=23335
 liou2 lui4 	流淚	c=1 d=0.384812 t=23335
@@ -3604,6 +3640,7 @@ liuan2 xi4 fang1 shy1 	聯繫方式	c=1 d=0.726149 t=23335
 liuan2 yi4 	聯誼	c=1 d=0.250324 t=23335
 liung2 hu3 	龍虎	c=1 d=0.597501 t=23335
 liung2 zhung4 	隆重	c=1 d=0.543351 t=23335
+liung3 si1 	隴西	c=1 d=6.3488e-09 t=23335
 lou2 sang1 xuan2 de1 ben3 huang2 sun1 	樓桑玄德本皇孫	c=1 d=0.865022 t=23335
 lou2 shang4 	樓上	c=1 d=0.687289 t=23335
 lou2 tang2 guan3 shuo3 	樓堂館所	c=1 d=0.798516 t=23335
@@ -3630,6 +3667,7 @@ lu4 yuan3 	路遠	c=1 d=0.0678809 t=23335
 luan4 cuan1 	亂竄	c=1 d=0.927743 t=23335
 lui2 ting2 	雷霆	c=0 d=0.0285076 t=23335
 lui2 ting2 zhan4 ji1 	雷霆戰機	c=1 d=0.286505 t=23335
+lui3 ja1 	累加	c=1 d=7.12255e-09 t=23335
 lui4 	類	c=24 d=6.83924 t=23335
 lui4 bie2 	類別	c=3 d=1.23938 t=23335
 lui4 sy4 	類似	c=6 d=0.975635 t=23335
@@ -3665,7 +3703,7 @@ ma3 shang4 	馬上	c=2 d=0.200707 t=23335
 ma3 teng2 han2 sui4 shou3 si1 liang2 	馬騰韓遂守西涼	c=1 d=0.83527 t=23335
 ma3 zy4 	碼字	c=2 d=0.842874 t=23335
 mai2 tou2 ku3 gan4 	埋頭苦幹	c=1 d=0.191092 t=23335
-mai3 	買	c=8 d=1.34995 t=23335
+mai3 	買	c=9 d=1.34995 t=23335
 mai3 bing3 	買餅	c=1 d=0.786628 t=23335
 mai3 dian3 	買點	c=0 d=0.0585669 t=23335
 mai3 dung1 si1 	買東西	c=1 d=9.0607e-17 t=23335
@@ -3717,6 +3755,7 @@ mei3 yi1 	每一	c=0 d=0.0276651 t=23335
 mei3 yi1 bu4 	每一步	c=1 d=0.264477 t=23335
 mei3 yi1 geo4 	每一個	c=1 d=0.293758 t=23335
 mei3 yi1 ji1 	每一級	c=1 d=0.278037 t=23335
+mei3 yi1 pian1 	每一篇	c=1 d=5.51938e-09 t=23335
 mei3 yi1 zhung3 	每一種	c=1 d=0.0850088 t=23335
 mei3 yue1 	每月	c=2 d=1.06652 t=23335
 mei4 mei4 	妹妹	c=1 d=3.0585e-05 t=23335
@@ -3732,6 +3771,7 @@ meng3 rhen2 	猛人	c=1 d=0.33454 t=23335
 meng4 zhy1 dui4 	夢之隊	c=1 d=1.21424e-19 t=23335
 mi1 	密	c=2 d=1.14243 t=23335
 mi1 cie1 siang1 guan1 	密切相關	c=1 d=4.89859e-17 t=23335
+mi1 du4 	密度	c=1 d=7.08703e-09 t=23335
 mi1 ma3 zy3 	密碼子	c=3 d=0.214972 t=23335
 mi2 bu3 	彌補	c=1 d=0.913931 t=23335
 mi2 heo2 	彌合	c=1 d=2.0016e-17 t=23335
@@ -3741,7 +3781,7 @@ mi4 ding4 	嘧啶	c=0 d=0.097531 t=23335
 mi4 ding4 huan2 	嘧啶環	c=1 d=0.980199 t=23335
 mian2 fang3 	棉紡	c=0 d=0.00342181 t=23335
 mian2 fang3 lu4 	棉紡路	c=1 d=0.0343896 t=23335
-mian3 	免	c=1 d=0.535261 t=23335
+mian3 	免	c=2 d=0.661671 t=23335
 mian3 fi4 	免費	c=2 d=1.12564 t=23335
 mian3 li4 	勉勵	c=1 d=2.85173e-05 t=23335
 mian3 yi1 	免疫	c=4 d=0.940125 t=23335
@@ -3764,6 +3804,7 @@ mian3 yi1 tiau2 zie1 	免疫調節	c=3 d=0.621113 t=23335
 mian3 yi1 xau4 ying1 	免疫效應	c=2 d=0.806541 t=23335
 mian3 yi1 ying1 da1 	免疫應答	c=3 d=0.639661 t=23335
 mian3 yi1 yuan2 	免疫原	c=1 d=0.159614 t=23335
+mian4 	麪	c=1 d=5.46446e-09 t=23335
 mian4 dui4 	面對	c=1 d=0.927743 t=23335
 mian4 guan3 	麪館	c=1 d=0.631284 t=23335
 mian4 lin2 	面臨	c=2 d=0.941765 t=23335
@@ -3788,7 +3829,7 @@ ming2 chau2 	明朝	c=1 d=0.222017 t=23335
 ming2 cheng1 	名稱	c=2 d=0.276651 t=23335
 ming2 cian2 	明前	c=1 d=0.179964 t=23335
 ming2 cy2 	名詞	c=1 d=0.1764 t=23335
-ming2 dan1 	名單	c=2 d=1.91238 t=23335
+ming2 dan1 	名單	c=3 d=1.91238 t=23335
 ming2 liou2 	名流	c=1 d=0.718924 t=23335
 ming2 ming2 	明明	c=1 d=0.463013 t=23335
 ming2 nian2 	明年	c=1 d=0.169483 t=23335
@@ -3797,6 +3838,8 @@ ming2 quo1 	明確	c=1 d=0.0405589 t=23335
 ming2 shuo1 liau3 	明說了	c=1 d=0.00479587 t=23335
 ming2 tian1 	明天	c=22 d=2.69299 t=23335
 ming2 tian1 hai2 de1 	明天還得	c=1 d=0.891366 t=23335
+ming2 tian1 shang4 kuo4 	明天上課	c=1 d=5.09503e-09 t=23335
+ming2 tian1 shang4 quo1 	明天上卻	c=-1 d=0 t=23335
 ming2 xan3 	明顯	c=1 d=0.431711 t=23335
 ming2 xan3 le1 	明顯的	c=1 d=9.3287e-07 t=23335
 ming2 xan3 qu1 bie2 	明顯區別	c=1 d=0.489192 t=23335
@@ -3836,7 +3879,7 @@ mu2 liau3 	沒了	c=2 d=0.97531 t=23335
 mu2 rhen4 shy1 	沒認識	c=1 d=0.00398587 t=23335
 mu2 sha4 	沒啥	c=10 d=1.59619 t=23335
 mu2 sha4 shy4 el2 	沒啥事兒	c=1 d=0.0031354 t=23335
-mu2 shuo1 	沒說	c=1 d=0.0330412 t=23335
+mu2 shuo1 	沒說	c=2 d=0.460126 t=23335
 mu2 shy4 	沒事	c=1 d=0.00730172 t=23335
 mu2 shy4 el2 	沒事兒	c=2 d=0.852144 t=23335
 mu2 siang3 dau4 	沒想到	c=1 d=0.0121552 t=23335
@@ -3873,7 +3916,7 @@ muo2 shy1 shy1 bie2 shou4 ti3 	模式識別受體	c=1 d=0.612626 t=23335
 muo2 xing2 	模型	c=5 d=1.19549 t=23335
 muo2 xing2 	膜型	c=1 d=0.946485 t=23335
 muo2 xing2 mian3 yi1 qou2 dan4 be2 	膜型免疫球蛋白	c=1 d=0.71177 t=23335
-muo2 yi3 	模擬	c=5 d=4.99142e-06 t=23335
+muo2 yi3 	模擬	c=6 d=0.718924 t=23335
 muo3 	麼	c=2 d=0.726149 t=23335
 na1 	捺	c=0 d=6.85748e-05 t=23335
 na1 rhu1 	納入	c=2 d=0.313486 t=23335
@@ -3909,7 +3952,7 @@ na4 pian1 	那篇	c=2 d=0.140156 t=23335
 na4 shy2 hou4 	那時候	c=1 d=0.00390694 t=23335
 na4 shy4 	那是	c=2 d=0.746035 t=23335
 na4 ta3 	那他	c=1 d=0.548812 t=23335
-na4 wo3 	那我	c=3 d=1.56557 t=23335
+na4 wo3 	那我	c=5 d=1.56557 t=23335
 na4 yang4 	那樣	c=2 d=0.173774 t=23335
 na4 ye3 	那也	c=1 d=0.394554 t=23335
 na4 yi1 	那一	c=0 d=0.108862 t=23335
@@ -3970,7 +4013,7 @@ ni3 bu1 shy4 	你不是	c=2 d=0.965605 t=23335
 ni3 de1 	你得	c=1 d=1.59885e-21 t=23335
 ni3 dou3 	你都	c=1 d=0.540641 t=23335
 ni3 dung3 	你懂	c=0 d=0.00115047 t=23335
-ni3 dung3 le1 	你懂的	c=2 d=1.01139 t=23335
+ni3 dung3 le1 	你懂的	c=3 d=1.01139 t=23335
 ni3 guan3 	你管	c=0 d=0.0209088 t=23335
 ni3 hai2 	你還	c=3 d=0.597448 t=23335
 ni3 hau3 	你好	c=2 d=1.24219 t=23335
@@ -4033,14 +4076,14 @@ niou2 mu4 rhan3 	牛慕然	c=3 d=2.91412e-16 t=23335
 niou2 rhen2 	牛人	c=2 d=0.726149 t=23335
 niou3 dai4 	紐帶	c=0 d=0.000463092 t=23335
 niou3 je1 	扭結	c=1 d=0.0808629 t=23335
-niu3 	女	c=3 d=0.856373 t=23335
+niu3 	女	c=4 d=0.856373 t=23335
 niu3 le1 	女的	c=1 d=0.169483 t=23335
-niung2 du4 	濃度	c=10 d=0.803888 t=23335
+niung2 du4 	濃度	c=10 d=0.843449 t=23335
 niung2 du4 zhy1 	濃度之	c=-1 d=7.12983e-21 t=23335
 niung2 du4 zhy1 	濃度值	c=1 d=7.16557e-21 t=23335
 nu3 li1 	努力	c=3 d=0.349938 t=23335
 nuan3 	暖	c=0 d=0.099005 t=23335
-nui4 	內	c=6 d=0.299692 t=23335
+nui4 	內	c=6 d=0.451535 t=23335
 nui4 bu4 	內部	c=4 d=0.554327 t=23335
 nui4 fen1 mi1 	內分泌	c=2 d=0.214381 t=23335
 nui4 han2 zy3 	內含子	c=1 d=0.172907 t=23335
@@ -4145,7 +4188,7 @@ pi2 xou1 	貔貅	c=1 d=0.00923273 t=23335
 pi3 ding4 	吡啶	c=2 d=0.058157 t=23335
 pi3 duo4 ciuan2 	吡哆醛	c=1 d=0.031273 t=23335
 pian1 	偏	c=1 d=0.226502 t=23335
-pian1 	篇	c=1 d=4.00653e-05 t=23335
+pian1 	篇	c=1 d=0.585669 t=23335
 pian1 cha1 	偏差	c=1 d=1.04781e-20 t=23335
 pian1 du1 	偏裻	c=-1 d=0 t=23335
 pian1 du4 	偏度	c=3 d=0.187187 t=23335
@@ -4155,7 +4198,7 @@ pian1 xang4 yu1 	偏向於	c=1 d=0.752014 t=23335
 pian1 xang4 yu3 	偏向與	c=-1 d=0 t=23335
 pian2 huan2 	駢環	c=1 d=0.0338776 t=23335
 pian2 ma3 	便馬	c=-1 d=0 t=23335
-pian2 yi2 	便宜	c=1 d=0.0211904 t=23335
+pian2 yi2 	便宜	c=2 d=0.236266 t=23335
 pian4 	片	c=0 d=0.0301194 t=23335
 pian4 duan4 	片段	c=7 d=0.477019 t=23335
 piau4 fang2 	票房	c=1 d=1.09418 t=23335
@@ -4173,7 +4216,7 @@ pin3 zhy1 	品質	c=0 d=0.00284388 t=23335
 pin3 zhy1 ti2 sheng1 	品質提升	c=1 d=0.0285814 t=23335
 ping1 pang1 qou2 	乒乓球	c=3 d=1.62374 t=23335
 ping1 pang1 qou2 sai4 	乒乓球賽	c=1 d=0.941765 t=23335
-ping2 	屏	c=1 d=0.496585 t=23335
+ping2 	屏	c=2 d=0.496585 t=23335
 ping2 	瓶	c=1 d=0.267569 t=23335
 ping2 	評	c=1 d=5.56614e-20 t=23335
 ping2 ban3 	平板	c=1 d=0.32628 t=23335
@@ -4191,7 +4234,7 @@ ping2 mu1 	屏幕	c=3 d=0.348956 t=23335
 ping2 mu1 shang4 	屏幕上	c=1 d=0.00379148 t=23335
 ping2 sau3 	平掃	c=1 d=0.0678809 t=23335
 ping2 shy2 	平時	c=1 d=0.878095 t=23335
-ping2 yuan2 	平原	c=2 d=0.279431 t=23335
+ping2 yuan2 	平原	c=3 d=0.73358 t=23335
 ping2 ziung1 xa2 ying3 	萍蹤俠影	c=1 d=0.0605068 t=23335
 pu3 bian4 	普遍	c=3 d=0.511416 t=23335
 pu3 bian4 cai3 yung4 	普遍採用	c=1 d=0.075774 t=23335
@@ -4323,7 +4366,7 @@ que1 shy1 	缺失	c=2 d=0.202596 t=23335
 que1 siun3 	缺損	c=1 d=0.143704 t=23335
 que1 sun1 	缺孫	c=-1 d=0 t=23335
 qun2 	羣	c=2 d=0.542192 t=23335
-qun2 li3 	羣裏	c=4 d=1.55058 t=23335
+qun2 li3 	羣裏	c=5 d=1.55058 t=23335
 qun2 ti3 	羣體	c=3 d=1.04151 t=23335
 qun2 tuan2 	羣團	c=1 d=0.960789 t=23335
 qun2 wui4 	羣穢	c=-1 d=0 t=23335
@@ -4388,7 +4431,7 @@ rhen4 wu4 	任務	c=2 d=0.0855963 t=23335
 rhen4 wui2 	認爲	c=6 d=0.329401 t=23335
 rhen4 yi4 	任意	c=1 d=0.127183 t=23335
 rhen4 yi4 yi1 geo4 	任意一個	c=1 d=0.107528 t=23335
-rhen4 zhen1 	認真	c=3 d=0.985112 t=23335
+rhen4 zhen1 	認真	c=4 d=0.985112 t=23335
 rheng2 	仍	c=2 d=0.279431 t=23335
 rheng2 	扔	c=1 d=0.282239 t=23335
 rheng2 bu1 neng2 	仍不能	c=1 d=0.600496 t=23335
@@ -4518,7 +4561,7 @@ shang4 gu3 	上古	c=1 d=0.140858 t=23335
 shang4 hai3 	上海	c=1 d=0.327915 t=23335
 shang4 hui2 	上回	c=1 d=0.941765 t=23335
 shang4 jau1 	上交	c=1 d=0.677057 t=23335
-shang4 kuo4 	上課	c=6 d=0.365585 t=23335
+shang4 kuo4 	上課	c=7 d=0.695787 t=23335
 shang4 lai2 	上來	c=1 d=4.02169e-20 t=23335
 shang4 le1 	上的	c=1 d=0.313486 t=23335
 shang4 leo1 	上了	c=1 d=0.782705 t=23335
@@ -4696,6 +4739,7 @@ shou3 kuai4 	手快	c=1 d=0.343009 t=23335
 shou3 li3 	手裏	c=1 d=0.559898 t=23335
 shou3 shang4 	手上	c=2 d=0.575689 t=23335
 shou3 sian1 	首先	c=3 d=0.486757 t=23335
+shou3 siau3 	手小	c=1 d=2.88137e-09 t=23335
 shou3 siuan3 	首選	c=1 d=0.109154 t=23335
 shou3 tau4 	手套	c=0 d=0.0419224 t=23335
 shou3 tuo1 	手託	c=2 d=0.135775 t=23335
@@ -4843,7 +4887,7 @@ shuo3 shy1 bie2 	所識別	c=1 d=0.472367 t=23335
 shuo3 shy4 	所示	c=1 d=1.22815e-06 t=23335
 shuo3 siu1 	所需	c=1 d=0.540641 t=23335
 shuo3 siu1 yau1 	所需要	c=1 d=0.444858 t=23335
-shuo3 yi3 	所以	c=15 d=1.10787 t=23335
+shuo3 yi3 	所以	c=15 d=1.46657 t=23335
 shuo3 you3 	所有	c=5 d=1.25283 t=23335
 shuo3 you3 le1 	所有的	c=1 d=0.369723 t=23335
 shuo3 zai4 	所在	c=2 d=0.0253494 t=23335
@@ -4900,7 +4944,8 @@ shy2 li1 you3 xan4 	實力有限	c=1 d=0.818731 t=23335
 shy2 li4 	實例	c=1 d=0.000158461 t=23335
 shy2 muo3 	什麼	c=1 d=0.882497 t=23335
 shy2 nian2 	十年	c=1 d=0.0459593 t=23335
-shy2 nui4 	室內	c=1 d=0.377192 t=23335
+shy2 nui4 	室內	c=2 d=0.779942 t=23335
+shy2 nui4 wai4 	室內外	c=2 d=1.31514e-08 t=23335
 shy2 pin3 	食品	c=7 d=6.89414e-20 t=23335
 shy2 san1 	十三	c=1 d=0.020141 t=23335
 shy2 shuo1 	時說	c=-1 d=0 t=23335
@@ -4961,7 +5006,7 @@ shy4 chang2 ying2 siau1 	市場營銷	c=1 d=0.232236 t=23335
 shy4 ciung2 	是從	c=2 d=0.680451 t=23335
 shy4 dai4 	世代	c=0 d=0.0177284 t=23335
 shy4 dian3 	試點	c=1 d=0.733447 t=23335
-shy4 el2 	事兒	c=7 d=1.69816 t=23335
+shy4 el2 	事兒	c=9 d=1.86118 t=23335
 shy4 fu3 	是否	c=13 d=1.00462 t=23335
 shy4 geo4 	是個	c=1 d=0.704688 t=23335
 shy4 guo1 	試過	c=1 d=0.865022 t=23335
@@ -5011,9 +5056,10 @@ si3 lian3 	洗臉	c=1 d=0.0977834 t=23335
 si3 liau3 	洗了	c=2 d=0.970446 t=23335
 si3 shou3 	洗手	c=1 d=0.13466 t=23335
 si3 shou3 yi2 	洗手液	c=1 d=0.264477 t=23335
+si3 si3 zau3 	洗洗澡	c=1 d=2.00024e-09 t=23335
 si3 tou2 	洗頭	c=0 d=0.00309618 t=23335
 si3 tou2 gau4 	洗頭膏	c=3 d=0.195677 t=23335
-si3 zau3 	洗澡	c=9 d=1.8641 t=23335
+si3 zau3 	洗澡	c=10 d=1.8641 t=23335
 si4 	細	c=1 d=9.84242e-20 t=23335
 si4 bau1 	細胞	c=131 d=18.9472 t=23335
 si4 bau1 biau3 mian4 	細胞表面	c=1 d=0.302903 t=23335
@@ -5041,7 +5087,7 @@ si4 bau1 zie1 zhu1 	細胞接觸	c=2 d=0.54921 t=23335
 si4 jun4 	細菌	c=0 d=0.00483156 t=23335
 si4 jun4 xuo2 	細菌學	c=1 d=0.031117 t=23335
 si4 jun4 zuo1 yung4 	細菌作用	c=1 d=0.0485578 t=23335
-si4 kuo3 li1 wu1 	細顆粒物	c=17 d=0.972839 t=23335
+si4 kuo3 li1 wu1 	細顆粒物	c=17 d=1.56527 t=23335
 si4 yin1 	細音	c=2 d=1.23795 t=23335
 si4 zie1 	細節	c=7 d=0.754911 t=23335
 sian1 	先	c=14 d=0.955997 t=23335
@@ -5100,7 +5146,7 @@ siang3 bu1 qi3 	想不起	c=1 d=0.543351 t=23335
 siang3 bu1 siang3 	想不想	c=2 d=0.851649 t=23335
 siang3 chy1 	想吃	c=1 d=0.00247875 t=23335
 siang3 dau4 	想到	c=2 d=1.15982 t=23335
-siang3 fa1 	想法	c=8 d=1.39645 t=23335
+siang3 fa1 	想法	c=9 d=1.39645 t=23335
 siang3 geo4 	想個	c=1 d=0.65377 t=23335
 siang3 guo1 	想過	c=0 d=0.0285076 t=23335
 siang3 guo1 leo1 	想過了	c=1 d=0.286505 t=23335
@@ -5122,7 +5168,7 @@ siang4 liang2 	相量	c=1 d=1.87627e-21 t=23335
 siang4 lui4 sy4 	相類似	c=1 d=8.48327e-07 t=23335
 siang4 mu1 	橡木	c=1 d=0.0407622 t=23335
 siang4 pin1 	相拼	c=2 d=0.415157 t=23335
-siang4 shy4 	像是	c=1 d=0.458406 t=23335
+siang4 shy4 	像是	c=2 d=0.458406 t=23335
 siau1 chu2 	消除	c=1 d=0.202909 t=23335
 siau1 fi4 	消費	c=1 d=0.0267827 t=23335
 siau1 hua4 	消化	c=1 d=0.120032 t=23335
@@ -5203,7 +5249,7 @@ sin1 lian2 	新鏈	c=3 d=0.970446 t=23335
 sin1 liu1 shy1 chang2 	心律失常	c=3 d=0.639399 t=23335
 sin1 nian2 	新年	c=1 d=0.140858 t=23335
 sin1 qi4 zi2 	辛棄疾	c=3 d=0.718872 t=23335
-sin1 qu1 	新區	c=1 d=0.171187 t=23335
+sin1 qu1 	新區	c=2 d=0.716413 t=23335
 sin1 sai4 ji4 	新賽季	c=1 d=0.0837432 t=23335
 sin1 shou3 	新手	c=1 d=0.0086517 t=23335
 sin1 shou3 ji1 	新手機	c=3 d=0.163654 t=23335
@@ -5242,12 +5288,14 @@ sing4 bie2 	性別	c=1 d=0.0513033 t=23335
 sing4 ji1 su4 	性激素	c=1 d=0.0862936 t=23335
 sing4 ming2 	姓名	c=3 d=0.551563 t=23335
 sing4 zhy1 	性質	c=3 d=1.09753 t=23335
+siou1 	修	c=1 d=4.51889e-09 t=23335
 siou1 fu2 	修復	c=5 d=1.51522 t=23335
 siou1 fu2 ji1 zhy4 	修復機制	c=1 d=0.25924 t=23335
 siou1 gai3 	修改	c=7 d=1.24921 t=23335
 siou1 shy1 	修飾	c=1 d=0.313533 t=23335
 siou1 shy1 jan4 	修飾鍵	c=1 d=0.0539337 t=23335
 siou1 shy1 liu1 	修飾率	c=1 d=0.0409665 t=23335
+siou1 siou1 	修修	c=2 d=8.21912e-09 t=23335
 siu1 du4 	胥渡	c=1 d=0.782705 t=23335
 siu1 qou2 	需求	c=1 d=0.0270518 t=23335
 siu1 qou2 liang2 	需求量	c=1 d=0.882497 t=23335
@@ -5270,6 +5318,7 @@ siuan3 	選	c=5 d=1.28764 t=23335
 siuan3 ciu3 	選取	c=8 d=0.138173 t=23335
 siuan3 ding4 	選定	c=1 d=0.451581 t=23335
 siuan3 ju3 	選舉	c=1 d=0.149569 t=23335
+siuan3 kuo4 	選課	c=1 d=9.05454e-09 t=23335
 siuan3 qu1 	選區	c=1 d=3.26836e-21 t=23335
 siuan3 yung4 	選用	c=1 d=0.0057417 t=23335
 siuan3 zhe2 	選擇	c=7 d=1.87435 t=23335
@@ -5293,6 +5342,7 @@ sou1 suo1 	搜索	c=1 d=0.891366 t=23335
 su1 bei1 	蘇北	c=3 d=2.14845 t=23335
 su1 cha2 	速查	c=1 d=0.0066709 t=23335
 su1 du4 	速度	c=3 d=0.722527 t=23335
+su1 liu1 	速率	c=1 d=6.74139e-09 t=23335
 su1 nan2 	蘇南	c=1 d=0.88692 t=23335
 su1 zhan4 su1 jue1 	速戰速決	c=1 d=1 t=23335
 su4 	素	c=1 d=0.927151 t=23335
@@ -5389,6 +5439,7 @@ sy4 zhung1 	四中	c=1 d=0.904837 t=23335
 sy4 zhung3 	四種	c=1 d=0.398551 t=23335
 ta1 	塔	c=1 d=0.148823 t=23335
 ta1 fang1 	塌方	c=1 d=0.158025 t=23335
+ta1 rhu1 	踏入	c=1 d=3.15272e-09 t=23335
 ta3 	他	c=27 d=3.63178 t=23335
 ta3 	她	c=1 d=0.242926 t=23335
 ta3 el4 da4 ye2 	他二大爺	c=1 d=0.0939493 t=23335
@@ -5419,7 +5470,7 @@ tai4 cing1 	太清	c=0 d=8.38716e-21 t=23335
 tai4 da1 	泰達	c=0 d=0.0873716 t=23335
 tai4 da1 xi1 el3 	泰達希爾	c=2 d=1.79661 t=23335
 tai4 da4 	太大	c=0 d=4.27038e-21 t=23335
-tai4 da4 liau3 	太大了	c=1 d=4.29178e-20 t=23335
+tai4 da4 liau3 	太大了	c=2 d=0.615697 t=23335
 tai4 duo1 	太多	c=5 d=0.389634 t=23335
 tai4 duo1 liau3 	太多了	c=1 d=0.13068 t=23335
 tai4 eng4 	太硬	c=1 d=0.239309 t=23335
@@ -5456,7 +5507,7 @@ tang2 ji1 hua4 	糖基化	c=1 d=0.0407622 t=23335
 tang2 niau4 bing4 	糖尿病	c=1 d=0.722527 t=23335
 tau2 	逃	c=1 d=0.0338776 t=23335
 tau2 qan1 zhang1 siou4 gung1 sun1 zan4 	陶謙張繡公孫瓚	c=1 d=0.839457 t=23335
-tau3 lun4 	討論	c=2 d=0.144424 t=23335
+tau3 lun4 	討論	c=3 d=0.604413 t=23335
 tau4 	套	c=2 d=3.4628e-18 t=23335
 te2 bie2 	特別	c=3 d=0.300297 t=23335
 te2 chu2 	特殊	c=4 d=0.951229 t=23335
@@ -5508,7 +5559,7 @@ ti3 nui4 	體內	c=7 d=0.951264 t=23335
 ti3 si4 bau1 	體細胞	c=1 d=0.648575 t=23335
 ti3 si4 bau1 gau1 pin2 tu2 bian4 	體細胞高頻突變	c=1 d=0.88692 t=23335
 ti3 wai4 	體外	c=1 d=0.442639 t=23335
-ti3 xan4 	體現	c=2 d=0.00044604 t=23335
+ti3 xan4 	體現	c=3 d=0.316722 t=23335
 ti3 xi4 	體系	c=2 d=0.201868 t=23335
 ti3 yi2 	體液	c=1 d=1.02571 t=23335
 ti3 yi2 mian3 yi1 	體液免疫	c=3 d=1.82878 t=23335
@@ -5522,7 +5573,7 @@ ti3 zi1 	體積	c=5 d=0.613318 t=23335
 ti4 bu3 	替補	c=2 d=0.226111 t=23335
 ti4 dai4 	替代	c=2 d=0.786636 t=23335
 ti4 dai4 ji1 huo2 tu2 jing4 	替代激活途徑	c=1 d=0.0925506 t=23335
-ti4 huan4 	替換	c=1 d=1.02698 t=23335
+ti4 huan4 	替換	c=2 d=1.02698 t=23335
 tian1 	天	c=17 d=0.772696 t=23335
 tian1 fu4 	天賦	c=1 d=0.57695 t=23335
 tian1 ja1 	添加	c=3 d=1.56386 t=23335
@@ -5534,6 +5585,7 @@ tian1 shuo1 mang2 mang2 bu1 keo3 tau2 	天數茫茫不可逃	c=1 d=0.980199 t=23
 tian1 tian1 	天天	c=6 d=1.70686 t=23335
 tian1 xa4 	天下	c=0 d=0.0985112 t=23335
 tian1 xing2 jan4 	天行健	c=1 d=3.77835e-21 t=23335
+tian1 zi4 	天際	c=1 d=3.85074e-09 t=23335
 tian2 	填	c=2 d=1.60608 t=23335
 tiau1 zhan4 	挑戰	c=1 d=0.960789 t=23335
 tiau2 	調	c=2 d=0.357379 t=23335
@@ -5604,6 +5656,7 @@ tu2 jing4 	途徑	c=10 d=0.755331 t=23335
 tu2 men2 jang1 	圖門江	c=1 d=0.053397 t=23335
 tu2 pian4 	圖片	c=2 d=0.909373 t=23335
 tu2 qi3 	突起	c=1 d=0.15259 t=23335
+tu2 rhan3 	突然	c=1 d=5.01918e-09 t=23335
 tu2 shang4 	圖上	c=1 d=0.0391639 t=23335
 tu2 shu1 guan3 	圖書館	c=1 d=0.000273284 t=23335
 tu2 siang4 	圖像	c=2 d=0.000594667 t=23335
@@ -5775,7 +5828,7 @@ wan4 da1 	萬達	c=1 d=0.384812 t=23335
 wan4 neng2 	萬能	c=2 d=0.115987 t=23335
 wan4 zhung1 chuang1 sin1 	萬衆創新	c=1 d=0.021068 t=23335
 wang1 yang2 	汪洋	c=1 d=0.955997 t=23335
-wang2 	王	c=1 d=0.0561349 t=23335
+wang2 	王	c=2 d=0.192709 t=23335
 wang2 chung2 jan4 	王重建	c=1 d=0.562705 t=23335
 wang2 hou2 gung1 ziuo1 ciung2 gen1 miau2 	王侯公爵從根苗	c=1 d=0.970446 t=23335
 wang2 hui4 xin1 	王慧欣	c=1 d=0.0953692 t=23335
@@ -5801,7 +5854,7 @@ wang3 luo1 	網絡	c=1 d=0.946485 t=23335
 wang3 nian2 	往年	c=1 d=0.0833256 t=23335
 wang3 pan2 	網盤	c=1 d=0.891366 t=23335
 wang3 shang4 	往上	c=1 d=4.35664e-20 t=23335
-wang3 shang4 	網上	c=5 d=0.0087263 t=23335
+wang3 shang4 	網上	c=6 d=0.442092 t=23335
 wang3 wang3 	往往	c=0 d=0.0546074 t=23335
 wang3 wang3 bu1 shy4 	往往不是	c=1 d=0.548812 t=23335
 wang3 xa4 	往下	c=1 d=0.790571 t=23335
@@ -5820,6 +5873,7 @@ wo2 za2 	訛雜	c=-1 d=0 t=23335
 wo3 	我	c=273 d=9.22696 t=23335
 wo3 bu1 	我不	c=2 d=1.34749 t=23335
 wo3 bu1 cing1 chu3 	我不清楚	c=1 d=0.847894 t=23335
+wo3 bu1 eo4 	我不餓	c=1 d=1.97046e-09 t=23335
 wo3 bu1 ji4 de1 	我不記得	c=3 d=0.523799 t=23335
 wo3 bu1 quo1 ding4 	我不確定	c=1 d=0.873716 t=23335
 wo3 bu1 shy4 	我不是	c=1 d=0.798516 t=23335
@@ -5846,19 +5900,19 @@ wo3 ji1 	我給	c=5 d=0.654156 t=23335
 wo3 ji1 ni3 	我給你	c=1 d=0.647265 t=23335
 wo3 ji4 de1 	我記得	c=5 d=0.250952 t=23335
 wo3 kan1 	我看	c=5 d=0.965269 t=23335
-wo3 keo3 yi3 	我可以	c=1 d=0.227638 t=23335
+wo3 keo3 yi3 	我可以	c=2 d=0.305129 t=23335
 wo3 lai2 	我來	c=1 d=0.0808629 t=23335
 wo3 le1 	我的	c=11 d=2.21948 t=23335
 wo3 men2 	我們	c=8 d=1.08221 t=23335
 wo3 pa4 	我怕	c=1 d=3.3842e-19 t=23335
-wo3 qu4 	我去	c=9 d=3.09587 t=23335
+wo3 qu4 	我去	c=10 d=3.09587 t=23335
 wo3 rhen4 wui2 	我認爲	c=2 d=0.0413782 t=23335
 wo3 shuo1 	我說	c=2 d=0.94676 t=23335
 wo3 shuo1 ye3 shy4 	我說也是	c=1 d=0.882497 t=23335
 wo3 shy4 	我是	c=7 d=1.66663 t=23335
 wo3 shy4 	我試	c=0 d=0.0941765 t=23335
 wo3 shy4 leo1 	我試了	c=1 d=0.946485 t=23335
-wo3 shy4 shuo1 	我是說	c=2 d=0.603506 t=23335
+wo3 shy4 shuo1 	我是說	c=3 d=0.603506 t=23335
 wo3 shy4 shy4 	我試試	c=3 d=1.34612 t=23335
 wo3 sian1 	我先	c=1 d=7.70371e-20 t=23335
 wo3 siang3 	我想	c=2 d=0.0337087 t=23335
@@ -5876,6 +5930,7 @@ wo3 ye3 mu2 you3 	我也沒有	c=1 d=0.701173 t=23335
 wo3 ye3 siang3 	我也想	c=1 d=0.000155324 t=23335
 wo3 ye3 zai4 	我也在	c=1 d=0.579842 t=23335
 wo3 yi1 	我一	c=-1 d=0 t=23335
+wo3 yi1 kan1 	我一看	c=1 d=5.63088e-09 t=23335
 wo3 yi3 	我已	c=1 d=0.236928 t=23335
 wo3 yi3 jing1 	我已經	c=2 d=0.0617291 t=23335
 wo3 yi3 wui2 	我以爲	c=2 d=0.733447 t=23335
@@ -5887,7 +5942,7 @@ wo3 yung4 	我用	c=2 d=0.0484287 t=23335
 wo3 yung4 le1 shy4 	我用的是	c=1 d=0.0320647 t=23335
 wo3 za3 	我咋	c=1 d=0.358796 t=23335
 wo3 zai4 	我再	c=4 d=0.965721 t=23335
-wo3 zai4 	我在	c=4 d=0.103174 t=23335
+wo3 zai4 	我在	c=5 d=0.499122 t=23335
 wo3 zai4 shy4 shy4 	我再試試	c=1 d=0.927743 t=23335
 wo3 zhy1 cian2 	我之前	c=1 d=0.000441647 t=23335
 wo3 zhy1 dau4 	我知道	c=2 d=0.529935 t=23335
@@ -5959,7 +6014,7 @@ wui2 dian3 shang4 	爲點上	c=-1 d=0 t=23335
 wui2 guan1 	圍觀	c=1 d=0.677057 t=23335
 wui2 hai4 	危害	c=1 d=0.00687406 t=23335
 wui2 li4 	爲例	c=1 d=0.000642592 t=23335
-wui2 liau3 	爲了	c=7 d=1.2269 t=23335
+wui2 liau3 	爲了	c=8 d=1.2269 t=23335
 wui2 rhau3 	圍繞	c=3 d=0.628135 t=23335
 wui2 sha4 	爲啥	c=12 d=1.36017 t=23335
 wui2 shuo1 bu1 duo1 	爲數不多	c=1 d=0.197899 t=23335
@@ -5982,13 +6037,15 @@ wui3 lai4 	委賴	c=-1 d=0 t=23335
 wui3 qi2 	維奇	c=0 d=0.0546074 t=23335
 wui3 sheng1 su4 	維生素	c=19 d=4.53859 t=23335
 wui3 tuo1 	委託	c=1 d=2.47572e-18 t=23335
+wui3 yuan2 	委員	c=1 d=8.91973e-09 t=23335
 wui4 cha1 	位差	c=-1 d=0 t=23335
+wui4 chen1 	胃深	c=1 d=2.3473e-09 t=23335
 wui4 dan4 be2 mei2 	胃蛋白酶	c=1 d=0.355226 t=23335
 wui4 dian3 	位點	c=2 d=0.22412 t=23335
 wui4 dian3 shang4 	位點上	c=1 d=0.139457 t=23335
 wui4 du4 	緯度	c=3 d=0.0199132 t=23335
 wui4 ma3 	位碼	c=10 d=1.24044 t=23335
-wui4 sheng1 	衛生	c=8 d=3.06651 t=23335
+wui4 sheng1 	衛生	c=9 d=3.06651 t=23335
 wui4 sheng1 li3 hua4 jan3 yan4 	衛生理化檢驗	c=1 d=0.0208584 t=23335
 wui4 sheng1 tung3 ji4 xuo2 	衛生統計學	c=1 d=0.0237541 t=23335
 wui4 sui2 ji1 shuo1 	僞隨機數	c=1 d=0.574072 t=23335
@@ -6035,6 +6092,8 @@ xa4 biau1 	下標	c=1 d=0.00102814 t=23335
 xa4 biau3 	下表	c=2 d=0.033558 t=23335
 xa4 bu1 xa4 	下不下	c=1 d=0.318418 t=23335
 xa4 bu1 xa4 lai2 	下不下來	c=1 d=0.0845849 t=23335
+xa4 fang1 	下方	c=1 d=4.58718e-09 t=23335
+xa4 fang4 	下放	c=1 d=4.61018e-09 t=23335
 xa4 hui2 	下回	c=3 d=1.16598 t=23335
 xa4 kuo4 	下課	c=4 d=0.623816 t=23335
 xa4 lai2 	下來	c=1 d=0.759572 t=23335
@@ -6044,7 +6103,7 @@ xa4 mian4 	下面	c=3 d=0.159261 t=23335
 xa4 qu4 	下去	c=1 d=0.329559 t=23335
 xa4 shou3 	下手	c=1 d=0.0352602 t=23335
 xa4 tiau2 	下調	c=1 d=0.0239928 t=23335
-xa4 wu3 	下午	c=16 d=3.68047 t=23335
+xa4 wu3 	下午	c=17 d=3.68047 t=23335
 xa4 xuo2 qi2 	下學期	c=1 d=0.970446 t=23335
 xa4 yi1 bu4 	下一步	c=2 d=0.131336 t=23335
 xa4 yi1 pi1 	下一批	c=1 d=0.111917 t=23335
@@ -6054,7 +6113,7 @@ xa4 zai3 	下載	c=12 d=2.24858 t=23335
 xa4 zhou1 	下週	c=2 d=0.7332 t=23335
 xa4 zhou1 muo1 	下週末	c=1 d=0.071719 t=23335
 xa4 zhou1 wu3 	下週五	c=1 d=0.162838 t=23335
-xan2 	嫌	c=5 d=0.637628 t=23335
+xan2 	嫌	c=6 d=0.637628 t=23335
 xan2 qi4 	嫌棄	c=2 d=1.77386 t=23335
 xan2 wo3 	嫌我	c=1 d=6.12086e-20 t=23335
 xan2 yun2 tan2 ying3 rhy1 you1 you1 	閒雲潭影日悠悠	c=1 d=0.980199 t=23335
@@ -6070,10 +6129,11 @@ xan4 	現	c=1 d=0.179964 t=23335
 xan4 	縣	c=0 d=0.0826959 t=23335
 xan4 cha2 	現查	c=1 d=1.27034e-21 t=23335
 xan4 chang2 	現場	c=1 d=5.36173e-21 t=23335
-xan4 dai4 	現代	c=1 d=0.19593 t=23335
+xan4 dai4 	現代	c=2 d=0.380263 t=23335
 xan4 dai4 hua4 	現代化	c=0 d=0.00246002 t=23335
 xan4 dai4 wun2 	現代文	c=1 d=0.392586 t=23335
 xan4 du4 	限度	c=2 d=0.173028 t=23335
+xan4 kuang4 	現況	c=1 d=5.14624e-09 t=23335
 xan4 li3 	縣裏	c=1 d=0.163654 t=23335
 xan4 qu1 	縣區	c=1 d=0.946485 t=23335
 xan4 siang4 	現象	c=4 d=0.421052 t=23335
@@ -6128,7 +6188,7 @@ xe1 tang2 	血糖	c=0 d=0.0232236 t=23335
 xe1 tang2 yi2 	血糖儀	c=1 d=0.2334 t=23335
 xe1 ya1 	血壓	c=1 d=0.185444 t=23335
 xe1 yi2 	血液	c=5 d=0.965605 t=23335
-xe1 zhy1 	血脂	c=1 d=0.186374 t=23335
+xe1 zhy1 	血脂	c=1 d=0.647265 t=23335
 xe1 ziang1 	血漿	c=3 d=0.216674 t=23335
 xe2 tiau2 	協調	c=0 d=0.0222017 t=23335
 xe2 tiau2 fa1 zhan3 	協調發展	c=0 d=0.0031273 t=23335
@@ -6146,6 +6206,7 @@ xi1 la1 zy4 mu3 	希臘字母	c=8 d=0.95361 t=23335
 xi1 rhu1 	吸入	c=0 d=8.33397e-05 t=23335
 xi1 shau3 	稀少	c=1 d=0.965605 t=23335
 xi1 wang4 	希望	c=6 d=0.546615 t=23335
+xi1 yan1 	吸菸	c=1 d=6.31714e-09 t=23335
 xi1 yin3 li1 	吸引力	c=1 d=0.0291588 t=23335
 xi2 shau2 	嵇紹	c=1 d=0.960789 t=23335
 xi4 	系	c=0 d=0.148953 t=23335
@@ -6195,7 +6256,7 @@ xuo2 ming2 	學名	c=1 d=0.794534 t=23335
 xuo2 sheng1 	學生	c=5 d=0.814647 t=23335
 xuo2 sheng1 zheng4 	學生證	c=2 d=1.72144 t=23335
 xuo2 shu2 	學術	c=3 d=0.648879 t=23335
-xuo2 si2 	學習	c=16 d=1.14497 t=23335
+xuo2 si2 	學習	c=16 d=1.92505 t=23335
 xuo2 si2 ba1 	學習吧	c=4 d=1.1318 t=23335
 xuo2 si2 ji1 	學習機	c=1 d=0.00276698 t=23335
 xuo2 si2 shy2 	學習室	c=2 d=0.0382607 t=23335
@@ -6208,7 +6269,7 @@ ya1 gen1 	壓根	c=1 d=0.00477195 t=23335
 ya1 li2 	鴨梨	c=1 d=0.079659 t=23335
 ya1 qun2 	呀羣	c=-1 d=0 t=23335
 ya1 shuo1 	壓縮	c=1 d=0.856415 t=23335
-ya1 shuo1 bau1 	壓縮包	c=1 d=0.0195457 t=23335
+ya1 shuo1 bau1 	壓縮包	c=4 d=2.04467 t=23335
 ya2 shua1 	牙刷	c=1 d=0.831104 t=23335
 ya4 ji1 	亞基	c=2 d=0.612626 t=23335
 ya4 lui4 	亞類	c=2 d=0.362402 t=23335
@@ -6312,7 +6373,7 @@ ye1 suan1 	葉酸	c=1 d=0.0347353 t=23335
 ye3 	也	c=52 d=3.33032 t=23335
 ye3 be2 zai4 	也別再	c=1 d=0.0267827 t=23335
 ye3 biau3 shy4 	也表示	c=1 d=0.0057994 t=23335
-ye3 bu1 	也不	c=2 d=0.288103 t=23335
+ye3 bu1 	也不	c=3 d=0.288103 t=23335
 ye3 bu1 fang4 	也不放	c=1 d=0.386741 t=23335
 ye3 bu1 gou4 	也不夠	c=1 d=0.782705 t=23335
 ye3 bu1 hui4 	也不會	c=2 d=0.276651 t=23335
@@ -6371,6 +6432,7 @@ ye4 chen1 	夜深	c=1 d=0.759572 t=23335
 ye4 shen1 	夜深	c=1 d=0.744532 t=23335
 yi1 	一	c=14 d=1.15227 t=23335
 yi1 	易	c=1 d=0.913931 t=23335
+yi1 ba3 	一把	c=2 d=5.41848e-09 t=23335
 yi1 ban1 	一般	c=17 d=0.630242 t=23335
 yi1 ban1 rhen2 qun2 	一般人羣	c=1 d=0.246597 t=23335
 yi1 ban4 	一半	c=4 d=0.739357 t=23335
@@ -6629,6 +6691,7 @@ ying1 wun2 	英文	c=16 d=3.18391 t=23335
 ying1 wun2 jan4 pan2 	英文鍵盤	c=1 d=0.00527382 t=23335
 ying1 wun2 zy4 ti3 	英文字體	c=1 d=0.0347353 t=23335
 ying1 xung2 	英雄	c=2 d=0.249075 t=23335
+ying1 yi1 han4 	英譯漢	c=1 d=3.31436e-09 t=23335
 ying1 yu3 	英語	c=4 d=1.3923 t=23335
 ying1 yung4 	應用	c=3 d=1.16687 t=23335
 ying1 yung4 cheng2 siu4 	應用程序	c=1 d=0.460704 t=23335
@@ -6639,7 +6702,7 @@ ying2 yang3 	營養	c=1 d=0.0672055 t=23335
 ying2 zi1 su4 	凝集素	c=1 d=0.0939493 t=23335
 ying2 ziu4 li1 	凝聚力	c=1 d=0.0753961 t=23335
 ying3 shy1 	影視	c=1 d=0.0439369 t=23335
-ying3 xang3 	影響	c=15 d=0.763218 t=23335
+ying3 xang3 	影響	c=15 d=1.06966 t=23335
 ying3 xang3 ka3 	影響卡	c=-1 d=0 t=23335
 ying3 xang3 li1 	影響力	c=2 d=0.99005 t=23335
 ying3 xang3 xa4 	影響下	c=1 d=0.923116 t=23335
@@ -6681,7 +6744,7 @@ you3 cian2 tu2 	有前途	c=1 d=0.00509243 t=23335
 you3 dau4 	有道	c=1 d=0.0304962 t=23335
 you3 dau4 cy2 dian3 	有道詞典	c=1 d=0.0359725 t=23335
 you3 di3 qi4 	有底氣	c=1 d=0.29671 t=23335
-you3 dian3 	有點	c=15 d=1.71454 t=23335
+you3 dian3 	有點	c=16 d=1.71454 t=23335
 you3 dian3 da4 	有點大	c=1 d=0.149569 t=23335
 you3 dian3 el2 	有點兒	c=1 d=0.0356146 t=23335
 you3 du4 	有度	c=1 d=0.222017 t=23335
@@ -6717,8 +6780,8 @@ you3 liau3 	有了	c=1 d=0.000150733 t=23335
 you3 ming2 	有名	c=3 d=0.847894 t=23335
 you3 mu2 you3 	有沒有	c=12 d=2.18162 t=23335
 you3 qou2 	有求	c=1 d=0.66034 t=23335
-you3 rhen2 	有人	c=7 d=0.602407 t=23335
-you3 sha4 	有啥	c=4 d=0.837049 t=23335
+you3 rhen2 	有人	c=8 d=0.633984 t=23335
+you3 sha4 	有啥	c=5 d=0.837049 t=23335
 you3 sha4 guan1 xi4 	有啥關係	c=1 d=0.511709 t=23335
 you3 shuo1 	有數	c=1 d=2.93498e-20 t=23335
 you3 shuo3 	有所	c=3 d=0.29523 t=23335
@@ -6738,7 +6801,7 @@ you3 yau1 qou2 	有要求	c=1 d=1.02441e-19 t=23335
 you3 yi1 	有一	c=2 d=0.591555 t=23335
 you3 yi1 duan4 	有一段	c=2 d=0.638916 t=23335
 you3 yi1 duan4 shy2 jan1 	有一段時間	c=1 d=0.524663 t=23335
-you3 yi1 geo4 	有一個	c=2 d=0.468583 t=23335
+you3 yi1 geo4 	有一個	c=2 d=0.637802 t=23335
 you3 yi1 xang4 	有一項	c=1 d=0.694197 t=23335
 you3 yi4 sy1 	有意思	c=1 d=0.625002 t=23335
 you3 ying3 xang3 	有影響	c=1 d=0.0490458 t=23335
@@ -6760,7 +6823,7 @@ you4 da3 	又打	c=1 d=0.438235 t=23335
 you4 dau4 	誘導	c=3 d=0.467771 t=23335
 you4 dau4 bu4 wui4 	誘導部位	c=1 d=0.250324 t=23335
 you4 dau4 sing4 tiau2 zie1 sing4 	誘導性調節性	c=1 d=0.232236 t=23335
-you4 dau4 tan2 	誘導痰	c=3 d=0.65377 t=23335
+you4 dau4 tan2 	誘導痰	c=3 d=0.749309 t=23335
 you4 el2 yuan2 	幼兒園	c=0 d=0.0826959 t=23335
 you4 gai1 	又該	c=1 d=0.0665368 t=23335
 you4 hui4 	又會	c=1 d=0.458406 t=23335
@@ -6798,7 +6861,7 @@ yu3 diau4 	語調	c=1 d=0.0422141 t=23335
 yu3 heo2 yi3 eo1 di2 	與何以阿迪	c=-1 d=0.937067 t=23335
 yu3 mau2 qau2 	羽毛橋	c=-1 d=0 t=23335
 yu3 mau2 qou2 	羽毛球	c=2 d=1.05763 t=23335
-yu3 yan2 	語言	c=3 d=0.0372542 t=23335
+yu3 yan2 	語言	c=4 d=0.997779 t=23335
 yu3 yin1 	語音	c=7 d=0.170686 t=23335
 yu4 	預	c=0 d=0.0752014 t=23335
 yu4 che1 	預測	c=5 d=0.00050123 t=23335
@@ -6854,6 +6917,7 @@ yue1 bing3 	月餅	c=1 d=0.0411719 t=23335
 yue1 bu1 	越不	c=0 d=0.0217621 t=23335
 yue1 bu1 neng2 	月不能	c=-1 d=0 t=23335
 yue1 bu1 neng2 	越不能	c=1 d=0.218712 t=23335
+yue1 chu1 	月初	c=1 d=2.67317e-09 t=23335
 yue1 di3 	月底	c=1 d=0.063609 t=23335
 yue1 du2 	閱讀	c=1 d=0.0378169 t=23335
 yue1 fen4 	月份	c=1 d=0.00192083 t=23335
@@ -6978,6 +7042,7 @@ zai4 siun2 huan2 	再循環	c=1 d=0.806541 t=23335
 zai4 wang3 	再往	c=1 d=0.900325 t=23335
 zai4 xa4 	再下	c=0 d=0.0138761 t=23335
 zai4 xa4 yi1 zhou1 	再下一週	c=1 d=0.139457 t=23335
+zai4 yi4 	再議	c=1 d=2.5175e-09 t=23335
 zai4 yi4 	在意	c=1 d=0.995012 t=23335
 zai4 yu1 	在於	c=2 d=0.947657 t=23335
 zai4 zhau3 	再找	c=2 d=0.97531 t=23335
@@ -7122,7 +7187,7 @@ zheng1 cheng2 	征程	c=0 d=0.000663763 t=23335
 zheng1 ciu3 	爭取	c=1 d=0.831104 t=23335
 zheng1 duan1 	爭端	c=3 d=3.74705e-17 t=23335
 zheng1 yi4 	爭議	c=2 d=6.98915e-17 t=23335
-zheng1 zhuang4 	症狀	c=4 d=0.737123 t=23335
+zheng1 zhuang4 	症狀	c=4 d=1.12036 t=23335
 zheng3 	整	c=2 d=0.408608 t=23335
 zheng3 geo4 	整個	c=3 d=1.22192 t=23335
 zheng3 heo2 su4 	整合素	c=1 d=1.60468e-05 t=23335
@@ -7150,7 +7215,7 @@ zheng4 ming2 	正名	c=1 d=0.136695 t=23335
 zheng4 ming2 	證明	c=2 d=0.480249 t=23335
 zheng4 qi4 geo1 	正氣歌	c=1 d=0.951229 t=23335
 zheng4 quan2 	政權	c=1 d=1.45925e-05 t=23335
-zheng4 quo1 	正確	c=2 d=4.25918e-17 t=23335
+zheng4 quo1 	正確	c=3 d=0.32628 t=23335
 zheng4 shang1 	政商	c=0 d=0.0017163 t=23335
 zheng4 shang1 guan1 xi4 	政商關係	c=1 d=0.017249 t=23335
 zheng4 shu1 	證書	c=2 d=0.400898 t=23335
@@ -7208,7 +7273,7 @@ zheo4 jau4 	這叫	c=0 d=0.00169922 t=23335
 zheo4 ji1 geo4 	這幾個	c=2 d=0.913931 t=23335
 zheo4 ji1 tian1 	這幾天	c=2 d=1.19537 t=23335
 zheo4 keo3 shy4 	這可是	c=1 d=0.375311 t=23335
-zheo4 li3 	這裏	c=3 d=0.752014 t=23335
+zheo4 li3 	這裏	c=4 d=0.752014 t=23335
 zheo4 lia3 	這倆	c=2 d=0.597815 t=23335
 zheo4 liang3 geo4 	這兩個	c=1 d=0.0122461 t=23335
 zheo4 liang3 geo4 zy4 	這兩個字	c=1 d=0.0103063 t=23335
@@ -7318,18 +7383,18 @@ zhu3 yau1 yin1 su4 	主要因素	c=0 d=0.0474734 t=23335
 zhu3 yau1 you3 	主要有	c=1 d=0.141564 t=23335
 zhu3 yau1 zu3 zhy1 siang1 yung2 sing4 fu1 heo2 ti3 	主要組織相容性複合體	c=1 d=0.932394 t=23335
 zhu3 ye1 	主業	c=1 d=0.331211 t=23335
-zhu3 yi4 	注意	c=5 d=0.980401 t=23335
+zhu3 yi4 	注意	c=6 d=0.980401 t=23335
 zhu3 yi4 shy4 xang4 	注意事項	c=1 d=0.782705 t=23335
 zhu3 yin1 fu2 hau4 	注音符號	c=2 d=0.67368 t=23335
 zhu3 yu3 a1 	主語啊	c=-1 d=0 t=23335
 zhu3 yuan2 yin1 	主元音	c=2 d=0.182684 t=23335
 zhu3 zhang1 	主張	c=2 d=1.42588e-17 t=23335
-zhu4 	住	c=2 d=0.146234 t=23335
+zhu4 	住	c=3 d=0.245426 t=23335
 zhu4 che1 	註冊	c=1 d=0.985112 t=23335
 zhu4 ding4 	註定	c=1 d=0.802519 t=23335
 zhu4 le1 	住的	c=1 d=0.0374406 t=23335
 zhu4 shou3 	助手	c=1 d=0.00481991 t=23335
-zhu4 shy1 	註釋	c=1 d=0.158817 t=23335
+zhu4 shy1 	註釋	c=1 d=0.501576 t=23335
 zhu4 tui1 	助推	c=1 d=0.0320647 t=23335
 zhu4 xuo2 	助學	c=1 d=0.529935 t=23335
 zhu4 yin1 fa1 	註音法	c=0 d=0.0460704 t=23335
@@ -7373,7 +7438,7 @@ zhuan3 zhuan3 	轉轉	c=1 d=0.860708 t=23335
 zhuan4 dau4 	轉導	c=3 d=0.613576 t=23335
 zhuan4 sie3 	撰寫	c=1 d=0.000728153 t=23335
 zhuan4 wui4 	轉位	c=1 d=0.00260584 t=23335
-zhuang1 	裝	c=5 d=0.973174 t=23335
+zhuang1 	裝	c=6 d=0.973174 t=23335
 zhuang1 bei4 	裝備	c=1 d=0.302704 t=23335
 zhuang1 bu1 shang4 	裝不上	c=2 d=0.839457 t=23335
 zhuang1 ding1 	裝訂	c=1 d=0.496585 t=23335
@@ -7511,6 +7576,7 @@ zhy1 chy2 	支持	c=7 d=0.387156 t=23335
 zhy1 cian2 	之前	c=11 d=0.918512 t=23335
 zhy1 cy3 	值此	c=0 d=0.0529935 t=23335
 zhy1 cy3 zhy1 zi4 	值此之際	c=1 d=0.532592 t=23335
+zhy1 dan4 be2 	脂蛋白	c=0 d=1.24151e-09 t=23335
 zhy1 dau4 	知道	c=21 d=2.26154 t=23335
 zhy1 fen1 	之分	c=1 d=0.826959 t=23335
 zhy1 fu4 	支付	c=1 d=0.17552 t=23335
@@ -7520,7 +7586,7 @@ zhy1 hou4 	之後	c=24 d=3.47368 t=23335
 zhy1 hu2 	知乎	c=1 d=0.26982 t=23335
 zhy1 jan1 	之間	c=19 d=1.84771 t=23335
 zhy1 li1 	質粒	c=2 d=0.983338 t=23335
-zhy1 liang2 	質量	c=13 d=0.726046 t=23335
+zhy1 liang2 	質量	c=13 d=1.06336 t=23335
 zhy1 liang2 biau1 zhun3 	質量標準	c=0 d=3.10896e-22 t=23335
 zhy1 liang2 kau3 he2 	質量考覈	c=1 d=0.199888 t=23335
 zhy1 lu4 	之路	c=1 d=7.23512e-17 t=23335
@@ -7548,7 +7614,7 @@ zhy1 wui4 	職衛	c=1 d=0.852144 t=23335
 zhy1 xing2 	執行	c=1 d=0.557106 t=23335
 zhy1 xing2 li1 	執行力	c=1 d=0.0761538 t=23335
 zhy1 ye1 	職業	c=4 d=0.475829 t=23335
-zhy1 ye1 wui4 sheng1 	職業衛生	c=3 d=0.908443 t=23335
+zhy1 ye1 wui4 sheng1 	職業衛生	c=4 d=1.01218 t=23335
 zhy1 yi1 	之一	c=3 d=0.668088 t=23335
 zhy1 yi2 	質疑	c=1 d=1.58241e-17 t=23335
 zhy1 zhe1 	職責	c=1 d=0.0405589 t=23335
@@ -7652,7 +7718,7 @@ zie1 heo2 	接合	c=1 d=0.0333733 t=23335
 zie1 jin4 	接近	c=4 d=0.752014 t=23335
 zie1 kou3 	接口	c=1 d=0.932394 t=23335
 zie1 mu1 	節目	c=2 d=0.141366 t=23335
-zie1 rhang3 	接壤	c=1 d=5.14974e-17 t=23335
+zie1 rhang3 	接壤	c=2 d=0.332871 t=23335
 zie1 shou4 	接受	c=9 d=2.44726 t=23335
 zie1 shui3 	接水	c=1 d=0.798516 t=23335
 zie1 yu2 	節餘	c=1 d=0.843665 t=23335
@@ -7712,7 +7778,7 @@ ziou4 bu1 shy4 	就不是	c=1 d=0.161218 t=23335
 ziou4 ceng2 	就曾	c=1 d=2.65523e-18 t=23335
 ziou4 chy1 	就吃	c=1 d=0.211189 t=23335
 ziou4 ciu3 	就取	c=1 d=0.0713613 t=23335
-ziou4 dang1 	就當	c=2 d=0.0152985 t=23335
+ziou4 dang1 	就當	c=3 d=0.452236 t=23335
 ziou4 du2 	就讀	c=1 d=0.0136366 t=23335
 ziou4 duo1 	就多	c=1 d=0.481909 t=23335
 ziou4 gau1 	就高	c=1 d=0.527292 t=23335
@@ -7807,7 +7873,7 @@ zui4 da4 le1 	最大的	c=1 d=0.429557 t=23335
 zui4 da4 xan4 du4 	最大限度	c=1 d=0.008271 t=23335
 zui4 da4 you1 shy4 	最大優勢	c=1 d=0.0109985 t=23335
 zui4 duan3 	最短	c=1 d=0.421052 t=23335
-zui4 duo1 	最多	c=4 d=0.504692 t=23335
+zui4 duo1 	最多	c=5 d=0.504692 t=23335
 zui4 duo1 le1 	最多的	c=1 d=0.188247 t=23335
 zui4 gau1 	最高	c=1 d=0.079659 t=23335
 zui4 guan1 jan4 	最關鍵	c=1 d=0.00425356 t=23335
@@ -7840,9 +7906,10 @@ zun1 zhung4 	尊重	c=1 d=1.7142e-17 t=23335
 zung1 heo2 	綜合	c=1 d=0.423331 t=23335
 zung1 heo2 you1 shy4 	綜合優勢	c=1 d=0.0997588 t=23335
 zung1 shang4 shuo3 shu2 	綜上所述	c=1 d=0.423162 t=23335
-zung1 shu2 	綜述	c=2 d=0.270366 t=23335
+zung1 shu2 	綜述	c=4 d=2.63551 t=23335
 zung1 zhy3 	宗旨	c=1 d=0.0380064 t=23335
 zung3 	總	c=6 d=0.856458 t=23335
+zung3 dan3 gu4 chun2 	總膽固醇	c=1 d=6.19205e-09 t=23335
 zung3 fi4 yung4 	總費用	c=1 d=0.0422141 t=23335
 zung3 je1 	總結	c=6 d=0.73154 t=23335
 zung3 le1 	總的	c=1 d=0.142987 t=23335
