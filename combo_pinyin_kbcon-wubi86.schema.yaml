@@ -120,6 +120,10 @@ zh_simp:
   opencc_config: t2s.json
   tags: [ abc ]
 
+editor:
+  bindings:
+    BackSpace: back_syllable
+
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
