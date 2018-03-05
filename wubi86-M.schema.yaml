@@ -114,7 +114,7 @@ triungkox:
   initial_quality: 0.2
 
 triungkox_lookup:
-  tags: [ triungkox_lookup, pinyin, cangjie5, cangjie5_sc ]
+  tags: [ triungkox_lookup, pinyin ]
   # dictionary: zyenpheng
   # preedit_format: *cangjie5
   tips: 【中古拼音反查】
