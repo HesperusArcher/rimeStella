@@ -1,9 +1,9 @@
 # Ignore files
 # Backup for using RIME schemas and userdb.txt
 
-build/
-
 *.bin
+
+build/
 
 *.userdb
 
