@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: wubi86-M
+  schema_id: wubi86-triungkox
   name: "五笔86・廣韻反查"
   version: "2017.12.07"
   author:
@@ -11,8 +11,10 @@ schema:
     五筆字型86版
     碼表源自 ibus-table
     敲 z 鍵進入拼音反查
-  # dependencies:
-    # - pinyin_simp
+  dependencies:
+    - luna_pinyin
+    - pinyin_simp
+    - zyenpheng
 
 switches:
   - name: ascii_mode
