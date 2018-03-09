@@ -69,7 +69,7 @@ speller:
 translator:
   dictionary: wubi86
   prism: wubi86-triungkox
-  enable_charset_filter: true
+  enable_charset_filter: false
   enable_completion: true # 提前顯示尚未輸入完整碼的字〔僅 table_translator 有效〕
   enable_sentence: true # 是否開啓自動造句
   enable_encoder: true # 是否開啓自動造詞
