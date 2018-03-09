@@ -20105,7 +20105,7 @@ zi dong 	自動	c=13 d=2.61259 t=47863
 zi dong bu quan 	自動補全	c=1 d=0.0420036 t=47863
 zi dong dang 	自動檔	c=1 d=0.0184997 t=47863
 zi dong mian yi 	自動免疫	c=0 d=1.96254e-12 t=47863
-zi du 	只讀	c=1 d=1 t=47861
+zi du 	只讀	c=1 d=0.99005 t=47863
 zi fei 	資費	c=2 d=0.977009 t=47863
 zi fen mi 	子分泌	c=-1 d=4.52981e-08 t=47863
 zi fen mi 	自分泌	c=1 d=0.301194 t=47863
