@@ -23,7 +23,7 @@ switches:
     reset: 0
   - name: simplification
     reset: 0
-    states: [ 漢字, 汉字 ]
+    # states: [ 漢字, 汉字 ]
   - name: extended_charset
     reset: 0
     # states: [ 通用, 增廣 ]
