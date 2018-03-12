@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_zhung_kbcon-wubi86
   name: "中州羅馬字（並擊·鍵盤控式）＆五笔86"
-  version: "2017.12.07"
+  version: "2018.03.12"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 發明人 王永民先生
@@ -48,7 +48,7 @@ switches:
   - name: full_shape
     reset: 0
   - name: simplification
-    reset: 1
+    reset: 0
     states: [ 漢字, 汉字 ]
   - name: extended_charset
     reset: 0
@@ -97,6 +97,10 @@ engine:
 zh_simp:
   opencc_config: t2s.json
   tags: [ abc ]
+
+editor:
+  bindings:
+    BackSpace: back_syllable
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -477,7 +481,7 @@ chord_composer:
     - xform/I$/i/
     - xform/VUE$/VNe/
     - xform/V(a?)U$/i$1U/
-    - xform/aU$/au/
+    - xform/a[UO]$/au/ # 兼容大衆式ㄠ
     - xform/UE?$/ou/
     - xform/([aiuV])Ne$/$1ng/
     - xform/Ne$/eng/
