@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_pinyin_kbcon-wubi86
   name: "宮保拼音・鍵盤控式＆五笔86"
-  version: "2017.12.11"
+  version: "2018.03.16"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 發明人 王永民先生
@@ -95,6 +95,7 @@ engine:
     - abc_segmentor
     - affix_segmentor@pinyin
     - affix_segmentor@pinyin_lookup
+    - affix_segmentor@pinyin_simp_lookup
     - affix_segmentor@wubi86
     - affix_segmentor@triungkox
     - affix_segmentor@triungkox_lookup
@@ -102,10 +103,11 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - table_translator@custom_phrase
+    # - table_translator@custom_phrase
     - script_translator
     - script_translator@pinyin
     - script_translator@pinyin_lookup
+    - script_translator@pinyin_simp_lookup
     - table_translator@wubi86
     - script_translator@triungkox
     - script_translator@triungkox_lookup
@@ -114,6 +116,7 @@ engine:
     - uniquifier
     - reverse_lookup_filter@triungkox_reverse_lookup
     - reverse_lookup_filter@pinyin_reverse_lookup
+    - reverse_lookup_filter@pinyin_simp_reverse_lookup
     - reverse_lookup_filter@middle_chinese
 
 zh_simp:
@@ -151,6 +154,23 @@ pinyin:
 
 pinyin_lookup:
   tag: pinyin_lookup
+  prefix: "`J"
+  suffix: ;
+  dictionary: luna_pinyin
+  preedit_format: *pinyin
+  tips: 【拼音反查五笔】
+  closing_tips: 【宫保】
+
+pinyin_reverse_lookup:
+  tags: [ pinyin_lookup ]
+  overwrite_comment: true
+  dictionary: wubi86
+  comment_format: &comment
+    - xform/$/〕/
+    - xform/^/〔/
+
+pinyin_simp_lookup:
+  tag: pinyin_simp_lookup
   prefix: "`"
   suffix: ;
   dictionary: pinyin_simp
@@ -158,8 +178,8 @@ pinyin_lookup:
   tips: 【简拼反查五笔】
   closing_tips: 【宫保】
 
-pinyin_reverse_lookup:
-  tags: [ pinyin_lookup ]
+pinyin_simp_reverse_lookup:
+  tags: [ pinyin_simp_lookup ]
   overwrite_comment: true
   dictionary: wubi86
   comment_format: &comment
@@ -393,7 +413,8 @@ recognizer:
   patterns:
     email: "^[a-z][-_.0-9a-z]*@.*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
-    pinyin_lookup: "`[a-z]*;?$"
+    pinyin_lookup: "`J[a-z]*;?$"
+    pinyin_simp_lookup: "`[a-z]*;?$"
     triungkox: "(?<![`A-Z])P[a-z']*;?$"
     wubi86: "(?<![`A-Z])zz[a-z']*;?$"
     pinyin: "(?<![`A-Z])J[a-z']*;?$"
