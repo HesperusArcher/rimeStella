@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_zhung_kbcon-wubi86
   name: "中州羅馬字（並擊·鍵盤控式）＆五笔86"
-  version: "2018.03.12"
+  version: "2018.03.17"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 發明人 王永民先生
@@ -13,8 +13,8 @@ schema:
 
     佈局：
 
-        Ln  Dt          u   I   o/eo
-    S   Cr  Z*  Gk      i*  N   E
+        Ln  Dt          u   I   o
+    S   Cr  Z*  Gk      i*  N   E/eo
     Z'  Fm  Bp      er  yu  U   E'
                 H*  A*
 
@@ -28,6 +28,7 @@ schema:
     ZH = zh, CH = ch, SH = sh, ZC = r
     Z'FB = v
     2017.11.05啓用v2.0，改变 jq 键位，zh, ch後接i, ü 時自動轉換爲 j, q
+    2018.03.17 啓用 v2.1，單獨按下 E 及其與 zh，ch，sh 相拼時輸出 eo，拼作其他音節時作 e
 
     # 組合韻母及活用（同「大衆式」），括弧內爲活用組合
     AI = ai, eoI (oI) = ei, AU = au, U (E'U) = ou,
@@ -448,9 +449,8 @@ chord_composer:
     - xform/^bf/m/
     - xform/^dl/n/
     - xform/^zc/rh/
-    # - xform/^jh/q/ # v1.0
-    - xform/^zh([iV])/j$1/ # v2.0
-    - xform/^ch([iV])/q$1/ # v2.0
+    - xform/^zh([iV])/j$1/ # zh 後接 i, ü 時自動轉換爲 j
+    - xform/^ch([iV])/q$1/ # ch 後接 i, ü 時自動轉換爲 q
     # PC 鍵盤組合聲母
     - xform/^b[zcsh]+/p/
     - xform/^d[zcsh]+/t/
@@ -481,7 +481,8 @@ chord_composer:
     - xform/I$/i/
     - xform/VUE$/VNe/
     - xform/V(a?)U$/i$1U/
-    - xform/a[UO]$/au/ # 兼容大衆式ㄠ
+    # - xform/aU$/au/
+    - xform/a[UO]$/au/ # 兼容大衆式「ㄠ」
     - xform/UE?$/ou/
     - xform/([aiuV])Ne$/$1ng/
     - xform/Ne$/eng/
@@ -490,8 +491,12 @@ chord_composer:
     - xform/L$/el/
     - xform/([iV])O$/iuo/
     - xform/uO$/uo/
-    - xform/aO$/o/
-    - xform/O$/eo/
+    # - xform/aO$/o/
+    - xform/O$/o/
+    # - xform/O$/eo/
+    - xform/^e$/eo/ #僅在此情況下拼作 eo，其餘作 e
+    - xform/^([zcsr]h)e/$1eo/ #僅在此情況下拼作 eo，其餘作 e
+    - xform/^aE$/e/
     - xform/^i(ng?)$/yi$1/
     - xform/^i$/yi/
     - xform/^i/y/
@@ -506,7 +511,9 @@ chord_composer:
     - xform/^([zcsr]h)i(ng?)$/$1e$2/
     - xlit/VE/ve/
     - xform/^([bpmfv])$/$1u/
-    - xform/^([dtnl])$/$1i/
+    # - xform/^([dtnl])$/$1i/
+    - xform/^([dtn])$/$1i/
+    - xform/^l$/le/ # l 後補全爲更常用的 le
     - xform/^([gkh])$/$1eo/
     - xform/^([zcsr]h?)$/$1y/
   output_format:
