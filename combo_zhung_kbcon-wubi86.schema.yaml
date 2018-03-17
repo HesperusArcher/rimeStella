@@ -49,7 +49,7 @@ switches:
   - name: full_shape
     reset: 0
   - name: simplification
-    reset: 0
+    reset: 1
     states: [ 漢字, 汉字 ]
   - name: extended_charset
     reset: 0
@@ -74,6 +74,7 @@ engine:
     - abc_segmentor
     - affix_segmentor@pinyin
     - affix_segmentor@pinyin_lookup
+    - affix_segmentor@pinyin_simp_lookup
     - affix_segmentor@wubi86
     - affix_segmentor@triungkox
     - affix_segmentor@triungkox_lookup
@@ -85,6 +86,7 @@ engine:
     - script_translator
     - script_translator@pinyin
     - script_translator@pinyin_lookup
+    - script_translator@pinyin_simp_lookup
     - table_translator@wubi86
     - script_translator@triungkox
     - script_translator@triungkox_lookup
@@ -93,6 +95,7 @@ engine:
     - uniquifier
     - reverse_lookup_filter@triungkox_reverse_lookup
     - reverse_lookup_filter@pinyin_reverse_lookup
+    - reverse_lookup_filter@pinyin_simp_reverse_lookup
     - reverse_lookup_filter@middle_chinese
 
 zh_simp:
@@ -183,6 +186,23 @@ pinyin:
 
 pinyin_lookup:
   tag: pinyin_lookup
+  prefix: "`J"
+  suffix: ;
+  dictionary: luna_pinyin
+  preedit_format: *pinyin
+  tips: 【拼音反查五笔】
+  closing_tips: 【中州羅馬字】
+
+pinyin_reverse_lookup:
+  tags: [ pinyin_lookup ]
+  overwrite_comment: true
+  dictionary: wubi86
+  comment_format: &comment
+    - xform/$/〕/
+    - xform/^/〔/
+
+pinyin_simp_lookup:
+  tag: pinyin_simp_lookup
   prefix: "`"
   suffix: ;
   dictionary: pinyin_simp
@@ -190,8 +210,8 @@ pinyin_lookup:
   tips: 【简拼反查五笔】
   closing_tips: 【中州羅馬字】
 
-pinyin_reverse_lookup:
-  tags: [ pinyin_lookup ]
+pinyin_simp_reverse_lookup:
+  tags: [ pinyin_simp_lookup ]
   overwrite_comment: true
   dictionary: wubi86
   comment_format: &comment
@@ -425,7 +445,8 @@ recognizer:
   patterns:
     email: "^[a-z][-_.0-9a-z]*@.*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
-    pinyin_lookup: "`[a-z]*;?$"
+    pinyin_lookup: "`J[a-z]*;?$"
+    pinyin_simp_lookup: "`[a-z]*;?$"
     triungkox: "(?<![`A-Z])P[a-z']*;?$"
     wubi86: "(?<![`A-Z])zz[a-z']*;?$"
     pinyin: "(?<![`A-Z])py[a-z']*;?$"
