@@ -13,7 +13,7 @@ schema:
 
     佈局：
 
-        Ln  Dt          u   I   o
+        Ln  Dt          u   I   o/eo
     S   Cr  Z*  Gk      i*  N   E/eo
     Z'  Fm  Bp      er  yu  U   E'
                 H*  A*
@@ -28,7 +28,7 @@ schema:
     ZH = zh, CH = ch, SH = sh, ZC = r
     Z'FB = v
     2017.11.05啓用v2.0，改变 jq 键位，zh, ch後接i, ü 時自動轉換爲 j, q
-    2018.03.17 啓用 v2.1，單獨按下 E 及其與 zh，ch，sh 相拼時輸出 eo，拼作其他音節時作 e
+    2018.03.19 啓用 v2.2，單獨按下 E 及其與 zh，ch，sh，h 相拼時輸出 eo，拼作其他音節時作 e
 
     # 組合韻母及活用（同「大衆式」），括弧內爲活用組合
     AI = ai, eoI (oI) = ei, AU = au, U (E'U) = ou,
