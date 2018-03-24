@@ -38,6 +38,7 @@ an 	胺	c=0 d=0.0395233 t=49822
 an 	鞍	c=0 d=2.62791e-15 t=49822
 an bang 	安邦	c=1 d=0.818731 t=49822
 an chao 	暗潮	c=1 d=0.092089 t=49822
+an cuo 	按錯	c=1 d=8.64322e-109 t=49822
 an dao 	按到	c=1 d=0.0235177 t=49822
 an de 	俺的	c=1 d=0.316637 t=49822
 an de 	安得	c=0 d=1.54282e-14 t=49822
@@ -997,7 +998,7 @@ bu gou 	不夠	c=13 d=2.06961 t=49822
 bu gu 	不顧	c=0 d=6.67431e-10 t=49822
 bu gua 	不掛	c=1 d=0.121846 t=49822
 bu guai 	不怪	c=1 d=0.484325 t=49822
-bu guan 	不管	c=9 d=0.704759 t=49822
+bu guan 	不管	c=9 d=0.763379 t=49822
 bu guan ni 	不管你	c=1 d=0.082085 t=49822
 bu guang 	不光	c=5 d=1.01827 t=49822
 bu gui 	不歸	c=0 d=7.12255e-10 t=49822
@@ -1331,6 +1332,7 @@ cai 	才	c=37 d=1.95115 t=49822
 cai 	採	c=1 d=0.0017643 t=49822
 cai 	材	c=0 d=1.63426e-15 t=49822
 cai 	猜	c=1 d=8.33539e-06 t=49822
+cai 	菜	c=1 d=7.00606e-109 t=49822
 cai ce 	猜測	c=2 d=0.913931 t=49822
 cai che qu ming 	彩徹區明	c=1 d=2.94058e-13 t=49822
 cai dei 	才得	c=1 d=0.726149 t=49822
@@ -1484,7 +1486,7 @@ ceng xi fa 	層析法	c=1 d=0.00047843 t=49822
 ceng zai 	曾在	c=1 d=0.299692 t=49822
 ceng zhuang 	層狀	c=1 d=0.00172074 t=49822
 cha 	叉	c=0 d=0.0360595 t=49822
-cha 	差	c=5 d=0.666977 t=49822
+cha 	差	c=5 d=0.847894 t=49822
 cha 	查	c=7 d=1.54942 t=49822
 cha 	茶	c=6 d=2.06347 t=49822
 cha bie 	差別	c=6 d=0.922637 t=49822
@@ -2616,7 +2618,7 @@ dai qian 	代簽	c=1 d=8.19288e-09 t=49822
 dai qian 	帶錢	c=1 d=8.15202e-09 t=49822
 dai shang 	帶上	c=1 d=0.219808 t=49822
 dai ta men 	帶他們	c=1 d=0.97531 t=49822
-dai ti 	代替	c=2 d=0.690734 t=49822
+dai ti 	代替	c=2 d=0.759572 t=49822
 dai tou 	帶頭	c=0 d=1.83662e-06 t=49822
 dai xie 	代謝	c=33 d=0.86539 t=49822
 dai xie fang xiang 	代謝方向	c=1 d=0.160414 t=49822
@@ -2852,7 +2854,7 @@ dao na 	到哪	c=0 d=0.0794534 t=49822
 dao na li 	到哪裏	c=2 d=1.60506 t=49822
 dao nian 	悼念	c=2 d=0.0529001 t=49822
 dao pei li dui 	叨陪鯉對	c=1 d=4.25718e-13 t=49822
-dao qi 	到期	c=1 d=0.752014 t=49822
+dao qi 	到期	c=1 d=0.782705 t=49822
 dao qiang 	刀槍	c=0 d=0.0786628 t=49822
 dao ru 	導入	c=4 d=0.953441 t=49822
 dao shi 	倒是	c=7 d=1.19525 t=49822
@@ -3376,7 +3378,10 @@ dou bu yong 	都不用	c=1 d=0.000311223 t=49822
 dou bu zai 	都不在	c=1 d=0.130029 t=49822
 dou bu zhi dao 	都不知道	c=2 d=0.0453456 t=49822
 dou dao 	都到	c=1 d=0.0297478 t=49822
-dou dei 	都得	c=4 d=0.411491 t=49822
+dou dei 	都得	c=4 d=0.928452 t=49822
+dou dei cha 	都得差	c=-1 d=0 t=49822
+dou dei chi 	都得吃	c=1 d=8.09928e-109 t=49822
+dou fu 	豆腐	c=1 d=6.66437e-109 t=49822
 dou gei 	都給	c=2 d=0.67368 t=49822
 dou gei ni 	都給你	c=1 d=9.33029e-09 t=49822
 dou gen 	都跟	c=3 d=0.119046 t=49822
@@ -4701,6 +4706,7 @@ gan huo er 	幹活兒	c=4 d=1.82614 t=49822
 gan ji 	感激	c=2 d=0.615697 t=49822
 gan jie bi cheng 	敢竭鄙誠	c=1 d=4.6581e-13 t=49822
 gan jin 	趕緊	c=9 d=1.71303 t=49822
+gan jin ba 	趕緊吧	c=1 d=8.13988e-109 t=49822
 gan jing 	乾淨	c=1 d=0.373439 t=49822
 gan jue 	感覺	c=21 d=1.62316 t=49822
 gan jue dao 	感覺到	c=2 d=0.971225 t=49822
@@ -6161,6 +6167,7 @@ hei 	黑	c=2 d=0.603729 t=49822
 hei ban 	黑板	c=0 d=0.0418952 t=49822
 hei dong dong 	黑洞洞	c=1 d=0.67368 t=49822
 hei hei 	嘿嘿	c=2 d=0.755784 t=49822
+hei hei hei hei 	嘿嘿嘿嘿	c=1 d=7.62761e-109 t=49822
 hei hong 	黑紅	c=1 d=0.00524752 t=49822
 hei jing 	黑鏡	c=1 d=0.66365 t=49822
 hei ping guo 	黑蘋果	c=1 d=4.15998e-06 t=49822
@@ -6501,6 +6508,7 @@ huan man 	緩慢	c=2 d=0.20446 t=49822
 huan rao 	環繞	c=2 d=0.798516 t=49822
 huan ren 	換人	c=1 d=0.00588705 t=49822
 huan sha 	浣紗	c=0 d=1.00119e-15 t=49822
+huan shu 	還書	c=1 d=7.11194e-109 t=49822
 huan wei 	環衛	c=1 d=0.501576 t=49822
 huan xi 	歡喜	c=1 d=1.51175e-09 t=49822
 huan xing jie gou 	環形結構	c=1 d=0.484325 t=49822
@@ -8737,7 +8745,7 @@ ke xue shi shi 	科學實施	c=1 d=0.900325 t=49822
 ke xue yan jiu 	科學研究	c=2 d=0.650509 t=49822
 ke xue zhi zheng 	科學執政	c=1 d=1.88311e-05 t=49822
 ke yan 	可嚴	c=1 d=0.085435 t=49822
-ke yan 	科研	c=1 d=0.0845315 t=49822
+ke yan 	科研	c=1 d=0.985112 t=49822
 ke yan shi zhi zhong xin 	科研試製中心	c=1 d=0.163654 t=49822
 ke yan yuan suo 	科研院所	c=3 d=0.165757 t=49822
 ke yi 	可以	c=130 d=5.00701 t=49822
@@ -9639,6 +9647,7 @@ liu chu 	流出	c=2 d=0.00457007 t=49822
 liu chu qi shan 	六出祁山	c=0 d=0.0904837 t=49822
 liu chuan 	流傳	c=1 d=0.00449405 t=49822
 liu chun qu yu jin 	流春去欲盡	c=1 d=4.62368e-14 t=49822
+liu ci xin 	劉慈欣	c=1 d=9.45719e-109 t=49822
 liu da lei 	六大類	c=1 d=0.634448 t=49822
 liu dai 	六代	c=1 d=3.3552e-06 t=49822
 liu dai ba bi tuo suan xian se fa 	硫代巴比妥酸顯色法	c=1 d=2.05583e-08 t=49822
@@ -9887,7 +9896,7 @@ ma lian liang 	馬連良	c=1 d=0.00516939 t=49822
 ma lu 	馬路	c=0 d=0.000142298 t=49822
 ma pi 	馬屁	c=1 d=0.126818 t=49822
 ma qi duo 	瑪奇朵	c=1 d=1.213e-07 t=49822
-ma shang 	馬上	c=3 d=0.460069 t=49822
+ma shang 	馬上	c=3 d=0.778801 t=49822
 ma ta fei yan 	馬踏飛燕	c=1 d=3.99687e-06 t=49822
 ma tao 	馬桃	c=-1 d=0.082085 t=49822
 ma tao 	馬韜	c=1 d=0.08291 t=49822
@@ -10780,7 +10789,7 @@ ni qu 	你去	c=4 d=1.36734 t=49822
 ni quan qiu hua qing xiang 	逆全球化傾向	c=1 d=0.0193512 t=49822
 ni sheng ci 	擬聲詞	c=1 d=0.647265 t=49822
 ni shi 	你是	c=5 d=0.932164 t=49822
-ni shi bu shi 	你是不是	c=1 d=0.204948 t=49822
+ni shi bu shi 	你是不是	c=1 d=0.831104 t=49822
 ni shi shi 	你試試	c=1 d=0.182684 t=49822
 ni shuo 	你說	c=9 d=1.60116 t=49822
 ni suan 	你算	c=1 d=0.214381 t=49822
@@ -11711,6 +11720,7 @@ qing na qing fang 	輕拿輕放	c=1 d=0.302704 t=49822
 qing ni 	請你	c=4 d=0.385581 t=49822
 qing ni 	青泥	c=0 d=3.25825e-15 t=49822
 qing ni chi 	請你吃	c=1 d=0.362402 t=49822
+qing ni chi fan 	請你吃飯	c=1 d=7.74289e-109 t=49822
 qing ni he pan pan 	青泥何盤盤	c=1 d=3.27459e-14 t=49822
 qing nian 	青年	c=1 d=0.0161635 t=49822
 qing qing 	青青	c=0 d=1.40374e-09 t=49822
@@ -12670,6 +12680,7 @@ shao le 	少了	c=3 d=0.484329 t=49822
 shao liang 	少量	c=1 d=0.923116 t=49822
 shao nian 	少年	c=1 d=0.17124 t=49822
 shao nian qiang ze guo qiang 	少年強則國強	c=1 d=0.156453 t=49822
+shao qu 	捎去	c=1 d=7.51405e-109 t=49822
 shao shi shan 	少室山	c=1 d=0.0118551 t=49822
 shao shu 	少數	c=2 d=0.869358 t=49822
 shao shu mei 	少數酶	c=1 d=0.0953692 t=49822
@@ -13967,6 +13978,7 @@ suan 	算	c=9 d=0.888561 t=49822
 suan 	酸	c=4 d=0.285771 t=49822
 suan bu chu 	算不出	c=0 d=8.17034e-07 t=49822
 suan bu chu lai 	算不出來	c=1 d=8.21129e-06 t=49822
+suan bu liu ji 	酸不溜嘰	c=1 d=6.73135e-109 t=49822
 suan chu lai 	算出來	c=3 d=0.65377 t=49822
 suan de 	算得	c=1 d=0.0376283 t=49822
 suan de 	算的	c=4 d=0.65009 t=49822
@@ -16508,6 +16520,7 @@ xin li 	心裏	c=2 d=0.666779 t=49822
 xin li xue 	心理學	c=0 d=1.60551e-12 t=49822
 xin li yin su 	心理因素	c=1 d=1.58953e-11 t=49822
 xin li zhun bei 	心理準備	c=1 d=0.283654 t=49822
+xin li zuo yong 	心理作用	c=1 d=6.83308e-109 t=49822
 xin lin 	新林	c=0 d=1.13238e-15 t=49822
 xin lu zi 	新路子	c=1 d=0.423162 t=49822
 xin lv 	心率	c=1 d=1.2949e-11 t=49822
@@ -16694,6 +16707,7 @@ xiu 	修	c=1 d=0.831104 t=49822
 xiu 	繡	c=0 d=0.0822835 t=49822
 xiu cai 	秀才	c=0 d=1.33135e-15 t=49822
 xiu che 	修車	c=1 d=0.402524 t=49822
+xiu dao yuan 	修道院	c=1 d=9.26992e-109 t=49822
 xiu deng 	修燈	c=1 d=0.00701293 t=49822
 xiu ding 	修訂	c=2 d=0.234549 t=49822
 xiu duan 	修短	c=0 d=0.0062662 t=49822
@@ -16848,6 +16862,7 @@ xue qing an ji suan bi zhi 	血清氨基酸比值	c=1 d=3.25715e-10 t=49822
 xue qing dan bai zhi 	血清蛋白質	c=1 d=3.2409e-10 t=49822
 xue qing xing 	血清型	c=1 d=0.0490458 t=49822
 xue qing zhong 	血清中	c=1 d=2.24944e-08 t=49822
+xue se 	血色	c=1 d=9.22369e-109 t=49822
 xue sheng 	學生	c=12 d=2.18321 t=49822
 xue sheng hui 	學生會	c=3 d=0.647816 t=49822
 xue shi 	學士	c=0 d=2.46849e-14 t=49822
@@ -17277,6 +17292,7 @@ ye ying 	也應	c=1 d=0.151072 t=49822
 ye ying xiang 	也影響	c=1 d=0.133989 t=49822
 ye yong 	也用	c=1 d=0.124307 t=49822
 ye you 	也有	c=17 d=2.06127 t=49822
+ye you yi dian 	也有一點	c=1 d=6.69777e-109 t=49822
 ye yue 	也越	c=1 d=0.421052 t=49822
 ye zai 	也在	c=3 d=0.289384 t=49822
 ye zao 	椰棗	c=1 d=0.000889368 t=49822
@@ -18055,7 +18071,7 @@ yong lai 	用來	c=3 d=1.50791 t=49822
 yong le 	用了	c=2 d=0.224249 t=49822
 yong qi 	勇氣	c=1 d=0.156453 t=49822
 yong sha 	用啥	c=2 d=0.147137 t=49822
-yong shang le 	用上了	c=1 d=4.09874e-08 t=49822
+yong shang le 	用上了	c=1 d=0.900325 t=49822
 yong tu 	用途	c=2 d=0.913931 t=49822
 yong wang zhi qian 	勇往直前	c=1 d=0.382893 t=49822
 yong wei 	永威	c=5 d=1.19973 t=49822
@@ -18299,8 +18315,9 @@ you yang yang hua 	有氧氧化	c=5 d=2.59185e-06 t=49822
 you yi 	優異	c=0 d=0.0960789 t=49822
 you yi 	有一	c=0 d=0.057695 t=49822
 you yi 	有益	c=1 d=0.0115047 t=49822
+you yi ben 	有一本	c=1 d=7.36527e-109 t=49822
 you yi cheng ji 	優異成績	c=1 d=0.965605 t=49822
-you yi ci 	又一次	c=8 d=0.579842 t=49822
+you yi ci 	又一次	c=8 d=0.895834 t=49822
 you yi ci 	有一次	c=2 d=0.477114 t=49822
 you yi dian 	有一點	c=1 d=0.0173355 t=49822
 you yi ge 	又一個	c=1 d=0.57695 t=49822
@@ -18833,6 +18850,7 @@ zai xie 	再寫	c=0 d=8.76574e-11 t=49822
 zai xie yi bian 	再寫一遍	c=1 d=8.80968e-10 t=49822
 zai xin ying 	再新穎	c=1 d=0.852144 t=49822
 zai xun huan 	再循環	c=4 d=0.0392348 t=49822
+zai yi 	再議	c=1 d=8.22168e-109 t=49822
 zai yi 	在意	c=2 d=0.995012 t=49822
 zai yi ban 	在一般	c=1 d=0.0948935 t=49822
 zai yi qi 	在一起	c=1 d=0.913931 t=49822
@@ -18898,8 +18916,8 @@ zao dian 	早點	c=5 d=0.979401 t=49822
 zao fan 	早飯	c=1 d=0.017953 t=49822
 zao jiu 	早就	c=2 d=0.683868 t=49822
 zao le 	早了	c=1 d=1.57698e-06 t=49822
-zao qi 	早期	c=4 d=0.0386103 t=49822
-zao qi 	早起	c=1 d=0.0232837 t=49822
+zao qi 	早期	c=4 d=0.878095 t=49822
+zao qi 	早起	c=1 d=0.882497 t=49822
 zao shang 	早上	c=13 d=2.13283 t=49822
 zao sheng 	噪聲	c=2 d=0.154896 t=49822
 zao sheng xing er long 	噪聲性耳聾	c=1 d=2.66029e-11 t=49822
@@ -19100,6 +19118,7 @@ zhao liang liang 	趙亮亮	c=1 d=0.00194986 t=49822
 zhao liao 	照料	c=1 d=0.822835 t=49822
 zhao ni 	找你	c=3 d=0.62472 t=49822
 zhao pian 	照片	c=2 d=0.0141539 t=49822
+zhao ren 	找人	c=1 d=7.18342e-109 t=49822
 zhao ren 	照人	c=0 d=4.1214e-15 t=49822
 zhao ru qing si mu cheng xue 	朝如青絲暮成雪	c=1 d=1.618e-14 t=49822
 zhao shang 	招商	c=1 d=8.48471e-09 t=49822

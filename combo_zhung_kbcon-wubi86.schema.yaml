@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_zhung_kbcon-wubi86
   name: "中州羅馬字（並擊·鍵盤控式）＆五笔86"
-  version: "2018.03.19"
+  version: "2018.03.24"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 發明人 王永民先生
@@ -527,8 +527,8 @@ chord_composer:
     - xform/V/iu/
     - xform/^([jqx])i([aoeu])/$1$2/
     - xform/^([zcsr]h)i$/$1y/
-    - xform/^([zcsr]h)i([aoeu])/$1$2/
-    - xform/^([zcsr]h)i(ng?)$/$1e$2/
+    # - xform/^([zcsr]h)i([aoeu])/$1$2/ #以洪细区分 j/zh 与 q/ch
+    # - xform/^([zcsr]h)i(ng?)$/$1e$2/ #此二行不再生效，故注释
     - xlit/VE/ve/
     - xform/^([bpmfv])$/$1u/
     # - xform/^([dtnl])$/$1i/
