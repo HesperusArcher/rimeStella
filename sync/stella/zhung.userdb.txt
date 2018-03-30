@@ -7625,7 +7625,7 @@ zhang1 dan1 feng1 	張丹楓	c=2 d=0.127626 t=25030
 zhang1 heng2 	張衡	c=3 d=0.684028 t=25030
 zhang1 ja3 wui3 	張佳瑋	c=1 d=0.486752 t=25030
 zhang1 kai3 	張愷	c=1 d=0.97531 t=25030
-zhang1 kai3 kai3 	張凱凱	c=1 d=1 t=25027
+zhang1 kai3 kai3 	張凱凱	c=1 d=0.985112 t=25030
 zhang1 keo1 	張珂	c=1 d=0.995012 t=25030
 zhang1 lin2 	張林	c=1 d=1.99956e-05 t=25030
 zhang1 miau3 	張淼	c=3 d=0.733091 t=25030
