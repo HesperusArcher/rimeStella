@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_pinyin_kbcon-wubi86
   name: "宮保拼音・鍵盤控式＆五笔86"
-  version: "2018.03.16"
+  version: "2018.03.31"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 發明人 王永民先生
@@ -141,6 +141,8 @@ translator:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
     - xform/([jqx])([uv])/$1ü/
+    - xform/[iy]o(ng)/ü$1/
+    - xform/yu([en])/ü$1/
 
 pinyin:
   tag: pinyin
@@ -428,7 +430,7 @@ chord_composer:
   # 拼寫運算規則，將一組並擊編碼轉換爲拼音音節
   algebra:
     # 先將物理按鍵字符對應到宮保拼音鍵位中的拼音字母
-    - 'xlit|gtbfrvdecswxa;hynjum ki,/lo.|gtbzdpclfscrkhXYRiuVaNIUWeoE|'
+    - 'xlit|gtbfrvdecswxa;hynjum ki,/lo.|gtpzdbclfsnrHhXYRiuVaNIUWeoE|'
     # 以下根據宮保拼音的鍵位分別變換聲母、韻母部分
     # 鍵盤控專用拇指位 h 聲母鍵單擊時發送標點符號（鑑於分號較音節 he 少用，現改用 Shift+; 輸入）
     #- 'xform/^h$/;/'
@@ -441,7 +443,7 @@ chord_composer:
     - xform/^dh/t/
     - xform/^gh/k/
     #- xform/^fh/v/
-    - xform/^pf/m/
+    - xform/^bf/m/
     - xform/^dl/n/
     - xform/^zc/r/
     # PC 鍵盤組合聲母
@@ -452,8 +454,9 @@ chord_composer:
     - xform/^csh/ch/
     # 兼容大衆式
     - xform/^cs/sh/
-    - xform/^lc/ch/
-    - xform/^fz/zh/
+    - xform/^ln/ch/
+    # - xform/^fz/zh/
+    - xform/^fr/r/
     # 消除多餘的 h
     - xform/([^zcs])h/\1/
     # g,k,h 接 i/ü 時作 ji/ju, qi/qu, xi/xu
@@ -510,15 +513,17 @@ chord_composer:
     # 一些容錯
     - xform/^([zcsr]h?)i([aoe])/$1$2/
     - xform/^([zcsr]h?)i(ng?)$/$1e$2/
-    - xform/^([bpmf])uo/$1o/ #脣音聲母不分開合口
+    - xform/^([bpmf])uo$/$1o/ #脣音聲母 接 o 不分開合口
+    - xform/^([zcsr]h?|[dtngkh])o$/$1uo/ #多數聲母接 o 均不分開合口
     # 拼寫規則
     - xform/iou$/iu/
     - xform/uei$/ui/
     - xlit/VE/ve/
     # 聲母獨用時補足隠含的韻母
     - xform/^([bpf])$/$1u/
-    - xform/^([mdtnlgkh])$/$1e/
-    - xform/^([mdtnlgkh])$/$1e/
+    # - xform/^([mdtnlgkh])$/$1e/
+    - xform/^([dtlgkh])$/$1e/
+    - xform/^([mn])$/$1i/
     - xform/^([zcsr]h?)$/$1i/
   # 並擊完成後套用的式樣
   output_format:
