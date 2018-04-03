@@ -26,8 +26,11 @@ wubi86.schema*
 zyenpheng.schema*
 
 luna_pinyin.*.dict.yaml
+pinyin_simp.dict.yaml
 stella.dict.yaml
+wubi86.dict.yaml
 zhung*.dict.yaml
+zyenpheng.dict.yaml
 
 sync/stella/*.bin
 sync/stella/*.yaml
