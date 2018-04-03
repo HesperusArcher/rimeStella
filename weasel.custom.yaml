@@ -5,17 +5,17 @@ customization:
   modified_time: "Tue Apr  3 17:01:06 2018"
   rime_version: 1.3.0
 patch:
-  "preset_color_schemes/ChGreen":
+  "preset_color_schemes/Stella":
+    name: "星辰／Stella"
     author: "Yuanchen Sieh, <yuanchen.gm@gmail.com>"
-    back_color: 0xCCEDC7
-    border_color: 0x006400
-    candidate_text_color: 0x006400
-    comment_text_color: 0x993366
-    hilited_back_color: 0x006400
-    hilited_candidate_back_color: 0x00C9C3
-    hilited_candidate_text_color: 0x006400
-    hilited_text_color: 0xCCEDC7
-    name: "綠色／ChGreen"
-    text_color: 0x006400
-  "style/color_scheme": lost_temple
+    back_color: 0xE3F6FD                      # 底色
+    border_color: 0xCCCCCC                    # 邊框顏色，與底色相同則爲無邊框的效果
+    text_color: 0x0033CC                      # 編碼行文字顏色，24位色值，用十六進制書寫方便些，順序是藍綠紅0xBBGGRR
+    hilited_text_color: 0x339999              # 高亮文字，即與當前高亮候選對應的那部份輸入碼
+    hilited_back_color: 0xD5E8EE              # 設定高亮文字的底色，可起到凸顯高亮部份的作用
+    hilited_candidate_text_color: 0xCC9933    # 高亮候選項的文字顏色，要醒目！
+    hilited_candidate_back_color: 0xD5E8EE    # 高亮候選項的底色，若與背景色不同就會顯出光棒
+    candidate_text_color: 0x999933            # 候選項文字顏色，當與文字顏色不同時指定
+    comment_text_color: 0x339999              # 候選文字後提示編碼部分顏色
+  "style/color_scheme": Stella
   "style/display_tray_icon": true
