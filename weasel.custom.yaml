@@ -19,3 +19,9 @@ patch:
     comment_text_color: 0x339999              # 候選文字後提示編碼部分顏色
   "style/color_scheme": Stella
   "style/display_tray_icon": true
+#  "style/horizontal": true
+  # "style/font_point": 16
+  # "style/font_face": "WenQuanYi Micro Hei Mono"
+#  switcher:
+#    hotkeys:
+#      - Control+grave
