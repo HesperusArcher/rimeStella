@@ -14,7 +14,7 @@ schema:
 
     佈局：
 
-    n   Ln  Dt          u   I   O
+        Ln  Dt          u   I   O
     S   Cr  Z*  Gk      i*  N   E
     r   Fm  Bp      er  ü   U   E'
                 H*  A*
@@ -430,7 +430,7 @@ chord_composer:
   # 拼寫運算規則，將一組並擊編碼轉換爲拼音音節
   algebra:
     # 先將物理按鍵字符對應到宮保拼音鍵位中的拼音字母
-    - 'xlit|gtbfrvdecswxa;hynjum ki,/lo.|gtpzdbclfsnrHhXYRiuVaNIUWeoE|'
+    - 'xlit|gtbfrvdecswxa;hynjum ki,/lo.|gtpzdbclfscrHhXYRiuVaNIUWeoE|'
     # 以下根據宮保拼音的鍵位分別變換聲母、韻母部分
     # 鍵盤控專用拇指位 h 聲母鍵單擊時發送標點符號（鑑於分號較音節 he 少用，現改用 Shift+; 輸入）
     #- 'xform/^h$/;/'
@@ -454,7 +454,7 @@ chord_composer:
     - xform/^csh/ch/
     # 兼容大衆式
     - xform/^cs/sh/
-    - xform/^ln/ch/
+    - xform/^lc/ch/
     # - xform/^fz/zh/
     - xform/^fr/r/
     # 消除多餘的 h
