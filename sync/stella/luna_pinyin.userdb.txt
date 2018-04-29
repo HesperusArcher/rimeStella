@@ -1196,7 +1196,7 @@ bu kao 	不考	c=2 d=2.08818e-07 t=63217
 bu kao 	補考	c=1 d=0.0144798 t=63217
 bu kao lv 	不考慮	c=1 d=0.0792617 t=63217
 bu ke 	不可	c=1 d=0.36784 t=63217
-bu ke 	補課	c=1 d=1 t=63192
+bu ke 	補課	c=1 d=0.882497 t=63217
 bu ke de 	不可得	c=0 d=2.35418e-15 t=63217
 bu ke neng 	不可能	c=2 d=0.257976 t=63217
 bu ke ni 	不可逆	c=2 d=0.201682 t=63217
@@ -1695,7 +1695,7 @@ cha kan 	查看	c=4 d=1.00416 t=63217
 cha le 	差了	c=1 d=0.67032 t=63217
 cha le 	查了	c=1 d=0.690734 t=63217
 cha ping 	茶瓶	c=3 d=1.69156 t=63217
-cha qin 	查寢	c=1 d=1 t=63039
+cha qin 	查寢	c=1 d=0.410656 t=63217
 cha ru 	插入	c=3 d=0.0488325 t=63217
 cha shou 	查收	c=4 d=0.209088 t=63217
 cha shu 	茶樹	c=1 d=0.0057994 t=63217
@@ -1847,7 +1847,7 @@ chang yong de 	常用的	c=1 d=0.130029 t=63217
 chang yong shu yu 	常用術語	c=1 d=0.0020396 t=63217
 chang yong yu 	常用於	c=1 d=0.0761538 t=63217
 chang yong zhi biao 	常用指標	c=1 d=3.35691e-12 t=63217
-chang yong zi 	常用字	c=1 d=1 t=63130
+chang yong zi 	常用字	c=1 d=0.647265 t=63217
 chang yuan 	長遠	c=0 d=0.0909373 t=63217
 chang yuan da ji 	長遠大計	c=1 d=0.489192 t=63217
 chang zhou 	長軸	c=1 d=0.50409 t=63217
@@ -3895,7 +3895,7 @@ du tou 	渡頭	c=0 d=1.36505e-15 t=63217
 du tou yu luo ri 	渡頭餘落日	c=1 d=1.37189e-14 t=63217
 du wu 	毒物	c=0 d=1.72191e-12 t=63217
 du xie 	讀寫	c=2 d=0.0765355 t=63217
-du xing 	毒性	c=1 d=1 t=63150
+du xing 	毒性	c=1 d=0.715338 t=63217
 du yan 	讀研	c=1 d=1.79158e-07 t=63217
 du yi li ren 	睹一麗人	c=1 d=0.0564161 t=63217
 du yin 	讀音	c=1 d=0.995012 t=63217
@@ -7617,7 +7617,7 @@ ji fu you yu tian di 	寄蜉蝣於天地	c=1 d=1.10916e-13 t=63217
 ji gang luan zhi ti shi 	即岡巒之體勢	c=2 d=0.548812 t=63217
 ji gao 	極高	c=1 d=0.0930145 t=63217
 ji ge 	幾個	c=28 d=0.821871 t=63217
-ji ge 	記個	c=1 d=1 t=63117
+ji ge 	記個	c=1 d=0.606531 t=63217
 ji ge xiao shi 	幾個小時	c=1 d=0.367879 t=63217
 ji ge yi si 	幾個意思	c=1 d=0.124307 t=63217
 ji ge yue 	幾個月	c=1 d=0.311923 t=63217
@@ -7767,7 +7767,7 @@ ji shu 	計數	c=2 d=0.18452 t=63217
 ji shu can kao nong du 	技術參考濃度	c=1 d=4.2141e-11 t=63217
 ji shu chuang xin 	技術創新	c=1 d=0.597363 t=63217
 ji shu chuang xin yu ying yong 	技術創新與應用	c=1 d=0.637628 t=63217
-ji shu dan wei 	計數單位	c=1 d=1 t=63010
+ji shu dan wei 	計數單位	c=1 d=0.355226 t=63217
 ji shu fang fa 	技術方法	c=1 d=0.000717312 t=63217
 ji shu lu xian 	技術路線	c=1 d=6.49161e-06 t=63217
 ji shu ren yuan 	技術人員	c=1 d=1.01826e-07 t=63217
@@ -9385,7 +9385,7 @@ kan jian 	看見	c=25 d=1.75699 t=63217
 kan jian le 	看見了	c=1 d=0.509156 t=63217
 kan jian mei 	看見沒	c=1 d=3.71703e-05 t=63217
 kan jian mu 	看見母	c=-1 d=1 t=63217
-kan jue 	嵁絕	c=-1 d=1 t=63074
+kan jue 	嵁絕	c=-1 d=0.489192 t=63217
 kan kan 	看看	c=77 d=2.27651 t=63217
 kan kan ba 	看看吧	c=1 d=0.160414 t=63217
 kan ke 	轗軻	c=0 d=8.3167e-10 t=63217
@@ -9825,7 +9825,7 @@ kuai yi 	快意	c=1 d=0.112478 t=63217
 kuai zhuang 	塊狀	c=0 d=2.2444e-12 t=63217
 kuai zi 	筷子	c=1 d=1.98512e-08 t=63217
 kuan 	寬	c=0 d=0.0878095 t=63217
-kuan 	款	c=1 d=1 t=63007
+kuan 	款	c=1 d=0.349938 t=63217
 kuan dai 	寬帶	c=3 d=0.976816 t=63217
 kuan du 	寬度	c=2 d=1.05861 t=63217
 kuan guang 	寬廣	c=1 d=0.346456 t=63217
@@ -11058,7 +11058,7 @@ mei 	酶	c=209 d=12.6231 t=63217
 mei ban 	煤斑	c=1 d=2.19995e-11 t=63217
 mei bi yao 	沒必要	c=1 d=1.19803e-08 t=63217
 mei biao ji ce ding fa 	酶標記測定法	c=1 d=0.67368 t=63217
-mei cai 	沒菜	c=1 d=1 t=63054
+mei cai 	沒菜	c=1 d=0.442639 t=63217
 mei chu 	沒出	c=1 d=0.0350844 t=63217
 mei chu xi 	沒出息	c=1 d=0.918512 t=63217
 mei ci 	每次	c=6 d=0.0464416 t=63217
@@ -11919,7 +11919,7 @@ ni sheng ci 	擬聲詞	c=1 d=0.647265 t=63217
 ni shi 	你是	c=7 d=0.932164 t=63217
 ni shi bu shi 	你是不是	c=1 d=0.831104 t=63217
 ni shi shi 	你試試	c=1 d=0.182684 t=63217
-ni shi shuo 	你是說	c=1 d=1 t=63068
+ni shi shuo 	你是說	c=1 d=0.474734 t=63217
 ni shi xiang 	你是想	c=1 d=0.453845 t=63217
 ni shuo 	你說	c=12 d=1.98106 t=63217
 ni shuo bai 	你說唄	c=1 d=2.747e-06 t=63217
@@ -12904,7 +12904,7 @@ qing chua 	請欻	c=-1 d=2.17207e-08 t=63217
 qing chuan 	青川	c=0 d=1.20466e-15 t=63217
 qing chuan dai chang bo 	青川帶長薄	c=1 d=1.21069e-14 t=63217
 qing chun 	青春	c=0 d=9.42887e-16 t=63217
-qing dai 	清代	c=1 d=1 t=63004
+qing dai 	清代	c=1 d=0.344728 t=63217
 qing dan 	清單	c=2 d=0.526538 t=63217
 qing dao 	青島	c=2 d=0.00949739 t=63217
 qing er 	傾耳	c=0 d=2.24006e-15 t=63217
@@ -14566,7 +14566,7 @@ shi jiu 	十九	c=0 d=0.0895834 t=63217
 shi jiu da 	十九大	c=2 d=1.12902 t=63217
 shi ju wei yan shuang 	時菊委嚴霜	c=1 d=4.92231e-15 t=63217
 shi juan 	試卷	c=2 d=0.826959 t=63217
-shi kan 	是看	c=1 d=1 t=63124
+shi kan 	是看	c=1 d=0.628135 t=63217
 shi ke 	時刻	c=5 d=0.251579 t=63217
 shi ke biao 	時刻表	c=0 d=0.0386741 t=63217
 shi kong zhan 	失空斬	c=5 d=1.36412 t=63217
@@ -15478,7 +15478,7 @@ suan le 	算了	c=3 d=0.570571 t=63217
 suan le suan 	算了算	c=1 d=0.111917 t=63217
 suan nai 	酸奶	c=1 d=0.29682 t=63217
 suan nai ji 	酸奶機	c=1 d=0.891366 t=63217
-suan pan 	算盤	c=1 d=1 t=63009
+suan pan 	算盤	c=1 d=0.353455 t=63217
 suan sha 	算啥	c=1 d=0.0125254 t=63217
 suan shang 	算上	c=3 d=0.506333 t=63217
 suan shi 	算式	c=3 d=1.09854 t=63217
@@ -16065,7 +16065,7 @@ tiao yuan 	跳遠	c=0 d=0.0737123 t=63217
 tiao zhan 	挑戰	c=2 d=0.328002 t=63217
 tiao zheng 	調整	c=15 d=1.01455 t=63217
 tiao zhi 	調至	c=1 d=0.113042 t=63217
-tiao zhuan 	跳轉	c=1 d=1 t=63106
+tiao zhuan 	跳轉	c=1 d=0.574072 t=63217
 tie 	萜	c=0 d=0.00288686 t=63217
 tie 	鐵	c=1 d=0.263629 t=63217
 tie biao qian 	貼標籤	c=1 d=3.86005e-08 t=63217
@@ -16160,7 +16160,7 @@ tong ji 	統計	c=30 d=1.82962 t=63217
 tong ji biao 	統計表	c=1 d=9.42566e-11 t=63217
 tong ji di fang xing 	統計地方性	c=1 d=1.50836e-12 t=63217
 tong ji di tu 	統計地圖	c=1 d=9.90893e-11 t=63217
-tong ji fen xi 	統計分析	c=1 d=1 t=63179
+tong ji fen xi 	統計分析	c=1 d=0.826959 t=63217
 tong ji ju 	統計局	c=1 d=0.588605 t=63217
 tong ji kong zhi 	統計控制	c=1 d=1.22244e-10 t=63217
 tong ji liang 	統計量	c=2 d=1.0066e-10 t=63217
@@ -17483,7 +17483,7 @@ xi tong chan shu 	系統闡述	c=1 d=0.551563 t=63217
 xi tong chou yang 	系統抽樣	c=2 d=6.41468e-11 t=63217
 xi tong xing 	系統性	c=1 d=0.843665 t=63217
 xi tong ying yong 	系統應用	c=1 d=6.89303e-06 t=63217
-xi tong zong shu 	系統綜述	c=2 d=1.77105 t=63139
+xi tong zong shu 	系統綜述	c=2 d=1.1991 t=63217
 xi tou 	洗頭	c=2 d=0.169008 t=63217
 xi tuo 	洗脫	c=0 d=0.0124307 t=63217
 xi tuo long men 	喜託龍門	c=2 d=0.860708 t=63217
@@ -18431,8 +18431,8 @@ xing ming 	姓名	c=6 d=1.78848 t=63217
 xing neng 	性能	c=2 d=1.10141 t=63217
 xing qi 	星期	c=5 d=0.589377 t=63217
 xing qi 	興起	c=3 d=0.30984 t=63217
-xing qi liu 	星期六	c=1 d=1 t=63191
-xing qi liu 	星欺六	c=-1 d=0 t=63190
+xing qi liu 	星期六	c=1 d=0.878095 t=63217
+xing qi liu 	星欺六	c=-1 d=0 t=63217
 xing qi ri 	星期日	c=1 d=0.985112 t=63217
 xing qi tian 	星期天	c=1 d=0.000428594 t=63217
 xing qi wu 	星期五	c=2 d=0.99005 t=63217
@@ -18552,7 +18552,7 @@ xu shi 	需時	c=1 d=1.45573e-06 t=63217
 xu shi jian pan 	許氏鍵盤	c=2 d=0.305754 t=63217
 xu shu 	敘述	c=10 d=0.698559 t=63217
 xu shu san qiu 	序屬三秋	c=2 d=0.511709 t=63217
-xu shu xing 	敘述性	c=1 d=1 t=63085
+xu shu xing 	敘述性	c=1 d=0.516851 t=63217
 xu xing ji qi fang ming shan 	須行即騎訪名山	c=1 d=2.29605e-14 t=63217
 xu xu 	徐徐	c=1 d=0.00133343 t=63217
 xu xu duo duo 	許許多多	c=1 d=0.000528747 t=63217
@@ -19979,7 +19979,7 @@ yong bu yong 	用不用	c=7 d=1.55613 t=63217
 yong ci 	用詞	c=1 d=0.035437 t=63217
 yong dao 	用到	c=7 d=0.88646 t=63217
 yong dao de 	用到的	c=1 d=0.349938 t=63217
-yong de 	用得	c=1 d=1 t=63096
+yong de 	用得	c=1 d=0.546074 t=63217
 yong de 	用的	c=13 d=0.980581 t=63217
 yong de shi 	用的是	c=6 d=0.857079 t=63217
 yong fa 	用法	c=6 d=1.26294 t=63217
