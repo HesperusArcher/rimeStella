@@ -411,14 +411,14 @@ chord_composer:
   # 拼寫運算規則，將一組並擊編碼轉換爲拼音音節
   algebra:
     # 先將物理按鍵字符對應到宮保拼音鍵位中的拼音字母
-    - 'xlit|gtbfrvdecswxa;hynjum ki,/lo.|gtpzdbhlfsczHhXYRiuVaNIUWeoE|'
+    - 'xlit|gtbfrvdecswxahynjum ki,/lo.|gtpzdbhlfsczhXYRiuVaNIUWeoE|'
     # 以下根據宮保拼音的鍵位分別變換聲母、韻母部分
     # 鍵盤控專用拇指位 h 聲母鍵單擊時發送標點符號（鑑於分號較音節 he 少用，現改用 Shift+; 輸入）
     #- 'xform/^h$/;/'
     # 又改爲輸出空格，方便雙手交替上字
     # - 'xform/^h$/ /'
     # 以下統一表記爲 h
-    - xform/Hh?/h/
+    # - xform/Hh?/h/
     # 組合聲母
     - xform/^bh/p/
     - xform/^dh/t/
