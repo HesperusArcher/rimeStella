@@ -440,13 +440,14 @@ chord_composer:
     # 兼容鍵盤控式
     - xform/^H$/he/
     - 'xform/^h$/c/'
-    - xform/^h([iV])/qi/
+    # 可與g,k,h接i/ü 語句合併
+    # - xform/^h([iV])/c$1/
     # 消除多餘的 h
     - xform/([^zcs])h/\1/
     # g,k,h 接 i/ü 時作 ji/ju, qi/qu, xi/xu
     - xform/^[gz]([iV])/j$1/
-    - xform/^[kc]([iV])/q$1/
-    - xform/^[hs]([iV])/x$1/
+    - xform/^[kch]([iV])/q$1/
+    - xform/^s([iV])/x$1/
     # 單擊時發送標點符號
     - xform/^U$/,/
     - xform/^E$/./
