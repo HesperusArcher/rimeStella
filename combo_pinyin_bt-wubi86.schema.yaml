@@ -2,21 +2,23 @@
 # encoding: utf-8
 
 schema:
-  schema_id: combo_zhung_kbcon-wubi86
-  name: "中州羅馬字（並擊·鍵盤控式）＆五笔86"
-  version: "2018.03.24"
+  schema_id: combo_pinyin_bt-wubi86
+  name: "宮保拼音・紅茶＆五笔86"
+  version: "2018.05.25"
   author:
     - 佛振 <chen.sst@gmail.com>
+    - 謝元辰 <yuanchen.gm@gmail.com>
     - 發明人 王永民先生
   description: |
-    並擊輸入老派鄭州話
+    並擊輸入拼音，改編自「鍵盤控」佈局。
+    「紅茶」代指我的兩把鍵盤，AMJ40和Cherry用不同的軸。
 
     佈局：
 
-        Ln  Dt          u   I   o/eo
-    S   Cr  Z*  Gk      i*  N   E/eo
-    Z'  Fm  Bp      er  yu  U   E'
-                H*  A*
+    Cq  Ln  Dt          u   I   O
+    S   Hx  Z*  Gk      i*  N   E
+        Fm  Bp      er  ü   U   E'
+                    A*
 
     標「*」的按鍵爲拇指、食指的基準鍵位
     E' 是 E 的活用鍵位，只用於組合韻母
@@ -25,18 +27,18 @@ schema:
 
     # 組合聲母
     BH = p, BF = m, DH = t, DL = n, GH = k,
-    ZH = zh, CH = ch, SH = sh, ZC = r
-    Z'FB = v
-    2017.11.05啓用v2.0，改变 jq 键位，zh, ch後接i, ü 時自動轉換爲 j, q
-    2018.03.19 啓用 v2.2，單獨按下 E 及其與 zh，ch，sh，h 相拼時輸出 eo，拼作其他音節時作 e
+    ZH = zh, SH = sh, ZS = r
+
+    # 聲母活用（兼容「鍵盤控式」）
+    H = ci, Hi = qi
 
     # 組合韻母及活用（同「大衆式」），括弧內爲活用組合
-    AI = ai, eoI (oI) = ei, AU = au, U (E'U) = ou,
+    AI = ai, EI (OI) = ei, AU = ao, U (E'U) = ou,
     uI = uei, uAI = uai, iU (yuU) = iou, iAU (yuAU) = iao,
     N = en, NE = eng, AN = an, ANE = ang,
     iN = in, uN = uen, yuN = yun,
-    iNE = ing, uNE (uIo) = ung, yuNE (yuUE') = iung,
-    uANE (uAIo) = uang
+    iNE = ing, uNE (uIO) = ong, yuNE (yuUE') = iong,
+    uANE (uAIO) = uang
 
     五筆字型86版
     碼表源自 ibus-table
@@ -82,7 +84,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - table_translator@custom_phrase
+    # - table_translator@custom_phrase
     - script_translator
     - script_translator@pinyin
     - script_translator@pinyin_lookup
@@ -110,78 +112,27 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
-    - xform/^([A-Za-z]+)\d$/$1/
-    #- derive/^yi?/i/
-    #- derive/^wu?/u/
-    - derive/^wu/vu/
-    - derive/^([vw])u([in])/$1e$2/
-    - derive/^([jqx])([^i])/$1i$2/
-    - derive/ui/uei/
-    - derive/([iu])n/$1en/
-    #- derive/^([zcsr]h?)y/$1/
-    - derive/^rh/r/
-    - derive/^w(a|au|ang?|en)/v$1/
+    - erase/^xx$/
 
 translator:
-  dictionary: &dict
-    zhung.extended
-  prism: combo_zhung_kbcon-wubi86
-  preedit_format: &zhung
-    # diff zhung.default
-    # display ü
-    - xform/([jqx])u(ng?)/$1üe$2/
-    - 'xform ([jqx])([u]) $1ü'
-    - xform/([iy])u(ng?)/üe$2/
-    - xform/([iy])u/ü/
-    # i u as initial consonants
-    - xform/([jqx])([aeo])/$1i$2/
-    - xform/y([aeo])/i$1/
-    - xform/i(ng?)/ie$1/
-    - xform/yi/i/
-    - xform/([zcsr]h?)y/$1y/
-    - xform/u([in])/ue$1/
-    - xform/wu?/u/
-    # eo(ㄜ) -> e; e(ㄝ) -> ê
-    - "xform e([^oinl]) ê$2' "
-    - xform/eo/e/
-
-    # # combo_transcript.schema
-    # - "xform/(^|[ '])yi?/$1i/"
-    # - "xform/(^|[ '])wu?/$1u/"
-    # - xform/([zcsr]h?)y/$1/
-    # - xform/([zcs])h/\U$1/
-    # - xform/rh?/R/
-    # - xform/iu/Y/
-    # - xform/([jqx])u/$1Y/
-    # - xform/el/W/
-    # - xform/([aou])l/$1W/
-    # - xform/eo/O/
-    # - xform/ai/I/
-    # - xform/ei/E/
-    # - xform/ui/uE/
-    # - xform/au/A/
-    # - xform/ou/U/
-    # - xform/ang/K/
-    # - xform/eng/G/
-    # - xform/([iuY])ng/$1G/
-    # - xform/an/M/
-    # - xform/en/N/
-    # - xform/([iuY])n/$1N/
-    # - "xlit|bpmfvdtnlgkhjqxZCSRzcsiuYWaoOeIEAUMNKG|ㄅㄆㄇㄈㄪㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄧㄨㄩㄦㄚㄛㄜㄝㄞㄟㄠㄡㄢㄣㄤㄥ|"
-    # # - "xlit|'| |"
-
-pinyin:
-  tag: pinyin
-  dictionary: luna_pinyin
-  prefix: py
-  suffix: ;
+  dictionary: luna_pinyin.extended
+  prism: combo_pinyin_bt-wubi86
   preedit_format: &pinyin
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
-    - 'xform ([jqx])([uv]) $1ü'
+    - xform/([jqx])([uv])/$1ü/
+    - xform/[iy]o(ng)/ü$1/
+    - xform/yu([en])/ü$1/
+
+pinyin:
+  tag: pinyin
+  dictionary: luna_pinyin
+  prefix: J
+  suffix: ;
+  preedit_format: *pinyin
   tips: 【漢拼】
-  closing_tips: 【中州羅馬字】
+  closing_tips: 【宫保】
   initial_quality: 0.2
 
 pinyin_lookup:
@@ -191,7 +142,7 @@ pinyin_lookup:
   dictionary: luna_pinyin
   preedit_format: *pinyin
   tips: 【拼音反查五笔】
-  closing_tips: 【中州羅馬字】
+  closing_tips: 【宫保】
 
 pinyin_reverse_lookup:
   tags: [ pinyin_lookup ]
@@ -208,7 +159,7 @@ pinyin_simp_lookup:
   dictionary: pinyin_simp
   preedit_format: *pinyin
   tips: 【简拼反查五笔】
-  closing_tips: 【中州羅馬字】
+  closing_tips: 【宫保】
 
 pinyin_simp_reverse_lookup:
   tags: [ pinyin_simp_lookup ]
@@ -221,7 +172,7 @@ pinyin_simp_reverse_lookup:
 wubi86:
   tag: wubi86
   dictionary: wubi86
-  enable_charset_filter: true
+  enable_charset_filter: false
   enable_completion: true # 提前顯示尚未輸入完整碼的字〔僅 table_translator 有效〕
   enable_sentence: true # 是否開啓自動造句
   enable_encoder: true # 是否開啓自動造詞
@@ -449,102 +400,127 @@ recognizer:
     pinyin_simp_lookup: "`[a-z]*;?$"
     triungkox: "(?<![`A-Z])P[a-z']*;?$"
     wubi86: "(?<![`A-Z])zz[a-z']*;?$"
-    pinyin: "(?<![`A-Z])py[a-z']*;?$"
+    pinyin: "(?<![`A-Z])J[a-z']*;?$"
     punct: '^/([0-9]0?|[A-Za-z]+)$'
     upper_case: ^([A-IK-OQ-Z][a-zA-Z0-9]*|[JP][A-Z0-9]*)$
 
 chord_composer:
-  alphabet: "gtbfrvdecswxa;njum ki,lo."
+  # 字母表，包含用於並擊的按鍵
+  # 擊鍵雖有先後，形成並擊時，一律以字母表順序排列
+  alphabet: 'gtbfrvdecswxa;hynjum ki,/lo.'
+  # 拼寫運算規則，將一組並擊編碼轉換爲拼音音節
   algebra:
-    - 'xlit|gtbfrvdecswxa;njum ki,lo.|gtpzdbclfsczHhLiuVaNIUeOE|'
-    # 輸出空格，方便雙手交替上字
-    - 'xform/^h$/ /'
+    # 先將物理按鍵字符對應到宮保拼音鍵位中的拼音字母
+    - 'xlit|gtbfrvdecswxa;hynjum ki,/lo.|gtpzdbhlfsczHhXYRiuVaNIUWeoE|'
+    # 以下根據宮保拼音的鍵位分別變換聲母、韻母部分
+    # 鍵盤控專用拇指位 h 聲母鍵單擊時發送標點符號（鑑於分號較音節 he 少用，現改用 Shift+; 輸入）
+    #- 'xform/^h$/;/'
+    # 又改爲輸出空格，方便雙手交替上字
+    # - 'xform/^h$/ /'
     # 以下統一表記爲 h
     - xform/Hh?/h/
-    - xform/^bfz/v/
     # 組合聲母
     - xform/^bh/p/
     - xform/^dh/t/
     - xform/^gh/k/
-    - xform/^fh/v/
+    #- xform/^fh/v/
     - xform/^bf/m/
     - xform/^dl/n/
-    - xform/^zc/rh/
-    - xform/^zh([iV])/j$1/ # zh 後接 i, ü 時自動轉換爲 j
-    - xform/^ch([iV])/q$1/ # ch 後接 i, ü 時自動轉換爲 q
+    - xform/^zs/r/
     # PC 鍵盤組合聲母
     - xform/^b[zcsh]+/p/
     - xform/^d[zcsh]+/t/
     - xform/^g[zcsh]+/k/
-    # - xform/^[zr][sh]+/zh/
+    - xform/^[zr][sh]+/zh/
     - xform/^csh/ch/
     # 兼容大衆式
-    - xform/^cs/sh/
+    - xform/^hs/sh/
     - xform/^lc/ch/
     - xform/^fz/zh/
+    # 兼容鍵盤控式
+    - 'xform/^h$/c/'
+    - xform/^hi$/qi/
     # 消除多餘的 h
     - xform/([^zcs])h/\1/
-    # g,k,h 接 i/iu 時作 ji/ju, qi/qu, xi/xu
-    - xform/^g([iV])/j$1/
-    - xform/^k([iV])/q$1/
-    - xform/^h([iV])/x$1/
-    - 'xform/^a$/ /'
-    - xform/ae$/a/
+    # g,k,h 接 i/ü 時作 ji/ju, qi/qu, xi/xu
+    - xform/^[gz]([iV])/j$1/
+    - xform/^[kc]([iV])/q$1/
+    - xform/^[hs]([iV])/x$1/
+    # 單擊時發送標點符號
     - xform/^U$/,/
     - xform/^E$/./
-    - xform/(ua?)IO$/$1Ne/
+    - xform|^W$|/|
+    # 空格鍵單擊時發送空白
+    - 'xform/^a$/ /'
+    - xform/^ae$/a/
+    - xform/^R$/er/
+    # 40% 鍵盤可啓用這二鍵輸入標點符號及翻頁，但會影響回車輸入字母
+    # - xform/^Y$/,/
+    # - xform/^X$/./
+    - xform/[XYR]+//
+    # 上排三鍵並擊 ong, uang
+    - xform/(ua?)Io$/$1Ne/
     - xform/aI$/ai/
-    - xform/I[Oe]$/ei/
-    - xform/uI$/ui/
+    - xform/I[oe]$/ei/
+    - xform/uI$/uei/
+    # I 鍵亦可用作韻母 ‹i›
     - xform/^gI$/ji/
     - xform/^kI$/qi/
     - xform/^hI$/xi/
     - xform/I$/i/
-    - xform/VUE$/VNe/
-    - xform/V(a?)U$/i$1U/
-    # - xform/aU$/au/
-    - xform/a[UO]$/au/ # 兼容大衆式「ㄠ」
-    - xform/UE?$/ou/
+    # 下排三鍵並擊 iong
+    - xform/V(UE$|U?WE)$/VNe/
+    - xform/Va(UE$|U?WE)$/uaNe/
+    # [ü] 活用爲介音 ‹i-› 以利於並擊 iao, iu
+    - xform/V(a?[UW])$/i$1/
+    - xform/a[UW]E?$/ao/
+    - xform/[UW]E?$|U?W$/ou/
     - xform/([aiuV])Ne$/$1ng/
+    # ‹eng› 省略 ‹e›
     - xform/Ne$/eng/
+    - xform/^ung$/weng/
+    - xform/ung$/ong/
+    - xform/Vng$/iong/
     - xform/([aiuV])N$/$1n/
+    # ‹en› 省略 ‹e›
     - xform/N$/en/
-    - xform/L$/el/
-    - xform/([iV])O$/iuo/
-    - xform/uO$/uo/
-    # - xform/aO$/o/
-    - xform/^O$/o/
-    - xform/O$/eo/
-    - xform/^([zcsr]?h|l)?e$/$1eo/ #僅在此情況下拼作「ㄜ」，其餘作「ㄝ」
-    - xform/^aE$/e/
+    - xform/^un$/wen/
+    # 漢語拼音方案的拼寫規則
     - xform/^i(ng?)$/yi$1/
     - xform/^i$/yi/
     - xform/^i/y/
-    - xform/^u(i|ng?)$/wu$1/
     - xform/^u$/wu/
     - xform/^u/w/
     - xform/^V/yu/
-    - xform/V/iu/
-    - xform/^([jqx])i([aoeu])/$1$2/
-    - xform/^([zcsr]h)i$/$1y/
-    # - xform/^([zcsr]h)i([aoeu])/$1$2/ #以洪细区分 j/zh 与 q/ch
-    # - xform/^([zcsr]h)i(ng?)$/$1e$2/ #此二行不再生效，故注释
+    - xform/^([jqx])V/$1u/
+    # 一些容錯
+    - xform/^([zcsr]h?)i([aoe])/$1$2/
+    - xform/^([zcsr]h?)i(ng?)$/$1e$2/
+    - xform/^([bpmf])uo$/$1o/ #脣音聲母 接 o 不分開合口
+    - xform/^([zcsr]h?|[dtngkh])o$/$1uo/ #多數聲母接 o 均不分開合口
+    # 拼寫規則
+    - xform/iou$/iu/
+    - xform/uei$/ui/
     - xlit/VE/ve/
-    - xform/^([bpmfv])$/$1u/
-    # - xform/^([dtnl])$/$1i/
-    - xform/^([dtn])$/$1i/
-    - xform/^l$/le/ # l 後補全爲更常用的 le
-    - xform/^([gkh])$/$1eo/
-    - xform/^([zcsr]h?)$/$1y/
+    # 聲母獨用時補足隠含的韻母
+    - xform/^([bpf])$/$1u/
+    # - xform/^([mdtnlgkh])$/$1e/
+    - xform/^([dtlgkh])$/$1e/
+    - xform/^([mn])$/$1i/
+    - xform/^([zcsr]h?)$/$1i/
+  # 並擊完成後套用的式樣
   output_format:
-    - "xform/^([bpmfv])([iu]|i?[ae]|uo|[ae]i|i?[ao]u|[ei]n|i?an|ang|[ei]ng)$/$1$2'/"
-    - "xform/^([dtnl])(i|i?u|i?[ae]|[eu]o|iu[eo]|[aeu]i|i?[ao]u|i?u?an|[ei]n|i?un|i?ang|[ei]ng|i?ung)$/$1$2'/"
-    - "xform/^([gkh])(u|u?[ae]|[eu]o|u?ai|[eu]i|[ao]u|u?an|[eu]n|u?ang|[eu]ng)$/$1$2'/"
-    - "xform/^([jqx]|[zcs]i?)([iu]|u?[ae]|uo|ai|[ao]u|u?an|[iu]n|[aiu]ng)$/$1$2'/"
-    - "xform/^([zcsr]h?)([yu]|u?[ae]|[eu]o|u?ai|[eu]i|[ao]u|u?an|[eu]n|u?ang|[eu]ng)$/$1$2'/"
-    - "xform/^(y?)([aeo]|[ae]i|[ao]u|[aeiu]ng?)$/$1$2'/"
-    - "xform/^(yu|w)([aeo]|[au]i|[au]ng?)$/$1$2'/"
-    - "xform/^(eo|el|yi|wu|yu)$/$1'/"
+    # 追加隔音符號
+    - "xform/^([bpm])([iu]|a|i?e|o|[ae]i|i?ao|[oi]u|i?an|[ie]n|[ei]ng|ang|ong)$/$1$2'/"
+    - "xform/^([fw])(u|a|o|[ae]i|ao|ou|an|en|eng|ang|ong)$/$1$2'/"
+    - "xform/^([dtnl])([iuv]|i?a|[iv]?e|u?o|[aeu]i|i?ao|[oi]u|[iu]?an|[iue]n|[ei]ng|i?ang|ong)$/$1$2'/"
+    - "xform/^([gkh])(u|u?a|e|uo|u?ai|[ue]i|ao|ou|u?an|[ue]n|eng|u?ang|ong)$/$1$2'/"
+    - "xform/^([zcs]h?|r)([iu]|u?a|e|uo|u?ai|[ue]i|ao|ou|u?an|[ue]n|eng|u?ang|ong)$/$1$2'/"
+    - "xform/^([jqxy])([iu]|i?a|[iu]?e|o|i?ao|[oi]u|[iu]?an|[iu]n|ing|i?ang|i?ong)$/$1$2'/"
+    - "xform/^([aeo]|[ae]i|ao|ou|[ae]ng?|er)$/$1'/"
+    # 消除不構成合法音節的並擊組合
     - "erase/^([A-Za-z]+)$/"
+  # 並擊過程中套用的式樣
   prompt_format:
-    - "xform/^(.*)$/[$1]/"
+    # 加方括弧
+    - 'xform/^(.*)$/[$1]/'
