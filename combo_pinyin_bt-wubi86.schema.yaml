@@ -4,7 +4,7 @@
 schema:
   schema_id: combo_pinyin_bt-wubi86
   name: "宮保拼音・紅茶＆五笔86"
-  version: "2018.05.25"
+  version: "2018.06.03"
   author:
     - 佛振 <chen.sst@gmail.com>
     - 謝元辰 <yuanchen.gm@gmail.com>
@@ -417,6 +417,8 @@ chord_composer:
     #- 'xform/^h$/;/'
     # 又改爲輸出空格，方便雙手交替上字
     # - 'xform/^h$/ /'
+    # 單空格方案，改爲輸出a
+    - xform/^H$/a/
     # 以下統一表記爲 h
     # - xform/Hh?/h/
     # 組合聲母
@@ -438,8 +440,7 @@ chord_composer:
     - xform/^lc/ch/
     - xform/^fz/zh/
     # 兼容鍵盤控式
-    - xform/^H$/he/
-    - 'xform/^h$/c/'
+    # - 'xform/^h$/c/'
     # 可與g,k,h接i/ü 語句合併
     # - xform/^h([iV])/c$1/
     # 消除多餘的 h
