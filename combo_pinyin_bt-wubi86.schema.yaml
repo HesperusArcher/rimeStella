@@ -385,7 +385,7 @@ middle_chinese:
 punctuator:
   import_preset: symbolstella
   half_shape: &punct
-    ':': [ '：', '；' ]
+    # ':': [ '：', '；' ]
   full_shape: *punct
 
 key_binder:

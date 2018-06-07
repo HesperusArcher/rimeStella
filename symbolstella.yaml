@@ -378,6 +378,8 @@ punctuator:
       - xieyuanchensieh@foxmail.com
     '/git': git@github.com:erstern/
     '/github': https://github.com/erstern
+    '/latex': LaTeX
+    '/rime': RIME
     '/xba': [ x̄, X̄ ]
     '/yc':
       - 元辰
