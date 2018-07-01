@@ -352,7 +352,7 @@ ban zi 	板子	c=1 d=0.960789 t=70514
 ban zi 	班子	c=4 d=0.884267 t=70514
 bang 	幫	c=6 d=0.694197 t=70514
 bang 	綁	c=1 d=1.08123e-07 t=70514
-bang bu shang 	幫不上	c=1 d=1 t=70439
+bang bu shang 	幫不上	c=1 d=0.687289 t=70514
 bang ding 	綁定	c=3 d=0.955997 t=70514
 bang fu 	幫扶	c=1 d=0.776274 t=70514
 bang fu li du 	幫扶力度	c=1 d=0.213312 t=70514
@@ -590,7 +590,7 @@ ben fen 	本分	c=1 d=0.301316 t=70514
 ben ji 	苯基	c=0 d=0.02334 t=70514
 ben ji bing an suan 	苯基丙氨酸	c=1 d=0.23457 t=70514
 ben jie 	本屆	c=1 d=0.0217096 t=70514
-ben jiu 	本就	c=1 d=1 t=70496
+ben jiu 	本就	c=1 d=0.913931 t=70514
 ben ke 	本科	c=10 d=0.943356 t=70514
 ben ke sheng 	本科生	c=5 d=1.55156 t=70514
 ben lai 	本來	c=9 d=1.03841 t=70514
@@ -1256,7 +1256,7 @@ bu jie shu 	不結束	c=1 d=0.980199 t=70514
 bu jin 	不僅	c=12 d=1.84658 t=70514
 bu jin 	不盡	c=1 d=0.224249 t=70514
 bu jin 	不近	c=1 d=0.529935 t=70514
-bu jin bu man 	不緊不慢	c=1 d=1 t=70466
+bu jin bu man 	不緊不慢	c=1 d=0.786628 t=70514
 bu jin chang jiang gun gun lai 	不盡長江滾滾來	c=1 d=1.53141e-14 t=70514
 bu jin jin 	不僅僅	c=1 d=7.65492e-151 t=70514
 bu jin jin shi 	不僅僅是	c=1 d=0.000126534 t=70514
@@ -2429,7 +2429,7 @@ chu fang quan 	處方權	c=1 d=0.000500451 t=70514
 chu fei 	除非	c=3 d=0.704688 t=70514
 chu fen 	處分	c=2 d=1.2956 t=70514
 chu ge 	出個	c=1 d=0.99005 t=70514
-chu ge zui 	出個嘴	c=1 d=1 t=70445
+chu ge zui 	出個嘴	c=1 d=0.70822 t=70514
 chu han 	出汗	c=1 d=0.103312 t=70514
 chu he zhe yi you huan 	處涸轍以猶歡	c=2 d=0.763379 t=70514
 chu ji 	初級	c=0 d=0.000994112 t=70514
@@ -2915,7 +2915,7 @@ da gu 	大姑	c=1 d=0.07502 t=70514
 da gu fu 	大姑父	c=1 d=9.49105e-151 t=70514
 da gu jie bing 	大骨節病	c=1 d=2.04592e-10 t=70514
 da gu tou 	大骨頭	c=1 d=0.0288686 t=70514
-da guan qiang 	打官腔	c=1 d=1 t=70401
+da guan qiang 	打官腔	c=1 d=0.56836 t=70514
 da guang 	大廣	c=10 d=1.7176 t=70514
 da guo 	打過	c=1 d=0.020141 t=70514
 da hai 	大海	c=2 d=9.79372e-29 t=70514
@@ -3744,7 +3744,7 @@ di yi jie 	第一節	c=1 d=0.484325 t=70514
 di yi jie duan 	第一階段	c=1 d=0.211189 t=70514
 di yi jie duan ren wu 	第一階段任務	c=1 d=0.606531 t=70514
 di yi ju 	第一句	c=2 d=0.67368 t=70514
-di yi ke 	第一顆	c=1 d=1 t=70363
+di yi ke 	第一顆	c=1 d=0.470011 t=70514
 di yi liang 	第一輛	c=2 d=3.99714e-06 t=70514
 di yi lun 	第一輪	c=1 d=0.362402 t=70514
 di yi ming 	第一名	c=1 d=0.066205 t=70514
@@ -3787,7 +3787,7 @@ dian ci bo pu 	電磁波譜	c=1 d=0.408608 t=70514
 dian ci chang 	電磁場	c=0 d=2.72763e-12 t=70514
 dian ci fu she 	電磁輻射	c=1 d=0.404542 t=70514
 dian ci xing zao sheng 	電磁性噪聲	c=1 d=2.45576e-11 t=70514
-dian dao wei zhi 	點到爲止	c=1 d=1 t=70356
+dian dao wei zhi 	點到爲止	c=1 d=0.453845 t=70514
 dian de 	點的	c=1 d=0.0632918 t=70514
 dian de tu po 	點的突破	c=1 d=0.17552 t=70514
 dian dian 	點點	c=1 d=2.3469e-07 t=70514
@@ -4584,7 +4584,7 @@ er shi 	二是	c=12 d=0.618877 t=70514
 er shi 	而使	c=3 d=0.682822 t=70514
 er shi 	而是	c=9 d=1.5036 t=70514
 er shi ba 	二十八	c=2 d=0.607944 t=70514
-er shi ba xiu 	二十八宿	c=1 d=1 t=70373
+er shi ba xiu 	二十八宿	c=1 d=0.494109 t=70514
 er shi fen zhong 	二十分鐘	c=3 d=0.869419 t=70514
 er shi nian 	二十年	c=1 d=0.066205 t=70514
 er shi ren 	二十人	c=1 d=2.32315e-05 t=70514
@@ -5644,7 +5644,7 @@ gan li 	幹吏	c=1 d=0.000845993 t=70514
 gan lu 	甘露	c=0 d=0.0351692 t=70514
 gan lu tang 	甘露糖	c=2 d=0.353455 t=70514
 gan mao 	感冒	c=1 d=0.571209 t=70514
-gan qu 	肝區	c=1 d=1 t=70486
+gan qu 	肝區	c=1 d=0.869358 t=70514
 gan qu 	趕去	c=1 d=0.474734 t=70514
 gan que 	幹缺	c=-1 d=7.69584e-08 t=70514
 gan ran 	感染	c=6 d=0.860708 t=70514
@@ -5933,7 +5933,7 @@ ge xiang guan bu men 	各相關部門	c=1 d=0.286505 t=70514
 ge xing 	各行	c=1 d=0.0893673 t=70514
 ge xu 	各需	c=1 d=1.39865e-06 t=70514
 ge yao tiao zhi zhang 	歌窈窕之章	c=1 d=7.85532e-14 t=70514
-ge ying 	膈應	c=1 d=1 t=70422
+ge ying 	膈應	c=1 d=0.631284 t=70514
 ge you 	各有	c=0 d=0.0216536 t=70514
 ge you ge de 	各有各的	c=1 d=0.763379 t=70514
 ge you li bi 	各有利弊	c=1 d=0.217621 t=70514
@@ -6710,7 +6710,7 @@ gui fan hua 	規範化	c=1 d=2.1232e-05 t=70514
 gui fan you xu 	規範有序	c=1 d=0.995012 t=70514
 gui gen jie di 	歸根結底	c=1 d=0.00143012 t=70514
 gui gong yu 	歸功於	c=1 d=0.164474 t=70514
-gui guai 	鬼怪	c=1 d=1 t=70377
+gui guai 	鬼怪	c=1 d=0.50409 t=70514
 gui hua 	規劃	c=14 d=0.303974 t=70514
 gui hua le 	規劃了	c=2 d=1.18813 t=70514
 gui ji 	櫃機	c=1 d=0.970446 t=70514
@@ -8472,8 +8472,8 @@ ji yu 	給予	c=5 d=0.4905 t=70514
 ji yu qiu cheng 	急於求成	c=1 d=0.494109 t=70514
 ji yu yi ti 	集於一體	c=1 d=0.149569 t=70514
 ji yu you yu xia ri 	極娛遊於暇日	c=3 d=1.27527 t=70514
-ji yu yu jiao zhan 	機遇與交戰	c=1 d=1 t=70511
-ji yu yu tiao zhan 	機遇與挑戰	c=10 d=5.97113 t=70513
+ji yu yu jiao zhan 	機遇與交戰	c=1 d=0.985112 t=70514
+ji yu yu tiao zhan 	機遇與挑戰	c=10 d=5.94135 t=70514
 ji yuan 	幾元	c=1 d=0.0248475 t=70514
 ji yuan 	濟源	c=1 d=0.218712 t=70514
 ji yuan 	紀元	c=1 d=0.316637 t=70514
@@ -9093,7 +9093,7 @@ jiao yu zi yuan 	教育資源	c=0 d=0.0198891 t=70514
 jiao yuan 	膠原	c=6 d=0.260599 t=70514
 jiao yuan dan bai 	膠元蛋白	c=-1 d=0 t=70514
 jiao yuan dan bai 	膠原蛋白	c=1 d=0.213312 t=70514
-jiao zhan 	交戰	c=0 d=0.1 t=70510
+jiao zhan 	交戰	c=0 d=0.0980199 t=70514
 jiao zheng 	校正	c=2 d=1.58132 t=70514
 jiao zheng 	矯正	c=1 d=0.774916 t=70514
 jiao zhi su 	角質素	c=0 d=0.0763379 t=70514
@@ -9576,7 +9576,7 @@ jing shen li liang 	精神力量	c=1 d=0.386741 t=70514
 jing shen pin zhi 	精神品質	c=2 d=0.926441 t=70514
 jing shen wei jie 	精神慰藉	c=1 d=0.831104 t=70514
 jing shi 	京師	c=0 d=0.0099138 t=70514
-jing shi 	淨是	c=1 d=1 t=70444
+jing shi 	淨是	c=1 d=0.704688 t=70514
 jing shi 	竟是	c=2 d=0.140156 t=70514
 jing shou 	經受	c=0 d=1.25599e-06 t=70514
 jing shou zhu 	經受住	c=1 d=1.26229e-05 t=70514
@@ -10111,7 +10111,7 @@ kan tu 	看圖	c=1 d=0.191092 t=70514
 kan wai chang jiang kong zi liu 	檻外長江空自流	c=1 d=0.0702988 t=70514
 kan wan 	看完	c=6 d=0.507339 t=70514
 kan wan le 	看完了	c=1 d=0.0415857 t=70514
-kan ya 	看牙	c=1 d=1 t=70437
+kan ya 	看牙	c=1 d=0.680451 t=70514
 kan yi 	戡夷	c=-1 d=0.0710054 t=70514
 kan yi bian 	看一遍	c=2 d=0.305734 t=70514
 kan yi kan 	看一看	c=1 d=0.299692 t=70514
@@ -10976,7 +10976,7 @@ li yi li 	理一理	c=1 d=0.88692 t=70514
 li yi qi he dian 	利益契合點	c=1 d=0.12493 t=70514
 li yong 	利用	c=18 d=1.65475 t=70514
 li yong jie 	李永傑	c=2 d=0.10249 t=70514
-li yong le 	李永樂	c=2 d=1.99005 t=70318
+li yong le 	李永樂	c=2 d=0.746888 t=70514
 li yong lv 	利用率	c=0 d=6.16576e-11 t=70514
 li yong qiang du 	利用強度	c=1 d=0.822835 t=70514
 li you 	理由	c=6 d=0.995144 t=70514
@@ -11195,7 +11195,7 @@ liang ren 	兩人	c=3 d=0.333582 t=70514
 liang ren 	良人	c=0 d=9.15021e-16 t=70514
 liang ren yu le cheng cong ma 	良人玉勒乘驄馬	c=1 d=9.19607e-15 t=70514
 liang san 	兩三	c=1 d=0.798516 t=70514
-liang san dian 	兩三點	c=1 d=1 t=70479
+liang san dian 	兩三點	c=1 d=0.839457 t=70514
 liang san ge 	兩三個	c=2 d=0.00010369 t=70514
 liang san ge 	量三個	c=-1 d=4.63171e-05 t=70514
 liang san tian 	兩三天	c=2 d=0.917325 t=70514
@@ -12029,7 +12029,7 @@ mei tiao tui 	每條腿	c=1 d=1.11415e-07 t=70514
 mei ting 	沒停	c=1 d=0.148823 t=70514
 mei ting guo 	沒聽過	c=1 d=0.323033 t=70514
 mei tuan 	美團	c=1 d=0.00594622 t=70514
-mei tui 	美腿	c=1 d=1 t=70500
+mei tui 	美腿	c=1 d=0.932394 t=70514
 mei wei 	沒味	c=2 d=0.99005 t=70514
 mei wei 	美味	c=1 d=2.70657e-08 t=70514
 mei wen 	沒問	c=1 d=0.0130365 t=70514
@@ -12427,7 +12427,7 @@ mou xie wu zhi 	某些物質	c=1 d=0.701173 t=70514
 mou yi 	某一	c=8 d=0.597608 t=70514
 mou yi ge 	某一個	c=3 d=0.953254 t=70514
 mou yi te ding 	某一特定	c=1 d=0.000446085 t=70514
-mou yi tian 	某一天	c=1 d=1 t=70372
+mou yi tian 	某一天	c=1 d=0.491644 t=70514
 mou yi tiao 	某一條	c=1 d=0.00276698 t=70514
 mou yi zhong 	某一中	c=-1 d=9.78334e-08 t=70514
 mou yi zhong 	某一種	c=2 d=0.650509 t=70514
@@ -15140,7 +15140,7 @@ she jian 	射箭	c=1 d=2.26579e-05 t=70514
 she jian 	舌尖	c=2 d=1.00822 t=70514
 she jian shang de zhong guo 	舌尖上的中國	c=1 d=0.236928 t=70514
 she jiang cai fu rong 	涉江採芙蓉	c=1 d=9.14554e-09 t=70514
-she lei 	蛇類	c=3 d=2.85558 t=70361
+she lei 	蛇類	c=3 d=1.3288 t=70514
 she li 	設立	c=2 d=1.53829 t=70514
 she me 	什麼	c=1 d=0.900325 t=70514
 she mi 	奢靡	c=2 d=0.671507 t=70514
@@ -15710,7 +15710,7 @@ shi qi 	時期	c=9 d=1.39434 t=70514
 shi qi ta 	使其他	c=2 d=0.285411 t=70514
 shi qin 	世親	c=1 d=0.000345679 t=70514
 shi qing 	事情	c=7 d=0.891509 t=70514
-shi qing 	施晴	c=1 d=1 t=70498
+shi qing 	施晴	c=1 d=0.923116 t=70514
 shi qiu hei qiu wen du 	溼球黑球溫度	c=1 d=2.32434e-11 t=70514
 shi qu 	失去	c=2 d=0.147164 t=70514
 shi qu 	市區	c=2 d=0.71177 t=70514
@@ -15834,7 +15834,7 @@ shi xiao hua fa 	溼消化法	c=1 d=0.26054 t=70514
 shi xiao xing 	時效性	c=1 d=0.292293 t=70514
 shi xing 	實行	c=8 d=1.20823 t=70514
 shi xing 	試行	c=1 d=0.562705 t=70514
-shi xing deng 	視星等	c=1 d=1 t=70386
+shi xing deng 	視星等	c=1 d=0.527292 t=70514
 shi xiong 	師兄	c=8 d=1.04961 t=70514
 shi xue 	失學	c=0 d=0.00420036 t=70514
 shi xue chuo xue 	失學輟學	c=3 d=0.334112 t=70514
@@ -16802,7 +16802,7 @@ ta lia 	他倆	c=10 d=0.701413 t=70514
 ta ma 	他媽	c=4 d=0.477758 t=70514
 ta mei 	她沒	c=1 d=0.904837 t=70514
 ta men 	他們	c=73 d=2.40585 t=70514
-ta men 	她們	c=1 d=1 t=70495
+ta men 	她們	c=1 d=0.909373 t=70514
 ta men 	它們	c=3 d=0.286484 t=70514
 ta men de 	他們的	c=1 d=0.193013 t=70514
 ta niu 	她妞	c=1 d=0.000187825 t=70514
@@ -17413,7 +17413,7 @@ tong yi 	同一	c=15 d=1.11526 t=70514
 tong yi 	同意	c=2 d=0.729382 t=70514
 tong yi 	統一	c=17 d=1.50564 t=70514
 tong yi biao zhun 	統一標準	c=1 d=0.000724521 t=70514
-tong yi ci 	同義詞	c=1 d=1 t=70345
+tong yi ci 	同義詞	c=1 d=0.429557 t=70514
 tong yi dao 	統一到	c=2 d=0.734598 t=70514
 tong yi duan 	同一段	c=1 d=0.159663 t=70514
 tong yi duan lu 	同一段路	c=1 d=0.145876 t=70514
@@ -18760,7 +18760,7 @@ xi tong 	系統	c=40 d=5.80839 t=70514
 xi tong chan shu 	系統闡述	c=1 d=0.551563 t=70514
 xi tong chou yang 	系統抽樣	c=2 d=6.41468e-11 t=70514
 xi tong neng li ti sheng 	系統能力提升	c=1 d=0.177284 t=70514
-xi tong sheng wu xue 	系統生物學	c=2 d=1.99005 t=70415
+xi tong sheng wu xue 	系統生物學	c=2 d=1.21308 t=70514
 xi tong xing 	系統性	c=1 d=0.843665 t=70514
 xi tong ying yong 	系統應用	c=1 d=6.89303e-06 t=70514
 xi tong zong shu 	系統綜述	c=2 d=1.1991 t=70514
@@ -19737,7 +19737,7 @@ xing cheng bing shi shi 	形成並實施	c=1 d=0.402524 t=70514
 xing cheng en yu wei jian 	幸承恩於偉餞	c=2 d=0.913931 t=70514
 xing cheng le 	形成了	c=1 d=0.410656 t=70514
 xing chi 	星馳	c=0 d=2.32473e-14 t=70514
-xing deng 	星等	c=1 d=1 t=70371
+xing deng 	星等	c=1 d=0.489192 t=70514
 xing dong 	行動	c=5 d=0.730978 t=70514
 xing dong gang yao 	行動綱要	c=1 d=0.360595 t=70514
 xing er 	幸而	c=1 d=0.548812 t=70514
@@ -19797,7 +19797,7 @@ xing xin shi shang 	興新食尚	c=1 d=5.43906e-13 t=70514
 xing xing 	星星	c=6 d=1.73658 t=70514
 xing xing 	行行	c=0 d=6.31713e-10 t=70514
 xing xing chong xing xing 	行行重行行	c=1 d=6.3488e-09 t=70514
-xing xiu 	星宿	c=1 d=1 t=70379
+xing xiu 	星宿	c=1 d=0.509156 t=70514
 xing zhe 	行者	c=1 d=5.89933e-145 t=70514
 xing zheng 	行政	c=6 d=1.5024 t=70514
 xing zheng chu fen 	行政處分	c=1 d=8.98765e-10 t=70514
@@ -21100,8 +21100,8 @@ yi you 	已有	c=2 d=0.570836 t=70514
 yi yu 	易於	c=2 d=0.559898 t=70514
 yi yu dao 	一遇到	c=1 d=0.240508 t=70514
 yi yu er yan yue 	揖予而言曰	c=1 d=1.97113e-13 t=70514
-yi yu yu jiao zhan 	易於與交戰	c=-1 d=0 t=70511
-yi yu yu tiao zhan 	易於與挑戰	c=-1 d=1 t=70512
+yi yu yu jiao zhan 	易於與交戰	c=-1 d=0 t=70514
+yi yu yu tiao zhan 	易於與挑戰	c=-1 d=0.99005 t=70514
 yi yuan 	億元	c=4 d=0.806541 t=70514
 yi yuan 	意願	c=1 d=0.546074 t=70514
 yi yuan 	醫院	c=31 d=2.06835 t=70514
@@ -21424,7 +21424,7 @@ yong jiu ju liu 	永久居留	c=1 d=0.179066 t=70514
 yong jiu xing 	永久性	c=0 d=2.60761e-12 t=70514
 yong jiu xing ting yu wei yi 	永久性聽閾位移	c=1 d=2.62068e-11 t=70514
 yong lai 	用來	c=4 d=1.50791 t=70514
-yong le 	永樂	c=0 d=0.1 t=70315
+yong le 	永樂	c=0 d=0.0369723 t=70514
 yong le 	用了	c=5 d=0.301397 t=70514
 yong li 	用力	c=1 d=0.210136 t=70514
 yong pin 	用品	c=1 d=1.72145e-09 t=70514
@@ -22925,7 +22925,7 @@ zhen shen 	真身	c=2 d=0.0106734 t=70514
 zhen shi 	真是	c=7 d=1.65461 t=70514
 zhen shi da yin ji 	針式打印機	c=3 d=2.32762 t=70514
 zhen shi hao 	真是好	c=1 d=1.11147e-08 t=70514
-zhen shi shi jie 	真實世界	c=2 d=1.40657 t=70505
+zhen shi shi jie 	真實世界	c=2 d=1.34468 t=70514
 zhen shi xing 	真實性	c=2 d=0.225373 t=70514
 zhen suo 	診所	c=2 d=1.18888 t=70514
 zhen ti 	真題	c=2 d=0.00444934 t=70514
@@ -23019,7 +23019,7 @@ zheng ji 	徵集	c=1 d=0.00252883 t=70514
 zheng jia 	正佳	c=-1 d=5.09503e-09 t=70514
 zheng jian 	證件	c=0 d=0.0565525 t=70514
 zheng jin wei zuo 	正襟危坐	c=1 d=9.40453e-14 t=70514
-zheng ju 	證據	c=2 d=1.40657 t=70506
+zheng ju 	證據	c=2 d=1.35142 t=70514
 zheng kai da dao 	鄭開大道	c=1 d=0.774916 t=70514
 zheng kan 	正看	c=2 d=0.697676 t=70514
 zheng lei 	鄭磊	c=2 d=0.571849 t=70514
@@ -23358,7 +23358,7 @@ zhi ren 	之人	c=0 d=3.95918e-14 t=70514
 zhi ren 	只認	c=1 d=0.423162 t=70514
 zhi ren shi 	只認識	c=1 d=0.0911727 t=70514
 zhi ri 	之日	c=1 d=0.0135686 t=70514
-zhi ri 	值日	c=2 d=1.9802 t=70380
+zhi ri 	值日	c=2 d=1.01329 t=70514
 zhi rong xing 	脂溶性	c=1 d=0.00158052 t=70514
 zhi rong xing wei sheng su 	脂溶性維生素	c=2 d=3.50477e-07 t=70514
 zhi se pu fa 	紙色譜法	c=2 d=0.00255063 t=70514
@@ -24447,7 +24447,7 @@ zong zi 	粽子	c=1 d=0.0284388 t=70514
 zong zu 	宗族	c=1 d=0.0808629 t=70514
 zou 	奏	c=3 d=0.70679 t=70514
 zou 	走	c=16 d=0.725865 t=70514
-zou ba 	走吧	c=1 d=1 t=70467
+zou ba 	走吧	c=1 d=0.790571 t=70514
 zou bu yuan 	走不遠	c=1 d=0.13332 t=70514
 zou chu 	走出	c=1 d=0.010889 t=70514
 zou dao 	走到	c=6 d=1.00001 t=70514
@@ -24589,7 +24589,7 @@ zui ju 	最具	c=1 d=0.331211 t=70514
 zui kuai 	最快	c=1 d=0.0593087 t=70514
 zui kuai su 	最快速	c=1 d=0.360595 t=70514
 zui li tiao deng kan jian 	醉裏挑燈看劍	c=1 d=0.000266536 t=70514
-zui liang 	最亮	c=2 d=1.94176 t=70381
+zui liang 	最亮	c=2 d=0.998596 t=70514
 zui ling min xian 	最靈敏線	c=1 d=0.201897 t=70514
 zui nian qing 	最年輕	c=1 d=0.759572 t=70514
 zui pian yi 	最便宜	c=1 d=0.0126512 t=70514
