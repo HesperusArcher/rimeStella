@@ -5,36 +5,36 @@
 #@/tick	14
 #@/user_id	stella
 chad ghau 	蔡豪	c=2 d=1.98506 t=14
-diih ciep ghrang lio 	地接衡廬	c=1 d=1 t=11
-dong yang kak zsiox 	滕王閣序	c=1 d=1 t=7
-ghung to sin pyox 	洪都新府	c=1 d=1 t=9
-gyonh 	郡	c=0 d=0.1 t=7
+diih ciep ghrang lio 	地接衡廬	c=1 d=0.985112 t=14
+dong yang kak zsiox 	滕王閣序	c=1 d=0.965605 t=14
+ghung to sin pyox 	洪都新府	c=1 d=0.97531 t=14
+gyonh 	郡	c=0 d=0.0965605 t=14
 iu phjeuh 	郵票	c=-1 d=0 t=14
 iu phyoih 	郵費	c=-1 d=0 t=14
 iu phyoih su 	郵費涑	c=-1 d=0 t=14
 iux 	有	c=0 d=0.0995012 t=14
 iux njin 	有人	c=0 d=0.0995012 t=14
 iux njin iux 	有人有	c=-1 d=1 t=14
-jinx 	引	c=0 d=0.1 t=12
-joh cjang 	豫章	c=0 d=0.1 t=7
-joh cjang koh gyonh 	豫章故郡	c=1 d=1 t=8
-khungh 	控	c=0 d=0.1 t=12
-khungh mran kieng nji jinx qu yat 	控蠻荆而引甌越	c=1 d=1 t=13
-kieng 	荆	c=0 d=0.1 t=12
-kim 	襟	c=0 d=0.1 t=11
-kim sam krung nji tad ngox gho 	襟三江而帶五湖	c=1 d=1 t=12
-koh 	故	c=0 d=0.1 t=7
-mran 	蠻	c=0 d=0.1 t=12
+jinx 	引	c=0 d=0.099005 t=14
+joh cjang 	豫章	c=0 d=0.0965605 t=14
+joh cjang koh gyonh 	豫章故郡	c=1 d=0.970446 t=14
+khungh 	控	c=0 d=0.099005 t=14
+khungh mran kieng nji jinx qu yat 	控蠻荆而引甌越	c=1 d=0.995012 t=14
+kieng 	荆	c=0 d=0.099005 t=14
+kim 	襟	c=0 d=0.0985112 t=14
+kim sam krung nji tad ngox gho 	襟三江而帶五湖	c=1 d=0.99005 t=14
+koh 	故	c=0 d=0.0965605 t=14
+mran 	蠻	c=0 d=0.099005 t=14
 myot ghrua then paux 	物華天寶	c=1 d=1 t=14
-ngox gho 	五湖	c=0 d=0.1 t=11
+ngox gho 	五湖	c=0 d=0.0985112 t=14
 ngyan zjin 	元辰	c=0 d=0.0995012 t=14
-nji 	而	c=0 d=0.1 t=12
-nji tad 	而帶	c=0 d=0.1 t=11
+nji 	而	c=0 d=0.099005 t=14
+nji tad 	而帶	c=0 d=0.0985112 t=14
 pheng qim 	拼音	c=0 d=0.0995012 t=14
 phrah 	怕	c=1 d=1 t=14
-qu yat 	甌越	c=0 d=0.1 t=12
-sam krung 	三江	c=0 d=0.1 t=11
-seng pyon jik cjinx 	星分翼軫	c=1 d=1 t=10
+qu yat 	甌越	c=0 d=0.099005 t=14
+sam krung 	三江	c=0 d=0.0985112 t=14
+seng pyon jik cjinx 	星分翼軫	c=1 d=0.980199 t=14
 tha iuh byang no ngax 	他又房奴我	c=-1 d=0 t=14
 triung kox 	中古	c=0 d=0.0995012 t=14
 triung kox pheng qim 	中古拼音	c=1 d=1 t=14

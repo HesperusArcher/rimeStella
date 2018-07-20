@@ -42,7 +42,6 @@ schema:
 
     五筆字型86版
     碼表源自 ibus-table
-    敲 z 鍵進入拼音反查
   dependencies: [ luna_pinyin, wubi86, zyenpheng ]
 
 switches:
