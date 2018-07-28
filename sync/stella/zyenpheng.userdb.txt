@@ -2,42 +2,43 @@
 #@/db_name	zyenpheng.userdb
 #@/db_type	userdb
 #@/rime_version	1.3.1
-#@/tick	15
+#@/tick	16
 #@/user_id	stella
-chad ghau 	蔡豪	c=2 d=1.98506 t=15
-diih ciep ghrang lio 	地接衡廬	c=1 d=0.985112 t=15
-dong yang kak zsiox 	滕王閣序	c=1 d=0.965605 t=15
-ghung to sin pyox 	洪都新府	c=1 d=0.97531 t=15
-gyonh 	郡	c=0 d=0.0965605 t=15
-iu phjeuh 	郵票	c=-1 d=0 t=15
-iu phyoih 	郵費	c=-1 d=0 t=15
-iu phyoih su 	郵費涑	c=-1 d=0 t=15
-iux 	有	c=0 d=0.0995012 t=15
-iux njin 	有人	c=0 d=0.0995012 t=15
-iux njin iux 	有人有	c=-1 d=1 t=15
-jinx 	引	c=0 d=0.099005 t=15
-joh cjang 	豫章	c=0 d=0.0965605 t=15
-joh cjang koh gyonh 	豫章故郡	c=1 d=0.970446 t=15
-khungh 	控	c=0 d=0.099005 t=15
-khungh mran kieng nji jinx qu yat 	控蠻荆而引甌越	c=1 d=0.995012 t=15
-kieng 	荆	c=0 d=0.099005 t=15
-kim 	襟	c=0 d=0.0985112 t=15
-kim sam krung nji tad ngox gho 	襟三江而帶五湖	c=1 d=0.99005 t=15
-koh 	故	c=0 d=0.0965605 t=15
-mran 	蠻	c=0 d=0.099005 t=15
-myot ghrua then paux 	物華天寶	c=1 d=1 t=15
-ngox gho 	五湖	c=0 d=0.0985112 t=15
-ngyan zjin 	元辰	c=0 d=0.0995012 t=15
-nji 	而	c=0 d=0.099005 t=15
-nji tad 	而帶	c=0 d=0.0985112 t=15
-pheng qim 	拼音	c=0 d=0.0995012 t=15
-phrah 	怕	c=1 d=1 t=15
-qu yat 	甌越	c=0 d=0.099005 t=15
-sam krung 	三江	c=0 d=0.0985112 t=15
-seng pyon jik cjinx 	星分翼軫	c=1 d=0.980199 t=15
-tha iuh byang no ngax 	他又房奴我	c=-1 d=0 t=15
-thuaih chjyt zjex 	退出是	c=-1 d=0 t=15
-triung kox 	中古	c=1 d=1.099 t=15
-triung kox pheng qim 	中古拼音	c=1 d=1 t=15
-zsiah 	謝	c=0 d=0.0995012 t=15
-zsiah ngyan zjin 	謝元辰	c=1 d=1 t=15
+chad ghau 	蔡豪	c=2 d=1.98506 t=16
+diih ciep ghrang lio 	地接衡廬	c=1 d=0.985112 t=16
+dong yang kak zsiox 	滕王閣序	c=1 d=0.965605 t=16
+ghung to sin pyox 	洪都新府	c=1 d=0.97531 t=16
+gyonh 	郡	c=0 d=0.0965605 t=16
+iu phjeuh 	郵票	c=-1 d=0 t=16
+iu phyoih 	郵費	c=-1 d=0 t=16
+iu phyoih su 	郵費涑	c=-1 d=0 t=16
+iux 	有	c=0 d=0.0995012 t=16
+iux njin 	有人	c=0 d=0.0995012 t=16
+iux njin iux 	有人有	c=-1 d=1 t=16
+jinx 	引	c=0 d=0.099005 t=16
+joh cjang 	豫章	c=0 d=0.0965605 t=16
+joh cjang koh gyonh 	豫章故郡	c=1 d=0.970446 t=16
+khax jix 	可以	c=1 d=1 t=16
+khungh 	控	c=0 d=0.099005 t=16
+khungh mran kieng nji jinx qu yat 	控蠻荆而引甌越	c=1 d=0.995012 t=16
+kieng 	荆	c=0 d=0.099005 t=16
+kim 	襟	c=0 d=0.0985112 t=16
+kim sam krung nji tad ngox gho 	襟三江而帶五湖	c=1 d=0.99005 t=16
+koh 	故	c=0 d=0.0965605 t=16
+mran 	蠻	c=0 d=0.099005 t=16
+myot ghrua then paux 	物華天寶	c=1 d=1 t=16
+ngox gho 	五湖	c=0 d=0.0985112 t=16
+ngyan zjin 	元辰	c=0 d=0.0995012 t=16
+nji 	而	c=0 d=0.099005 t=16
+nji tad 	而帶	c=0 d=0.0985112 t=16
+pheng qim 	拼音	c=0 d=0.0995012 t=16
+phrah 	怕	c=1 d=1 t=16
+qu yat 	甌越	c=0 d=0.099005 t=16
+sam krung 	三江	c=0 d=0.0985112 t=16
+seng pyon jik cjinx 	星分翼軫	c=1 d=0.980199 t=16
+tha iuh byang no ngax 	他又房奴我	c=-1 d=0 t=16
+thuaih chjyt zjex 	退出是	c=-1 d=0 t=16
+triung kox 	中古	c=1 d=1.099 t=16
+triung kox pheng qim 	中古拼音	c=1 d=1 t=16
+zsiah 	謝	c=0 d=0.0995012 t=16
+zsiah ngyan zjin 	謝元辰	c=1 d=1 t=16
