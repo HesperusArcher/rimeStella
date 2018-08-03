@@ -425,7 +425,7 @@ chord_composer:
     #- xform/^fh/v/
     - xform/^bf/m/
     - xform/^dl/n/
-    - xform/^zs/r/
+    - xform/^zh?s/r/
     # PC 鍵盤組合聲母
     - xform/^b[zcsh]+/p/
     - xform/^d[zcsh]+/t/
