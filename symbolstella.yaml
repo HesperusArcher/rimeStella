@@ -353,21 +353,15 @@ punctuator:
     '/chi': [ χ, Χ ]
     '/psi': [ ψ, Ψ ]
     '/omega': [ ω, Ω ]
-# Input Method Schema address
-    '/dshung':
-      - https://github.com/erstern/usedRIMEschemas/dshung
-    '/haha':
-      - https://github.com/erstern/haha_pinyin
-      - http://git.oschina.net/erstern/haha_pinyin
-    '/liuxian': https://github.com/erstern/wubi_liuxian
-    '/zhlan': https://github.com/erstern/usedRIMEschemas/zhlan
-    '/zhung':
-      - 中州羅馬字
-      - https://github.com/erstern/zhung
-# others
+# web sites
     '/blog':
       - http://erstern.github.io/
       - https://github.com/erstern/erstern.github.io
+    '/rimeStella': https://github.com/erstern/rimeStella
+    '/zhung':
+      - 中州羅馬字
+      - https://github.com/erstern/zhung
+# other symbols & email address
     '/ch':
       - 蔡豪
       - caihao.ch@foxmail.com
@@ -376,8 +370,12 @@ punctuator:
       - xieych@outlook.com
       - firstarfox@foxmail.com
       - xieyuanchensieh@foxmail.com
-    '/git': git@github.com:erstern/
+      - xieychsieh@gmail.com
+    '/git':
+      - git@github.com:erstern/
+      - git@gitlab.com:erStern/
     '/github': https://github.com/erstern
+    '/gitlab': https://gitlab.com/erStern
     '/latex': LaTeX
     '/rime': RIME
     '/xba': [ x̄, X̄ ]
