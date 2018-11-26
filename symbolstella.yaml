@@ -59,7 +59,7 @@ punctuator:
     '~' : [ '~', ～, ˜, ≈, ≋, ≃, ≅, ≇, ∽, ⋍, ≌, ﹏, ﹋, ﹌ ]
     '!' : { commit: ！ }
     '@' : [ '@', ·, ・, ©, ®, ℗ ]
-    '#' : [ '#', № ]
+    '#' : [ '#', '##', № ]
     '%' : [ '%', ％, '°', '℃', ‰, ‱, ℉ ]
     '$' : [ '$', ￥, '€', '£', '¥', '¢', '¤', ₩ ]
     '^' : [ '^', '……' ]
@@ -371,13 +371,9 @@ punctuator:
       - firstarfox@foxmail.com
       - xieyuanchensieh@foxmail.com
       - xieychsieh@gmail.com
-    '/git':
-      - git@github.com:erstern/
-      - git@gitlab.com:erStern/
-    '/github': https://github.com/erstern
+    '/github': https://github.com/HesperusArcher
     '/gitlab': https://gitlab.com/erStern
     '/latex': LaTeX
-    '/rime': RIME
     '/xba': [ x̄, X̄ ]
     '/yc':
       - 元辰
